@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink-navy: #0F1B33;
+  --color-ink-navy-soft: #16264A;
+  --color-gold: #F5A623;
+  --color-exam-blue: #2563EB;
+  --color-blue-bright: #5B8DF6;
+  --color-surface-light: #FAFAFA;
+  --color-surface-soft: #F4F4F5;
+  --color-text-primary: #18181B;
+  --color-text-secondary: #71717A;
+  --color-success: #27ae60;
+  --color-trap-error: #c0392b;
+
+  --font-display: 'Manrope', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+:root {
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: var(--font-display);
+}
+
+/* Custom dark mode class adjustments */
+.dark {
+  background-color: #0F1B33;
+  color: #FAFAFA;
+}

@@ -1,0 +1,5 @@
+# ZeroErrorEnglishPro robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://zeroerrorenglishpro.com/sitemap.xml
