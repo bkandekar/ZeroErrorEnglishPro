@@ -830,7 +830,7 @@ Most students never run a direct "does this have a tensed verb?" check — they 
     description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
     formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas", 
    body: `
-   <img src="images/relative-clauses-hero.jpg"
+   <img src="images/relative-clauses-hero.webp"
      alt="Relative Clauses in English Grammar — Who Which That rules"
      width="1200"
      height="675">
@@ -1111,6 +1111,7 @@ When the pronoun is the object of a defining clause, it can be omitted completel
 </ul>
     `
   },
+  
   {
     slug: "noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide",
     title: "Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide",
@@ -1121,7 +1122,7 @@ When the pronoun is the object of a defining clause, it can be omitted completel
     description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
     formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind | Adverb Clause -> answers When/Where/Why/How/Condition",
     body: `
-    <img src="images/noun-adjective-adverb-clause-hero.jpg"
+    <img src="images/noun-adjective-adverb-clause-hero.webp"
      alt="Noun Clause vs Adjective Clause vs Adverb Clause identification guide"
      width="1200"
      height="675">
