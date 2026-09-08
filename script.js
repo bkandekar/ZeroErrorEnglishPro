@@ -537,11 +537,10 @@ const ARTICLES = [
     difficulty: "Beginner",
     bookId: 7,
     description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
-    formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
-    body: 
-     
-  featureimage`: <img src="images/phrase-vs-clause-hero.webp" 
-     alt="Phrase vs Clause difference for exams"
+    formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)"
+  featureimage`: <img src="images/phrase-vs-clause-hero.webp",
+     alt="Phrase vs Clause difference for exams",
+     body:, 
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 <!-- SECTION 1: HOOK -->
 <h2>One Missing Ingredient Decides the Entire Question</h2>
