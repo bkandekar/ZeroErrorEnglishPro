@@ -493,7 +493,78 @@ const ARTICLES = [
         <strong>Example:</strong> If he had prepared thoroughly, he <strong>would have cleared</strong> the exam.
       </div>
     `
+  },
+    {
+    slug: "noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide",
+    title: "Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide",
+    category: "Clauses",
+    readingTime: "9 min read",
+    difficulty: "Intermediate",
+    bookId: 9,
+    description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
+    formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind (describes a noun) | Adverb Clause -> answers When/Where/Why/How/Condition",
+    body: `
+      <h3>The Core Rule: Three Jobs, Three Clauses</h3>
+      <p>The same connector word — that, which, who, when — can introduce any of the three clause types. The connector alone never tells you the answer; you must check what job the clause is doing in the sentence.</p>
+
+      <h3>Trap 1: Assuming Every "Who" Clause Is Adjective</h3>
+      <p>A "who" clause can be the subject of the whole sentence, which makes it a Noun clause, not an Adjective clause.</p>
+      <div class="explanation-panel">
+        <strong>Incorrect analysis:</strong> "Who broke the vase" → Adjective clause.<br>
+        <strong>Correct:</strong> "Who broke the vase is still unknown" → <strong>Noun clause</strong> (it is the subject of "is").
+      </div>
+
+      <h3>Trap 2: Missing the Noun Clause as an Object</h3>
+      <p>Aspirants often check only whether a clause is the subject. But a noun clause can just as easily be the object of a verb.</p>
+      <div class="explanation-panel">
+        <strong>Example:</strong> I believe <strong>that he is honest</strong>. → Noun clause, object of "believe".
+      </div>
+
+      <h3>Trap 3: Adverb Clauses That Move to the Front</h3>
+      <p>An adverb clause keeps its function even when it moves to the start of the sentence — students trained on only one word order get confused.</p>
+      <div class="explanation-panel">
+        <strong>Same clause, two positions:</strong><br>
+        The match was postponed <strong>because it rained</strong>.<br>
+        <strong>Because it rained</strong>, the match was postponed.
+      </div>
+    `
+  },
+  {
+    slug: "phrase-vs-clause-difference-exam-guide",
+    title: "Phrase vs Clause: What's the Difference and Why It Matters in Exams",
+    category: "Clauses",
+    readingTime: "7 min read",
+    difficulty: "Beginner",
+    bookId: 7,
+    description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
+    formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
+    body: `
+      <h3>The Core Rule: One Missing Ingredient</h3>
+      <p>The entire difference comes down to one thing: a subject paired with a finite (tensed) verb. A clause has one; a phrase never does.</p>
+
+      <h3>Trap 1: Participle Phrases Mistaken for Clauses</h3>
+      <p>"-ing" and "-ed" forms used without "is/was/has" never carry tense on their own, so a group built only around one of these is always a phrase, not a clause.</p>
+      <div class="explanation-panel">
+        <strong>Incorrect analysis:</strong> "Walking on the beach" → treated as a clause.<br>
+        <strong>Correct:</strong> "Walking on the beach, she felt calm" → <strong>Participle phrase</strong> (no subject + finite verb of its own).
+      </div>
+
+      <h3>Trap 2: "Because" vs "Because Of"</h3>
+      <p>One takes a full clause, the other takes only a noun phrase — mixing them is a common Sentence Improvement trap.</p>
+      <div class="explanation-panel">
+        <strong>Incorrect:</strong> He was late because of he missed the bus.<br>
+        <strong>Correct:</strong> He was late <strong>because</strong> he missed the bus (clause). / He was late <strong>because of</strong> the traffic (phrase).
+      </div>
+
+      <h3>Trap 3: The Dangling Participle Phrase</h3>
+      <p>Since a phrase has no subject of its own, it must logically connect to the real subject of the main clause.</p>
+      <div class="explanation-panel">
+        <strong>Incorrect:</strong> Having completed the project, the manager praised him.<br>
+        <strong>Correct:</strong> Having completed the project, <strong>he was praised by the manager</strong>.
+      </div>
+    `
   }
+
 ];
 
 // --- 3. DATA REPOSITORY: 10 PRACTICE DRILLS ---
