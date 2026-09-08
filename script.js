@@ -830,7 +830,7 @@ Most students never run a direct "does this have a tensed verb?" check — they 
     description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
     formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas", 
    body: `
-   <img src="images/relative-clauses-hero.webp"
+   <img src="images/relative-clauses-who-which-that-rules.webp"
      alt="Relative Clauses in English Grammar — Who Which That rules"
      width="1200"
      height="675">
