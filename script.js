@@ -539,6 +539,9 @@ const ARTICLES = [
     description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
     formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
     body: `
+<img src="images/phrase-vs-clause-hero.jpg" 
+     alt="Phrase vs Clause difference for exams"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 <!-- SECTION 1: HOOK -->
 <h2>One Missing Ingredient Decides the Entire Question</h2>
 <p>You're solving a Sentence Improvement question. The underlined part reads "having finished his homework" — and you try applying clause-correction rules to it. Nothing fits. That's because it isn't a clause at all. It's a phrase, and phrase questions follow a completely different rulebook.</p>
