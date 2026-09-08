@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zeroerrorenglishpro.com/sitemap.xml
+Sitemap: https://bkandekar.github.io/ZeroErrorEnglishPro/sitemap.xml
