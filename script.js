@@ -828,8 +828,13 @@ Most students never run a direct "does this have a tensed verb?" check — they 
     difficulty: "Intermediate",
     bookId: 10,
     description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
-    formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas",
-    body: `
+    formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas", 
+   body: `
+   <img src="images/relative-clauses-hero.jpg"
+     alt="Relative Clauses in English Grammar — Who Which That rules"
+     width="1200"
+     height="675">
+     
 <!-- SECTION 1: HOOK -->
 <h2>"The Person Which Called You" — Did You Catch the Error?</h2>
 <p>If it took you a second look, you're exactly who this guide is for. Relative pronouns feel simple until an exam sentence quietly swaps one for the wrong one, and most aspirants read straight past it without noticing.</p>
@@ -1105,7 +1110,312 @@ When the pronoun is the object of a defining clause, it can be omitted completel
   <li>📌 <a href="#">7 Error Spotting Traps SSC CGL Repeats Every Year</a> — spot the patterns examiners recycle year after year.</li>
 </ul>
     `
+  },
+  {
+    slug: "noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide",
+    title: "Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide",
+    category: "Clauses",
+    readingTime: "10 min read",
+    difficulty: "Intermediate",
+    bookId: 9,
+    description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
+    formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind | Adverb Clause -> answers When/Where/Why/How/Condition",
+    body: `
+    <img src="images/noun-adjective-adverb-clause-hero.jpg"
+     alt="Noun Clause vs Adjective Clause vs Adverb Clause identification guide"
+     width="1200"
+     height="675">
+<!-- ==========================================================
+     BLOG POST: Noun Clause vs Adjective Clause vs Adverb Clause
+     Blogger-ready HTML — paste directly into Blogger HTML editor
+     Brand colors: Navy #1B3A6B | Gold #F5A623
+     ========================================================== -->
+
+<!-- SECTION 1: HOOK -->
+<h2>You Can Spot a Comma Splice. Can You Spot a Noun Clause?</h2>
+<p>Six seconds. That's how long you get on most exam clause questions before your brain starts guessing instead of reasoning.</p>
+<p>If you've ever stared at a sentence like <em>"I know that she left early"</em> and frozen — unsure whether "that she left early" is doing the job of a noun, an adjective, or an adverb — you're not alone. This single confusion costs SSC and Bank aspirants marks every single exam cycle, not because the grammar is hard, but because nobody ever showed them a fast, reliable way to tell the three clause types apart.</p>
+<p>That's exactly what this guide fixes. By the end, you'll have a simple three-question test you can run on <strong>any</strong> clause in under ten seconds — and you'll know exactly which mistakes are quietly costing you marks right now.</p>
+<p>No new grammar terms to memorize. No 40-page rulebook to re-read the night before your exam. Just one repeatable process you can apply to every sentence you meet, whether it shows up in Error Spotting, Sentence Improvement, or Cloze Test.</p>
+
+<!-- SECTION 2: AI OVERVIEW / SNIPPET BOX -->
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+  <p><strong>Quick answer:</strong> A noun clause acts as a subject or object and answers "what/who." An adjective clause modifies a noun and answers "which/what kind." An adverb clause modifies a verb and answers "when/where/why/how." Check what question the clause answers, and you'll identify its type correctly every time.</p>
+</div>
+
+<!-- SECTION 2.5: TABLE OF CONTENTS -->
+<h3>Table of Contents</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why Clause Identification Feels So Confusing</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">5 Mistakes That Are Costing You Marks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 6-Step Identification Method (With Real Exam Patterns)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Priya Fixed This in 9 Days</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
+</ol>
+
+<!-- SECTION 3: THE PROBLEM -->
+<h2 id="section-3">Why Clause Identification Feels So Confusing</h2>
+<p>Here's the thing nobody tells you in coaching class: all three clause types can start with the exact same words — <em>that, which, who, when, where, how</em>. So your brain can't rely on the connector word alone. It has to look at the clause's <strong>job</strong> in the sentence. And that's where most aspirants get stuck.</p>
+<ul>
+  <li><strong>You memorize definitions but freeze on new sentences.</strong> You can recite "a noun clause acts as a noun" perfectly, but the moment an unfamiliar sentence appears in the exam, the rule doesn't fire fast enough.</li>
+  <li><strong>You confuse adjective and adverb clauses that both start with "when" or "where."</strong> "The year when I graduated" (adjective) vs. "Call me when you arrive" (adverb) — same connector, completely different job.</li>
+  <li><strong>You run out of time re-reading the same sentence three times.</strong> Every extra second spent second-guessing is a second stolen from a question you could have answered correctly.</li>
+  <li><strong>You lose marks in Error Spotting and Sentence Improvement</strong> because you can't tell whether a clause is even needed, or whether it's misplaced.</li>
+  <li><strong>You've tried "just reading more" and it hasn't clicked.</strong> Reading builds intuition slowly. Exams reward speed, not slow intuition.</li>
+  <li><strong>You second-guess yourself even when your first instinct was right.</strong> Without a fixed process to fall back on, doubt creeps in during the exam and you end up changing correct answers to wrong ones.</li>
+</ul>
+<p>I know exactly how that feels — staring at a sentence, technically knowing all three definitions, and still not being sure which one applies. It's not a knowledge gap. It's a <em>process</em> gap.</p>
+<p>But here's what most people get wrong: they keep re-reading definitions instead of learning a repeatable test. Definitions describe the destination. A test gets you there.</p>
+
+<!-- SECTION 4: COMMON MISTAKES -->
+<h2 id="section-4">5 Mistakes That Are Costing You Marks</h2>
+
+<p><strong>1. Identifying the clause type by its connector word alone.</strong><br/>
+"That," "which," "who," and "when" each appear in more than one clause type. If you classify a clause the moment you see "which," you'll misclassify it roughly a third of the time. The connector is a clue, not the answer.</p>
+
+<p><strong>2. Forgetting that a noun clause can be an object, not just a subject.</strong><br/>
+Aspirants often only check whether a clause is the subject of the sentence. But "I believe <em>that he is honest</em>" has a noun clause functioning as the <strong>object</strong> of "believe" — just as valid, and frequently tested.</p>
+
+<p><strong>3. Treating every "who/which" clause as an adjective clause.</strong><br/>
+"Who broke the vase is still unknown" — here, "who broke the vase" is the <strong>subject</strong> of the sentence, making it a noun clause, not an adjective clause, even though it starts with "who."</p>
+
+<p><strong>4. Missing that adverb clauses can move to the front of the sentence.</strong><br/>
+"Because it rained, the match was postponed" and "The match was postponed because it rained" are the same adverb clause in two positions. Students trained only on one sentence pattern get confused when the clause moves.</p>
+
+<p><strong>5. Skipping the "remove and test" check.</strong><br/>
+If you remove the clause and the sentence still makes complete sense on its own with a noun/pronoun standing in, it's usually adjective or adverb. If removing it leaves a grammatical hole where a noun should be, it's a noun clause. Most aspirants never run this simple test.</p>
+
+<!-- MISTAKES IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Common Mistakes Students Make
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 1: Judging clause type by the connector word alone</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"That / which / who / when" each appear in more than one clause type — the connector alone can't tell you the answer.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: "Which" always means adjective clause.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: Check the clause's job in the sentence first.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 2: Only checking for noun clauses as subjects</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Noun clauses can also act as objects of a verb or preposition.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Ignoring "I believe that he is honest" as a noun clause.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "That he is honest" is the object of "believe" — a noun clause.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 3: Assuming every "who/which" clause is an adjective clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">A "who" clause can be the subject of the whole sentence, making it a noun clause.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: "Who broke the vase" = adjective clause.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "Who broke the vase is still unknown" = noun clause (subject).</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 4: Not recognizing adverb clauses when they move to the front</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Adverb clauses can appear before or after the main clause without changing their function.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Only recognizing "he left because he was late."</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "Because he was late, he left" is the same adverb clause, moved.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 5: Never running the "remove and test" check</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Removing the clause and checking what's missing reveals its true function instantly.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Guessing based on gut feeling.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If removing it leaves a noun-shaped hole, it's a noun clause.</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #1 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">If these five mistakes felt a little too familiar, you're exactly who <em>Clauses &amp; Phrases Demystified</em> was written for — it walks through each confusion above with 40+ drilled examples, so the fix actually sticks.</p>
+</div>
+
+<!-- SECTION 5: SOLUTION / RULES + QUESTIONS -->
+<h2 id="section-5">The 6-Step Identification Method (With Real Exam Patterns)</h2>
+<p>Forget memorizing lists of connector words. Use this sequence instead — it takes seconds once you've practiced it a few times.</p>
+
+<p><strong>Step 1 — Find the clause.</strong> Locate the group of words with its own subject and verb that isn't the main clause. This is your candidate.</p>
+
+<p><strong>Step 2 — Ask: "Can I replace this clause with 'it,' 'that,' 'something,' or a name?"</strong> If yes, it's almost certainly a <strong>noun clause</strong>.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "____ he will win is certain." → "That" fits, and so does "it" — noun clause acting as subject.</span></p>
+
+<p><strong>Step 3 — Ask: "Does this clause describe a specific noun right before it?"</strong> If it directly modifies a noun and answers "which one" or "what kind," it's an <strong>adjective clause</strong>.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">IBPS PO Exam Pattern: "The manager who approved the loan resigned." → "who approved the loan" describes "manager" — adjective clause.</span></p>
+
+<p><strong>Step 4 — Ask: "Does this clause answer when, where, why, how, or under what condition?"</strong> If it modifies the verb of the main clause rather than a noun, it's an <strong>adverb clause</strong>.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "She left before the meeting ended." → "before the meeting ended" tells us when she left — adverb clause.</span></p>
+
+<p><strong>Step 5 — Try the "remove and test" check.</strong> Delete the clause. If the sentence needs a noun/pronoun to feel complete, it was a noun clause. If the sentence still works but loses a detail about a noun, it was adjective. If the sentence still works but loses a detail about the action, it was adverb.</p>
+
+<p><strong>Step 6 — Cross-check with position.</strong> Adjective clauses almost always sit right after the noun they describe. Noun clauses sit where a noun would sit (subject/object slot). Adverb clauses can float — start, middle, or end — without breaking the sentence.</p>
+
+<!-- SOLUTION IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Step-by-Step Strategy
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;padding:10px 0;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">1</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Find the clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Locate the subject + verb group that isn't the main clause.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">2</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Test for a noun clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Can you swap it for "it," "that," or "something"? Then it's a noun clause.</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">SSC CGL Exam Pattern: "____ he will win is certain."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">3</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Test for an adjective clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Does it describe the noun right before it?</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">IBPS PO Exam Pattern: "The manager who approved the loan resigned."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">4</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Test for an adverb clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Does it answer when, where, why, how, or under what condition?</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">SSC CGL Exam Pattern: "She left before the meeting ended."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">5</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Run the "remove and test" check</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Delete the clause and see what the sentence is missing — a noun, a detail, or a timing cue.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">6</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Cross-check with position</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Adjective clauses sit beside their noun; noun clauses sit in a noun's slot; adverb clauses can move freely.</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #2 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">This 6-step method is the short version. Inside <em>Clauses &amp; Phrases Demystified</em>, every step comes with a timed drill set, so you're not just understanding the logic — you're building exam-speed instinct.</p>
+</div>
+
+<!-- SECTION 6: CASE STUDY -->
+<h2 id="section-6">How Priya Fixed This in 9 Days</h2>
+<p>Priya, an SSC CGL aspirant from Nagpur, used to lose 3–4 marks every mock test on clause-based Error Spotting questions. She knew the definitions cold — she just couldn't apply them fast enough under time pressure.</p>
+<p>She started running the 6-step method above on ten sentences a day, timing herself each round. By day 4, her average identification time dropped from 40 seconds a sentence to under 12. By day 9, clause-based questions had gone from her weakest section to one of her most reliable scoring areas — she stopped guessing and started recognizing patterns instantly.</p>
+<p>You can do the same — here's how to start: pick five random sentences from any newspaper editorial today, and run Steps 1 through 6 on each one before you close this tab.</p>
+
+<!-- SECTION 7: EXPERT TIPS -->
+<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
+<p><strong>1. "That" is the biggest trap word in the English language for exam clauses.</strong> It can introduce a noun clause, an adjective clause, or even function as a demonstrative pronoun. Never classify based on "that" alone — always run the full test.</p>
+<p><strong>2. Adjective clauses can drop their connector word entirely.</strong> "The book I read" is really "The book <em>that</em> I read" — the "that" is simply invisible. If you only search for visible connector words, you'll miss these completely.</p>
+<p><strong>3. Adverb clauses of condition ("if," "unless," "provided that") are heavily tested in Sentence Improvement.</strong> Watch for tense-matching errors inside these clauses — that's usually what the question is actually testing, not the clause type itself.</p>
+<p><strong>4. Build a two-column practice sheet, not a three-column one.</strong> Most students try to classify all three types at once and overload their working memory. Instead, practice noun-vs-adjective for a week, then adjective-vs-adverb for a week. Merge the skills only once each pair feels automatic.</p>
+<p><strong>5. Read the full sentence before touching the clause.</strong> Aspirants who jump straight to the underlined clause without reading the whole sentence miss context clues that instantly reveal the clause's function.</p>
+
+<!-- SOFT EBOOK MENTION #3 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">These are the same shortcuts I teach in my coaching sessions — and they're all mapped out, drill by drill, inside <em>Clauses &amp; Phrases Demystified</em>.</p>
+</div>
+
+<!-- SECTION 8: CONCLUSION -->
+<h2 id="section-8">Final Takeaway</h2>
+<p>Clause identification isn't about memorizing more rules — it's about running one reliable test, every time, until it becomes automatic. Ask what job the clause is doing (noun, description, or circumstance), confirm it with the "remove and test" check, and you'll stop second-guessing yourself on exam day.</p>
+<p>Give it ten sentences a day for a week. That's all it takes for the six steps above to stop feeling like a checklist and start feeling like instinct — the same instinct that lets toppers answer clause questions in seconds while everyone else is still re-reading the sentence.</p>
+
+<!-- SECTION 10: FAQ -->
+<h2 id="section-10">Frequently Asked Questions</h2>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: What is the easiest way to tell a noun clause from an adjective clause?</h4>
+  <p>A: Check what the clause is doing. If you can replace it with "it," "that," or "something" and the sentence still makes sense, it's a noun clause. If it's sitting right next to a noun and describing it, it's an adjective clause.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Can the same connector word introduce different clause types?</h4>
+  <p>A: Yes. Words like "that," "which," "who," and "when" can introduce a noun, adjective, or adverb clause depending on the job the clause is doing in the sentence — the connector word alone never tells you the type.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: How do adverb clauses differ from adjective clauses in a sentence?</h4>
+  <p>A: An adverb clause modifies the verb and answers when, where, why, how, or under what condition. An adjective clause modifies a noun and answers which one or what kind. Adverb clauses can also move around the sentence freely, while adjective clauses stay next to their noun.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Is this ebook only useful for SSC and Bank exam aspirants?</h4>
+  <p>A: No. While the examples follow common competitive-exam patterns, the identification system works for anyone learning English grammar — students, teachers, and working professionals brushing up on sentence structure.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: I already know the definitions but still make mistakes under time pressure — will this help?</h4>
+  <p>A: Yes. This guide is built specifically for that gap. The 6-step method replaces slow definition-recall with a fast, repeatable test you can run in seconds, which is exactly where most marks are lost.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: What's the fastest way to practice clause identification daily?</h4>
+  <p>A: Pick five sentences from a newspaper editorial each day and run the 6-step method on every one, timing yourself. Consistency over 7–10 days builds the instinct faster than long study sessions.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Does the ebook include practice questions in the exam format?</h4>
+  <p>A: Yes. It includes drilled, exam-style questions with full explanations, organized by clause type and by difficulty, so you can practice in the same style you'll see on test day.</p>
+</div>
+
+<!-- SECTION 11: RELATED POSTS -->
+<h2>Related Posts</h2>
+<ul>
+  <li>📌 <a href="https://ebookcharm.blogspot.com/2026/04/infinitive-vs-gerund-vs-participle.html">Infinitive vs. Gerund vs. Participle: The Complete Guide</a> — clear up the other big non-finite-verb confusion in one read.</li>
+  <li>📌 <a href="#">Subordinating vs. Coordinating Conjunctions Explained</a> — the connector logic that pairs perfectly with clause identification.</li>
+  <li>📌 <a href="#">7 Error Spotting Traps SSC CGL Repeats Every Year</a> — spot the patterns examiners recycle year after year.</li>
+  <li>📌 <a href="#">Phrase vs. Clause: Why This Distinction Decides Half Your Grammar Score</a> — the foundational skill this guide builds on.</li>
+</ul>
+    `
   }
+  
 ];
 
 // --- 3. DATA REPOSITORY: 10 PRACTICE DRILLS ---
