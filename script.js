@@ -563,8 +563,294 @@ const ARTICLES = [
         <strong>Correct:</strong> Having completed the project, <strong>he was praised by the manager</strong>.
       </div>
     `
-  }
+  },
+  
+  {
+    slug: "relative-clauses-who-which-that-rules",
+    title: "Relative Clauses in English Grammar: Who, Which, That Rules Explained",
+    category: "Clauses",
+    readingTime: "10 min read",
+    difficulty: "Intermediate",
+    bookId: 10,
+    description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
+    formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas",
+    body: `
+<!-- SECTION 1: HOOK -->
+<h2>"The Person Which Called You" — Did You Catch the Error?</h2>
+<p>If it took you a second look, you're exactly who this guide is for. Relative pronouns feel simple until an exam sentence quietly swaps one for the wrong one, and most aspirants read straight past it without noticing.</p>
+<p>Who, whom, whose, which, and that each have one clear job. Confuse them, and you'll lose marks in Error Spotting and Sentence Improvement year after year — not because the grammar is hard, but because nobody ever laid out a simple test to tell them apart.</p>
+<p>That's exactly what this guide gives you: one repeatable test you can run on any relative pronoun in seconds, plus the exact traps SSC and Bank examiners recycle every cycle.</p>
 
+<!-- SECTION 2: AI OVERVIEW / SNIPPET BOX -->
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+  <p><strong>Quick answer:</strong> Use "who" for a person as subject, "whom" for a person as object, "whose" to show possession, "which" for things only, and "that" for people or things — but only in defining clauses with no commas around them.</p>
+</div>
+
+<!-- SECTION 2.5: TABLE OF CONTENTS -->
+<h3>Table of Contents</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why Relative Pronouns Trip Up Even Strong Students</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">5 Mistakes That Are Costing You Marks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 6-Step Identification Method (With Real Exam Patterns)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Arjun Fixed This in One Week</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
+</ol>
+
+<!-- SECTION 3: THE PROBLEM -->
+<h2 id="section-3">Why Relative Pronouns Trip Up Even Strong Students</h2>
+<p>Here's what makes this topic sneaky: unlike most grammar rules, relative pronoun questions rarely look like "grammar questions" at first glance. They hide inside longer sentences, disguised as vocabulary choices rather than rule violations. That's exactly why they slip past students who are otherwise strong at grammar.</p>
+<ul>
+  <li><strong>You know the definitions but freeze on real sentences.</strong> You can recite "who is for subjects, whom is for objects" perfectly, but under exam pressure that rule doesn't fire fast enough to catch the error live.</li>
+  <li><strong>You use "who" and "whom" interchangeably in speech, which blurs your instinct on paper.</strong> Spoken English drops "whom" constantly — but formal exam papers still test it strictly.</li>
+  <li><strong>You mix up "who's" and "whose."</strong> One is a contraction, one is possessive — they sound identical, and that's precisely why examiners love this trap.</li>
+  <li><strong>You don't check for commas before choosing "that."</strong> "That" quietly becomes wrong the moment a comma appears around the clause, and most students never even look for the comma.</li>
+  <li><strong>You've memorized rules in isolation instead of practicing them inside full sentences.</strong> Isolated rules don't transfer to exam speed — only repeated sentence-level practice does.</li>
+</ul>
+<p>I know exactly how that feels — you're confident in a classroom explanation, and then a real question makes you second-guess an answer you actually knew. It's not a knowledge gap. It's a process gap.</p>
+<p>But here's what most people get wrong: they keep re-reading the five rules instead of learning one repeatable test that applies to all five at once.</p>
+
+<!-- SECTION 4: COMMON MISTAKES -->
+<h2 id="section-4">5 Mistakes That Are Costing You Marks</h2>
+
+<p><strong>1. Using "which" for a person.</strong><br/>
+"Which" refers only to things, animals, and ideas — never to people, no matter how the sentence is phrased. "The person which called you" is always wrong; it must be "who" or "that."</p>
+
+<p><strong>2. Choosing "who" when the pronoun is actually the object.</strong><br/>
+If the person is already the subject of the clause's verb somewhere else, the relative pronoun is the object, and "whom" is required — not "who." "She is the woman who I met" should be "whom I met," because "I" is already doing the meeting.</p>
+
+<p><strong>3. Confusing "who's" with "whose."</strong><br/>
+"Who's" is always a contraction of "who is" or "who has." "Whose" is the possessive form. They are never interchangeable, and mixing them up is one of the most repeated Error Spotting traps.</p>
+
+<p><strong>4. Using "that" inside a comma-separated clause.</strong><br/>
+"That" is banned the moment commas appear around the clause. "My father, that is a doctor" is incorrect — once you see commas, only "who" or "which" is allowed.</p>
+
+<p><strong>5. Forgetting that the relative pronoun can sometimes be dropped entirely.</strong><br/>
+When the pronoun is the object of a defining clause, it can be omitted completely — "The book (that) I read" works with or without "that." Students sometimes force in an unnecessary pronoun, creating an awkward or incorrect sentence.</p>
+
+<!-- MISTAKES IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Common Mistakes Students Make
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 1: Using "which" for a person</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"Which" never refers to people, regardless of how natural the sentence sounds.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: The person which called you is waiting.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: The person who called you is waiting.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 2: "Who" used where "whom" is needed</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">If the person is the object of the clause's action, "whom" is required.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: She is the woman who I met at the conference.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: She is the woman whom I met at the conference.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 3: "Who's" confused with "whose"</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"Who's" is a contraction; "whose" shows possession — they are never the same word.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: The boy who's bag is missing is crying.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: The boy whose bag is missing is crying.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 4: "That" after a comma</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"That" cannot appear inside a non-defining (comma-separated) clause.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: My father, that is a doctor, works at the city hospital.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: My father, who is a doctor, works at the city hospital.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 5: Forcing in an unnecessary pronoun</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">When the pronoun is the object of a defining clause, it can be dropped entirely.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Overcorrected: The book that that I read was excellent.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: The book (that) I read was excellent.</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #1 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">If these five mistakes felt familiar, <em>Clauses &amp; Phrases Demystified</em> walks through every one of them with drilled, exam-pattern practice — so the fix actually sticks under time pressure.</p>
+</div>
+
+<!-- SECTION 5: SOLUTION -->
+<h2 id="section-5">The 6-Step Identification Method (With Real Exam Patterns)</h2>
+<p>Forget memorizing five separate rules. Run this single sequence instead — it takes seconds once you've practiced it.</p>
+
+<p><strong>Step 1 — Find the noun the clause is describing.</strong> Every relative clause sits right after the noun it modifies. Identify that noun first.</p>
+
+<p><strong>Step 2 — Ask: "Is the noun a person?"</strong> If no, only "which" (or "that," if no commas) can be used.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "The car ____ he bought is new." → which/that.</span></p>
+
+<p><strong>Step 3 — If it is a person, ask: "Would I answer with he/she, or him/her?"</strong> "He/she" → use "who." "Him/her" → use "whom."<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">IBPS PO Exam Pattern: "The manager ____ approved the loan resigned." → He approved → who.</span></p>
+
+<p><strong>Step 4 — Ask: "Does the sentence show ownership?"</strong> If yes, use "whose," regardless of whether the owner is a person, animal, or thing.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "The student ____ project won first prize was felicitated."</span></p>
+
+<p><strong>Step 5 — Check for commas around the clause.</strong> If commas are present, cross "that" off your options completely — only "who" or "which" survive.</p>
+
+<p><strong>Step 6 — Try removing the pronoun.</strong> If the clause is defining and the pronoun is an object, test whether the sentence still works without it. If it does, the pronoun is optional — a strong sign you identified its role correctly.</p>
+
+<!-- SOLUTION IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Step-by-Step Strategy
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;padding:10px 0;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">1</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Find the noun being described</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">The relative clause always sits right after it.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">2</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Is it a person?</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">No → use "which" (or "that" without commas).</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">SSC CGL Exam Pattern: "The car ____ he bought is new."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">3</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">He/she or him/her?</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">He/she → who. Him/her → whom.</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">IBPS PO Exam Pattern: "The manager ____ approved the loan resigned."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">4</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Ownership shown?</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Yes → use "whose," person or not.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">5</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Check for commas</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Commas present → cross "that" off completely.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">6</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Try removing the pronoun</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">If the sentence still works, it confirms an optional object pronoun.</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #2 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">This 6-step method is the short version. <em>Clauses &amp; Phrases Demystified</em> pairs every step with timed drills, so recognition becomes instinct instead of a slow mental checklist.</p>
+</div>
+
+<!-- SECTION 6: CASE STUDY -->
+<h2 id="section-6">How Arjun Fixed This in One Week</h2>
+<p>Arjun, a Bank PO aspirant preparing from Pune, kept losing marks on relative-pronoun questions in every mock test — not because he didn't know the rules, but because he applied them inconsistently under time pressure.</p>
+<p>He started running the 6-step method above on ten sentences a day from newspaper editorials, timing each attempt. By day 4, his accuracy on relative-pronoun questions jumped from roughly 60% to over 90%. By day 7, he stopped needing to "think" about who vs whom at all — the pattern had become automatic.</p>
+<p>You can do the same — here's how to start: pick five sentences with relative clauses from today's newspaper and run all six steps on each before you close this tab.</p>
+
+<!-- SECTION 7: EXPERT TIPS -->
+<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
+<p><strong>1. "Whom" is the biggest give-it-up word among aspirants.</strong> Because spoken English rarely uses it, students default to "who" out of habit. Train yourself to consciously pause on every "who/whom" choice until it becomes automatic.</p>
+<p><strong>2. Relative pronouns can drop entirely — but only in one specific case.</strong> "The book I read" is really "The book that I read," with "that" invisible. If you only search for visible connector words, you will miss these completely.</p>
+<p><strong>3. "Whose" is not just for people.</strong> "The company whose profits doubled" is correct — possession, not personhood, decides "whose."</p>
+<p><strong>4. Build a two-column practice sheet, not a five-column one.</strong> Practice "who vs whom" for a few days first, then bring in "which vs that" separately. Merging all five pronouns too early overloads working memory.</p>
+<p><strong>5. Read the full sentence before touching the blank.</strong> Aspirants who jump straight to the underlined word without reading the entire sentence miss the context that instantly reveals the correct pronoun.</p>
+
+<!-- SOFT EBOOK MENTION #3 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">These are the same shortcuts taught in coaching sessions — all mapped out, drill by drill, inside <em>Clauses &amp; Phrases Demystified</em>.</p>
+</div>
+
+<!-- SECTION 8: CONCLUSION -->
+<h2 id="section-8">Final Takeaway</h2>
+<p>Relative pronoun questions aren't about memorizing five isolated rules — they're about running one reliable sequence, every time, until it becomes automatic. Check whether the noun is a person, decide subject vs object, check for possession, and always scan for commas before trusting "that."</p>
+<p>Give it ten sentences a day for a week. That's all it takes for this six-step method to stop feeling like a checklist and start feeling like instinct.</p>
+
+<!-- SECTION 10: FAQ -->
+<h2 id="section-10">Frequently Asked Questions</h2>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Can "that" ever replace "who"?</h4>
+  <p>A: Yes, but only in defining clauses with no commas — "The man that called you" is acceptable, though "who" is the more formal, exam-preferred choice for people.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Is "whom" outdated? Do exams still test it?</h4>
+  <p>A: Spoken English often drops "whom," but SSC and Bank papers still test it strictly in formal Error Spotting and Sentence Improvement questions — don't skip it in your preparation.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: How is "whose" different from "who's"?</h4>
+  <p>A: "Whose" shows possession ("the boy whose bag"), while "who's" is simply a contraction of "who is" or "who has." They are never interchangeable despite sounding identical.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Can the relative pronoun be omitted completely?</h4>
+  <p>A: Yes, when it's the object of a defining clause — "The book (that) I read" is correct with or without "that." It cannot be omitted when it's the subject of the clause.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: What's the fastest way to practice this daily?</h4>
+  <p>A: Pick five sentences with relative clauses from a newspaper editorial each day and run the 6-step method on every one, timing yourself. Consistency over 7 days builds the instinct faster than long study sessions.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Does the ebook include practice questions in the exam format?</h4>
+  <p>A: Yes. It includes drilled, exam-style questions with full explanations, organized by pronoun type and difficulty, so you can practice in the same style you'll see on test day.</p>
+</div>
+
+<!-- SECTION 11: RELATED POSTS -->
+<h2>Related Posts</h2>
+<ul>
+  <li>📌 <a href="#">Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide</a> — master the three main clause types with the same fast identification method.</li>
+  <li>📌 <a href="#">Phrase vs Clause: What's the Difference and Why It Matters in Exams</a> — the foundational distinction this guide builds on.</li>
+  <li>📌 <a href="https://ebookcharm.blogspot.com/2026/04/infinitive-vs-gerund-vs-participle.html">Infinitive vs. Gerund vs. Participle: The Complete Guide</a> — clear up the other big non-finite-verb confusion in one read.</li>
+  <li>📌 <a href="#">7 Error Spotting Traps SSC CGL Repeats Every Year</a> — spot the patterns examiners recycle year after year.</li>
+</ul>
+    `
+  }
 ];
 
 // --- 3. DATA REPOSITORY: 10 PRACTICE DRILLS ---
