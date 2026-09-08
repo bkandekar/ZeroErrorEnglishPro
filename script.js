@@ -539,7 +539,7 @@ const ARTICLES = [
     description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
     formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
     body: `
-<img src="images/phrase-vs-clause-hero.jpg" 
+<img src="images/phrase-vs-clause-hero.webp" 
      alt="Phrase vs Clause difference for exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 <!-- SECTION 1: HOOK -->
