@@ -819,21 +819,21 @@ Most students never run a direct "does this have a tensed verb?" check — they 
 </ul>
     `
   },
-  
-  {
+{
     slug: "relative-clauses-who-which-that-rules",
-    title: "Relative Clauses in English Grammar: Who, Which, That Rules Explained",
+    title: "Relative Clauses in English Grammar — Who, Which, That Rules",
     category: "Clauses",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 10,
-    description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
-    formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas", 
-   body: `
-   <img src="images/relative-clauses-who-which-that-rules.webp"
+    bookId: 7,
+    description: "Master relative clauses with clear rules for who, which, and that. Learn how to identify relative clauses, avoid common exam traps, and choose the correct relative pronoun in competitive English exams.",
+    formula: "Relative Clause -> Relative Pronoun + Subject/Verb information | Who -> People | Which -> Things/Animals | That -> People or Things",
+    body: `
+<img src="images/relative-clauses-who-which-that-rules.webp"
      alt="Relative Clauses in English Grammar — Who Which That rules"
      width="1200"
      height="675">
+
      
 <!-- SECTION 1: HOOK -->
 <h2>"The Person Which Called You" — Did You Catch the Error?</h2>
