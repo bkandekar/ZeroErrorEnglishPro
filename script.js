@@ -543,6 +543,7 @@ const ARTICLES = [
      alt="Phrase vs Clause: What's the Difference and Why It Matters in Exams"
      width="1200"
      height="675">
+     
 <!-- SECTION 1: HOOK -->
 <h2>One Missing Ingredient Decides the Entire Question</h2>
 <p>You're solving a Sentence Improvement question. The underlined part reads "having finished his homework" — and you try applying clause-correction rules to it. Nothing fits. That's because it isn't a clause at all. It's a phrase, and phrase questions follow a completely different rulebook.</p>
