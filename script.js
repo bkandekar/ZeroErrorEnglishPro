@@ -494,347 +494,16 @@ const ARTICLES = [
       </div>
     `
   },
-    {
-    slug: "noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide",
-    title: "Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide",
-    category: "Clauses",
-    readingTime: "9 min read",
-    difficulty: "Intermediate",
-    bookId: 9,
-    description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
-    formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind (describes a noun) | Adverb Clause -> answers When/Where/Why/How/Condition",
-    body: `
-      <h3>The Core Rule: Three Jobs, Three Clauses</h3>
-      <p>The same connector word — that, which, who, when — can introduce any of the three clause types. The connector alone never tells you the answer; you must check what job the clause is doing in the sentence.</p>
-
-      <h3>Trap 1: Assuming Every "Who" Clause Is Adjective</h3>
-      <p>A "who" clause can be the subject of the whole sentence, which makes it a Noun clause, not an Adjective clause.</p>
-      <div class="explanation-panel">
-        <strong>Incorrect analysis:</strong> "Who broke the vase" → Adjective clause.<br>
-        <strong>Correct:</strong> "Who broke the vase is still unknown" → <strong>Noun clause</strong> (it is the subject of "is").
-      </div>
-
-      <h3>Trap 2: Missing the Noun Clause as an Object</h3>
-      <p>Aspirants often check only whether a clause is the subject. But a noun clause can just as easily be the object of a verb.</p>
-      <div class="explanation-panel">
-        <strong>Example:</strong> I believe <strong>that he is honest</strong>. → Noun clause, object of "believe".
-      </div>
-
-      <h3>Trap 3: Adverb Clauses That Move to the Front</h3>
-      <p>An adverb clause keeps its function even when it moves to the start of the sentence — students trained on only one word order get confused.</p>
-      <div class="explanation-panel">
-        <strong>Same clause, two positions:</strong><br>
-        The match was postponed <strong>because it rained</strong>.<br>
-        <strong>Because it rained</strong>, the match was postponed.
-      </div>
-    `
-  },
   {
-    slug: "phrase-vs-clause-difference-exam-guide",
-    title: "Phrase vs Clause: What's the Difference and Why It Matters in Exams",
-    category: "Clauses",
-    readingTime: "9 min read",
-    difficulty: "Beginner",
-    bookId: 7,
-    description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
-    formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
-    body: `
-<img src="images/phrase-vs-clause-whats-the-difference.webp"
-     alt="Phrase vs Clause: What's the Difference and Why It Matters in Exams"
-     width="1200"
-     height="675">
-     
-<!-- SECTION 1: HOOK -->
-<h2>One Missing Ingredient Decides the Entire Question</h2>
-<p>You're solving a Sentence Improvement question. The underlined part reads "having finished his homework" — and you try applying clause-correction rules to it. Nothing fits. That's because it isn't a clause at all. It's a phrase, and phrase questions follow a completely different rulebook.</p>
-<p>This single mix-up — treating a phrase like a clause, or a clause like a phrase — quietly costs aspirants marks in Error Spotting, Sentence Improvement, and Para Jumbles every exam cycle.</p>
-<p>The good news: the test that separates them takes about one second once you know what to look for. That's exactly what this guide gives you.</p>
-
-<!-- SECTION 2: AI OVERVIEW / SNIPPET BOX -->
-<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
-  <p><strong>Quick answer:</strong> A phrase is a group of words with no subject-and-finite-verb pair. A clause has both. Check for a subject paired with a tensed verb, and you'll classify any group of words correctly every time.</p>
-</div>
-
-<!-- SECTION 2.5: TABLE OF CONTENTS -->
-<h3>Table of Contents</h3>
-<ol>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why This Distinction Trips Up Even Advanced Learners</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">5 Mistakes That Are Costing You Marks</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 6-Step Identification Method (With Real Exam Patterns)</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Neha Fixed This in 10 Days</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
-</ol>
-
-<!-- SECTION 3: THE PROBLEM -->
-<h2 id="section-3">Why This Distinction Trips Up Even Advanced Learners</h2>
-<p>Phrases and clauses often look nearly identical on the page. Both can start with the same word, both can sit in the same position in a sentence, and both can be several words long. The only real difference — a subject paired with a finite verb — is easy to overlook when you're reading quickly under exam pressure.</p>
-<ul>
-  <li><strong>You classify by length or word count, not structure.</strong> A five-word group and a five-word clause look the same at a glance, but only one has a working subject-verb pair.</li>
-  <li><strong>You mistake "-ing" and "to + verb" forms for real verbs.</strong> "Walking," "having walked," and "to walk" never carry tense on their own — but they look verb-like enough to fool a quick read.</li>
-  <li><strong>You don't check whether "because" is followed by "of."</strong> "Because" takes a clause; "because of" takes a phrase — one preposition changes everything.</li>
-  <li><strong>You miss dangling phrases entirely.</strong> Since a phrase has no subject of its own, examiners test whether it logically connects to the real subject of the main clause — and misplaced phrases are a top Sentence Improvement trap.</li>
-  <li><strong>You've read the definitions but never practiced spotting the pattern live, inside full sentences.</strong> Definitions describe the destination; only repeated practice builds the reflex.</li>
-</ul>
-<p>I know exactly how this feels — technically knowing both definitions and still hesitating on an actual exam sentence. It's not a knowledge gap. It's a process gap.</p>
-<p>But here's what most people get wrong: they keep re-reading the definitions instead of learning one repeatable test they can run on any group of words.</p>
-
-<!-- SECTION 4: COMMON MISTAKES -->
-<h2 id="section-4">5 Mistakes That Are Costing You Marks</h2>
-
-<p><strong>1. Treating participle phrases as clauses.</strong><br/>
-"-ing" and "-ed" forms used without a helping verb like "is/was/has" never carry tense on their own. A group built only around one of these is always a phrase, never a clause.</p>
-
-<p><strong>2. Confusing "because" with "because of."</strong><br/>
-"Because" is a subordinating conjunction and must be followed by a full clause. "Because of" is a compound preposition and must be followed by a noun phrase. Swapping one for the other is a classic Sentence Improvement error.</p>
-
-<p><strong>3. Missing dangling participle phrases.</strong><br/>
-A participle phrase has no subject of its own — it borrows the subject of the main clause. If that subject doesn't logically match, the sentence is grammatically broken, even though it may read smoothly.</p>
-
-<p><strong>4. Assuming infinitive phrases can act as full sentences.</strong><br/>
-"To win the match" cannot stand alone as a sentence, no matter how complete it feels. Infinitives never carry tense, so a "to + verb" group is always a phrase.</p>
-
-<p><strong>5. Not testing for the finite verb explicitly.</strong><br/>
-Most students never run a direct "does this have a tensed verb?" check — they rely on instinct instead, which fails under exam-speed pressure.</p>
-
-<!-- MISTAKES IMAGE -->
-<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
-  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
-    Common Mistakes Students Make
-  </h3>
-  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Mistake 1: Treating participle phrases as clauses</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">"-ing" forms without a helping verb never carry tense on their own.</p>
-        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong analysis: "Walking on the beach" treated as a clause.</p>
-        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "Walking on the beach, she felt calm" → participle phrase.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Mistake 2: "Because of" followed by a clause</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">"Because of" must take a noun phrase, never a full subject-verb clause.</p>
-        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: He was late because of he missed the bus.</p>
-        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: He was late because he missed the bus.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Mistake 3: Dangling participle phrases</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">A phrase with no subject must logically match the main clause's real subject.</p>
-        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Having completed the project, the manager praised him.</p>
-        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: Having completed the project, he was praised by the manager.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Mistake 4: Infinitive phrases treated as complete clauses</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">"To + verb" never carries tense — it's always a phrase, never a standalone clause.</p>
-        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong analysis: "To win the match" labeled as a clause.</p>
-        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "To win the match, the team practiced daily" → infinitive phrase.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Mistake 5: Skipping the finite-verb check</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">Relying on instinct instead of explicitly testing for a tensed verb.</p>
-        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Guessing based on how the sentence "sounds."</p>
-        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: Explicitly ask — is there a subject with a tensed verb?</p>
-      </div>
-    </div>
-
-  </div>
-  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
-    ebookcharm — English Grammar Made Exam-Ready
-  </p>
-</div>
-
-<!-- SOFT EBOOK MENTION #1 -->
-<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
-  <p style="margin:0;">If these five mistakes felt familiar, <em>Clauses &amp; Phrases Demystified</em> was written for exactly this confusion — 40+ drilled examples that make the distinction stick.</p>
-</div>
-
-<!-- SECTION 5: SOLUTION -->
-<h2 id="section-5">The 6-Step Identification Method (With Real Exam Patterns)</h2>
-<p>Forget memorizing lists of phrase types. Use this sequence instead — it takes seconds once practiced.</p>
-
-<p><strong>Step 1 — Find the group of words in question.</strong> Locate the underlined or bracketed portion you need to classify.</p>
-
-<p><strong>Step 2 — Look for a subject.</strong> Does the group have its own noun or pronoun performing an action?</p>
-
-<p><strong>Step 3 — Look for a finite (tensed) verb attached to that subject.</strong> If both a subject and a tensed verb are present, it's a clause. If either is missing, it's a phrase.<br/>
-<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "Before the sunrise, we left" (phrase) vs. "Before the sun rose, we left" (clause).</span></p>
-
-<p><strong>Step 4 — Check "-ing," "-ed," and "to + verb" forms specifically.</strong> These almost always signal a phrase, since none of them carry tense independently.<br/>
-<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">IBPS PO Exam Pattern: "Having finished his homework, he went out" → participle phrase.</span></p>
-
-<p><strong>Step 5 — For "because," check what follows it.</strong> A full clause after "because" is correct; a noun phrase after "because of" is correct. Mixing the two is a scored error.</p>
-
-<p><strong>Step 6 — For any phrase, check that it logically connects to the sentence's real subject.</strong> If the phrase describes someone or something other than the main clause's subject, the sentence has a dangling modifier — a frequent Sentence Improvement trap.</p>
-
-<!-- SOLUTION IMAGE -->
-<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
-  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
-    Step-by-Step Strategy
-  </h3>
-  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;padding:10px 0;">
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">1</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Find the group of words</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">Locate the underlined or bracketed portion to classify.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">2</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Look for a subject</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">Does the group have its own noun or pronoun performing the action?</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">3</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Look for a finite verb</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">Both present → clause. Either missing → phrase.</p>
-        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">SSC CGL Exam Pattern: "Before the sunrise, we left."</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">4</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Check -ing / -ed / to+verb forms</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">These almost always signal a phrase.</p>
-        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">IBPS PO Exam Pattern: "Having finished his homework, he went out."</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">5</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">"Because" vs "because of"</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">Check exactly what kind of group follows each one.</p>
-      </div>
-    </div>
-
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">6</div>
-      <div>
-        <strong style="color:#1B3A6B;font-size:15px;">Check for a logical subject match</strong>
-        <p style="margin:4px 0 0;color:#444;font-size:14px;">A phrase must connect to the real subject of the main clause.</p>
-      </div>
-    </div>
-
-  </div>
-  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
-    ebookcharm — English Grammar Made Exam-Ready
-  </p>
-</div>
-
-<!-- SOFT EBOOK MENTION #2 -->
-<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
-  <p style="margin:0;">This 6-step method is the short version. <em>Clauses &amp; Phrases Demystified</em> pairs each step with a timed drill set, building exam-speed instinct instead of slow rule-recall.</p>
-</div>
-
-<!-- SECTION 6: CASE STUDY -->
-<h2 id="section-6">How Neha Fixed This in 10 Days</h2>
-<p>Neha, an SSC CGL aspirant, used to lose 3–4 marks every mock test on phrase-vs-clause Sentence Improvement questions. She knew both definitions well — she just couldn't apply them consistently under time pressure.</p>
-<p>She began running the 6-step method on ten sentences a day, timing each attempt. By day 5, her identification speed had roughly tripled. By day 10, phrase-vs-clause questions had gone from her weakest area to one of her most reliable scoring sections.</p>
-<p>You can do the same — here's how to start: pick five sentences from a newspaper editorial today and run Steps 1 through 6 on each before you close this tab.</p>
-
-<!-- SECTION 7: EXPERT TIPS -->
-<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
-<p><strong>1. "Because of" is the single most repeated trap in this topic.</strong> Whenever you see "because," immediately check the next word — if it's "of," you need a noun phrase, not a clause.</p>
-<p><strong>2. Dangling modifiers are really a phrase-vs-clause problem in disguise.</strong> Once you can reliably spot a phrase, dangling-modifier questions become far easier, since you already know the phrase has no subject of its own.</p>
-<p><strong>3. Infinitive phrases often masquerade as purpose clauses.</strong> "To win the match" and "so that they could win" look similar in meaning but are structurally very different — only the second is a clause.</p>
-<p><strong>4. Practice with real newspaper sentences, not textbook examples only.</strong> Exam sentences are closer in style to news writing than to textbook grammar drills — training on the right register speeds up recognition.</p>
-<p><strong>5. When in doubt, isolate the group and read it alone.</strong> If it sounds incomplete without more context, it's very likely a phrase; if it reads as a complete thought with its own subject and verb, it's a clause.</p>
-
-<!-- SOFT EBOOK MENTION #3 -->
-<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
-  <p style="margin:0;">These are the same shortcuts taught in coaching sessions — mapped out step by step inside <em>Clauses &amp; Phrases Demystified</em>.</p>
-</div>
-
-<!-- SECTION 8: CONCLUSION -->
-<h2 id="section-8">Final Takeaway</h2>
-<p>Phrase-vs-clause identification isn't about memorizing more definitions — it's about running one reliable test, every time, until it becomes automatic. Check for a subject, check for a finite verb, and watch closely for "-ing," "-ed," and "to + verb" forms that quietly signal a phrase.</p>
-<p>Give it ten sentences a day for a week. That's all it takes for the six steps above to stop feeling like a checklist and start feeling like instinct.</p>
-
-<!-- SECTION 10: FAQ -->
-<h2 id="section-10">Frequently Asked Questions</h2>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Can a phrase ever contain a verb?</h4>
-  <p>A: Yes — gerund, infinitive, and participle phrases all contain a verb form. What a phrase never has is a finite, subject-agreeing verb performing tensed action.</p>
-</div>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Is "because of" followed by a phrase or a clause?</h4>
-  <p>A: Always a phrase — "because of" is a compound preposition and must be followed by a noun or noun phrase, never a full subject-verb clause.</p>
-</div>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: What exactly is a dangling modifier, and how does it relate to phrases?</h4>
-  <p>A: A dangling modifier is a phrase that doesn't logically connect to the subject of the main clause. Since the phrase has no subject of its own, the sentence's real subject must match what the phrase describes.</p>
-</div>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Why do examiners test phrase vs clause so often?</h4>
-  <p>A: Because dangling modifiers, wrong connector usage, and clause-type confusion all trace back to this one distinction — it's a high-leverage rule that unlocks several question types at once.</p>
-</div>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: What's the fastest way to practice this daily?</h4>
-  <p>A: Pick five sentences from a newspaper editorial each day and run the 6-step method on every one, timing yourself. Consistency over 7–10 days builds the instinct faster than long study sessions.</p>
-</div>
-
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Does the ebook include practice questions in the exam format?</h4>
-  <p>A: Yes. It includes drilled, exam-style questions with full explanations, organized by concept and difficulty, so you can practice in the same style you'll see on test day.</p>
-</div>
-
-<!-- SECTION 11: RELATED POSTS -->
-<h2>Related Posts</h2>
-<ul>
-  <li>📌 <a href="#">Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide</a> — apply the same fast identification method to all three clause types.</li>
-  <li>📌 <a href="#">Relative Clauses in English Grammar: Who, Which, That Rules Explained</a> — the next layer of clause precision once phrase-vs-clause feels automatic.</li>
-  <li>📌 <a href="https://ebookcharm.blogspot.com/2026/04/infinitive-vs-gerund-vs-participle.html">Infinitive vs. Gerund vs. Participle: The Complete Guide</a> — a deeper dive into the phrase types covered here.</li>
-  <li>📌 <a href="#">7 Error Spotting Traps SSC CGL Repeats Every Year</a> — spot the patterns examiners recycle year after year.</li>
-</ul>
-    `
-  },
-{
     slug: "relative-clauses-who-which-that-rules",
-    title: "Relative Clauses in English Grammar — Who, Which, That Rules",
+    title: "Relative Clauses in English Grammar: Who, Which, That Rules Explained",
     category: "Clauses",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 7,
-    description: "Master relative clauses with clear rules for who, which, and that. Learn how to identify relative clauses, avoid common exam traps, and choose the correct relative pronoun in competitive English exams.",
-    formula: "Relative Clause -> Relative Pronoun + Subject/Verb information | Who -> People | Which -> Things/Animals | That -> People or Things",
+    bookId: 10,
+    description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
+    formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas",
     body: `
-<img src="images/relative-clauses-who-which-that-rules.webp"
-     alt="Relative Clauses in English Grammar — Who Which That rules"
-     width="1200"
-     height="675">
-
-     
 <!-- SECTION 1: HOOK -->
 <h2>"The Person Which Called You" — Did You Catch the Error?</h2>
 <p>If it took you a second look, you're exactly who this guide is for. Relative pronouns feel simple until an exam sentence quietly swaps one for the wrong one, and most aspirants read straight past it without noticing.</p>
@@ -1111,7 +780,295 @@ When the pronoun is the object of a defining clause, it can be omitted completel
 </ul>
     `
   },
-  
+  {
+    slug: "phrase-vs-clause-difference-exam-guide",
+    title: "Phrase vs Clause: What's the Difference and Why It Matters in Exams",
+    category: "Clauses",
+    readingTime: "9 min read",
+    difficulty: "Beginner",
+    bookId: 7,
+    description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
+    formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
+    body: `
+<img src="images/phrase-vs-clause-hero.jpg" 
+     alt="Phrase vs Clause difference for exams"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<!-- SECTION 1: HOOK -->
+<h2>One Missing Ingredient Decides the Entire Question</h2>
+<p>You're solving a Sentence Improvement question. The underlined part reads "having finished his homework" — and you try applying clause-correction rules to it. Nothing fits. That's because it isn't a clause at all. It's a phrase, and phrase questions follow a completely different rulebook.</p>
+<p>This single mix-up — treating a phrase like a clause, or a clause like a phrase — quietly costs aspirants marks in Error Spotting, Sentence Improvement, and Para Jumbles every exam cycle.</p>
+<p>The good news: the test that separates them takes about one second once you know what to look for. That's exactly what this guide gives you.</p>
+
+<!-- SECTION 2: AI OVERVIEW / SNIPPET BOX -->
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+  <p><strong>Quick answer:</strong> A phrase is a group of words with no subject-and-finite-verb pair. A clause has both. Check for a subject paired with a tensed verb, and you'll classify any group of words correctly every time.</p>
+</div>
+
+<!-- SECTION 2.5: TABLE OF CONTENTS -->
+<h3>Table of Contents</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why This Distinction Trips Up Even Advanced Learners</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">5 Mistakes That Are Costing You Marks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 6-Step Identification Method (With Real Exam Patterns)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Neha Fixed This in 10 Days</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
+</ol>
+
+<!-- SECTION 3: THE PROBLEM -->
+<h2 id="section-3">Why This Distinction Trips Up Even Advanced Learners</h2>
+<p>Phrases and clauses often look nearly identical on the page. Both can start with the same word, both can sit in the same position in a sentence, and both can be several words long. The only real difference — a subject paired with a finite verb — is easy to overlook when you're reading quickly under exam pressure.</p>
+<ul>
+  <li><strong>You classify by length or word count, not structure.</strong> A five-word group and a five-word clause look the same at a glance, but only one has a working subject-verb pair.</li>
+  <li><strong>You mistake "-ing" and "to + verb" forms for real verbs.</strong> "Walking," "having walked," and "to walk" never carry tense on their own — but they look verb-like enough to fool a quick read.</li>
+  <li><strong>You don't check whether "because" is followed by "of."</strong> "Because" takes a clause; "because of" takes a phrase — one preposition changes everything.</li>
+  <li><strong>You miss dangling phrases entirely.</strong> Since a phrase has no subject of its own, examiners test whether it logically connects to the real subject of the main clause — and misplaced phrases are a top Sentence Improvement trap.</li>
+  <li><strong>You've read the definitions but never practiced spotting the pattern live, inside full sentences.</strong> Definitions describe the destination; only repeated practice builds the reflex.</li>
+</ul>
+<p>I know exactly how this feels — technically knowing both definitions and still hesitating on an actual exam sentence. It's not a knowledge gap. It's a process gap.</p>
+<p>But here's what most people get wrong: they keep re-reading the definitions instead of learning one repeatable test they can run on any group of words.</p>
+
+<!-- SECTION 4: COMMON MISTAKES -->
+<h2 id="section-4">5 Mistakes That Are Costing You Marks</h2>
+
+<p><strong>1. Treating participle phrases as clauses.</strong><br/>
+"-ing" and "-ed" forms used without a helping verb like "is/was/has" never carry tense on their own. A group built only around one of these is always a phrase, never a clause.</p>
+
+<p><strong>2. Confusing "because" with "because of."</strong><br/>
+"Because" is a subordinating conjunction and must be followed by a full clause. "Because of" is a compound preposition and must be followed by a noun phrase. Swapping one for the other is a classic Sentence Improvement error.</p>
+
+<p><strong>3. Missing dangling participle phrases.</strong><br/>
+A participle phrase has no subject of its own — it borrows the subject of the main clause. If that subject doesn't logically match, the sentence is grammatically broken, even though it may read smoothly.</p>
+
+<p><strong>4. Assuming infinitive phrases can act as full sentences.</strong><br/>
+"To win the match" cannot stand alone as a sentence, no matter how complete it feels. Infinitives never carry tense, so a "to + verb" group is always a phrase.</p>
+
+<p><strong>5. Not testing for the finite verb explicitly.</strong><br/>
+Most students never run a direct "does this have a tensed verb?" check — they rely on instinct instead, which fails under exam-speed pressure.</p>
+
+<!-- MISTAKES IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Common Mistakes Students Make
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 1: Treating participle phrases as clauses</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"-ing" forms without a helping verb never carry tense on their own.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong analysis: "Walking on the beach" treated as a clause.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "Walking on the beach, she felt calm" → participle phrase.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 2: "Because of" followed by a clause</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"Because of" must take a noun phrase, never a full subject-verb clause.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: He was late because of he missed the bus.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: He was late because he missed the bus.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 3: Dangling participle phrases</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">A phrase with no subject must logically match the main clause's real subject.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Having completed the project, the manager praised him.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: Having completed the project, he was praised by the manager.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 4: Infinitive phrases treated as complete clauses</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">"To + verb" never carries tense — it's always a phrase, never a standalone clause.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong analysis: "To win the match" labeled as a clause.</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: "To win the match, the team practiced daily" → infinitive phrase.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Mistake 5: Skipping the finite-verb check</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Relying on instinct instead of explicitly testing for a tensed verb.</p>
+        <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: Guessing based on how the sentence "sounds."</p>
+        <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: Explicitly ask — is there a subject with a tensed verb?</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #1 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">If these five mistakes felt familiar, <em>Clauses &amp; Phrases Demystified</em> was written for exactly this confusion — 40+ drilled examples that make the distinction stick.</p>
+</div>
+
+<!-- SECTION 5: SOLUTION -->
+<h2 id="section-5">The 6-Step Identification Method (With Real Exam Patterns)</h2>
+<p>Forget memorizing lists of phrase types. Use this sequence instead — it takes seconds once practiced.</p>
+
+<p><strong>Step 1 — Find the group of words in question.</strong> Locate the underlined or bracketed portion you need to classify.</p>
+
+<p><strong>Step 2 — Look for a subject.</strong> Does the group have its own noun or pronoun performing an action?</p>
+
+<p><strong>Step 3 — Look for a finite (tensed) verb attached to that subject.</strong> If both a subject and a tensed verb are present, it's a clause. If either is missing, it's a phrase.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "Before the sunrise, we left" (phrase) vs. "Before the sun rose, we left" (clause).</span></p>
+
+<p><strong>Step 4 — Check "-ing," "-ed," and "to + verb" forms specifically.</strong> These almost always signal a phrase, since none of them carry tense independently.<br/>
+<span style="background:#f0f4fb;padding:4px 10px;border-radius:4px;display:inline-block;font-style:italic;">IBPS PO Exam Pattern: "Having finished his homework, he went out" → participle phrase.</span></p>
+
+<p><strong>Step 5 — For "because," check what follows it.</strong> A full clause after "because" is correct; a noun phrase after "because of" is correct. Mixing the two is a scored error.</p>
+
+<p><strong>Step 6 — For any phrase, check that it logically connects to the sentence's real subject.</strong> If the phrase describes someone or something other than the main clause's subject, the sentence has a dangling modifier — a frequent Sentence Improvement trap.</p>
+
+<!-- SOLUTION IMAGE -->
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Step-by-Step Strategy
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;padding:10px 0;">
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">1</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Find the group of words</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Locate the underlined or bracketed portion to classify.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">2</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Look for a subject</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Does the group have its own noun or pronoun performing the action?</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">3</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Look for a finite verb</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Both present → clause. Either missing → phrase.</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">SSC CGL Exam Pattern: "Before the sunrise, we left."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">4</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Check -ing / -ed / to+verb forms</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">These almost always signal a phrase.</p>
+        <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">IBPS PO Exam Pattern: "Having finished his homework, he went out."</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">5</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">"Because" vs "because of"</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">Check exactly what kind of group follows each one.</p>
+      </div>
+    </div>
+
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;">
+      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">6</div>
+      <div>
+        <strong style="color:#1B3A6B;font-size:15px;">Check for a logical subject match</strong>
+        <p style="margin:4px 0 0;color:#444;font-size:14px;">A phrase must connect to the real subject of the main clause.</p>
+      </div>
+    </div>
+
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">
+    ebookcharm — English Grammar Made Exam-Ready
+  </p>
+</div>
+
+<!-- SOFT EBOOK MENTION #2 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">This 6-step method is the short version. <em>Clauses &amp; Phrases Demystified</em> pairs each step with a timed drill set, building exam-speed instinct instead of slow rule-recall.</p>
+</div>
+
+<!-- SECTION 6: CASE STUDY -->
+<h2 id="section-6">How Neha Fixed This in 10 Days</h2>
+<p>Neha, an SSC CGL aspirant, used to lose 3–4 marks every mock test on phrase-vs-clause Sentence Improvement questions. She knew both definitions well — she just couldn't apply them consistently under time pressure.</p>
+<p>She began running the 6-step method on ten sentences a day, timing each attempt. By day 5, her identification speed had roughly tripled. By day 10, phrase-vs-clause questions had gone from her weakest area to one of her most reliable scoring sections.</p>
+<p>You can do the same — here's how to start: pick five sentences from a newspaper editorial today and run Steps 1 through 6 on each before you close this tab.</p>
+
+<!-- SECTION 7: EXPERT TIPS -->
+<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
+<p><strong>1. "Because of" is the single most repeated trap in this topic.</strong> Whenever you see "because," immediately check the next word — if it's "of," you need a noun phrase, not a clause.</p>
+<p><strong>2. Dangling modifiers are really a phrase-vs-clause problem in disguise.</strong> Once you can reliably spot a phrase, dangling-modifier questions become far easier, since you already know the phrase has no subject of its own.</p>
+<p><strong>3. Infinitive phrases often masquerade as purpose clauses.</strong> "To win the match" and "so that they could win" look similar in meaning but are structurally very different — only the second is a clause.</p>
+<p><strong>4. Practice with real newspaper sentences, not textbook examples only.</strong> Exam sentences are closer in style to news writing than to textbook grammar drills — training on the right register speeds up recognition.</p>
+<p><strong>5. When in doubt, isolate the group and read it alone.</strong> If it sounds incomplete without more context, it's very likely a phrase; if it reads as a complete thought with its own subject and verb, it's a clause.</p>
+
+<!-- SOFT EBOOK MENTION #3 -->
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">These are the same shortcuts taught in coaching sessions — mapped out step by step inside <em>Clauses &amp; Phrases Demystified</em>.</p>
+</div>
+
+<!-- SECTION 8: CONCLUSION -->
+<h2 id="section-8">Final Takeaway</h2>
+<p>Phrase-vs-clause identification isn't about memorizing more definitions — it's about running one reliable test, every time, until it becomes automatic. Check for a subject, check for a finite verb, and watch closely for "-ing," "-ed," and "to + verb" forms that quietly signal a phrase.</p>
+<p>Give it ten sentences a day for a week. That's all it takes for the six steps above to stop feeling like a checklist and start feeling like instinct.</p>
+
+<!-- SECTION 10: FAQ -->
+<h2 id="section-10">Frequently Asked Questions</h2>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Can a phrase ever contain a verb?</h4>
+  <p>A: Yes — gerund, infinitive, and participle phrases all contain a verb form. What a phrase never has is a finite, subject-agreeing verb performing tensed action.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Is "because of" followed by a phrase or a clause?</h4>
+  <p>A: Always a phrase — "because of" is a compound preposition and must be followed by a noun or noun phrase, never a full subject-verb clause.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: What exactly is a dangling modifier, and how does it relate to phrases?</h4>
+  <p>A: A dangling modifier is a phrase that doesn't logically connect to the subject of the main clause. Since the phrase has no subject of its own, the sentence's real subject must match what the phrase describes.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Why do examiners test phrase vs clause so often?</h4>
+  <p>A: Because dangling modifiers, wrong connector usage, and clause-type confusion all trace back to this one distinction — it's a high-leverage rule that unlocks several question types at once.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: What's the fastest way to practice this daily?</h4>
+  <p>A: Pick five sentences from a newspaper editorial each day and run the 6-step method on every one, timing yourself. Consistency over 7–10 days builds the instinct faster than long study sessions.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Does the ebook include practice questions in the exam format?</h4>
+  <p>A: Yes. It includes drilled, exam-style questions with full explanations, organized by concept and difficulty, so you can practice in the same style you'll see on test day.</p>
+</div>
+
+<!-- SECTION 11: RELATED POSTS -->
+<h2>Related Posts</h2>
+<ul>
+  <li>📌 <a href="#">Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide</a> — apply the same fast identification method to all three clause types.</li>
+  <li>📌 <a href="#">Relative Clauses in English Grammar: Who, Which, That Rules Explained</a> — the next layer of clause precision once phrase-vs-clause feels automatic.</li>
+  <li>📌 <a href="https://ebookcharm.blogspot.com/2026/04/infinitive-vs-gerund-vs-participle.html">Infinitive vs. Gerund vs. Participle: The Complete Guide</a> — a deeper dive into the phrase types covered here.</li>
+  <li>📌 <a href="#">7 Error Spotting Traps SSC CGL Repeats Every Year</a> — spot the patterns examiners recycle year after year.</li>
+</ul>
+    `
+  },
   {
     slug: "noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide",
     title: "Noun Clause vs Adjective Clause vs Adverb Clause: The Easy Identification Guide",
@@ -1122,10 +1079,6 @@ When the pronoun is the object of a defining clause, it can be omitted completel
     description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
     formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind | Adverb Clause -> answers When/Where/Why/How/Condition",
     body: `
-    <img src="images/noun-adjective-adverb-clause-hero.webp"
-     alt="Noun Clause vs Adjective Clause vs Adverb Clause identification guide"
-     width="1200"
-     height="675">
 <!-- ==========================================================
      BLOG POST: Noun Clause vs Adjective Clause vs Adverb Clause
      Blogger-ready HTML — paste directly into Blogger HTML editor
@@ -1416,8 +1369,7 @@ If you remove the clause and the sentence still makes complete sense on its own 
 </ul>
     `
   },
-  
-    {
+  {
     slug: "subordinate-clause-errors-upsc-gre-patterns",
     title: "Subordinate Clause Errors in Error Spotting: Common UPSC & GRE Patterns",
     category: "Clauses",
@@ -1427,7 +1379,7 @@ If you remove the clause and the sentence still makes complete sense on its own 
     description: "Subordinate clause errors are where UPSC CSAT and GRE Verbal quietly separate strong candidates from the rest. Learn the exact traps examiners recycle and the test that catches every one of them.",
     formula: "Subordinate clause -> has a subject + finite verb but cannot stand alone | Check: connector logic + tense agreement + no redundant pairing",
     body: `
-<img src="images/subordinate-clause-errors-error-spotting-upsc-gre.webp" 
+<img src="images/subordinate-clause-errors-hero.jpg" 
      alt="Subordinate Clause Errors in Error Spotting for UPSC and GRE"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -1649,7 +1601,6 @@ When a subordinate clause of reason or condition is placed too far from what it 
 </ul>
     `
   }
-
 ];
 
 // --- 3. DATA REPOSITORY: 10 PRACTICE DRILLS ---
