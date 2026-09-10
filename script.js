@@ -2197,7 +2197,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "Combining two simple sentences into one smooth complex sentence is a core Sentence Improvement skill. Learn the exact method for choosing the right clause type and connector, every time.",
     formula: "Two related simple sentences -> pick ONE idea to subordinate -> join with the connector matching its logical relationship",
     body: `
-<img src="images/combine-sentences-clauses-hero.jpg" 
+<img src="images/combine-sentences-clauses-hero.webp" 
      alt="How to combine sentences using clauses for Sentence Improvement"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
