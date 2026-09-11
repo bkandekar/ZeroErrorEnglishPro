@@ -2363,7 +2363,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "No definitions, no theory — just the fastest way to tell Noun, Adjective, and Adverb clauses apart under exam-timer pressure. Built for SSC, Bank, and UPSC speed rounds.",
     formula: "3-second test: Can you replace it with 'it/that'? Noun. Sits beside a noun? Adjective. Answers when/where/why/how? Adverb.",
     body: `
-<img src="images/noun-adjective-adverb-fast-tricks-hero.jpg" 
+<img src="images/noun-adjective-adverb-fast-tricks-hero.webp" 
      alt="Fast tricks to identify Noun Adjective and Adverb clauses for SSC Bank UPSC"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
