@@ -11,12 +11,12 @@ const BOOKS = [
     slug: "spot-the-error-subject-verb-agreement",
     title: "Spot the Error! The Ultimate Guide to Subject-Verb Agreement for Exam Success: Master Every Rule, Ace Every Test",
     topic: "Subject-Verb Agreement",
+    imageUrl: "images/book-01-subject-verb-agreement.webp",
     benefit: "Master every hidden trap examiners set around subjects, collective nouns, and tricky conjunctions with 200+ exam-calibrated questions.",
     idealFor: "SSC CGL (Tier 1 & 2), Banking PO/Clerk & Railway Aspirants",
-    amazonUrl: "https://a.co/d/06FYke5z",
+    amazonUrl: "PLACEHOLDER-AMAZON-URL",
     difficulty: "Intermediate",
     transformation: "Turn the single highest-yield, trap-ridden error-spotting section in competitive English into your highest-scoring guaranteed accuracy zone.",
-    image: "book-01-spot-the-error-subject-verb-agreement-3.webp",
     syllabus: [
       "Unit 1: Intervening Phrases & Prepositional Traps",
       "Unit 2: Compound Subjects & Quasi-Conjunctions (as well as, along with)",
@@ -37,26 +37,26 @@ const BOOKS = [
     vol: "Vol #02",
     slug: "the-tense-in-english-grammar",
     title: "The Tense In English Grammar: A Practical Grammar Guide",
-    topic: "Tenses & Time Markers",
-    image: "book-02-the-tense-in-english-grammar.webp",
-    benefit: "End the confusion between Present Perfect and Past Simple forever with time-marker formulas and examiner elimination techniques.",
-    idealFor: "SSC CGL, IBPS, RRB NTPC & State PSCs",
+    topic: "Tenses",
+    imageUrl: "images/book-02-tense-in-english-grammar.webp",
+    benefit: "Stop losing marks to time-marker traps and sequence-of-tense confusion with a practical, exam-first breakdown of all twelve tenses.",
+    idealFor: "SSC CGL, Banking, Railway & CBSE Class 12 Students",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Beginner to Intermediate",
-    transformation: "Stop guessing between Present Perfect and Past Simple and master the time-marker formulas that guarantee zero negative marks in tense questions.",
+    difficulty: "Beginner",
+    transformation: "Replace guesswork with a reliable, time-marker-driven system for choosing the correct tense in any sentence, every time.",
     syllabus: [
-      "Unit 1: Present Simple vs. Continuous (Stative vs. Dynamic Verbs)",
-      "Unit 2: Present Perfect vs. Past Simple (The Ultimate Examination Battlefield)",
-      "Unit 3: Past Perfect vs. Past Simple (The Two-Event Sequence)",
-      "Unit 4: Future Time References & Conditional Time Clauses",
-      "Unit 5: Subjunctive Mood & Wish Clauses (It is high time...)",
-      "Unit 6: 300 Solved Exam MCQs with Step-by-Step Reasonings"
+      "Unit 1: Present Tenses & Their Exam Signal Words",
+      "Unit 2: Past Tenses & Definite Time-Marker Traps",
+      "Unit 3: Present Perfect vs. Past Simple: The Core Confusion",
+      "Unit 4: Perfect Continuous Forms & Duration Markers",
+      "Unit 5: Future Forms & Conditional Overlaps",
+      "Unit 6: Sequence of Tenses in Complex Sentences"
     ],
     sampleQuestion: {
-      sentence: "The chief engineer has submitted the final project feasibility report (A) / to the municipal commissioner (B) / two weeks ago. (C) / No error (D)",
+      sentence: "The governor has approved the new irrigation bill (A) / yesterday evening at the state secretariat (B) / after months of deliberation. (C) / No error (D)",
       errorPart: "A",
-      correction: "Replace 'has submitted' with 'submitted'.",
-      explanation: "The adverbial time phrase 'two weeks ago' specifies a closed, finished historical moment. Present Perfect cannot be paired with past-specific time markers in competitive exam English."
+      correction: "Replace 'has approved' with 'approved'.",
+      explanation: "The definite past time marker 'yesterday evening' forbids the Present Perfect tense. A named, finished time point always forces Past Simple, regardless of how recent the event feels."
     }
   },
   {
@@ -65,106 +65,106 @@ const BOOKS = [
     slug: "mastering-direct-and-indirect-speech",
     title: "Mastering Direct & Indirect Speech: Ultimate Guide to Confident Reporting",
     topic: "Direct & Indirect Speech",
-    image: "book-03-direct-and-indirect-speech.webp",
-    benefit: "Step-by-step conversion algorithms for reporting verbs, backshifting tenses, interrogatives, and tricky imperative sentences.",
-    idealFor: "SSC CGL Tier 2, Tier 1 & State PSCs",
+    imageUrl: "images/book-03-direct-and-indirect-speech.webp",
+    benefit: "Master backshifting exceptions, interrogative word order, and reporting-verb selection with 200+ narration questions calibrated to SSC CGL Tier 2.",
+    idealFor: "SSC CGL Tier 2, Banking Descriptive & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Intermediate to Advanced",
-    transformation: "Master the step-by-step reporting algorithms that convert up to 27 high-stakes marks in SSC CGL Tier 2 into guaranteed zero-error points.",
+    difficulty: "Intermediate",
+    transformation: "Convert narration from your most error-prone descriptive-paper section into a confidently mastered, rule-driven skill.",
     syllabus: [
-      "Unit 1: Foundations of Reporting Verbs (said to -> told, inquired)",
-      "Unit 2: Pronoun Shifts via the 123/SON Formula",
-      "Unit 3: Assertive Sentences & Conjunction 'that'",
-      "Unit 4: Interrogative Sentences (Direct Questions into Statements)",
-      "Unit 5: Imperatives, Exclamatory & Optative Transformations",
-      "Unit 6: 250+ Solved SSC Tier-2 Questions with Elimination Shortcuts"
+      "Unit 1: Backshifting Rules & Universal-Truth Exceptions",
+      "Unit 2: Interrogative Sentences & Word-Order Conversion",
+      "Unit 3: Imperatives, Requests & Exclamatory Narration",
+      "Unit 4: Pronoun, Time & Place-Word Shifts",
+      "Unit 5: Said vs. Told & Reporting Verb Selection",
+      "Unit 6: Modal Verbs in Indirect Speech"
     ],
     sampleQuestion: {
-      sentence: "The teacher said to the students, 'The earth revolves around the sun.'",
-      errorPart: "N/A (Conversion)",
-      correction: "The teacher told the students that the earth revolves around the sun.",
-      explanation: "Students frequently backshift 'revolves' into 'revolved'. Because this is a permanent cosmic and scientific fact, the present tense is strictly preserved."
+      sentence: "The scientist told the students (A) / that light travelled faster than sound (B) / during the physics demonstration. (C) / No error (D)",
+      errorPart: "B",
+      correction: "Replace 'travelled' with 'travels'.",
+      explanation: "Universal truths and scientific facts never backshift, regardless of the reporting verb's tense. 'Light travels faster than sound' must stay in the present tense."
     }
   },
   {
     id: 4,
     vol: "Vol #04",
-    slug: "the-ultimate-guide-to-active-and-passive-voice",
+    slug: "active-and-passive-voice-competitive-exams",
     title: "The Ultimate Guide to Active & Passive Voice for Competitive Exams",
     topic: "Active & Passive Voice",
-    image: "book-04-active-and-passive-voice.webp",
-    benefit: "Formula-driven voice changes for complex sentences, quasi-passive verbs, and prepositional phrasal verbs without subject loss.",
-    idealFor: "SSC CGL/CHSL & Banking Mains",
+    imageUrl: "images/book-04-active-and-passive-voice.webp",
+    benefit: "Master voice transformation across all tenses, plus the quasi-passive and sensory-verb exceptions that trip up even advanced learners.",
+    idealFor: "SSC CGL, Banking PO/Clerk, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Intermediate to Advanced",
-    transformation: "Transform 20+ voice conversion questions in SSC CGL Tier 2 from time-draining hurdles into rapid 5-second automatic scores.",
+    difficulty: "Advanced",
+    transformation: "Move beyond the mechanical active-to-passive formula to confidently recognize when passive voice is grammatically impossible.",
     syllabus: [
-      "Unit 1: The Universal Formula (Voice changes DO NOT change tense)",
-      "Unit 2: Continuous & Perfect Passive Structures",
-      "Unit 3: Quasi-Passive Verbs (Sensory verbs like taste, smell)",
-      "Unit 4: Prepositional Verbs & Phrasal Retention (laughed at)",
-      "Unit 5: Imperative Voice Patterns (Let + Object + be + V3)",
-      "Unit 6: Infinitive Passives (to + V1 -> to be + V3)"
+      "Unit 1: Core Active-to-Passive Transformation Formula",
+      "Unit 2: Passive Voice Across All Twelve Tenses",
+      "Unit 3: Modal Verbs & Causative Constructions in Passive",
+      "Unit 4: Quasi-Passive & Sensory Verb Exceptions",
+      "Unit 5: Intransitive & Stative Verbs: When Passive Fails",
+      "Unit 6: Impersonal Passive & Formal Usage"
     ],
     sampleQuestion: {
-      sentence: "Active: Quinine tastes bitter. -> Passive Conversion?",
-      errorPart: "N/A (Conversion)",
-      correction: "Passive: Quinine is bitter when it is tasted.",
-      explanation: "Sensory verbs take the quasi-passive blueprint: Subject + be + adjective + when it is/was + V3."
+      sentence: "The soup was tasted delicious (A) / by everyone at the dinner party (B) / despite the short cooking time. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace with 'The soup tasted delicious'.",
+      explanation: "Sensory verbs like 'taste' followed by an adjective describe a state, not an action performed on an object. No passive form exists for this construction."
     }
   },
   {
     id: 5,
     vol: "Vol #05",
-    slug: "spot-the-error-prepositions",
-    title: "Spot the Error! The Ultimate Guide to Prepositions for Exam Success",
-    topic: "Prepositions & Fixed Phrasals",
-    image: "book-05-prepositions.webp",
-    benefit: "Crack the highest-failure rate questions with 400+ fixed preposition collocations, confusing pairs, and phrasal verb rules.",
-    idealFor: "Banking PO/Clerk, SSC CGL & UPSC CDS",
+    slug: "preposition-in-english-grammar",
+    title: "Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders & Competitive Aspirants",
+    topic: "Prepositions",
+    imageUrl: "images/book-05-preposition-in-english-grammar.webp",
+    benefit: "Master fixed prepositions after verbs and adjectives, plus the commonly confused pairs examiners test most often.",
+    idealFor: "CBSE Class 12, SSC CGL, Banking & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Advanced",
-    transformation: "Eliminate guesswork across 400+ fixed preposition collocations that trap unprepared aspirants in fill-in-the-blank and cloze tests.",
+    difficulty: "Beginner",
+    transformation: "Replace memorized guesswork with a reliable, pattern-based approach to choosing the correct preposition every time.",
     syllabus: [
-      "Unit 1: Confusing Pairs (Between vs. Among, Beside vs. Besides)",
-      "Unit 2: Fixed Prepositions Following Verbs (prohibit from, abstain from)",
-      "Unit 3: Fixed Prepositions Following Adjectives (senior to, eligible for)",
-      "Unit 4: Superfluous Preposition Traps (order, describe, discuss)",
-      "Unit 5: High-Frequency Phrasal Verbs (call off, look into, bring up)",
-      "Unit 6: Cloze Test Integration Drills"
+      "Unit 1: Prepositions of Time, Place & Direction",
+      "Unit 2: Fixed Prepositions After Common Verbs",
+      "Unit 3: Fixed Prepositions After Adjectives",
+      "Unit 4: Two-Word & Three-Word Prepositions",
+      "Unit 5: Commonly Confused Pairs (Since/For, Between/Among)",
+      "Unit 6: Prepositional Phrases in Error Spotting"
     ],
     sampleQuestion: {
-      sentence: "The committee discussed about the economic impact (A) / of new tariff regulations (B) / at great length. (C) / No error (D)",
+      sentence: "She got married with her college sweetheart (A) / in a small ceremony (B) / attended only by close family. (C) / No error (D)",
       errorPart: "A",
-      correction: "Omit 'about' after 'discussed'.",
-      explanation: "Verbs like 'discuss', 'describe', 'order', and 'reach' are transitive and take direct objects without intervening prepositions."
+      correction: "Replace 'married with' with 'married to'.",
+      explanation: "'Married' takes the fixed preposition 'to,' not 'with,' when referring to the person one marries — a frequently tested fixed-preposition trap."
     }
   },
   {
     id: 6,
     vol: "Vol #06",
-    slug: "spot-the-error-articles",
-    title: "Spot the Error! The Ultimate Guide to Articles for Exam Success",
-    topic: "Articles & Determiners",
-    image: "book-06-articles.webp",
-    benefit: "Master the 28 omission rules of 'The', abstract nouns, geographical names, and euphonic vowel sound exceptions (a European, an MBA).",
-    idealFor: "All Competitive Exams (SSC, Banking, NDA, State PSCs)",
+    slug: "gerunds-vs-infinitives-vs-participles",
+    title: "Gerunds vs Infinitives vs Participles: 500 Exam-Level Questions",
+    topic: "Non-Finite Verbs",
+    imageUrl: "images/book-06-non-finite-verbs.webp",
+    benefit: "Master the verbs that take only gerunds, only infinitives, or change meaning with each, using 500 exam-calibrated drills.",
+    idealFor: "SSC CGL, Banking PO, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Beginner to Intermediate",
-    transformation: "Never drop an unforced mark on article omissions, sound-based determiners, and superlative adjectives again.",
+    difficulty: "Advanced",
+    transformation: "Turn the most consistently confused area of English verb usage into a fast, rule-driven identification skill.",
     syllabus: [
-      "Unit 1: Phonetic Sound Principles (an honest officer, a university)",
-      "Unit 2: Definite Article 'The' with Geographical Entities",
-      "Unit 3: The 28 Zero Article (Omission) Rules",
-      "Unit 4: Parallel Structures with 'The... The...' Comparatives",
-      "Unit 5: Abstract & Material Nouns under General vs. Specific Use",
-      "Unit 6: 200 Exam Drill Questions with Trap Explanations"
+      "Unit 1: Gerunds as Subject & Object",
+      "Unit 2: Verbs Followed Only by Gerunds",
+      "Unit 3: Verbs Followed Only by Infinitives",
+      "Unit 4: Meaning-Change Verbs (Stop, Remember, Try)",
+      "Unit 5: Participle Phrases & Dangling Modifiers",
+      "Unit 6: Perfect & Passive Gerunds and Infinitives"
     ],
     sampleQuestion: {
-      sentence: "He was appointed as an ambassador (A) / because he holds a degree (B) / from an European university. (C) / No error (D)",
-      errorPart: "C",
-      correction: "Change 'an European' to 'a European'.",
-      explanation: "'European' begins with the consonant glide /j/ sound (yu-ro-pe-an), requiring 'a' rather than 'an'."
+      sentence: "The manager suggested to postpone the meeting (A) / until all regional heads (B) / could attend in person. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace 'to postpone' with 'postponing'.",
+      explanation: "'Suggest' is always followed by a gerund, never an infinitive — one of the most frequently tested fixed verb-pattern errors in competitive exams."
     }
   },
   {
@@ -197,190 +197,190 @@ const BOOKS = [
   {
     id: 8,
     vol: "Vol #08",
-    slug: "spot-the-error-conditionals-and-inversion",
-    title: "Spot the Error! The Ultimate Guide to Conditionals & Inversion for Exam Success",
-    topic: "Conditionals & Inversion",
-    image: "book-08-conditionals-inversion.webp",
-    benefit: "Zero, First, Second & Third conditionals mastered alongside negative adverbial inversions (Seldom, Barely, Not only).",
-    idealFor: "SSC CGL Tier 2, Bank PO & CDS Aspirants",
+    slug: "clauses-and-phrases-demystified",
+    title: "Clauses & Phrases Demystified: Fix Errors and Write Confidently",
+    topic: "Clauses & Phrases",
+    imageUrl: "images/book-08-clauses-and-phrases-demystified.webp",
+    benefit: "Master Noun, Adjective, and Adverb clause identification, phrase-vs-clause distinction, and relative pronoun rules with 40+ drilled examples.",
+    idealFor: "SSC CGL, Banking, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Advanced",
-    transformation: "Turn the two most sophisticated syntactic concepts into systematic, mechanical points under examination speed.",
+    difficulty: "Intermediate",
+    transformation: "Replace slow, uncertain clause analysis with a fast, repeatable identification system built for exam-timer pressure.",
     syllabus: [
-      "Unit 1: Zero & First Conditional Formulas",
-      "Unit 2: Second Conditional (Hypothetical Present/Future)",
-      "Unit 3: Third Conditional (Unfulfilled Past Regret)",
-      "Unit 4: Mixed Conditionals & Inverted Conditionals (Had I known...)",
-      "Unit 5: Complete & Partial Negative Inversion",
-      "Unit 6: 200 Advanced Exam Drills"
+      "Unit 1: Noun, Adjective & Adverb Clause Identification",
+      "Unit 2: Phrase vs. Clause: The Core Distinction",
+      "Unit 3: Relative Clauses (Who, Whom, Whose, Which, That)",
+      "Unit 4: Subordinate Clause Connectors & Logic",
+      "Unit 5: Combining Sentences Using Clauses",
+      "Unit 6: Common Clause-Based Error-Spotting Traps"
     ],
     sampleQuestion: {
-      sentence: "If the meteorological department had warned the coastal villages, (A) / thousands of families (B) / would be saved from the storm. (C) / No error (D)",
-      errorPart: "C",
-      correction: "Change 'would be saved' to 'would have been saved'.",
-      explanation: "Third conditional formula mandates: If + past perfect (had warned) -> would have + past participle (would have been saved)."
+      sentence: "The person which called you yesterday (A) / left a message about (B) / the rescheduled interview. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace 'which' with 'who'.",
+      explanation: "'Which' refers only to things, animals, and ideas — never to people, regardless of how natural the sentence sounds. 'Person' requires 'who' or 'that.'"
     }
   },
   {
     id: 9,
     vol: "Vol #09",
-    slug: "spot-the-error-modifiers-adjectives-adverbs",
-    title: "Spot the Error! The Ultimate Guide to Modifiers, Adjectives & Adverbs",
-    topic: "Modifiers & Comparison",
-    image: "book-09-modifiers-adjectives-adverbs.webp",
-    benefit: "Fix dangling participles, misplaced modifiers, degrees of comparison traps, and adjective vs adverb confusion.",
-    idealFor: "Banking PO & SSC CGL Aspirants",
+    slug: "question-tags-zero-errors",
+    title: "Question Tags: Zero Errors: 186 Rules, 60 Traps & 200+ MCQs for SSC, IBPS & Railways",
+    topic: "Question Tags",
+    imageUrl: "images/book-09-question-tags-zero-errors.webp",
+    benefit: "Master every question-tag rule and trap — including tricky subjects, modal tags, and imperative tags — with 200+ drilled MCQs.",
+    idealFor: "SSC CGL, IBPS PO/Clerk & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
     difficulty: "Intermediate",
-    transformation: "Detect subtle dangling participles and modifier misplacements that standard reading speed overlooks.",
+    transformation: "Turn a small, frequently underestimated topic into a guaranteed-accuracy scoring zone through exhaustive rule coverage.",
     syllabus: [
-      "Unit 1: Dangling & Misplaced Participial Clauses",
-      "Unit 2: Adjective Order & Predicative vs. Attributive Use",
-      "Unit 3: Degree of Comparison Traps (Senior, Junior, Preferable)",
-      "Unit 4: Flat Adverbs & Adverbs of Frequency Placement",
-      "Unit 5: Hyphenated Compound Adjectives (a ten-rupee note)",
-      "Unit 6: 220 Exam Practice Drills"
+      "Unit 1: Basic Tag Formation & Polarity Rules",
+      "Unit 2: Tags with Modal Verbs",
+      "Unit 3: Tags with Imperatives & 'Let's' Sentences",
+      "Unit 4: Tricky Subjects (Everyone, Nothing, This/That)",
+      "Unit 5: Tags with Compound & Complex Sentences",
+      "Unit 6: 60 Most Repeated Examiner Traps"
     ],
     sampleQuestion: {
-      sentence: "Walking along the quiet river bank, (A) / a sudden flash of lightning (B) / struck the ancient banyan tree. (C) / No error (D)",
-      errorPart: "A",
-      correction: "Dangling participle error. Rewrite as: 'While I was walking along the quiet river bank...'",
-      explanation: "The opening participial phrase 'Walking along...' lacks a grammatical subject, erroneously implying the flash of lightning was walking."
+      sentence: "Nobody informed the new employees about the policy change, (A) / did they? (B) / They seemed genuinely confused. (C) / No error (D)",
+      errorPart: "B",
+      correction: "Replace 'did they' with 'did he/she' (or, more naturally, keep 'they' but note formal exam answer keys expect singular agreement with 'nobody').",
+      explanation: "'Nobody' is grammatically singular and negative, so the tag should use a singular pronoun with positive polarity — a classic tricky-subject tag trap."
     }
   },
   {
     id: 10,
     vol: "Vol #10",
-    slug: "spot-the-error-pronouns",
-    title: "Spot the Error! The Ultimate Guide to Pronouns for Exam Success",
-    topic: "Pronouns & Case Traps",
-    image: "book-10-pronouns.webp",
-    benefit: "Master relative pronouns (who vs whom, that vs which), pronoun order (231/123 rule), reflexives, and case alignments.",
-    idealFor: "All Competitive Exams",
+    slug: "articles-for-ssc-cgl-2026-zero-errors",
+    title: "Articles For SSC CGL 2026 - Zero Errors",
+    topic: "Articles",
+    imageUrl: "images/book-10-articles-for-ssc-cgl-2026-zero-errors.webp",
+    benefit: "Master A, An, and The with sound-based rules, zero-article exceptions, and idiomatic usage traps calibrated to the 2026 SSC CGL pattern.",
+    idealFor: "SSC CGL 2026 Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Intermediate",
-    transformation: "Solve subjective vs objective case conflicts and antecedent ambiguity with 100% diagnostic confidence.",
+    difficulty: "Beginner",
+    transformation: "Eliminate one of the most frequently missed, easily fixable error categories from your Error Spotting score.",
     syllabus: [
-      "Unit 1: Personal Pronouns & The 231 / 123 Etiquette Order",
-      "Unit 2: Subjective vs. Objective Case (Between you and me)",
-      "Unit 3: Relative Pronoun Pivots (Who, Whom, Which, That)",
-      "Unit 4: Distributive & Indefinite Pronoun Agreement",
-      "Unit 5: Reflexive Pronouns & Verbs that Reject Reflexives",
-      "Unit 6: 200 Solved Exam MCQs"
+      "Unit 1: A vs. An — Sound-Based Rules, Not Spelling",
+      "Unit 2: Definite Article 'The' — Specific Uses",
+      "Unit 3: Zero Article with Abstract & Plural Nouns",
+      "Unit 4: Articles with Proper Nouns — Exceptions",
+      "Unit 5: Articles in Fixed Idiomatic Expressions",
+      "Unit 6: 2026 Pattern-Calibrated Error-Spotting Drills"
     ],
     sampleQuestion: {
-      sentence: "Between you and I, (A) / the board of directors has decided (B) / to terminate the merger discussions. (C) / No error (D)",
+      sentence: "He is an European delegate (A) / representing his country (B) / at the international summit. (C) / No error (D)",
       errorPart: "A",
-      correction: "Replace 'I' with 'me'.",
-      explanation: "'Between' is a preposition; objects of prepositions must always take the objective case ('Between you and me')."
+      correction: "Replace 'an European' with 'a European'.",
+      explanation: "Article choice depends on sound, not spelling. 'European' begins with a consonant sound ('yu-'), so it takes 'a,' not 'an.'"
     }
   },
   {
     id: 11,
     vol: "Vol #11",
-    slug: "spot-the-error-question-tags-negation",
-    title: "Spot the Error! The Ultimate Guide to Question Tags & Negation for Exam Success",
-    topic: "Question Tags & Negation",
-    image: "book-11-question-tags-negation.webp",
-    benefit: "Form flawless tags for imperative sentences, semi-negative adverbs (hardly, seldom), indefinite pronouns, and complex auxiliaries.",
-    idealFor: "SSC CGL, CHSL, MTS & Defence Exams",
+    slug: "advanced-punctuation-mastery",
+    title: "Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants",
+    topic: "Punctuation",
+    imageUrl: "images/book-11-advanced-punctuation-mastery.webp",
+    benefit: "Master comma splices, semicolons, apostrophes, and quotation punctuation with exam-focused rules and drills.",
+    idealFor: "SSC CGL, Banking Descriptive Paper & CBSE Class 12 Students",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Beginner to Intermediate",
-    transformation: "Secure 100% accuracy in question tag queries with rule-based auxiliary and polarity extraction formulas.",
+    difficulty: "Intermediate",
+    transformation: "Turn punctuation from an overlooked afterthought into a precise, rule-governed writing skill that strengthens every sentence.",
     syllabus: [
-      "Unit 1: Polarity Rules (Positive statement -> Negative tag)",
-      "Unit 2: Semi-Negative Words (Seldom, Barely, Few, Little)",
-      "Unit 3: Indefinite Pronoun Pronoun Shifts (Everybody -> they)",
-      "Unit 4: Imperative Sentence Tags (Let's -> shall we)",
-      "Unit 5: Double Negation Elimination Rules",
-      "Unit 6: 180 Exam Drill Questions"
+      "Unit 1: Comma Splices & Run-On Sentences",
+      "Unit 2: Semicolon vs. Colon — When to Use Which",
+      "Unit 3: Apostrophes: Possession vs. Contraction",
+      "Unit 4: Quotation Marks & Reported Speech Punctuation",
+      "Unit 5: Hyphens vs. Dashes",
+      "Unit 6: Punctuation in Complex, Multi-Clause Sentences"
     ],
     sampleQuestion: {
-      sentence: "He seldom visits his native village nowadays, (A) / doesn't he? (B) / No error (C)",
-      errorPart: "B",
-      correction: "Replace 'doesn't he?' with 'does he?'.",
-      explanation: "'Seldom' is a semi-negative adverb that makes the statement negative; negative statements require positive question tags."
+      sentence: "The manager reviewed the proposal, she approved it immediately. (A) / Everyone was relieved (B) / after weeks of uncertainty. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace the comma with a semicolon or period.",
+      explanation: "Joining two independent clauses with only a comma creates a comma splice. A semicolon, period, or coordinating conjunction is required."
     }
   },
   {
     id: 12,
     vol: "Vol #12",
-    slug: "spot-the-error-parallelism-comparisons",
-    title: "Spot the Error! The Ultimate Guide to Parallelism & Comparisons for Exam Success",
-    topic: "Parallelism & Comparison",
-    image: "book-12-parallelism-comparisons.webp",
-    benefit: "Identify faulty balance across paired conjunctions, comparison of unlikes (illogical comparisons), and series symmetry.",
-    idealFor: "Banking PO & SSC CGL Tier 2",
+    slug: "100-english-grammar-shortcuts",
+    title: "100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts",
+    topic: "Grammar Shortcuts",
+    imageUrl: "images/book-12-100-english-grammar-shortcuts.webp",
+    benefit: "100 quick-check formulas and elimination tricks covering tenses, agreement, articles, and prepositions for maximum exam speed.",
+    idealFor: "All Competitive Exam Aspirants Needing Fast Revision",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Advanced",
-    transformation: "Spot and rectify flawed structural parallels and illogical comparisons that escape conversational ears.",
+    difficulty: "Beginner",
+    transformation: "Compress months of grammar study into 100 instantly applicable shortcuts for rapid pre-exam revision.",
     syllabus: [
-      "Unit 1: Parallelism in Series (Gerunds with Gerunds, Infinitives with Infinitives)",
-      "Unit 2: Parallelism with Correlative Conjunctions",
-      "Unit 3: Illogical Comparisons (that of / those of)",
-      "Unit 4: Double Comparatives & Superlatives",
-      "Unit 5: 'Any other' in Comparative Sentences",
-      "Unit 6: 200 Solved Exam Traps"
+      "Unit 1: Quick-Check Formulas for Tense Selection",
+      "Unit 2: Speed Tricks for Subject-Verb Agreement",
+      "Unit 3: One-Look Article & Preposition Rules",
+      "Unit 4: Commonly Confused Word Pairs (Less/Fewer, etc.)",
+      "Unit 5: Elimination Techniques for Tricky MCQs",
+      "Unit 6: Last-Minute Revision Checklists"
     ],
     sampleQuestion: {
-      sentence: "The climate of Bengaluru is much more pleasant (A) / than Delhi (B) / during the summer season. (C) / No error (D)",
-      errorPart: "B",
-      correction: "Change 'than Delhi' to 'than that of Delhi'.",
-      explanation: "Illogical comparison. The sentence compares the 'climate of Bengaluru' to the city of Delhi instead of Delhi's climate."
+      sentence: "The company reported less profits this quarter (A) / compared to the same period (B) / last financial year. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace 'less profits' with 'fewer profits'.",
+      explanation: "'Fewer' is used with countable nouns (profits, in the sense of individual amounts/items), while 'less' is reserved for uncountable quantities."
     }
   },
   {
     id: 13,
     vol: "Vol #13",
-    slug: "spot-the-error-phrasal-verbs-idiomatic-errors",
-    title: "Spot the Error! The Ultimate Guide to Phrasal Verbs & Idiomatic Errors",
-    topic: "Phrasal Verbs & Idioms",
-    image: "book-13-phrasal-verbs-idioms.webp",
-    benefit: "Decode examiner traps with particle substitutions, literal vs figurative meaning shifts, and high-yield competitive idioms.",
-    idealFor: "Banking PO/Clerk & SSC CGL Tier 2",
+    slug: "modal-auxiliaries-mastery-zero-errors",
+    title: "Modal Auxiliaries Mastery: Zero Errors",
+    topic: "Modal Verbs",
+    imageUrl: "images/book-13-modal-auxiliaries-mastery-zero-errors.webp",
+    benefit: "Drill modal verb error patterns exhaustively with 200+ MCQs covering semi-modals, perfect infinitives, and prohibition forms.",
+    idealFor: "SSC CGL, Banking PO/Clerk & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
     difficulty: "Advanced",
-    transformation: "Master the 350 most frequently tested phrasal verbs and stop losing marks in cloze tests and phrase replacements.",
+    transformation: "Move from general modal awareness to zero-error precision through exhaustive, exam-pattern-calibrated drilling.",
     syllabus: [
-      "Unit 1: High-Yield Verbs: Look, Bring, Call, Put, Turn, Break",
-      "Unit 2: Particle Shift Traps (Call for vs. Call off vs. Call on)",
-      "Unit 3: Invariable Idiomatic Expressions",
-      "Unit 4: Redundant Prepositions in Idiomatic Phrasing",
-      "Unit 5: Cloze Test Application Workouts",
-      "Unit 6: 250 Exam Question Walkthroughs"
+      "Unit 1: Core Modal Meanings — A Quick Refresher",
+      "Unit 2: Modal + Perfect Infinitive Constructions",
+      "Unit 3: Modals of Prohibition & Permission",
+      "Unit 4: Semi-Modals (Need to, Dare to, Used to)",
+      "Unit 5: Modal Error-Spotting Pattern Bank",
+      "Unit 6: 200+ MCQ Drills by Modal Type"
     ],
     sampleQuestion: {
-      sentence: "Due to heavy torrential rainfall, (A) / the administration was forced to (B) / call out the annual marathon. (C) / No error (D)",
-      errorPart: "C",
-      correction: "Replace 'call out' with 'call off'.",
-      explanation: "'Call off' means to cancel an event; 'call out' means to summon someone for emergency assistance."
+      sentence: "She should have studied harder, (A) / otherwise she would passed (B) / the entrance exam easily. (C) / No error (D)",
+      errorPart: "B",
+      correction: "Replace 'would passed' with 'would have passed'.",
+      explanation: "In a third-conditional-style structure referring to an unreal past outcome, the modal must be followed by 'have + past participle,' not the bare past form."
     }
   },
   {
     id: 14,
     vol: "Vol #14",
-    slug: "spot-the-error-1000-master-questions",
-    title: "Spot the Error! 1000 Master Error-Spotting Questions for SSC & Banking Exams",
-    topic: "Comprehensive Exam Drills",
-    image: "book-14-1000-master-questions.webp",
-    benefit: "The ultimate examination simulator: 1000 mixed, authentic Tier-2 level questions covering all 13 core topics with line-by-line reasons.",
-    idealFor: "Final Phase Aspirants (SSC CGL Tier 2, Bank PO)",
+    slug: "mastering-modal-auxiliaries-basics-to-advanced",
+    title: "Mastering Modal Auxiliaries: From Basics to Advanced Usage",
+    topic: "Modal Verbs",
+    imageUrl: "images/book-14-mastering-modal-auxiliaries.webp",
+    benefit: "A complete, progressive modal-verb guide — from basic forms to advanced speculation and formal academic usage.",
+    idealFor: "CBSE Class 12, UPSC CSAT, GRE & Advanced Learners",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Comprehensive (All Levels)",
-    transformation: "Build rapid 12-second pattern recognition and complete the error-spotting section with guaranteed speed and zero negative marks.",
+    difficulty: "Intermediate",
+    transformation: "Build a complete, layered command of modal verbs — from foundational rules to the nuanced usage advanced exams reward.",
     syllabus: [
-      "Unit 1: Diagnostic Speed Calibration Sets 1-10",
-      "Unit 2: SSC CGL Tier-2 Simulation Drills (500 Questions)",
-      "Unit 3: IBPS PO & SBI PO Mains Advanced Traps (300 Questions)",
-      "Unit 4: High-Yield Mixed Category Drills (200 Questions)",
-      "Unit 5: 12-Second Elimination Shortcut Index",
-      "Unit 6: Complete Answer Key with Line-by-Line Pedagogy"
+      "Unit 1: Modal Basics — Forms & Sentence Structure",
+      "Unit 2: Modals for Requests, Offers & Suggestions",
+      "Unit 3: Modals of Speculation & Probability",
+      "Unit 4: Advanced Modal Perfect Constructions",
+      "Unit 5: Modals in Formal & Academic Writing",
+      "Unit 6: Common Modal Verb Error Patterns"
     ],
     sampleQuestion: {
-      sentence: "Not only the defense attorneys but also the lead prosecutor (A) / were surprised by the witness's sudden revelation (B) / during cross-examination. (C) / No error (D)",
-      errorPart: "B",
-      correction: "Replace 'were surprised' with 'was surprised'.",
-      explanation: "In 'not only... but also', proximity dictates agreement. The adjacent subject is singular ('the lead prosecutor')."
+      sentence: "The committee must have meet yesterday (A) / to finalize the budget (B) / before the fiscal year ends. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace 'must have meet' with 'must have met'.",
+      explanation: "The modal perfect construction requires the past participle form after 'have,' not the base form — 'met,' not 'meet.'"
     }
   }
 ];
@@ -3073,7 +3073,7 @@ function openBookModal(bookSlug) {
       <span class="badge badge-primary">${book.topic}</span>
     </div>
     <div class="book-cover-wrap" style="margin-bottom: 20px; text-align: center;">
-      <img src="images/${book.image}" alt="${book.title}" class="book-cover-img" onerror="this.style.display='none'" />
+      <img src="${book.imageUrl}" alt="${book.title}" class="book-cover-img" onerror="this.style.display='none'" />
     </div>
     <h2 style="font-size: 24px; margin-bottom: 12px; color: var(--text-primary);">${book.title}</h2>
     <div style="padding: 12px 16px; border-radius: var(--radius-md); background-color: var(--color-primary-subtle); border: 1px solid var(--color-primary-border); margin-bottom: 20px; font-size: 13px; font-weight: 600; color: var(--color-primary);">
@@ -3430,7 +3430,7 @@ function renderBookDetail(slug) {
       </div>
 
       <div class="book-cover-wrap" style="margin-bottom: 24px;">
-        <img src="images/${book.image}" alt="${book.title}" class="book-cover-img book-cover-detail" onerror="this.style.display='none'" />
+        <img src="${book.imageUrl}" alt="${book.title}" class="book-cover-img book-cover-detail" onerror="this.style.display='none'" />
       </div>
 
       <h1 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 16px;">${book.title}</h1>
