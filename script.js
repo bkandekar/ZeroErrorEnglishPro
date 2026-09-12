@@ -173,7 +173,7 @@ const BOOKS = [
     slug: "unlocking-english-modals",
     title: "Unlocking English Modals: Problem-Solving Strategies for Fluent Communication",
     topic: "Modal Verbs",
-    imageUrl: "images/books/book-07-unlocking-english-modals.jpg",
+    imageUrl: "images/book-07-unlocking-english-modals.webp",
     benefit: "Build a foundational, confidence-first understanding of modal verbs for ability, obligation, advice, and deduction.",
     idealFor: "CBSE Class 12, Beginner-to-Intermediate Competitive Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
