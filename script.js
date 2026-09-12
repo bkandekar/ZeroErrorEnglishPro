@@ -170,28 +170,28 @@ const BOOKS = [
   {
     id: 7,
     vol: "Vol #07",
-    slug: "spot-the-error-conjunctions",
-    title: "Spot the Error! The Ultimate Guide to Conjunctions for Exam Success",
-    topic: "Conjunctions & Connectors",
-    image: "book-07-conjunctions.webp",
-    benefit: "Unravel correlative conjunction pairs, inverted negative beginnings (Scarcely... when, No sooner... than), and redundant connectors.",
-    idealFor: "SSC CGL Tier 1 & 2, IBPS PO & SBI Clerk",
+    slug: "unlocking-english-modals",
+    title: "Unlocking English Modals: Problem-Solving Strategies for Fluent Communication",
+    topic: "Modal Verbs",
+    imageUrl: "images/books/book-07-unlocking-english-modals.jpg",
+    benefit: "Build a foundational, confidence-first understanding of modal verbs for ability, obligation, advice, and deduction.",
+    idealFor: "CBSE Class 12, Beginner-to-Intermediate Competitive Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
-    difficulty: "Intermediate to Advanced",
-    transformation: "Lock down all 18 correlative connector pairings and inverted clause rules to conquer sentence improvement questions.",
+    difficulty: "Beginner",
+    transformation: "Move from hesitant, memorized modal usage to confident, meaning-driven modal selection in both writing and speech.",
     syllabus: [
-      "Unit 1: Correlative Pairs (Hardly... when, No sooner... than)",
-      "Unit 2: Subordinating Conjunctions of Time and Condition",
-      "Unit 3: Lest + Should / Bare Subjunctive Rules",
-      "Unit 4: Redundancy Traps (Although... yet, Unless... not)",
-      "Unit 5: Inversion After Negative Conjunctions",
-      "Unit 6: 250 Solved Exam Traps"
+      "Unit 1: Modals of Ability & Possibility",
+      "Unit 2: Modals of Obligation & Advice",
+      "Unit 3: Modals of Permission & Prohibition",
+      "Unit 4: Modals of Deduction & Certainty",
+      "Unit 5: Introduction to Past Modal Forms",
+      "Unit 6: Modals in Everyday Communication"
     ],
     sampleQuestion: {
-      sentence: "No sooner had the bell rung (A) / then the eager students rushed out (B) / of the examination hall. (C) / No error (D)",
-      errorPart: "B",
-      correction: "Replace 'then' with 'than'.",
-      explanation: "'No sooner' is a comparative connector that strictly pairs with 'than', never 'then' or 'when'."
+      sentence: "You must to submit the application (A) / before the deadline (B) / to be considered for the scholarship. (C) / No error (D)",
+      errorPart: "A",
+      correction: "Replace 'must to submit' with 'must submit'.",
+      explanation: "Modal verbs like 'must' are always followed directly by the base form of the verb, with no 'to' in between — a basic but frequently tested modal-formation error."
     }
   },
   {
