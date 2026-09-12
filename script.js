@@ -16,7 +16,7 @@ const BOOKS = [
     amazonUrl: "https://a.co/d/06FYke5z",
     difficulty: "Intermediate",
     transformation: "Turn the single highest-yield, trap-ridden error-spotting section in competitive English into your highest-scoring guaranteed accuracy zone.",
-    image: "book-01-spot-the-error-subject-verb-agreement.webp",
+    image: "book-01-spot-the-error-subject-verb-agreement3.webp",
     syllabus: [
       "Unit 1: Intervening Phrases & Prepositional Traps",
       "Unit 2: Compound Subjects & Quasi-Conjunctions (as well as, along with)",
