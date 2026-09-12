@@ -38,6 +38,7 @@ const BOOKS = [
     slug: "the-tense-in-english-grammar",
     title: "The Tense In English Grammar: A Practical Grammar Guide",
     topic: "Tenses & Time Markers",
+    image: "book-02-the-tense-in-english-grammar.webp",
     benefit: "End the confusion between Present Perfect and Past Simple forever with time-marker formulas and examiner elimination techniques.",
     idealFor: "SSC CGL, IBPS, RRB NTPC & State PSCs",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -64,6 +65,7 @@ const BOOKS = [
     slug: "mastering-direct-and-indirect-speech",
     title: "Mastering Direct & Indirect Speech: Ultimate Guide to Confident Reporting",
     topic: "Direct & Indirect Speech",
+    image: "book-03-direct-and-indirect-speech.webp",
     benefit: "Step-by-step conversion algorithms for reporting verbs, backshifting tenses, interrogatives, and tricky imperative sentences.",
     idealFor: "SSC CGL Tier 2, Tier 1 & State PSCs",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -90,6 +92,7 @@ const BOOKS = [
     slug: "the-ultimate-guide-to-active-and-passive-voice",
     title: "The Ultimate Guide to Active & Passive Voice for Competitive Exams",
     topic: "Active & Passive Voice",
+    image: "book-04-active-and-passive-voice.webp",
     benefit: "Formula-driven voice changes for complex sentences, quasi-passive verbs, and prepositional phrasal verbs without subject loss.",
     idealFor: "SSC CGL/CHSL & Banking Mains",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -116,6 +119,7 @@ const BOOKS = [
     slug: "spot-the-error-prepositions",
     title: "Spot the Error! The Ultimate Guide to Prepositions for Exam Success",
     topic: "Prepositions & Fixed Phrasals",
+    image: "book-05-prepositions.webp",
     benefit: "Crack the highest-failure rate questions with 400+ fixed preposition collocations, confusing pairs, and phrasal verb rules.",
     idealFor: "Banking PO/Clerk, SSC CGL & UPSC CDS",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -142,6 +146,7 @@ const BOOKS = [
     slug: "spot-the-error-articles",
     title: "Spot the Error! The Ultimate Guide to Articles for Exam Success",
     topic: "Articles & Determiners",
+    image: "book-06-articles.webp",
     benefit: "Master the 28 omission rules of 'The', abstract nouns, geographical names, and euphonic vowel sound exceptions (a European, an MBA).",
     idealFor: "All Competitive Exams (SSC, Banking, NDA, State PSCs)",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -168,6 +173,7 @@ const BOOKS = [
     slug: "spot-the-error-conjunctions",
     title: "Spot the Error! The Ultimate Guide to Conjunctions for Exam Success",
     topic: "Conjunctions & Connectors",
+    image: "book-07-conjunctions.webp",
     benefit: "Unravel correlative conjunction pairs, inverted negative beginnings (Scarcely... when, No sooner... than), and redundant connectors.",
     idealFor: "SSC CGL Tier 1 & 2, IBPS PO & SBI Clerk",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -194,6 +200,7 @@ const BOOKS = [
     slug: "spot-the-error-conditionals-and-inversion",
     title: "Spot the Error! The Ultimate Guide to Conditionals & Inversion for Exam Success",
     topic: "Conditionals & Inversion",
+    image: "book-08-conditionals-inversion.webp",
     benefit: "Zero, First, Second & Third conditionals mastered alongside negative adverbial inversions (Seldom, Barely, Not only).",
     idealFor: "SSC CGL Tier 2, Bank PO & CDS Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -220,6 +227,7 @@ const BOOKS = [
     slug: "spot-the-error-modifiers-adjectives-adverbs",
     title: "Spot the Error! The Ultimate Guide to Modifiers, Adjectives & Adverbs",
     topic: "Modifiers & Comparison",
+    image: "book-09-modifiers-adjectives-adverbs.webp",
     benefit: "Fix dangling participles, misplaced modifiers, degrees of comparison traps, and adjective vs adverb confusion.",
     idealFor: "Banking PO & SSC CGL Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -246,6 +254,7 @@ const BOOKS = [
     slug: "spot-the-error-pronouns",
     title: "Spot the Error! The Ultimate Guide to Pronouns for Exam Success",
     topic: "Pronouns & Case Traps",
+    image: "book-10-pronouns.webp",
     benefit: "Master relative pronouns (who vs whom, that vs which), pronoun order (231/123 rule), reflexives, and case alignments.",
     idealFor: "All Competitive Exams",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -272,6 +281,7 @@ const BOOKS = [
     slug: "spot-the-error-question-tags-negation",
     title: "Spot the Error! The Ultimate Guide to Question Tags & Negation for Exam Success",
     topic: "Question Tags & Negation",
+    image: "book-11-question-tags-negation.webp",
     benefit: "Form flawless tags for imperative sentences, semi-negative adverbs (hardly, seldom), indefinite pronouns, and complex auxiliaries.",
     idealFor: "SSC CGL, CHSL, MTS & Defence Exams",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -298,6 +308,7 @@ const BOOKS = [
     slug: "spot-the-error-parallelism-comparisons",
     title: "Spot the Error! The Ultimate Guide to Parallelism & Comparisons for Exam Success",
     topic: "Parallelism & Comparison",
+    image: "book-12-parallelism-comparisons.webp",
     benefit: "Identify faulty balance across paired conjunctions, comparison of unlikes (illogical comparisons), and series symmetry.",
     idealFor: "Banking PO & SSC CGL Tier 2",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -324,6 +335,7 @@ const BOOKS = [
     slug: "spot-the-error-phrasal-verbs-idiomatic-errors",
     title: "Spot the Error! The Ultimate Guide to Phrasal Verbs & Idiomatic Errors",
     topic: "Phrasal Verbs & Idioms",
+    image: "book-13-phrasal-verbs-idioms.webp",
     benefit: "Decode examiner traps with particle substitutions, literal vs figurative meaning shifts, and high-yield competitive idioms.",
     idealFor: "Banking PO/Clerk & SSC CGL Tier 2",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -350,6 +362,7 @@ const BOOKS = [
     slug: "spot-the-error-1000-master-questions",
     title: "Spot the Error! 1000 Master Error-Spotting Questions for SSC & Banking Exams",
     topic: "Comprehensive Exam Drills",
+    image: "book-14-1000-master-questions.webp",
     benefit: "The ultimate examination simulator: 1000 mixed, authentic Tier-2 level questions covering all 13 core topics with line-by-line reasons.",
     idealFor: "Final Phase Aspirants (SSC CGL Tier 2, Bank PO)",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -3059,6 +3072,9 @@ function openBookModal(bookSlug) {
       <span class="badge badge-vol" style="margin-right: 8px;">${book.vol}</span>
       <span class="badge badge-primary">${book.topic}</span>
     </div>
+    <div class="book-cover-wrap" style="margin-bottom: 20px; text-align: center;">
+      <img src="images/${book.image}" alt="${book.title}" class="book-cover-img" onerror="this.style.display='none'" />
+    </div>
     <h2 style="font-size: 24px; margin-bottom: 12px; color: var(--text-primary);">${book.title}</h2>
     <div style="padding: 12px 16px; border-radius: var(--radius-md); background-color: var(--color-primary-subtle); border: 1px solid var(--color-primary-border); margin-bottom: 20px; font-size: 13px; font-weight: 600; color: var(--color-primary);">
       🎯 Transformation Guarantee: ${book.transformation}
@@ -3411,6 +3427,10 @@ function renderBookDetail(slug) {
       <div style="margin-bottom: 14px;">
         <span class="badge badge-vol" style="margin-right: 8px;">${book.vol}</span>
         <span class="badge badge-primary">${book.topic}</span>
+      </div>
+
+      <div class="book-cover-wrap" style="margin-bottom: 24px;">
+        <img src="images/${book.image}" alt="${book.title}" class="book-cover-img book-cover-detail" onerror="this.style.display='none'" />
       </div>
 
       <h1 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 16px;">${book.title}</h1>
