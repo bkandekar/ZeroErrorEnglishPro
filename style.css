@@ -1178,3 +1178,30 @@ html.dark .site-header,
     opacity: 1;
   }
 }
+
+/* --- Book Cover Images --- */
+.book-cover-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-cover-img {
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-color);
+  object-fit: cover;
+}
+
+.book-cover-detail {
+  max-width: 280px;
+}
+
+@media (min-width: 768px) {
+  .book-cover-detail {
+    max-width: 320px;
+  }
+}
