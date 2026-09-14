@@ -1179,11 +1179,12 @@ html.dark .site-header,
   }
 }
 
-/* --- Book Cover Images --- */
+/* --- Book Cover Images (Updated) --- */
 .book-cover-wrap {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 20px 0 28px;
 }
 
 .book-cover-img {
@@ -1194,6 +1195,12 @@ html.dark .site-header,
   box-shadow: var(--shadow-md);
   border: 1px solid var(--border-color);
   object-fit: cover;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.book-cover-img:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
 }
 
 .book-cover-detail {
@@ -1204,4 +1211,10 @@ html.dark .site-header,
   .book-cover-detail {
     max-width: 320px;
   }
+}
+
+/* Modal मध्ये मोठी इमेज */
+.modal-container .book-cover-img {
+  max-width: 260px;
+}
 }
