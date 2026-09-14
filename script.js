@@ -11,7 +11,7 @@ const BOOKS = [
     slug: "spot-the-error-subject-verb-agreement",
     title: "Spot the Error! The Ultimate Guide to Subject-Verb Agreement for Exam Success: Master Every Rule, Ace Every Test",
     topic: "Subject-Verb Agreement",
-    imageUrl: "images/book-01-subject-verb-agreement.webp",
+    imageUrl: "images/book-01-spot-the-error-subject-verb-agreement3.webp",
     benefit: "Master every hidden trap examiners set around subjects, collective nouns, and tricky conjunctions with 200+ exam-calibrated questions.",
     idealFor: "SSC CGL (Tier 1 & 2), Banking PO/Clerk & Railway Aspirants",
     amazonUrl: "https://a.co/d/03ghn2zJ",
