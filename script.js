@@ -3294,6 +3294,17 @@ function openBookModal(bookSlug) {
       <span class="badge badge-primary">${book.topic}</span>
     </div>
     <h2 style="font-size: 24px; margin-bottom: 12px; color: var(--text-primary);">${book.title}</h2>
+    
+    <!-- Book Cover Image -->
+    <div class="book-cover-wrap" style="margin: 16px 0 24px;">
+      <img 
+        src="${book.imageUrl}" 
+        alt="${book.title}" 
+        class="book-cover-img book-cover-detail"
+        loading="lazy"
+        onerror="this.style.display='none'"
+      />
+    </div>
     <div style="padding: 12px 16px; border-radius: var(--radius-md); background-color: var(--color-primary-subtle); border: 1px solid var(--color-primary-border); margin-bottom: 20px; font-size: 13px; font-weight: 600; color: var(--color-primary);">
       🎯 Transformation Guarantee: ${book.transformation}
     </div>
@@ -3649,6 +3660,17 @@ function renderBookDetail(slug) {
 
       <h1 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 16px;">${book.title}</h1>
       
+      <!-- Book Cover Image -->
+      <div class="book-cover-wrap" style="margin: 20px 0 28px;">
+        <img 
+          src="${book.imageUrl}" 
+          alt="${book.title}" 
+          class="book-cover-img book-cover-detail"
+          loading="lazy"
+          onerror="this.style.display='none'"
+        />
+      </div>
+
       <!-- Transformation Guarantee Box -->
       <div style="padding: 16px 20px; border-radius: var(--radius-lg); background-color: var(--color-primary-subtle); border: 1px solid var(--color-primary-border); margin-bottom: 30px;">
         <strong style="color: var(--color-primary);">Transformation Guarantee:</strong> ${book.transformation}
