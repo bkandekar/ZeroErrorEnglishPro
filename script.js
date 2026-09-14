@@ -11,7 +11,7 @@ const BOOKS = [
     slug: "spot-the-error-subject-verb-agreement",
     title: "Spot the Error! The Ultimate Guide to Subject-Verb Agreement for Exam Success: Master Every Rule, Ace Every Test",
     topic: "Subject-Verb Agreement",
-    imageUrl: "images/book-01-subject-verb-agreement.webp",
+    imageUrl: "images/books/book-01-subject-verb-agreement.jpg",
     benefit: "Master every hidden trap examiners set around subjects, collective nouns, and tricky conjunctions with 200+ exam-calibrated questions.",
     idealFor: "SSC CGL (Tier 1 & 2), Banking PO/Clerk & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -38,7 +38,7 @@ const BOOKS = [
     slug: "the-tense-in-english-grammar",
     title: "The Tense In English Grammar: A Practical Grammar Guide",
     topic: "Tenses",
-    imageUrl: "images/book-02-tense-in-english-grammar.webp",
+    imageUrl: "images/books/book-02-tense-in-english-grammar.jpg",
     benefit: "Stop losing marks to time-marker traps and sequence-of-tense confusion with a practical, exam-first breakdown of all twelve tenses.",
     idealFor: "SSC CGL, Banking, Railway & CBSE Class 12 Students",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -65,7 +65,7 @@ const BOOKS = [
     slug: "mastering-direct-and-indirect-speech",
     title: "Mastering Direct & Indirect Speech: Ultimate Guide to Confident Reporting",
     topic: "Direct & Indirect Speech",
-    imageUrl: "images/book-03-direct-and-indirect-speech.webp",
+    imageUrl: "images/books/book-03-direct-and-indirect-speech.jpg",
     benefit: "Master backshifting exceptions, interrogative word order, and reporting-verb selection with 200+ narration questions calibrated to SSC CGL Tier 2.",
     idealFor: "SSC CGL Tier 2, Banking Descriptive & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -92,7 +92,7 @@ const BOOKS = [
     slug: "active-and-passive-voice-competitive-exams",
     title: "The Ultimate Guide to Active & Passive Voice for Competitive Exams",
     topic: "Active & Passive Voice",
-    imageUrl: "images/book-04-active-and-passive-voice.webp",
+    imageUrl: "images/books/book-04-active-and-passive-voice.webp",
     benefit: "Master voice transformation across all tenses, plus the quasi-passive and sensory-verb exceptions that trip up even advanced learners.",
     idealFor: "SSC CGL, Banking PO/Clerk, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -119,7 +119,7 @@ const BOOKS = [
     slug: "preposition-in-english-grammar",
     title: "Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders & Competitive Aspirants",
     topic: "Prepositions",
-    imageUrl: "images/book-05-preposition-in-english-grammar.webp",
+    imageUrl: "images/books/book-05-preposition-in-english-grammar.jpg",
     benefit: "Master fixed prepositions after verbs and adjectives, plus the commonly confused pairs examiners test most often.",
     idealFor: "CBSE Class 12, SSC CGL, Banking & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -146,7 +146,7 @@ const BOOKS = [
     slug: "gerunds-vs-infinitives-vs-participles",
     title: "Gerunds vs Infinitives vs Participles: 500 Exam-Level Questions",
     topic: "Non-Finite Verbs",
-    imageUrl: "images/book-06-non-finite-verbs.webp",
+    imageUrl: "images/books/book-06-non-finite-verbs.jpg",
     benefit: "Master the verbs that take only gerunds, only infinitives, or change meaning with each, using 500 exam-calibrated drills.",
     idealFor: "SSC CGL, Banking PO, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -173,7 +173,7 @@ const BOOKS = [
     slug: "unlocking-english-modals",
     title: "Unlocking English Modals: Problem-Solving Strategies for Fluent Communication",
     topic: "Modal Verbs",
-    imageUrl: "images/book-07-unlocking-english-modals.webp",
+    imageUrl: "images/books/book-07-unlocking-english-modals.jpg",
     benefit: "Build a foundational, confidence-first understanding of modal verbs for ability, obligation, advice, and deduction.",
     idealFor: "CBSE Class 12, Beginner-to-Intermediate Competitive Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -200,7 +200,7 @@ const BOOKS = [
     slug: "clauses-and-phrases-demystified",
     title: "Clauses & Phrases Demystified: Fix Errors and Write Confidently",
     topic: "Clauses & Phrases",
-    imageUrl: "images/book-08-clauses-and-phrases-demystified.webp",
+    imageUrl: "images/books/book-08-clauses-and-phrases-demystified.jpg",
     benefit: "Master Noun, Adjective, and Adverb clause identification, phrase-vs-clause distinction, and relative pronoun rules with 40+ drilled examples.",
     idealFor: "SSC CGL, Banking, UPSC CSAT & GRE Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -227,7 +227,7 @@ const BOOKS = [
     slug: "question-tags-zero-errors",
     title: "Question Tags: Zero Errors: 186 Rules, 60 Traps & 200+ MCQs for SSC, IBPS & Railways",
     topic: "Question Tags",
-    imageUrl: "images/book-09-question-tags-zero-errors.webp",
+    imageUrl: "images/books/book-09-question-tags-zero-errors.jpg",
     benefit: "Master every question-tag rule and trap — including tricky subjects, modal tags, and imperative tags — with 200+ drilled MCQs.",
     idealFor: "SSC CGL, IBPS PO/Clerk & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -254,7 +254,7 @@ const BOOKS = [
     slug: "articles-for-ssc-cgl-2026-zero-errors",
     title: "Articles For SSC CGL 2026 - Zero Errors",
     topic: "Articles",
-    imageUrl: "images/book-10-articles-for-ssc-cgl-2026-zero-errors.webp",
+    imageUrl: "images/books/book-10-articles-for-ssc-cgl-2026-zero-errors.jpg",
     benefit: "Master A, An, and The with sound-based rules, zero-article exceptions, and idiomatic usage traps calibrated to the 2026 SSC CGL pattern.",
     idealFor: "SSC CGL 2026 Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -281,7 +281,7 @@ const BOOKS = [
     slug: "advanced-punctuation-mastery",
     title: "Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants",
     topic: "Punctuation",
-    imageUrl: "images/book-11-advanced-punctuation-mastery.webp",
+    imageUrl: "images/books/book-11-advanced-punctuation-mastery.jpg",
     benefit: "Master comma splices, semicolons, apostrophes, and quotation punctuation with exam-focused rules and drills.",
     idealFor: "SSC CGL, Banking Descriptive Paper & CBSE Class 12 Students",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -308,7 +308,7 @@ const BOOKS = [
     slug: "100-english-grammar-shortcuts",
     title: "100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts",
     topic: "Grammar Shortcuts",
-    imageUrl: "images/book-12-100-english-grammar-shortcuts.webp",
+    imageUrl: "images/books/book-12-100-english-grammar-shortcuts.jpg",
     benefit: "100 quick-check formulas and elimination tricks covering tenses, agreement, articles, and prepositions for maximum exam speed.",
     idealFor: "All Competitive Exam Aspirants Needing Fast Revision",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -335,7 +335,7 @@ const BOOKS = [
     slug: "modal-auxiliaries-mastery-zero-errors",
     title: "Modal Auxiliaries Mastery: Zero Errors",
     topic: "Modal Verbs",
-    imageUrl: "images/book-13-modal-auxiliaries-mastery-zero-errors.webp",
+    imageUrl: "images/books/book-13-modal-auxiliaries-mastery-zero-errors.jpg",
     benefit: "Drill modal verb error patterns exhaustively with 200+ MCQs covering semi-modals, perfect infinitives, and prohibition forms.",
     idealFor: "SSC CGL, Banking PO/Clerk & Railway Aspirants",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -362,7 +362,7 @@ const BOOKS = [
     slug: "mastering-modal-auxiliaries-basics-to-advanced",
     title: "Mastering Modal Auxiliaries: From Basics to Advanced Usage",
     topic: "Modal Verbs",
-    imageUrl: "images/book-14-mastering-modal-auxiliaries.webp",
+    imageUrl: "images/books/book-14-mastering-modal-auxiliaries.jpg",
     benefit: "A complete, progressive modal-verb guide — from basic forms to advanced speculation and formal academic usage.",
     idealFor: "CBSE Class 12, UPSC CSAT, GRE & Advanced Learners",
     amazonUrl: "PLACEHOLDER-AMAZON-URL",
@@ -394,6 +394,7 @@ const ARTICLES = [
     readingTime: "10 min read",
     difficulty: "Intermediate",
     bookId: 1,
+    publishDate: "2024-01-01",
     description: "Examiners never test simple sentences. Discover how they disguise plural intervening phrases, invert clauses, and manipulate proximity to cost you 2.5 marks — with the exact test that catches every trap.",
     formula: "Subject 1 + [as well as / along with + Noun 2] + Verb (agrees strictly with Subject 1)",
     body: `
@@ -570,6 +571,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     readingTime: "9 min read",
     difficulty: "Intermediate",
     bookId: 2,
+    publishDate: "2024-01-01",
     description: "Stop translating directly from your native language. Learn exactly why words like 'yesterday', 'ago', and 'in 2020' strictly forbid the Present Perfect — with the test that catches the error every time.",
     formula: "Definite Past Time Marker (yesterday, ago, in 2021) -> Past Simple strictly (V2)",
     body: `
@@ -735,6 +737,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     readingTime: "10 min read",
     difficulty: "Advanced",
     bookId: 3,
+    publishDate: "2024-01-01",
     description: "Universal truths, interrogative word order, and reporting verbs explained with an 8-second elimination technique — built specifically for SSC CGL Tier 2 narration questions.",
     formula: "Universal Truth / Scientific Fact -> ZERO backshift regardless of past reporting verb",
     body: `
@@ -900,6 +903,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     readingTime: "10 min read",
     difficulty: "Advanced",
     bookId: 4,
+    publishDate: "2024-01-01",
     description: "Sensory verbs and quasi-passive constructions break the standard active-to-passive formula. Learn exactly when passive voice is grammatically impossible and how examiners exploit it.",
     formula: "Sensory Verb (look, seem, smell, taste, feel) + Adjective -> NO passive form exists",
     body: `
@@ -1065,6 +1069,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     readingTime: "9 min read",
     difficulty: "Advanced",
     bookId: 5,
+    publishDate: "2024-01-01",
     description: "Learn why verbs like 'prohibit', 'abstain', and 'comply' demand specific particles, plus 10 superfluous preposition traps.",
     formula: "Prohibit / Abstain / Refrain -> strictly takes 'FROM' + Gerund",
     body: `
@@ -1082,7 +1087,8 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     category: "Conditionals",
     readingTime: "8 min read",
     difficulty: "Advanced",
-    bookId: 8,
+    bookId: 2,
+    publishDate: "2024-01-01",
     description: "Understand unfulfilled past regrets vs. ongoing present consequences with foolproof clause balance formulas.",
     formula: "If + had + V3 (Past Regret) -> would have + V3 (Past Outcome)",
     body: `
@@ -1100,7 +1106,8 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     category: "Clauses",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 10,
+    bookId: 8,
+    publishDate: "2024-01-01",
     description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
     formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas",
     body: `
@@ -1386,7 +1393,8 @@ When the pronoun is the object of a defining clause, it can be omitted completel
     category: "Clauses",
     readingTime: "9 min read",
     difficulty: "Beginner",
-    bookId: 7,
+    bookId: 8,
+    publishDate: "2024-01-01",
     description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
     formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
     body: `
@@ -1675,7 +1683,8 @@ Most students never run a direct "does this have a tensed verb?" check — they 
     category: "Clauses",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 9,
+    bookId: 8,
+    publishDate: "2024-01-01",
     description: "Stop losing marks on clause identification. Learn the exact Question Test that separates Noun, Adjective and Adverb clauses in seconds — built for SSC CGL and Bank exams.",
     formula: "Noun Clause -> answers What/Who (subject or object) | Adjective Clause -> answers Which one/What kind | Adverb Clause -> answers When/Where/Why/How/Condition",
     body: `
@@ -1975,7 +1984,8 @@ If you remove the clause and the sentence still makes complete sense on its own 
     category: "Clauses",
     readingTime: "10 min read",
     difficulty: "Advanced",
-    bookId: 7,
+    bookId: 8,
+    publishDate: "2024-01-01",
     description: "Subordinate clause errors are where UPSC CSAT and GRE Verbal quietly separate strong candidates from the rest. Learn the exact traps examiners recycle and the test that catches every one of them.",
     formula: "Subordinate clause -> has a subject + finite verb but cannot stand alone | Check: connector logic + tense agreement + no redundant pairing",
     body: `
@@ -2207,11 +2217,12 @@ When a subordinate clause of reason or condition is placed too far from what it 
     category: "Sentence Improvement",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 7,
+    bookId: 8,
+    publishDate: "2024-01-01",
     description: "Combining two simple sentences into one smooth complex sentence is a core Sentence Improvement skill. Learn the exact method for choosing the right clause type and connector, every time.",
     formula: "Two related simple sentences -> pick ONE idea to subordinate -> join with the connector matching its logical relationship",
     body: `
-<img src="images/combine-sentences-clauses-hero.webp" 
+<img src="images/combine-sentences-clauses-hero.jpg" 
      alt="How to combine sentences using clauses for Sentence Improvement"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2366,18 +2377,18 @@ When a subordinate clause of reason or condition is placed too far from what it 
 </div>
     `
   },
-    {
+  {
     slug: "noun-adjective-adverb-clause-fast-tricks-ssc-bank-upsc",
     title: "Noun Clause, Adjective Clause & Adverb Clause Identification — Fast Tricks for SSC, Bank & UPSC",
     category: "Clauses",
     readingTime: "8 min read",
     difficulty: "Intermediate",
-    bookId: 9,
+    bookId: 8,
     publishDate: "2024-01-01",
     description: "No definitions, no theory — just the fastest way to tell Noun, Adjective, and Adverb clauses apart under exam-timer pressure. Built for SSC, Bank, and UPSC speed rounds.",
     formula: "3-second test: Can you replace it with 'it/that'? Noun. Sits beside a noun? Adjective. Answers when/where/why/how? Adverb.",
     body: `
-<img src="images/noun-adjective-adverb-fast-tricks-hero.webp" 
+<img src="images/noun-adjective-adverb-fast-tricks-hero.jpg" 
      alt="Fast tricks to identify Noun Adjective and Adverb clauses for SSC Bank UPSC"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2484,19 +2495,19 @@ When a subordinate clause of reason or condition is placed too far from what it 
   <p>A: Yes, but isolate the clause boundaries first in longer sentences before applying the three checks — the checks themselves don't change with sentence length.</p>
 </div>
     `
-    },
-    {
+  },
+  {
     slug: "types-of-phrases-noun-adjective-adverb-prepositional-ssc-bank",
     title: "Types of Phrases in English Grammar — Noun, Adjective, Adverb & Prepositional Phrases for SSC and Bank Exams",
     category: "Phrases",
     readingTime: "10 min read",
     difficulty: "Intermediate",
-    bookId: 5,
+    bookId: 8,
     publishDate: "2024-01-01",
     description: "Four phrase types, one exam-ready test. Learn to identify Noun, Adjective, Adverb, and Prepositional phrases in seconds, with the exact traps SSC and Bank examiners repeat every year.",
     formula: "Ask what job the phrase does: names a thing -> Noun Phrase | describes a noun -> Adjective Phrase | describes a verb -> Adverb Phrase | starts with a preposition -> Prepositional Phrase",
     body: `
-<img src="images/types-of-phrases-hero.webp" 
+<img src="images/types-of-phrases-hero.jpg" 
      alt="Types of Phrases in English Grammar - Noun Adjective Adverb Prepositional"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2669,195 +2680,29 @@ When a subordinate clause of reason or condition is placed too far from what it 
   <p>A: Yes. "In the morning" functions as an Adverb Phrase in "He runs in the morning" (describing when he runs), but could function adjectivally in a sentence like "The meeting in the morning was cancelled" (describing which meeting).</p>
 </div>
     `
-  },
-
-    {
-    slug: "conditional-clauses-if-clauses-rules-errors-zero-to-third",
-    title: "Conditional Clauses (If Clauses) Rules and Errors — Zero to Third Conditional for UPSC, SSC and Banking",
-    category: "Conditionals",
-    readingTime: "10 min read",
-    difficulty: "Intermediate",
-    bookId: 2,
-    publishDate: "2024-01-01",
-    description: "Zero, First, Second, and Third Conditional — one clear rule for each, plus the exact if-clause errors SSC, Banking, and UPSC examiners repeat every year.",
-    formula: "If + Present -> Present (Zero) | If + Present -> Will (First) | If + Past -> Would (Second) | If + Had -> Would Have (Third)",
-    body: `
-<img src="images/conditional-clauses-hero.webp" 
-     alt="Conditional Clauses If Clauses rules and errors zero to third conditional"
-     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
-
-<h2>"If I Will Get Time, I Will Call You" — Spot the Error?</h2>
-<p>This sentence sounds perfectly natural to most Indian English speakers, and it's wrong in every formal exam. The "if" clause and the "main" clause each follow their own strict tense rule, and mixing them up is one of the most repeated errors across SSC, Banking, and UPSC English papers.</p>
-<p>Conditional sentences — "if" clauses — come in four standard types, each with its own fixed tense pattern. Master the pattern for each, and an entire category of Error Spotting and Sentence Improvement questions becomes fast, mechanical, and nearly error-proof.</p>
-<p>What makes conditionals genuinely tricky isn't vocabulary — it's that all four types can describe similar-sounding situations while requiring completely different verb forms. A shift from "if it rains" to "if it rained" isn't a small style choice; it changes the entire meaning from a real possibility to an unlikely hypothetical. Exam-setters know this, and they build questions specifically around candidates who don't consciously make that distinction.</p>
-
-<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
-  <p><strong>Quick answer:</strong> Zero Conditional uses Present + Present for general truths. First Conditional uses Present + Will for real future possibilities. Second Conditional uses Past + Would for unreal present/future situations. Third Conditional uses Past Perfect + Would Have for unreal past situations. The "if" clause never takes "will" or "would" directly.</p>
-</div>
-
-<h3>In This Guide</h3>
-<ol>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why Conditionals Trip Up Even Advanced Learners</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">5 Mistakes That Are Costing You Marks</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 6-Step Verification Method (With Real Exam Patterns)</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Rahul Fixed This Before His Banking Exam</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
-</ol>
-
-<h2 id="section-3">Why Conditionals Trip Up Even Advanced Learners</h2>
-<ul>
-  <li><strong>You use "will" inside the "if" clause out of habit.</strong> Spoken English in India frequently does this, but formal exam English never allows "will" or "would" directly after "if."</li>
-  <li><strong>You don't distinguish "real possibility" from "unreal/hypothetical" situations.</strong> This single distinction decides whether you need First or Second Conditional.</li>
-  <li><strong>You mix Second and Third Conditional tenses.</strong> Both express unreal situations, but at different points in time — present/future versus past.</li>
-  <li><strong>You forget Zero Conditional exists as its own category.</strong> General truths and scientific facts don't need "will" or "would" at all.</li>
-  <li><strong>You haven't practiced Mixed Conditionals</strong> — sentences that blend a past condition with a present result, or vice versa.</li>
-</ul>
-<p>I know exactly how this feels — you know English well, and conditional sentences still occasionally slip past your own proofreading. It's not a vocabulary gap. It's a fixed-pattern-matching habit that needs deliberate practice.</p>
-<p>But here's what most people get wrong: they try to "feel out" whether a conditional sounds right, instead of checking it against one of four fixed patterns.</p>
-
-<h2 id="section-4">5 Mistakes That Are Costing You Marks</h2>
-<p><strong>1. Using "will" inside the if-clause.</strong><br/>"If it will rain, we will cancel the picnic" is incorrect — the if-clause never takes "will." It should be "If it rains, we will cancel the picnic."</p>
-<p><strong>2. Confusing First and Second Conditional.</strong><br/>First Conditional describes a real, likely future possibility ("If I finish early, I will call you"). Second Conditional describes something unreal or unlikely ("If I had more time, I would travel more").</p>
-<p><strong>3. Mixing Second and Third Conditional tenses.</strong><br/>"If I had more money, I would have bought it" incorrectly mixes present-unreal ("had more money," ongoing) with past-unreal result ("would have bought"). Keep both halves in the same time frame.</p>
-<p><strong>4. Forgetting "were" in formal Second Conditional with "I/he/she/it."</strong><br/>Formal English prefers "If I were you" over "If I was you," even though the latter is common in speech.</p>
-<p><strong>5. Treating every Zero Conditional as needing "will."</strong><br/>"If you heat ice, it will melt" is often marked incorrect in strict grammar tests — the standard form is "If you heat ice, it melts," since it's a general truth, not a specific future prediction.</p>
-<p><strong>6. Ignoring Mixed Conditionals entirely.</strong><br/>Real exam sentences sometimes blend a past condition with a present consequence, or a general habit with a past outcome — treating every sentence as one of the four "pure" types can lead you to force an incorrect fix on a legitimately mixed sentence.</p>
-
-<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
-  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">Common Mistakes Students Make</h3>
-  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 1: "Will" inside the if-clause</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: If it will rain, we will cancel the picnic.</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If it rains, we will cancel the picnic.</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 2: First vs Second Conditional confusion</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: If I win the lottery tomorrow, I will buy a house. (used for an unlikely fantasy)</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If I won the lottery, I would buy a house.</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 3: Mixed Second/Third tenses</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: If I had more money, I would have bought it.</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If I had had more money, I would have bought it. (Third, past-past)</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 4: "Was" instead of "were"</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: If I was you, I would apologize.</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If I were you, I would apologize.</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 5: "Will" in a general-truth Zero Conditional</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong: If you heat ice, it will melt.</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If you heat ice, it melts.</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-top:1px solid #e0e8f5;background:#fff;">
-      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#10060;</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Mistake 6: Ignoring genuine Mixed Conditionals</strong>
-      <p style="margin:6px 0 0;color:#c0392b;font-size:13px;font-style:italic;">Wrong "fix": "If I had taken that job, I would have lived in Mumbai now." (forces pure Third pattern)</p>
-      <p style="margin:4px 0 0;color:#27ae60;font-size:13px;font-style:italic;">Correct: If I had taken that job, I would be living in Mumbai now. (past condition, present result)</p></div>
-    </div>
-  </div>
-  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">ebookcharm — English Grammar Made Exam-Ready</p>
-</div>
-
-<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
-  <p style="margin:0;">These five traps, along with a full conditional-pattern reference chart, are covered in the companion book below.</p>
-</div>
-
-<h2 id="section-5">The 6-Step Verification Method (With Real Exam Patterns)</h2>
-<p><strong>Step 1 — Identify whether the sentence describes a general truth, a real future possibility, an unreal present/future, or an unreal past.</strong> This single classification decides everything that follows.</p>
-<p><strong>Step 2 — Zero Conditional: If + Present Simple, Present Simple.</strong> Used for facts and general truths, no exceptions.<br/>
-<span style="background:#f0f4fb;padding:6px 10px;border-radius:4px;display:inline-block;font-style:italic;">SSC CGL Exam Pattern: "If you mix red and blue, you get purple." → Zero Conditional.</span></p>
-<p><strong>Step 3 — First Conditional: If + Present Simple, Will + Base Verb.</strong> Used for real, likely future outcomes.<br/>
-<span style="background:#f0f4fb;padding:6px 10px;border-radius:4px;display:inline-block;font-style:italic;">IBPS PO Exam Pattern: "If the rain stops, we will resume the match." → First Conditional.</span></p>
-<p><strong>Step 4 — Second Conditional: If + Past Simple, Would + Base Verb.</strong> Used for unreal, unlikely, or hypothetical present/future situations.<br/>
-<span style="background:#f0f4fb;padding:6px 10px;border-radius:4px;display:inline-block;font-style:italic;">UPSC CSAT Exam Pattern: "If the government reduced taxes, more businesses would invest." → Second Conditional.</span></p>
-<p><strong>Step 5 — Third Conditional: If + Past Perfect, Would Have + Past Participle.</strong> Used for unreal past situations — things that didn't actually happen.<br/>
-<span style="background:#f0f4fb;padding:6px 10px;border-radius:4px;display:inline-block;font-style:italic;">Exam Pattern: "If she had prepared thoroughly, she would have cleared the exam." → Third Conditional.</span></p>
-<p><strong>Step 6 — Never let "will" or "would" appear directly inside the "if" clause itself.</strong> This single check catches the single most repeated conditional error across all four types.</p>
-
-<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
-  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">Step-by-Step Strategy</h3>
-  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;padding:10px 0;">
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">1</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Classify the situation type</strong><p style="margin:4px 0 0;color:#444;font-size:14px;">Fact, real future, unreal present, or unreal past.</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">2</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Zero: Present + Present</strong>
-      <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">"If you mix red and blue, you get purple."</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">3</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">First: Present + Will</strong>
-      <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">"If the rain stops, we will resume the match."</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">4</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Second: Past + Would</strong>
-      <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">"If the government reduced taxes, more businesses would invest."</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">5</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Third: Past Perfect + Would Have</strong>
-      <p style="margin:6px 0 0;background:#f0f4fb;padding:6px 10px;border-radius:4px;font-size:13px;color:#1B3A6B;font-style:italic;">"If she had prepared thoroughly, she would have cleared the exam."</p></div>
-    </div>
-    <div style="display:flex;align-items:flex-start;padding:14px 18px;">
-      <div style="min-width:36px;height:36px;background:#F5A623;color:#1B3A6B;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;margin-right:16px;margin-top:2px;flex-shrink:0;">6</div>
-      <div><strong style="color:#1B3A6B;font-size:15px;">Never "will/would" inside the if-clause</strong></div>
-    </div>
-  </div>
-  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">ebookcharm — English Grammar Made Exam-Ready</p>
-</div>
-
-<h2 id="section-6">How Rahul Fixed This Before His Banking Exam</h2>
-<p>Rahul consistently lost marks on conditional-sentence questions, and his practice tests showed a clear pattern: he could recall each rule when asked directly but applied "will" inside if-clauses out of speech habit whenever writing quickly under time pressure.</p>
-<p>Reviewing three months of his mock-test errors together, a pattern emerged that surprised him — nearly every conditional mistake he made involved the exact same slip, "will" sneaking into the if-clause, regardless of whether the sentence was Zero, First, or Second Conditional. It wasn't a knowledge gap at all; it was one unconscious habit repeating itself across different question types.</p>
-<p>He built a single reference card with all four conditional patterns side by side and drilled ten sentences a day, specifically checking Step 6 (no will/would inside the if-clause) on every one. Within a week, this habitual error disappeared from his writing entirely, and his accuracy on conditional Error Spotting questions became consistent.</p>
-<p>You can do the same — here's how to start: write one sentence for each of the four conditional types today, then check every one against the fixed patterns above.</p>
-
-<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
-<p><strong>1. Never let "will" or "would" appear right after "if."</strong> This single check catches the majority of conditional errors on its own.</p>
-<p><strong>2. Ask "is this real or unreal?" before choosing First or Second Conditional.</strong> Real, likely outcomes take First; hypothetical or unlikely ones take Second.</p>
-<p><strong>3. For Third Conditional, both halves must stay in the past.</strong> Past Perfect in the if-clause, "would have + past participle" in the main clause — never mix in a present-tense half.</p>
-<p><strong>4. Memorize "If I were you" as a fixed formal expression.</strong> Even though "was" is common in casual speech, formal exam English expects "were" for hypothetical statements with "I/he/she/it."</p>
-<p><strong>5. Practice Mixed Conditionals separately, once the four basic types feel automatic.</strong> "If I had studied medicine, I would be a doctor now" blends a past condition with a present result — a genuinely different, advanced pattern worth practicing on its own.</p>
-<p><strong>6. Read the full sentence for logical time before touching the grammar.</strong> Ask yourself when the condition happens and when the result happens — past, present, or future — before matching it to one of the four patterns. This single habit prevents most Second/Third mix-ups.</p>
-
-<h2 id="section-8">Final Takeaway</h2>
-<p>Conditional sentences aren't about intuition — they're about matching one of four fixed tense patterns to the situation you're describing. Classify the situation first, apply the matching pattern, and always double-check that "will" or "would" never sneaks into the if-clause itself.</p>
-
-<h2 id="section-10">Frequently Asked Questions</h2>
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Can "unless" replace "if not" in conditional sentences?</h4>
-  <p>A: Yes — "Unless you hurry, you will miss the train" means the same as "If you don't hurry, you will miss the train." "Unless" already carries the negative meaning, so adding "not" alongside it creates a double negative error.</p>
-</div>
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: What is a Mixed Conditional?</h4>
-  <p>A: A Mixed Conditional combines a Third Conditional if-clause (unreal past) with a Second Conditional main clause (unreal present result), or vice versa — for example, "If I had taken that job, I would be living in Mumbai now."</p>
-</div>
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: Is "If I was you" ever acceptable in exams?</h4>
-  <p>A: No. Formal exam English consistently expects "If I were you" for hypothetical Second Conditional statements, regardless of how common "was" is in everyday speech.</p>
-</div>
-<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
-  <h4>Q: How is this guide different from the site's existing Third vs Mixed Conditionals post?</h4>
-  <p>A: That post goes deep into Third and Mixed Conditionals specifically for advanced practice. This guide covers all four conditional types from the ground up, including Zero and First, making it the right starting point before tackling the advanced mixed-pattern traps.</p>
-</div>
-    `
   }
-
-
 ];
+/**
+ * A post is live once its publishDate has arrived (or has no publishDate at
+ * all, for safety with older data). Comparison is done client-side against
+ * the visitor's local clock, on every page load -- so a post with a future
+ * publishDate simply stays invisible everywhere (home preview, blog list,
+ * direct post URL, search) until that date, with no build step or GitHub
+ * Action required. Just commit it ahead of time and it appears on its own.
+ */
+function isPublished(article) {
+  if (!article.publishDate) return true;
+  // publishDate can be a plain date ("2026-09-15", treated as that day's
+  // start in the visitor's local time) or a full ISO timestamp with a
+  // fixed offset for an exact time ("2026-09-15T05:00:00+05:30" = 5:00 AM
+  // IST, regardless of the visitor's own timezone). Use it as-is when it
+  // already looks like a full timestamp; otherwise fall back to midnight.
+  const raw = article.publishDate.includes("T")
+    ? article.publishDate
+    : article.publishDate + "T00:00:00";
+  return new Date(raw) <= new Date();
+}
+
 
 // --- 3. DATA REPOSITORY: 10 PRACTICE DRILLS ---
 const PRACTICE_DRILLS = [
@@ -3258,9 +3103,6 @@ function openBookModal(bookSlug) {
       <span class="badge badge-vol" style="margin-right: 8px;">${book.vol}</span>
       <span class="badge badge-primary">${book.topic}</span>
     </div>
-    <div class="book-cover-wrap" style="margin-bottom: 20px; text-align: center;">
-      <img src="${book.imageUrl}" alt="${book.title}" class="book-cover-img" onerror="this.style.display='none'" />
-    </div>
     <h2 style="font-size: 24px; margin-bottom: 12px; color: var(--text-primary);">${book.title}</h2>
     <div style="padding: 12px 16px; border-radius: var(--radius-md); background-color: var(--color-primary-subtle); border: 1px solid var(--color-primary-border); margin-bottom: 20px; font-size: 13px; font-weight: 600; color: var(--color-primary);">
       🎯 Transformation Guarantee: ${book.transformation}
@@ -3385,7 +3227,7 @@ function renderHome() {
         </div>
 
         <div class="cards-grid-3">
-          ${ARTICLES.slice(0, 3).map(art => `
+          ${ARTICLES.filter(isPublished).slice(0, 3).map(art => `
             <div class="card" id="card-art-${art.slug}">
               <div>
                 <div class="article-meta">
@@ -3487,7 +3329,7 @@ function renderBlog() {
       </div>
 
       <div class="cards-grid-3">
-        ${ARTICLES.map(art => `
+        ${ARTICLES.filter(isPublished).map(art => `
           <div class="card">
             <div>
               <div class="article-meta">
@@ -3510,7 +3352,7 @@ function renderBlog() {
 
 // View 3: ARTICLE READER
 function renderPost(slug) {
-  const article = ARTICLES.find(a => a.slug === slug);
+  const article = ARTICLES.find(a => a.slug === slug && isPublished(a));
   if (!article) {
     appRoot.innerHTML = `<div class="container section"><h2>Article not found</h2><a href="#blog" class="btn btn-primary">Back to Articles</a></div>`;
     return;
@@ -3613,10 +3455,6 @@ function renderBookDetail(slug) {
       <div style="margin-bottom: 14px;">
         <span class="badge badge-vol" style="margin-right: 8px;">${book.vol}</span>
         <span class="badge badge-primary">${book.topic}</span>
-      </div>
-
-      <div class="book-cover-wrap" style="margin-bottom: 24px;">
-        <img src="${book.imageUrl}" alt="${book.title}" class="book-cover-img book-cover-detail" onerror="this.style.display='none'" />
       </div>
 
       <h1 style="font-size: clamp(28px, 4vw, 40px); margin-bottom: 16px;">${book.title}</h1>
@@ -4236,7 +4074,7 @@ window.handleInquirySubmit = function(e) {
 function renderSearch() {
   const query = APP_STATE.searchQuery.toLowerCase().trim();
   
-  const matchedPosts = ARTICLES.filter(a => 
+  const matchedPosts = ARTICLES.filter(isPublished).filter(a => 
     !query || 
     a.title.toLowerCase().includes(query) || 
     a.category.toLowerCase().includes(query) || 
