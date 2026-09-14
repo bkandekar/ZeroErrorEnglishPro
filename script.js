@@ -382,7 +382,34 @@ const BOOKS = [
       correction: "Replace 'must have meet' with 'must have met'.",
       explanation: "The modal perfect construction requires the past participle form after 'have,' not the base form — 'met,' not 'meet.'"
     }
+  },
+  {
+  id: 15,
+  vol: "Vol #03",
+  slug: "question-tags-made-easy",
+  title: "Question Tags Made Easy – Never Get Them Wrong Again",
+  topic: "Question Tags",
+  imageUrl: "images/book-15-question-tags-made-easy.webp",
+  benefit: "Stop hesitating mid-sentence and never mix up “isn’t it?” with “don’t you?” again—master question tags with simple rules, real-life examples and quick practice.",
+  idealFor: "Students, Teachers, SSC/Banking/Railway Aspirants, Interview Candidates & English Enthusiasts",
+  amazonUrl: "https://a.co/d/018NrP7L",
+  difficulty: "Beginner",
+  transformation: "Replace confusion and second-guessing with a clear, rule-based system so you form the correct question tag instantly in speaking and writing.",
+  syllabus: [
+    "Unit 1: The Simple Rules of Forming Question Tags",
+    "Unit 2: Positive & Negative Tag Patterns",
+    "Unit 3: Special Cases – Modals, Imperatives & Let’s",
+    "Unit 4: Common Mistakes & How to Spot Them Instantly",
+    "Unit 5: Everyday Conversation Examples",
+    "Unit 6: Quick Practice Exercises + Exam & Speaking Tips"
+  ],
+  sampleQuestion: {
+    sentence: "She rarely visits her grandparents, (A) / doesn’t she? (B) / No error (C)",
+    errorPart: "B",
+    correction: "Replace ‘doesn’t she?’ with ‘does she?’.",
+    explanation: "When the main clause already contains a negative word (rarely, never, hardly, seldom, etc.), the question tag must be positive. ‘Rarely’ makes the statement negative in meaning, so the correct tag is ‘does she?’."
   }
+}
 ];
 
 // --- 2. DATA REPOSITORY: ARTICLES ---
