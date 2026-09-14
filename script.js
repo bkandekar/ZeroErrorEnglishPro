@@ -2692,7 +2692,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "Every question tag follows one flip-and-match rule — until negative words, imperatives, and tricky subjects break the pattern. Learn the exact traps SSC, Banking, and MPSC examiners repeat every year.",
     formula: "Positive statement -> Negative tag | Negative statement -> Positive tag | Tag verb matches the statement's auxiliary + subject matches with a pronoun",
     body: `
-<img src="images/question-tags-rules-hero.jpg" 
+<img src="images/question-tags-rules-hero.webp" 
      alt="Question Tags Rules and Examples for SSC Banking MPSC exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
