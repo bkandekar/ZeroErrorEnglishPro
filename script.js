@@ -2896,6 +2896,141 @@ When a subordinate clause of reason or condition is placed too far from what it 
   <p>A: Yes — dummy subjects like "it" and "there" still take a matching tag pronoun: "It's raining, isn't it?" and "There are five candidates, aren't there?"</p>
 </div>
     `
+  },
+  
+  {
+    slug: "10-tricky-question-tag-rules-ssc-bank-aspirants",
+    title: "10 Tricky Question Tag Rules Every SSC & Bank Aspirant Must Know",
+    category: "Question Tags",
+    readingTime: "8 min read",
+    difficulty: "Intermediate",
+    bookId: 9,
+    publishDate: "2026-09-15",
+    description: "A fast, scannable checklist of the 10 question-tag rules examiners test most — from hidden negatives to imperative tags — built for quick pre-exam revision.",
+    formula: "Positive statement -> Negative tag | Negative statement -> Positive tag | Watch for hidden negatives, fixed forms, and modal verbs",
+    body: `
+<img src="images/10-tricky-question-tag-rules-hero.webp" 
+     alt="10 Tricky Question Tag Rules for SSC and Bank aspirants"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>10 Rules. One Checklist. Zero Guessing on Exam Day.</h2>
+<p>Question tags are one of the fastest topics to master completely — and one of the easiest to lose marks on if you only know the basic flip-and-match rule. This isn't a theory-heavy explainer. It's a tight, scannable checklist of the 10 specific rules SSC and Bank examiners come back to year after year.</p>
+<p>Read it once, bookmark it, and run through it the night before your exam.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+  <p><strong>Quick answer:</strong> A positive statement takes a negative tag and vice versa — but hidden negatives, imperatives, "let's," modal verbs, and compound sentences each break the basic pattern in their own specific way. Know these 10 exceptions and question tags become close to error-proof.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why a Checklist Beats Memorizing One Rule</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">The 10 Tricky Rules</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The 3-Second Verification Habit</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How Aditi Used This List Before Her SSC CGL Attempt</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Expert Shortcuts Toppers Actually Use</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
+</ol>
+
+<h2 id="section-3">Why a Checklist Beats Memorizing One Rule</h2>
+<p>The basic question-tag rule — flip the polarity, match the auxiliary — genuinely works for most sentences. The problem is that exam-setters specifically build questions around the sentences where it doesn't work cleanly. A single rule can't cover ten different exception categories; a checklist can.</p>
+
+<h2 id="section-4">The 10 Tricky Rules</h2>
+
+<p><strong>1. Hidden negatives (nobody, nothing, no one) take a positive tag.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> Nobody called, didn't they? &nbsp; <span style="color:#27ae60;">Correct:</span> Nobody called, did they?</p>
+
+<p><strong>2. "Never," "hardly," "scarcely," "seldom" also count as negatives.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> He never lies, doesn't he? &nbsp; <span style="color:#27ae60;">Correct:</span> He never lies, does he?</p>
+
+<p><strong>3. "I am" takes the fixed tag "aren't I," never "am I not."</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> I am right, am I not? &nbsp; <span style="color:#27ae60;">Correct (standard usage):</span> I am right, aren't I?</p>
+
+<p><strong>4. Imperative sentences take "will you?" not a statement-style tag.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> Close the window, do you? &nbsp; <span style="color:#27ae60;">Correct:</span> Close the window, will you?</p>
+
+<p><strong>5. "Let's" always takes "shall we?" regardless of the rest of the sentence.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> Let's begin, will we? &nbsp; <span style="color:#27ae60;">Correct:</span> Let's begin, shall we?</p>
+
+<p><strong>6. "Everyone," "someone," "anybody" take "they" in the tag.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> Everyone agreed, didn't he? &nbsp; <span style="color:#27ae60;">Correct:</span> Everyone agreed, didn't they?</p>
+
+<p><strong>7. "This" and "that" as subject take "it" in the tag.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> This is correct, aren't they? &nbsp; <span style="color:#27ae60;">Correct:</span> This is correct, isn't it?</p>
+
+<p><strong>8. "These" and "those" as subject take "they" in the tag.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> These are expensive, isn't it? &nbsp; <span style="color:#27ae60;">Correct:</span> These are expensive, aren't they?</p>
+
+<p><strong>9. Modal verbs (can, will, must, should) repeat in the tag — never switch to do/does/did.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> You can swim, don't you? &nbsp; <span style="color:#27ae60;">Correct:</span> You can swim, can't you?</p>
+
+<p><strong>10. In compound sentences, the tag matches the nearest (second) clause, not the first.</strong><br/>
+<span style="color:#c0392b;">Wrong:</span> He is tired but he will finish, is he? &nbsp; <span style="color:#27ae60;">Correct:</span> He is tired but he will finish, won't he?</p>
+
+<div style="max-width:700px;margin:30px auto;font-family:Arial,sans-serif;">
+  <h3 style="background:#1B3A6B;color:#F5A623;padding:14px 20px;border-radius:8px 8px 0 0;margin:0;font-size:18px;text-align:center;">
+    Quick-Revision Card
+  </h3>
+  <div style="border:2px solid #1B3A6B;border-top:none;border-radius:0 0 8px 8px;overflow:hidden;">
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#9989;</div>
+      <div><strong style="color:#1B3A6B;font-size:15px;">Rules 1-2: Hidden Negatives</strong>
+      <p style="margin:4px 0 0;color:#444;font-size:14px;">Nobody, nothing, no one, never, hardly, scarcely, seldom → positive tag.</p></div>
+    </div>
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#9989;</div>
+      <div><strong style="color:#1B3A6B;font-size:15px;">Rules 3-5: Fixed Forms</strong>
+      <p style="margin:4px 0 0;color:#444;font-size:14px;">I am → aren't I. Imperative → will you. Let's → shall we.</p></div>
+    </div>
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;border-bottom:1px solid #e0e8f5;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#9989;</div>
+      <div><strong style="color:#1B3A6B;font-size:15px;">Rules 6-8: Tricky Subjects</strong>
+      <p style="margin:4px 0 0;color:#444;font-size:14px;">Everyone/someone → they. This/that → it. These/those → they.</p></div>
+    </div>
+    <div style="display:flex;align-items:flex-start;padding:14px 18px;background:#fff;">
+      <div style="font-size:22px;margin-right:14px;margin-top:2px;">&#9989;</div>
+      <div><strong style="color:#1B3A6B;font-size:15px;">Rules 9-10: Structure Traps</strong>
+      <p style="margin:4px 0 0;color:#444;font-size:14px;">Modals repeat in the tag. Compound sentences tag the nearest clause.</p></div>
+    </div>
+  </div>
+  <p style="text-align:center;font-size:12px;color:#888;margin-top:8px;">ebookcharm — English Grammar Made Exam-Ready</p>
+</div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:14px 18px;margin:22px 0;border-radius:4px;">
+  <p style="margin:0;">Want all 186 rules and 60 traps, not just the top 10? The companion book below covers every question-tag exception in full, with 200+ drilled MCQs.</p>
+</div>
+
+<h2 id="section-5">The 3-Second Verification Habit</h2>
+<p>Before writing any tag, run this in order: (1) scan for a hidden negative word, (2) check if it's one of the three fixed forms (I am / imperative / let's), (3) check if the subject is a tricky pronoun (everyone/this/these), (4) check if a modal verb is present, (5) for compound sentences, tag the nearest clause. Five quick checks, run in that order, and every one of the 10 rules above gets caught automatically.</p>
+
+<h2 id="section-6">How Aditi Used This List Before Her SSC CGL Attempt</h2>
+<p>Aditi had three days left before her SSC CGL exam and no time for a full grammar review. She printed a version of this exact 10-rule list and drilled ten mixed sentences a day, checking each one against the checklist instead of trying to "feel out" the answer.</p>
+<p>By exam day, she wasn't recalling grammar rules from memory — she was running a five-second mental checklist. Question tags, a topic she'd been unsure about for months, became one of her fastest, most confident sections on the actual paper.</p>
+<p>You can do the same — here's how to start: write five sentences today using at least three of the 10 rules above, and check each against the checklist.</p>
+
+<h2 id="section-7">Expert Shortcuts Toppers Actually Use</h2>
+<p><strong>1. Group the 10 rules into three families, not ten separate facts.</strong> Hidden negatives, fixed forms, and structure traps — three categories are far easier to recall under pressure than ten isolated rules.</p>
+<p><strong>2. Say the tag out loud during practice.</strong> Question tags are a spoken-language feature; reading them aloud catches errors a silent read-through misses.</p>
+<p><strong>3. Revise this list in the last 10 minutes before your exam, not days before.</strong> A short, high-density checklist like this is built exactly for last-minute recall, not long-term deep study.</p>
+<p><strong>4. Don't skip the compound-sentence rule just because it "feels" less important.</strong> It's one of the most repeated traps precisely because most study material treats it as an afterthought.</p>
+
+<h2 id="section-8">Final Takeaway</h2>
+<p>Question tags reward preparation more than almost any other grammar topic — the rule set is small and finite, and every exception on this list repeats across exam cycles. Learn these 10, run the quick checklist, and this becomes one of your most reliable scoring sections.</p>
+
+<h2 id="section-10">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Is this different from the site's full Question Tags guide?</h4>
+  <p>A: Yes — that guide explains each rule in depth with full reasoning. This is a fast, scannable checklist built specifically for quick revision and last-minute recall.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Which of these 10 rules is tested most often in SSC and Bank exams?</h4>
+  <p>A: Hidden negatives (nobody, never, hardly) and the compound-sentence rule are the two most frequently repeated traps across recent papers.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid #eee;padding-bottom:10px;">
+  <h4>Q: Do I need to memorize all 10 rules, or just the common ones?</h4>
+  <p>A: All 10 are worth knowing — each one has appeared in real exam patterns. But if time is short, prioritize hidden negatives, modal verbs, and compound sentences first, since they repeat most often.</p>
+</div>
+    `
   }
 
 ];
