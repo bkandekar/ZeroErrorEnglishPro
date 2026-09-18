@@ -3453,11 +3453,11 @@ Students often correctly identify "if" and "although" clauses as subordinate but
     readingTime: "10 min read",
     difficulty: "Advanced",
     bookId: 9,
-    publishDate: "2024-01-01",
+    publishDate: "2024-09-18",
     description: "Examiners don't test question tags randomly — they repeat the same handful of formats and traps year after year. Here's the pattern, broken down by format and frequency, not just the rules.",
     formula: "Question tags appear in 3 formats (fill-in-blank, error-spotting, sentence-improvement) and cluster around the same 4-5 trap categories across papers",
     body: `
-<img src="images/question-tags-previous-year-papers-hero.jpg" 
+<img src="images/question-tags-previous-year-papers-hero.webp" 
      alt="Question Tags in Previous Year Papers examiner patterns"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
