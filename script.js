@@ -3692,6 +3692,333 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
   <p>A: Reading all 7 posts takes under an hour combined. Genuinely absorbing and practicing each one, spaced across a week as the roadmap suggests, is what makes the difference between reading about the topic and actually mastering it.</p>
 </div>
     `
+  },
+  
+  ,
+  {
+    slug: "articles-in-english-grammar-ssc-cgl",
+    title: "Articles in English Grammar for SSC CGL 2026: Complete Guide",
+    category: "Articles",
+    readingTime: "12 min read",
+    difficulty: "Beginner",
+    bookId: 10,
+    publishDate: "2026-09-21",
+    description: "Learn articles in English grammar for SSC CGL 2026: rules of a, an, the and zero article, common traps, solved examples and an exam-ready revision plan.",
+    formula: "A / An = sound of the next word | The = specific, known noun | No article = general idea",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-in-english-grammar-ssc-cgl-hero.webp" 
+     alt="Cards showing a, an, the and zero article for SSC CGL 2026 English grammar"
+     width="1200" height="675"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>Articles Look Harmless. That's Exactly Why They Cost Marks.</h2>
+<p>Just three small words, <em>a</em>, <em>an</em> and <em>the</em>, and sometimes no word at all. Yet these tiny words quietly cost SSC aspirants marks in error spotting, fill in the blanks and sentence improvement. Why? Because most students learn articles as a list of rules, and then freeze when a sentence doesn't look like the textbook example.</p>
+<p>This guide is built to fix that. You'll get the core rules of a, an, the and zero article, a clear picture of how articles show up in the SSC CGL English section, a four-step method for any article question, the traps that catch even careful students, and a practice set with answers. Every rule group also has a detailed article of its own in this series, so here we keep things connected instead of crowded.</p>
+<p>One note before we start. The SSC exam pattern and syllabus can change, so always check the latest official notification. All the practice questions in this series are SSC-style practice questions written for learning. They are not actual previous-year papers.</p>
+
+<div style="background:var(--color-primary-subtle);border-left:4px solid var(--color-primary);padding:15px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong>Quick answer:</strong> Use <em>a</em> or <em>an</em> with singular countable nouns, and choose by sound, not spelling. Use <em>the</em> when the noun is specific or known. Use no article for general plurals, uncountable nouns, meals, languages and "by" plus transport.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">What articles are and why exams test them</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">A, an, the and zero article at a glance</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">The three rule groups in brief</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">How articles appear in the exam</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">A 4-step method to solve any question</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">8 common traps</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">10 SSC-style practice questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Quick revision and a 7-day plan</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+</ol>
+
+<h2 id="section-1">What Are Articles, and Why Do Exams Keep Testing Them?</h2>
+<p>Articles are small words placed before a noun to show whether that noun is specific or general. English has two kinds. <em>A</em> and <em>an</em> are indefinite articles: they point to any one member of a group. <em>The</em> is the definite article: it points to a particular person, thing or idea that the speaker and listener both know. Sometimes a noun needs no article at all, and that case is called the zero article.</p>
+<p>So why do exam setters like them? There are three reasons.</p>
+<ul>
+  <li>They're small, so the eye skips over them in a long sentence.</li>
+  <li>The rules depend on meaning and sound, not just spelling, so guessing fails.</li>
+  <li>Mistakes feel natural to anyone who speaks English casually. "He is best player" sounds fine until you stop and check it.</li>
+</ul>
+<p>In SSC-type exams, article rules usually work behind the scenes. You may not see a question labelled "articles". You'll see a sentence split into four parts, and one part quietly needs a <em>the</em>.</p>
+
+<h2 id="section-2">A, An, The and Zero Article at a Glance</h2>
+<p>Read this table once before the detailed rules. It gives you the big picture in about a minute.</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:620px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Article</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Type</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Used with</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Core idea</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;"><strong>A</strong></td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Indefinite</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Singular countable noun starting with a consonant sound</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Any one, not specific</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">She bought a laptop.</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;"><strong>An</strong></td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Indefinite</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Singular countable noun starting with a vowel sound</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Any one, not specific</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">He carried an umbrella.</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;"><strong>The</strong></td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Definite</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Singular, plural or uncountable nouns</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">A specific, known noun</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">The laptop she bought is fast.</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;"><strong>Zero article</strong></td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">No article</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">General plurals, uncountable nouns, names, meals, languages</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">General idea, no particular one</td>
+      <td style="padding:10px 12px;border-bottom:1px solid var(--border-color);vertical-align:top;">Students need practice.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="section-3">The Three Rule Groups in Brief</h2>
+
+<h3>1. A and An: Sound Decides, Not Spelling</h3>
+<p>Use <em>a</em> before a consonant sound and <em>an</em> before a vowel sound. Notice the word <em>sound</em>. The first letter is not the test.</p>
+<ul>
+  <li>an hour, an honest man, an MBA student (the h is silent, and M is pronounced "em")</li>
+  <li>a university, a European tour, a one-rupee coin (these begin with a "y" or "w" sound)</li>
+  <li>a UPSC aspirant, but an SSC aspirant</li>
+</ul>
+<p>Also remember that <em>a</em> and <em>an</em> go only with singular countable nouns. You can say "a book", but not "a books" or "a water". The full breakdown, including abbreviations and tricky cases, is in our detailed guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/a-an-the-rules-ssc-cgl/">a and an rules with examples</a>.</p>
+
+<h3>2. The: Use It When the Noun Is Specific</h3>
+<p>Use <em>the</em> when the noun is known, unique or clearly identified. The main cases are:</p>
+<ul>
+  <li>Something already mentioned: "I bought a phone. The phone is fast."</li>
+  <li>Unique things: the sun, the sky, the Constitution.</li>
+  <li>Superlatives and ordinals: the best, the first.</li>
+  <li>Rivers, oceans, seas, mountain ranges and island groups: the Ganga, the Pacific, the Himalayas.</li>
+  <li>A group described by an adjective: the poor, the young.</li>
+</ul>
+<p>The exceptions are where the trouble starts, and they have their own space in our article on the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/definite-article-the-rules/">rules of the definite article</a>.</p>
+
+<h3>3. Zero Article: When No Article Is Needed</h3>
+<p>Skip the article when you speak about things in a general sense, or when the idiom demands it.</p>
+<ul>
+  <li>General plurals and uncountable nouns: "Students need practice." "Honesty pays."</li>
+  <li>Meals, languages and sports: have breakfast, speak Hindi, play cricket.</li>
+  <li>Transport and fixed phrases: by bus, at night, go to school (as a student).</li>
+  <li>Names of people, cities and most countries: Ravi, Pune, India.</li>
+</ul>
+<p>Compare "go to school" (to study) with "go to the school" (to visit the building). The words are almost the same, but the meaning changes. That kind of contrast is easy to build into a question. You'll find the complete list in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/zero-article-rules-ssc-cgl/">zero article rules with examples</a>.</p>
+
+<h2 id="section-4">How Articles Appear in the SSC CGL English Section</h2>
+<p>Articles can be tested in a few common formats. The format and weightage change from year to year, so treat what follows as a practice guide, not a promise of what will appear.</p>
+
+<h3>Fill in the blanks</h3>
+<p>You choose from <em>a</em>, <em>an</em>, <em>the</em> or no article.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>SSC-style example:</strong> He is ___ honest and hardworking officer.</p>
+  <p style="margin:0;"><strong>Answer:</strong> an. Honest begins with a vowel sound because the h is silent.</p>
+</div>
+
+<h3>Error spotting</h3>
+<p>The sentence is divided into parts, and you find the part with the error.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>SSC-style example:</strong> (A) My uncle is / (B) an university / (C) professor / (D) in Mumbai.</p>
+  <p style="margin:0;"><strong>Answer:</strong> (B). It should be "a university professor", because university begins with a "y" sound.</p>
+</div>
+
+<h3>Sentence improvement</h3>
+<p>A part of the sentence is underlined, and you pick the best replacement.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>SSC-style example:</strong> The Ganga is longest river in India.</p>
+  <p style="margin:0;"><strong>Improved:</strong> The Ganga is the longest river in India.</p>
+</div>
+<p>Articles can also be tested inside cloze passages, where you decide from the context whether a noun is specific or general.</p>
+
+<h2 id="section-5">A 4-Step Method to Solve Any Article Question</h2>
+<p>When a sentence involves an article, don't rely on "it sounds right". Run these four checks in order.</p>
+<ol>
+  <li><strong>Find the noun and its type.</strong> Is it singular countable (book), plural (books), uncountable (water, advice) or a proper noun (Delhi)?</li>
+  <li><strong>Ask "Which one?"</strong> If the listener knows exactly which one, use <em>the</em>. If it's any one and the noun is singular countable, use <em>a</em> or <em>an</em>. If you mean the idea in general with a plural or uncountable noun, use no article.</li>
+  <li><strong>For a or an, say the next word aloud.</strong> The word right after the article matters: an old house, but a huge house. Then decide by sound.</li>
+  <li><strong>Check the exception list.</strong> Institutions (school, hospital), transport (by bus), meals and fixed phrases follow their own patterns.</li>
+</ol>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Try it:</strong> He is ___ honest man and ___ university graduate.</p>
+  <p style="margin:0;">Step 1: both nouns are singular countable. Step 2: neither is specific, so we need indefinite articles. Step 3: "honest" begins with the vowel sound "o", and "university" begins with the "y" sound. <strong>Answer:</strong> an honest man and a university graduate.</p>
+</div>
+
+<h3>Same noun, different article, different meaning</h3>
+<p>Article choice doesn't only decide whether a sentence is correct. It can change what the sentence says. Compare these pairs.</p>
+<ul>
+  <li>"Bring me a book." Any book will do. "Bring me the book." One particular book, known to both of you.</li>
+  <li>"Few students passed." Almost none passed, and the tone is negative. "A few students passed." Some did, and the tone is positive.</li>
+  <li>"He has little hope." He is nearly hopeless. "He has a little hope." He still has some.</li>
+</ul>
+<p>Pairs like the last two are worth memorising, because a wrong article there doesn't just look untidy. It says the opposite of what you meant.</p>
+
+<h2 id="section-6">8 Common Traps in Article Questions</h2>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 1: Choosing by spelling instead of sound</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>She is a honest girl.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>She is an honest girl.</p>
+  <p style="margin:0;"><strong>Why:</strong> honest begins with a vowel sound because the h is silent.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 2: Missing the "w" and "y" sounds</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>It was an one-day match.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>It was a one-day match.</p>
+  <p style="margin:0;"><strong>Why:</strong> "one" begins with a "w" sound, which is a consonant sound. Words like university and European work the same way with a "y" sound.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 3: Dropping the with superlatives</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>He is best player in the team.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>He is the best player in the team.</p>
+  <p style="margin:0;"><strong>Why:</strong> a superlative points to one particular top member, so it needs <em>the</em>.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 4: Adding the before a general idea</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The honesty is the best policy.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>Honesty is the best policy.</p>
+  <p style="margin:0;"><strong>Why:</strong> honesty here is a general idea, not a particular instance of it.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 5: Using an article with meals</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>I had the breakfast at eight.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>I had breakfast at eight.</p>
+  <p style="margin:0;"><strong>Why:</strong> meals usually take no article. The exception is a specific meal: "The breakfast at the hotel was excellent."</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 6: Mishandling institutions and transport</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>She goes to the school by the bus.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>She goes to school by bus.</p>
+  <p style="margin:0;"><strong>Why:</strong> "school" here means studying, not the building, and "by" plus a mode of transport takes no article.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 7: Stacking two determiners</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>I lost the my pen.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>I lost my pen.</p>
+  <p style="margin:0;"><strong>Why:</strong> words like my, this and that already do the work of an article, so the two can't sit together.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 8: Using a with an uncountable noun</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>She gave me a good advice.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>She gave me good advice.</p>
+  <p style="margin:0;"><strong>Why:</strong> advice is uncountable. If you want a countable form, say "a piece of advice". Information, furniture and luggage behave the same way.</p>
+</div>
+
+<p>Want to see how these same traps hide inside four-part sentences? Our guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">article mistakes in error spotting</a> walks through them one by one.</p>
+
+<h2 id="section-7">10 SSC-Style Practice Questions</h2>
+<p>Set a timer for six minutes and try all ten before you open the answers. Choose from (A) a, (B) an, (C) the, (D) no article, unless the options say otherwise.</p>
+<ol style="padding-left:26px;">
+  <li style="margin-bottom:14px;">She bought ___ umbrella because it was raining.</li>
+  <li style="margin-bottom:14px;">He is ___ honest officer.</li>
+  <li style="margin-bottom:14px;">___ Ganga flows through several states.</li>
+  <li style="margin-bottom:14px;">___ Himalayas protect northern India from cold winds.</li>
+  <li style="margin-bottom:14px;">I usually have ___ breakfast at 8 a.m.</li>
+  <li style="margin-bottom:14px;">He goes to ___ school by ___ bus.
+    <span style="display:block;font-size:13px;color:var(--text-secondary);">(A) the / the &nbsp; (B) no article / no article &nbsp; (C) a / the &nbsp; (D) the / no article</span></li>
+  <li style="margin-bottom:14px;">Ravi is ___ best batsman in our college team.</li>
+  <li style="margin-bottom:14px;">She gave me ___ useful advice about my career.</li>
+  <li style="margin-bottom:14px;">She visited ___ European country last summer.</li>
+  <li style="margin-bottom:14px;">___ more you practise, ___ better you become.
+    <span style="display:block;font-size:13px;color:var(--text-secondary);">(A) The / the &nbsp; (B) A / the &nbsp; (C) The / a &nbsp; (D) No article / the</span></li>
+</ol>
+
+<details style="border:1px solid var(--border-color);border-radius:var(--radius-md);margin:16px 0 22px;background:var(--bg-card);">
+  <summary style="cursor:pointer;padding:12px 16px;font-weight:700;background:var(--color-accent-subtle);border-radius:var(--radius-md);">Show answers and explanations</summary>
+  <ol style="margin:14px 0 10px;padding-left:40px;padding-right:16px;line-height:1.65;">
+    <li><strong>(B) an.</strong> Umbrella begins with a vowel sound.</li>
+    <li><strong>(B) an.</strong> Honest has a silent h, so the sound is a vowel sound.</li>
+    <li><strong>(C) The.</strong> Names of rivers take <em>the</em>.</li>
+    <li><strong>(C) The.</strong> Mountain ranges take <em>the</em>.</li>
+    <li><strong>(D) no article.</strong> Meals take no article in a general sense.</li>
+    <li><strong>(B) no article / no article.</strong> "Go to school" means going as a student, and "by bus" takes no article.</li>
+    <li><strong>(C) the.</strong> A superlative needs <em>the</em>.</li>
+    <li><strong>(D) no article.</strong> Advice is uncountable, so <em>a</em> and <em>an</em> are out, and no particular advice is being identified.</li>
+    <li><strong>(A) a.</strong> European begins with a "y" sound, a consonant sound.</li>
+    <li><strong>(A) The / the.</strong> The pattern "the more..., the better..." uses <em>the</em> twice.</li>
+  </ol>
+</details>
+
+<p>If you missed more than three, don't worry. Note which rule caused each miss. That list will guide your revision better than doing another random set. For more timed sets, see our page of <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/">articles questions for SSC CGL with exam pattern and practice</a>.</p>
+
+<h2 id="section-8">Quick Revision and a 7-Day Plan</h2>
+
+<div style="background:#0F1B33;color:#FFFFFF;padding:20px 24px 8px;border-radius:var(--radius-lg);border-top:4px solid var(--color-accent);margin:18px 0 26px;">
+  <h3 style="color:#F5A623;margin:0 0 10px;">Quick revision box</h3>
+  <ul style="padding-left:22px;">
+    <li style="margin-bottom:8px;"><strong>A / an:</strong> decide by the sound of the next word. Use them only with singular countable nouns.</li>
+    <li style="margin-bottom:8px;"><strong>The:</strong> known nouns, unique things, superlatives, ordinals, rivers, oceans, seas and mountain ranges.</li>
+    <li style="margin-bottom:8px;"><strong>No article:</strong> general plurals, uncountable nouns, meals, languages, and "by" plus transport.</li>
+    <li style="margin-bottom:8px;"><strong>Never</strong> place two determiners together (the my, a this).</li>
+    <li style="margin-bottom:8px;"><strong>Uncountable nouns</strong> such as advice, information and furniture never take a or an.</li>
+    <li style="margin-bottom:8px;"><strong>Institutions</strong> such as school and hospital lose the article when they mean the purpose, not the building.</li>
+  </ul>
+</div>
+
+<h3>A simple 7-day plan</h3>
+<ul style="list-style:none;padding-left:0;">
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 1:</strong> Learn the a / an sound rule. Write ten sentences of your own with tricky words.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 2:</strong> Study the rules of <em>the</em>. Write two sentences for each rule.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 3:</strong> Study zero article, school and hospital phrases, and transport phrases.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 4:</strong> Solve 20 fill-in-the-blank questions against the clock.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 5:</strong> Solve 15 error spotting questions and note every wrong answer.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 6:</strong> Try sentence improvement and one mixed set. Revisit your error notes.</li>
+  <li style="padding:10px 14px;margin-bottom:6px;background:var(--bg-secondary);border-left:4px solid var(--color-accent);"><strong>Day 7:</strong> Redo every missed question and re-read the eight traps.</li>
+</ul>
+
+<p>Reading the rules once isn't the same as owning them. Most aspirants do better when the complete rules, tricky cases, error spotting practice, MCQs and revision support sit in one place, in an order that builds. If you'd like a structured, SSC-focused resource for that kind of revision, you can see what's inside <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#book/articles-for-ssc-cgl-2026-zero-errors">Articles For SSC CGL 2026 &ndash; Zero Errors</a>. The free guides in this series will still give you a solid start.</p>
+
+<h2 id="section-9">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What are the rules of articles for SSC CGL?</h4>
+  <p>A: The rules fall into three groups. Use <em>a</em> or <em>an</em> with singular countable nouns, choosing by sound. Use <em>the</em> with specific or known nouns, superlatives, ordinals, rivers and similar names. Use no article with general plurals, uncountable nouns, meals, languages and "by" plus transport. Then learn the exceptions.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: When do we use "the"?</h4>
+  <p>A: Use <em>the</em> when the noun is clearly identified: it was mentioned before, it is unique, or it is made specific by a phrase such as "of the school". It also goes with superlatives, ordinal numbers and names like the Ganga and the Himalayas.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: When is no article used?</h4>
+  <p>A: No article is used with plural and uncountable nouns in a general sense ("Books are useful"), with meals, languages and sports, with most names of people and places, and in fixed phrases such as "by train" and "at night".</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What is the difference between "a" and "an"?</h4>
+  <p>A: Both mean "one of many". The only difference is sound. <em>A</em> comes before a consonant sound and <em>an</em> before a vowel sound, so we say "an hour" but "a university".</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How can I solve article questions in SSC CGL?</h4>
+  <p>A: Follow the four-step method: identify the noun type, ask whether it's specific or general, check the sound for a or an, and test the exception list. Then practise under time pressure and keep a log of your mistakes so you can see which rule needs work.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What are the common article errors in competitive exams?</h4>
+  <p>A: The most common ones are choosing a or an by spelling, dropping <em>the</em> before superlatives, adding <em>the</em> before general ideas, using a or an with uncountable nouns, and mishandling phrases such as "go to school" and "by bus".</p>
+</div>
+
+<h2>Where to Go Next</h2>
+<p>Articles reward clear thinking more than memory. Pick the rule group that feels weakest, read its detailed guide, and then test yourself. If error spotting is your weak area, start with the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">common article mistakes and how to fix them</a>. If you need more practice, move on to the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/">SSC-style article questions and preparation plan</a>.</p>
+    `
   }
 
 ];
