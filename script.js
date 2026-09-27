@@ -4273,11 +4273,11 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     readingTime: "12 min read",
     difficulty: "Beginner",
     bookId: 10,
-    publishDate: "2026-10-03",
+    publishDate: "2026-09-27",
     description: "Learn a and an rules with examples for SSC CGL. Master the vowel sound rule, tricky cases like hour and university, and avoid the most common exam errors.",
     formula: "A = consonant sound | An = vowel sound | Always judge by sound, never spelling",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/a-an-the-rules-ssc-cgl-hero.webp" 
+<img src="images/a-an-the-rules-ssc-cgl-hero.webp" 
      alt="A and An word cards showing the sound rule for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -4555,11 +4555,11 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     readingTime: "12 min read",
     difficulty: "Intermediate",
     bookId: 10,
-    publishDate: "2026-10-06",
+    publishDate: "2026-09-27",
     description: "Confused about when to use 'the'? Learn definite article rules with examples, exceptions and exam traps, plus SSC-style practice questions with answers.",
     formula: "The = known, unique, superlative, ordinal, or a fixed geographical/idiomatic category",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/definite-article-the-rules-hero.webp" 
+<img src="images/definite-article-the-rules-hero.webp" 
      alt="THE word card with examples of definite article rules for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -4828,11 +4828,11 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     readingTime: "12 min read",
     difficulty: "Intermediate",
     bookId: 10,
-    publishDate: "2026-10-09",
+    publishDate: "2026-09-27",
     description: "Know when no article is needed. Learn zero article rules with examples: meals, languages, transport, places, abstract nouns and exam-style traps for SSC.",
     formula: "No article = general plural/uncountable nouns, meals, languages, most names, by + transport",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/zero-article-rules-ssc-cgl-hero.webp" 
+<img src="images/zero-article-rules-ssc-cgl-hero.webp" 
      alt="No article symbol with examples of zero article rules for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
