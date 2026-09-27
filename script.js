@@ -4533,11 +4533,11 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     readingTime: "11 min read",
     difficulty: "Beginner",
     bookId: 10,
-    publishDate: "2026-10-01",
+    publishDate: "2026-09-27",
     description: "Explore Articles For SSC CGL 2026 - Zero Errors: what the book covers, who it suits best, how to use it for daily revision and where to get it on Amazon.",
     formula: "Learn the rule -> practise against named traps -> revise on a 30-day cycle",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-ssc-cgl-2026-zero-errors-ebook-hero.webp" 
+<img src="images/articles-ssc-cgl-2026-zero-errors-ebook-hero.webp" 
      alt="Articles For SSC CGL 2026 Zero Errors paperback book cover on a study desk"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
