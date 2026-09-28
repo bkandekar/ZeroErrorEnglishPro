@@ -5529,7 +5529,147 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
 <h2>Where to Go Next</h2>
 <p>Articles are a small part of the English syllabus by word count, but a consistent part of it by how often they're tested, across fill in the blanks, error spotting and sentence improvement alike. That combination, small and frequent, is exactly what makes them worth mastering properly rather than leaving to chance. Whichever path you choose, the free guides or the structured paperback, the goal is the same: stop losing marks on a topic that's genuinely learnable with the right structure. Revisit the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-in-english-grammar-ssc-cgl/">complete articles guide</a> any time you need a refresher on the fundamentals, or the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">error spotting guide</a> when you want to sharpen recognition speed before your next mock test.</p>
     `
-  }
+  },
+  
+  {
+    slug: "active-and-passive-voice-for-competitive-exams",
+    title: "Active and Passive Voice for Competitive Exams: Complete Guide with Rules and Examples",
+    category: "Voice",
+    readingTime: "14 min read",
+    difficulty: "Beginner",
+    bookId: 11,
+    publishDate: "2026-09-28",
+    description: "Master Active and Passive Voice for SSC CGL, Banking and Railway exams. Complete rules, tense conversion tables,  common traps, error spotting practice and a clear 30-day revision path.",
+    formula: "Identify the object → change the verb form → add 'by' only when needed → check tense consistency",
+    body: `
+<img src="images/active-passive-voice-competitive-exams-hero.webp" 
+     alt="Active and Passive Voice for Competitive Exams complete guide cover"
+     width="1200" height="675"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>Why Active and Passive Voice Still Cost Marks</h2>
+<p>Almost every aspirant knows the basic definition: in Active Voice the subject does the action; in Passive Voice the subject receives the action. Yet in almost every SSC CGL, CHSL, Banking and Railway mock, 2–4 marks are lost only on voice questions. The reason is simple — the rules look easy when explained, but under time pressure the conversion of tense, the correct form of “be”, and the decision of whether to keep or drop the “by” phrase become automatic traps.</p>
+<p>This Day 1 guide closes that gap. You will get the complete rule set, tense-by-tense conversion tables, the most common named traps, a clear decision method, and a practical way to practise so the skill becomes automatic rather than effortful.</p>
+
+<div style="background:var(--color-primary-subtle);border-left:4px solid var(--color-primary);padding:15px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong>Quick facts:</strong> Active and Passive Voice is tested in Error Spotting, Sentence Improvement and Fill in the Blanks across SSC CGL, Banking and Railway exams. Mastering the conversion rules and the most frequent traps usually recovers 3–5 marks that are otherwise lost every paper.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Why voice questions keep costing marks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Complete rules: Active → Passive conversion</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Tense-by-tense conversion table</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Special cases and named traps</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">How to practise: the 4-step checking method</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Who should focus on this topic now</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+</ol>
+
+<h2 id="section-1">Why Voice Questions Keep Costing Marks</h2>
+<p>The core idea is simple. The difficulty appears only when three things have to happen at the same time:</p>
+<ul>
+  <li>The object of the active sentence must become the subject of the passive sentence.</li>
+  <li>The verb must change into the correct form of “be + V3” according to the original tense.</li>
+  <li>The original subject is either dropped or placed after “by”, depending on whether it is important or known.</li>
+</ul>
+<p>Under exam pressure most aspirants either change the tense incorrectly, forget the “being / been” forms, or keep an unnecessary “by” phrase. That is exactly what this guide is built to eliminate.</p>
+
+<h2 id="section-2">Complete Rules: Active → Passive Conversion</h2>
+<p>The basic formula never changes:</p>
+<p><strong>Object of Active + appropriate form of “be” + V3 (+ by + original subject)</strong></p>
+<p>Only transitive verbs (verbs that take an object) can be changed into Passive Voice. Intransitive verbs have no object, so they cannot form a passive sentence.</p>
+
+<h3>When to use Passive Voice in exams</h3>
+<ul>
+  <li>The doer is unknown or unimportant.</li>
+  <li>The focus is on the action or the receiver of the action.</li>
+  <li>The sentence sounds more formal or objective (common in official notices and reports).</li>
+</ul>
+
+<h2 id="section-3">Tense-by-Tense Conversion Table</h2>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:560px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Tense</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Present Simple</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">writes / write</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is / am / are written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Present Continuous</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is writing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is / am / are being written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Present Perfect</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has / have written</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has / have been written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Past Simple</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">wrote</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was / were written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Past Continuous</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was writing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was / were being written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Past Perfect</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had written</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had been written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Future Simple</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will write</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will be written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Future Perfect</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will have written</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will have been written</td></tr>
+    <tr><td style="padding:10px 12px;">Modals</td><td style="padding:10px 12px;">can / may / must write</td><td style="padding:10px 12px;">can / may / must be written</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="section-4">Special Cases and Named Traps</h2>
+<p>These are the traps that appear most frequently in SSC and Banking papers:</p>
+<ul>
+  <li><strong>Trap 1 – Missing “being / been”</strong>: Present Continuous and Perfect forms are the most common error sources.</li>
+  <li><strong>Trap 2 – Unnecessary “by” phrase</strong>: When the doer is unknown or obvious, the “by” phrase should be dropped.</li>
+  <li><strong>Trap 3 – Wrong form of “be”</strong>: Matching the number and person of the new subject is mandatory.</li>
+  <li><strong>Trap 4 – Imperative sentences</strong>: “Open the door” → “Let the door be opened.”</li>
+  <li><strong>Trap 5 – Verbs with two objects</strong>: Either object can become the subject; both forms are usually accepted if grammar is correct.</li>
+  <li><strong>Trap 6 – “Who” questions</strong>: “Who wrote this?” → “By whom was this written?”</li>
+</ul>
+
+<h2 id="section-5">How to Practise: The 4-Step Checking Method</h2>
+<ol>
+  <li><strong>Identify</strong> whether the verb is transitive and locate the object.</li>
+  <li><strong>Change</strong> the object into the new subject and put the correct form of “be + V3”.</li>
+  <li><strong>Decide</strong> whether the original subject needs “by” or can be dropped.</li>
+  <li><strong>Verify</strong> tense consistency and subject-verb agreement with the new subject.</li>
+</ol>
+<p>Practise this sequence on 10–15 sentences every day for two weeks. The recognition speed improves dramatically once the steps become automatic.</p>
+
+<h2 id="section-6">Who Should Focus on This Topic Now</h2>
+<ul>
+  <li>You are preparing for SSC CGL, CHSL, Banking or Railway and still lose marks on voice questions.</li>
+  <li>You know the basic rule but make mistakes under time pressure in mocks.</li>
+  <li>You want a clear, structured method instead of scattered notes.</li>
+</ul>
+<p>If you already score full marks on voice questions across multiple recent mocks, move your revision time to weaker areas.</p>
+
+<div style="text-align:center;background:#0F1B33;padding:24px 20px;border-radius:var(--radius-lg);margin:24px 0;border-top:4px solid var(--color-accent);">
+  <p style="color:#FFFFFF;margin:0 0 14px;font-size:17px;">Master Active &amp; Passive Voice completely</p>
+  <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#blog" style="display:inline-block;background:#F5A623;color:#0F1B33;font-weight:800;padding:12px 28px;border-radius:6px;text-decoration:none;font-size:16px;">VIEW ALL GRAMMAR GUIDES</a>
+</div>
+
+<h2 id="section-7">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Can every sentence be changed into Passive Voice?</h4>
+  <p>A: No. Only sentences with transitive verbs (verbs that take an object) can be changed. Intransitive verbs have no object, so Passive Voice is not possible.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Is the “by” phrase always necessary?</h4>
+  <p>A: No. When the doer is unknown, unimportant or obvious from context, the “by” phrase is usually omitted.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Which tenses cause the most errors in exams?</h4>
+  <p>A: Present Continuous, Present Perfect and Past Continuous. The “being” and “been” forms are frequently missed.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How should I practise for Error Spotting?</h4>
+  <p>A: Take any active sentence, convert it correctly, then deliberately create the common wrong versions and practise spotting them under time limit.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Is Active and Passive Voice asked in Banking exams as well?</h4>
+  <p>A: Yes. The same rules apply. Banking papers also test voice through Error Spotting and Sentence Improvement.</p>
+</div>
+
+<h2>Where to Go Next</h2>
+<p>Active and Passive Voice is a high-frequency, high-accuracy topic. Once the conversion rules and the main traps are automatic, the marks become almost free. Revisit this page whenever you need a quick revision of the tense table or the 4-step method before a mock test.</p>
+    `
+    }
 ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
