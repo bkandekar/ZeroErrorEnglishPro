@@ -5669,7 +5669,338 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
 <h2>Where to Go Next</h2>
 <p>Active and Passive Voice is a high-frequency, high-accuracy topic. Once the conversion rules and the main traps are automatic, the marks become almost free. Revisit this page whenever you need a quick revision of the tense table or the 4-step method before a mock test.</p>
     `
-    }
+    },
+
+  
+
+  {
+    slug: "passive-voice-rules-for-all-tenses",
+    title: "Passive Voice Rules for All Tenses: Conversion Chart with Examples",
+    category: "Voice",
+    readingTime: "13 min read",
+    difficulty: "Intermediate",
+    bookId: 4,
+    publishDate: "2026-09-29",
+    description: "Passive voice rules for all tenses with a complete conversion chart, a 5-step method, common traps and 10 practice sentences with answers.",
+    formula: "Object + be verb (same tense) + V3 + (by + doer)",
+    body: `
+<img src="images/passive-voice-rules-for-all-tenses-hero.webp" 
+     alt="Passive voice conversion chart for all tenses with the be verb and V3 pattern"
+     width="1200" height="675"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>Twelve Tenses, One Pattern</h2>
+<p>Ask a class of aspirants how many passive voice formulas they know, and you'll hear numbers like twelve, sixteen, even twenty. Then ask them to convert "The clerk is writing the report", and half of them freeze. That is the trap of memorising formulas one by one: the moment a sentence looks slightly different from the textbook line, the memory slips.</p>
+<p>The good news is that passive voice isn't twelve separate rules. It's one pattern with three small add-ons. This guide gives you the complete passive voice rules for all tenses, a conversion chart you can revise in five minutes, a five-step method for any sentence, the common traps that cost marks, and ten practice sentences with answers.</p>
+<p>A quick note on the practice material. Every sentence in this post is an original practice sentence written for learning. None of them is a previous-year question. Exam patterns change from year to year, so always check the latest official notification for your exam.</p>
+
+<div style="background:var(--color-primary-subtle);border-left:4px solid var(--color-primary);padding:15px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong>Quick answer:</strong> To make a passive sentence, the object of the active sentence becomes the subject, the verb becomes <em>be verb (in the same tense) + V3</em>, and the old subject can follow "by". Only the be verb changes with the tense. The main verb always stays in V3.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">The one pattern behind every passive sentence</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">The 5-step conversion method</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Passive voice rules for all tenses: the conversion chart</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Three memory helpers</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Getting the be verb and pronouns right</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">When to drop the "by" part</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Sentences with two objects</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">6 common traps</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">10 practice sentences</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Quick revision</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+</ol>
+
+<h2 id="section-1">The One Pattern Behind Every Passive Sentence</h2>
+<p>In an active sentence, the subject does the action: "Ravi writes a letter." In a passive sentence, the subject receives the action: "A letter is written by Ravi." The meaning is the same. What changes is the focus.</p>
+<p>Every passive sentence, in every tense, is built the same way:</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0;"><strong>Object + be verb (same tense as the active verb) + V3 + (by + doer)</strong></p>
+</div>
+<p>Look at the example again. "Writes" is simple present, so the passive uses the simple present of be, which is "is". Then comes the third form of the verb, "written". The tense hasn't changed. It has only moved from the main verb to the be verb.</p>
+
+<h3>V3 is the one thing you must get right</h3>
+<p>Because V3 always comes last, wrong third forms ruin the whole sentence. Many aspirants mix up the second and third forms of irregular verbs. Keep these pairs handy:</p>
+<ul>
+  <li>write: wrote (V2), written (V3)</li>
+  <li>take: took (V2), taken (V3)</li>
+  <li>see: saw (V2), seen (V3)</li>
+  <li>give: gave (V2), given (V3)</li>
+  <li>sing: sang (V2), sung (V3)</li>
+  <li>drive: drove (V2), driven (V3)</li>
+  <li>eat: ate (V2), eaten (V3)</li>
+</ul>
+
+<h2 id="section-2">The 5-Step Conversion Method</h2>
+<p>When you meet an active sentence in an exam, don't reach for a formula. Follow these five steps in order.</p>
+<ol>
+  <li><strong>Find the subject, verb and object.</strong> A passive sentence needs an object, so if there isn't one, stop here.</li>
+  <li><strong>Name the tense of the active verb.</strong> Look at the helping verbs: is/am/are + V-ing is present continuous, has/have + V3 is present perfect, and so on.</li>
+  <li><strong>Move the object to the front</strong> as the new subject. If it's a pronoun, change it to the subject form (me becomes I).</li>
+  <li><strong>Write the be verb in the same tense,</strong> matching the new subject, and add V3 of the main verb.</li>
+  <li><strong>Add "by + doer"</strong> if the doer matters, using the object form for pronouns (by him, by me).</li>
+</ol>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Worked example:</strong> The manager is signing the documents.</p>
+  <p style="margin:0 0 6px;">Step 1: subject = the manager, verb = is signing, object = the documents.</p>
+  <p style="margin:0 0 6px;">Step 2: present continuous.</p>
+  <p style="margin:0 0 6px;">Step 3: "The documents" moves to the front.</p>
+  <p style="margin:0 0 6px;">Step 4: present continuous passive = is/am/are + being + V3. The subject is plural, so "are being signed".</p>
+  <p style="margin:0;">Step 5: add "by the manager". <strong>Answer: The documents are being signed by the manager.</strong></p>
+</div>
+
+<h2 id="section-3">Passive Voice Rules for All Tenses: The Conversion Chart</h2>
+<p>This chart uses one sentence throughout, so you can see exactly what changes from row to row. Start with the eight main forms, which are the ones you'll meet most often.</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:760px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Tense</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active verb</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive verb</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active example</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Simple present</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">V1 / V1+s</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is/am/are + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk writes the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report is written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Present continuous</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is/am/are + V-ing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is/am/are + being + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk is writing the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report is being written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Present perfect</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has/have + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has/have + been + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk has written the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report has been written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Simple past</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">V2</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was/were + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk wrote the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report was written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Past continuous</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was/were + V-ing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">was/were + being + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk was writing the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report was being written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Past perfect</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had + been + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk had written the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report had been written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Simple future</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will/shall + V1</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will/shall + be + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The clerk will write the report.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report will be written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;"><strong>Future perfect</strong></td><td style="padding:10px 12px;">will/shall + have + V3</td><td style="padding:10px 12px;">will/shall + have been + V3</td><td style="padding:10px 12px;">The clerk will have written the report.</td><td style="padding:10px 12px;">The report will have been written by the clerk.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3>The four rarely used forms</h3>
+<p>Grammar books list four more tenses to make twelve. They can be converted, but the results sound clumsy, and writers usually switch to the active voice or a simpler tense instead. Learn the pattern so you can recognise it, but master the eight main forms first.</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:760px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Tense</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active verb</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive verb</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Present perfect continuous</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has/have been + V-ing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has/have been being + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report has been being written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Past perfect continuous</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had been + V-ing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">had been being + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report had been being written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>Future continuous</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will be + V-ing</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will be being + V3</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The report will be being written by the clerk.</td></tr>
+    <tr><td style="padding:10px 12px;"><strong>Future perfect continuous</strong></td><td style="padding:10px 12px;">will have been + V-ing</td><td style="padding:10px 12px;">will have been being + V3</td><td style="padding:10px 12px;">The report will have been being written by the clerk.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="section-4">Three Memory Helpers That Replace Twelve Formulas</h2>
+<p>You don't need to memorise every row of the chart. You need three helpers, and one fact that never changes.</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:560px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">If the active verb has...</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">The passive verb adds...</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">V-ing (continuous)</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>being</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">is being written, was being written</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">have/has/had + V3 (perfect)</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);"><strong>been</strong></td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">has been written, had been written</td></tr>
+    <tr><td style="padding:10px 12px;">will/shall (future)</td><td style="padding:10px 12px;"><strong>be</strong> after will/shall</td><td style="padding:10px 12px;">will be written, will have been written</td></tr>
+  </tbody>
+</table>
+</div>
+<p>The fact that never changes: the word just before V3 is always a form of be. That form might be is, am, are, was, were, be, been or being. If you write a passive sentence and the word before V3 isn't one of these, something is missing.</p>
+<p>Use that as a two-second check at the end of every conversion. "The report has written" fails the check, because "has" isn't a form of be. It should be "has been written".</p>
+
+<h2 id="section-5">Getting the Be Verb and Pronouns Right</h2>
+<h3>Let the new subject decide the be verb</h3>
+<p>After conversion, the passive subject decides whether you use is or are, was or were, has or have. Never carry the number over from the old subject.</p>
+<ul>
+  <li>"The clerk writes reports." becomes "Reports are written by the clerk." (plural subject, so "are")</li>
+  <li>"The clerk wrote the report." becomes "The report was written by the clerk." (singular subject, so "was")</li>
+  <li>"The clerk has written two reports." becomes "Two reports have been written by the clerk." (plural subject, so "have")</li>
+</ul>
+
+<h3>Pronouns change form in two places</h3>
+<p>Pronouns cause a lot of avoidable mistakes because they change form twice: once when the object moves to the front, and again when the old subject goes after "by".</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:560px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active object (moves to the front)</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Becomes passive subject</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active subject</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Becomes "by" phrase</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">me</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">I</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">I</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">by me</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">us</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">we</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">we</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">by us</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">him</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">he</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">he</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">by him</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">her</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">she</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">she</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">by her</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">them</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">they</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">they</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">by them</td></tr>
+    <tr><td style="padding:10px 12px;">you / it</td><td style="padding:10px 12px;">you / it</td><td style="padding:10px 12px;">you / it</td><td style="padding:10px 12px;">by you / by it</td></tr>
+  </tbody>
+</table>
+</div>
+<ul>
+  <li>"She helps me." becomes "I am helped by her." Note "am", because the new subject is "I".</li>
+  <li>"They invited us." becomes "We were invited by them."</li>
+  <li>"He teaches them." becomes "They are taught by him."</li>
+</ul>
+
+<h2 id="section-6">When to Drop the "by" Part</h2>
+<p>The "by + doer" phrase is optional. In fact, one of the main reasons people use the passive is that the doer isn't worth mentioning. Drop it in these situations:</p>
+<ul>
+  <li><strong>The doer is unknown:</strong> "Someone stole my bike." becomes "My bike was stolen."</li>
+  <li><strong>The doer is obvious:</strong> "They arrested the thief." becomes "The thief was arrested."</li>
+  <li><strong>The doer is people in general:</strong> "People speak English all over the world." becomes "English is spoken all over the world."</li>
+</ul>
+<p>Keep it when the doer is the new or important information: "Hamlet was written by Shakespeare." In most textbook conversion questions, the safe approach is to keep "by + doer" unless the active subject is a vague word like someone, people or they. If your question paper gives options, choose the one that matches the meaning of the original sentence.</p>
+
+<h2 id="section-7">Sentences With Two Objects</h2>
+<p>Some verbs, such as give, teach, send and show, can take two objects: an indirect object (the receiver) and a direct object (the thing given). Both can become the subject of a passive sentence, so there are two correct answers.</p>
+<ul>
+  <li>Active: "She gave me a book."</li>
+  <li>Passive 1: "I was given a book by her." (indirect object becomes the subject)</li>
+  <li>Passive 2: "A book was given to me by her." (direct object becomes the subject, and "to" stays)</li>
+</ul>
+<p>Another example: "The teacher taught the students grammar." becomes "The students were taught grammar by the teacher" or "Grammar was taught to the students by the teacher". If only one of these appears in the options, choose it.</p>
+
+<h2 id="section-8">6 Common Traps in Tense-Wise Conversion</h2>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 1: V2 instead of V3</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The letter was wrote by Ravi.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The letter was written by Ravi.</p>
+  <p style="margin:0;"><strong>Why:</strong> A passive verb always ends in V3. "Wrote" is the second form; "written" is the third.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 2: Missing "being" in a continuous tense</h3>
+  <p style="margin:0 0 6px;">Active: The workers are repairing the road.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The road is repaired by the workers.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The road is being repaired by the workers.</p>
+  <p style="margin:0;"><strong>Why:</strong> Without "being", the sentence turns into simple present. The road isn't being repaired right now; it is repaired as a habit.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 3: Missing "been" in a perfect tense</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The report has written by the clerk.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The report has been written by the clerk.</p>
+  <p style="margin:0;"><strong>Why:</strong> The word before V3 must be a form of be. "Has" alone doesn't qualify, so "been" is needed.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 4: The be verb doesn't match the new subject</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The reports was written by the clerk.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The reports were written by the clerk.</p>
+  <p style="margin:0;"><strong>Why:</strong> "Reports" is plural, so the past form must be "were", not "was".</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 5: Changing the tense during conversion</h3>
+  <p style="margin:0 0 6px;">Active: She sang a song.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>A song is sung by her.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>A song was sung by her.</p>
+  <p style="margin:0;"><strong>Why:</strong> The active sentence is in the simple past, so the be verb must also be in the past: "was", not "is".</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 6: Leaving a pronoun in the wrong form</h3>
+  <p style="margin:0 0 6px;">Active: Ravi helps me.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>Me is helped by Ravi.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>I am helped by Ravi.</p>
+  <p style="margin:0;"><strong>Why:</strong> The object pronoun "me" becomes the subject form "I", and the be verb agrees with it ("am"). In the other direction, a subject pronoun goes into the object form after "by", as in "by me" and "by him".</p>
+</div>
+
+<p>These traps show up again in error spotting questions, where the mistake is hidden inside a longer sentence. If you want to see how, read our guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-passive-voice-error-spotting/">active and passive voice errors in error spotting</a>.</p>
+
+<h2 id="section-9">10 Practice Sentences With Answers</h2>
+<p>Convert each sentence into the passive voice. Give yourself eight minutes, and name the tense before you write. These are practice sentences (exam-pattern-based), not previous-year questions.</p>
+<ol style="padding-left:26px;">
+  <li style="margin-bottom:12px;">The teacher explains the lesson.</li>
+  <li style="margin-bottom:12px;">They are building a new bridge.</li>
+  <li style="margin-bottom:12px;">The committee has approved the proposal.</li>
+  <li style="margin-bottom:12px;">Meera wrote an essay.</li>
+  <li style="margin-bottom:12px;">The mechanic was repairing the car.</li>
+  <li style="margin-bottom:12px;">The officer had signed the file.</li>
+  <li style="margin-bottom:12px;">The company will announce the results tomorrow.</li>
+  <li style="margin-bottom:12px;">The students will have completed the project by Friday.</li>
+  <li style="margin-bottom:12px;">Someone stole my wallet.</li>
+  <li style="margin-bottom:12px;">Ravi helps me.</li>
+</ol>
+<details style="border:1px solid var(--border-color);border-radius:var(--radius-md);margin:16px 0 22px;background:var(--bg-card);">
+  <summary style="cursor:pointer;padding:12px 16px;font-weight:700;background:var(--color-accent-subtle);border-radius:var(--radius-md);">Show answers and explanations</summary>
+  <ol style="margin:14px 0 10px;padding-left:40px;padding-right:16px;line-height:1.7;">
+    <li><strong>The lesson is explained by the teacher.</strong> Simple present: is + V3.</li>
+    <li><strong>A new bridge is being built by them.</strong> Present continuous: is being + V3.</li>
+    <li><strong>The proposal has been approved by the committee.</strong> Present perfect: has been + V3.</li>
+    <li><strong>An essay was written by Meera.</strong> Simple past: was + V3.</li>
+    <li><strong>The car was being repaired by the mechanic.</strong> Past continuous: was being + V3.</li>
+    <li><strong>The file had been signed by the officer.</strong> Past perfect: had been + V3.</li>
+    <li><strong>The results will be announced by the company tomorrow.</strong> Simple future: will be + V3.</li>
+    <li><strong>The project will have been completed by the students by Friday.</strong> Future perfect: will have been + V3.</li>
+    <li><strong>My wallet was stolen.</strong> Simple past. The doer is unknown, so "by + doer" is dropped.</li>
+    <li><strong>I am helped by Ravi.</strong> Simple present. "Me" becomes "I", and the be verb becomes "am".</li>
+  </ol>
+</details>
+<p>If you got fewer than eight right, check your mistakes against the traps above.</p>
+
+<h2 id="section-10">Quick Revision</h2>
+<div style="background:#0F1B33;color:#FFFFFF;padding:20px 24px 8px;border-radius:var(--radius-lg);border-top:4px solid var(--color-accent);margin:18px 0 26px;">
+  <h3 style="color:#F5A623;margin:0 0 10px;">Before every conversion, remember:</h3>
+  <ul style="padding-left:22px;">
+    <li style="margin-bottom:8px;">Pattern: object + be verb (same tense) + V3 + (by + doer).</li>
+    <li style="margin-bottom:8px;">The tense never changes. Only the be verb shows it.</li>
+    <li style="margin-bottom:8px;">Continuous tenses add <strong>being</strong>. Perfect tenses add <strong>been</strong>. Future tenses use <strong>will be</strong>.</li>
+    <li style="margin-bottom:8px;">The word just before V3 must be a form of be.</li>
+    <li style="margin-bottom:8px;">The new subject decides is/are, was/were and has/have.</li>
+    <li style="margin-bottom:8px;">Object pronouns become subject pronouns (me to I), and subject pronouns become "by me, by him".</li>
+    <li style="margin-bottom:8px;">Drop "by + doer" when the doer is unknown, obvious or people in general.</li>
+  </ul>
+</div>
+
+<h3>Where this fits in a structured plan</h3>
+<p>A chart like this is easy to read and easy to forget. What makes it stick is repeated practice on mixed sentences, with a clear method and a record of your mistakes. If you'd like that in one structured place, The Ultimate Guide to Active &amp; Passive Voice for Competitive Exams is built around the same idea. Its units cover the core conversion formula and passive voice across all twelve tenses, then move on to modals, exceptions and formal usage. You can look at the details on the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#book/active-and-passive-voice-competitive-exams">book page</a>. The free guides in this series will still give you a solid start.</p>
+
+<h2 id="section-11">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What are the passive voice rules for all tenses?</h4>
+  <p>A: In every tense, the object of the active sentence becomes the subject, the be verb takes the same tense as the active verb, and the main verb changes to V3. Continuous tenses add "being", and perfect tenses add "been".</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How many tenses can be converted into passive voice?</h4>
+  <p>A: Twelve, in theory. Eight of them are used regularly: the simple, continuous and perfect forms of the present and past, plus the simple future and future perfect. The four perfect continuous and future continuous forms sound clumsy, so writers rarely use them.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Why do we use "being" in the present and past continuous passive?</h4>
+  <p>A: The continuous tense needs the -ing form of a verb. In the passive, that -ing form belongs to "be", so "is writing" becomes "is being written". Without "being", the sentence changes to a different tense.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Do I always have to write "by + doer" in the passive sentence?</h4>
+  <p>A: No. Drop it when the doer is unknown, obvious or people in general, as in "My bike was stolen." Keep it when the doer is important information.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Can every active sentence be changed into the passive voice?</h4>
+  <p>A: No. A passive sentence needs an object, so sentences without one, such as "The train arrived late", can't be converted. A few verbs of possession and resemblance also usually refuse the passive.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How do I convert a sentence that has two objects?</h4>
+  <p>A: Either object can become the subject. "She gave me a book" can become "I was given a book by her" or "A book was given to me by her". If the options allow only one, pick that one.</p>
+</div>
+
+<h2>Where to Go Next</h2>
+<p>Once the tense-wise pattern feels automatic, the next step is the wider picture and the special cases. Start with our <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-and-passive-voice-for-competitive-exams/">complete guide to active and passive voice for competitive exams</a> for the basics and the checking method. Then move on to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-modals-questions-imperatives/">passive voice with modals, questions and imperatives</a>, and to the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentences-that-cannot-become-passive/">sentences that cannot become passive</a>. For advanced learners, our article on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-passive-quasi-verbs/">quasi-passive and sensory verbs</a> covers the exceptions that trip up even strong students.</p>
+    `
+  }
 ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
