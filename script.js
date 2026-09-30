@@ -6000,6 +6000,294 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
 <h2>Where to Go Next</h2>
 <p>Once the tense-wise pattern feels automatic, the next step is the wider picture and the special cases. Start with our <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-and-passive-voice-for-competitive-exams/">complete guide to active and passive voice for competitive exams</a> for the basics and the checking method. Then move on to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-modals-questions-imperatives/">passive voice with modals, questions and imperatives</a>, and to the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentences-that-cannot-become-passive/">sentences that cannot become passive</a>. For advanced learners, our article on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-passive-quasi-verbs/">quasi-passive and sensory verbs</a> covers the exceptions that trip up even strong students.</p>
     `
+  },
+
+  
+
+  {
+    slug: "passive-voice-modals-questions-imperatives",
+    title: "Passive Voice with Modals, Questions and Imperatives: Step-by-Step Rules",
+    category: "Voice",
+    readingTime: "12 min read",
+    difficulty: "Intermediate",
+    bookId: 4,
+    publishDate: "2026-09-30",
+    description: "Step-by-step rules for passive voice with modals, questions and imperative sentences, with examples, common traps and 10 practice sentences.",
+    formula: "Modal + be + V3 | Question: convert then move helper to front | Let + object + be + V3",
+    body: `
+<img src="images/passive-voice-modals-questions-imperatives-hero.webp" 
+     alt="Passive voice rules for modals, questions and imperative sentences with step-by-step examples"
+     width="1200" height="675"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>Beyond the Basic Formula</h2>
+<p>Once the core passive pattern feels comfortable, competitive exams push further. They test whether you can apply it to sentences that already have a modal verb, to questions, and to orders and requests. These three cases confuse aspirants who know the basic formula perfectly well, because each one adds a small twist that the standard "object + be + V3" pattern doesn't cover on its own.</p>
+<p>This guide gives you step-by-step rules for all three: modals, questions and imperative sentences. You'll also see the trickier modal-perfect form, the difference between "who" and "by whom", and how polite requests are usually rewritten rather than converted word for word. As always, every practice sentence here is original, written for learning, not a previous-year question.</p>
+
+<div style="background:var(--color-primary-subtle);border-left:4px solid var(--color-primary);padding:15px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong>Quick answer:</strong> Modals: modal + be + V3. Questions: convert the sentence to passive first, then rebuild the question. Orders: "Let + object + be + V3." Each keeps the base passive idea of object-becomes-subject and V3 at the end; only the position of the helping words changes.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Modals in passive voice</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Negative modal sentences</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Modal perfect: should have been done</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Yes/No questions in passive</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Wh- questions in passive</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Imperative sentences in passive</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">6 common traps</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">10 practice sentences</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Quick revision</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+</ol>
+
+<h3>Why "Do", "Does" and "Did" Disappear</h3>
+<p>One detail confuses students before they even reach the passive form: in an active Yes/No question, "do", "does" or "did" is just a helper that carries the tense, with no meaning of its own. When you convert the sentence to a statement first, that helper simply becomes the tense of the be verb. "Does she clean the room?" is really "She cleans the room" in disguise, present tense, and that present tense reappears as "is" in the passive: "Is the room cleaned by her?" Once you see this, "do/does/did" stops feeling like a missing piece and starts feeling like information you've already used.</p>
+
+<h2 id="section-1">Modals in Passive Voice</h2>
+<p>A modal verb (can, could, may, might, must, shall, should, will, would) never changes form. It simply moves to the front of the passive verb group, followed by "be" and then V3.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0;"><strong>Pattern:</strong> Object + modal + be + V3 + (by + doer)</p>
+</div>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:640px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Modal</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Active example</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Passive example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">must</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">You must submit the form.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The form must be submitted.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">can</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">She can solve this problem.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">This problem can be solved by her.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">should</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">We should finish the project on time.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The project should be finished on time.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">will</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">They will announce the results.</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The results will be announced.</td></tr>
+    <tr><td style="padding:10px 12px;">may</td><td style="padding:10px 12px;">You may use the library.</td><td style="padding:10px 12px;">The library may be used.</td></tr>
+  </tbody>
+</table>
+</div>
+<p>Notice that "be" never changes to "is" or "was" here. After a modal, the verb always stays in its base form, so it's always "be", not "is be" or "was be".</p>
+
+<h2 id="section-2">Negative Modal Sentences</h2>
+<p>Negative sentences follow the same pattern, with "not" placed right after the modal, exactly where it sits in the active sentence.</p>
+<ul>
+  <li>Active: "You must not open this file." → Passive: "This file must not be opened."</li>
+  <li>Active: "They cannot ignore the complaint." → Passive: "The complaint cannot be ignored."</li>
+  <li>Active: "She should not delay the payment." → Passive: "The payment should not be delayed."</li>
+</ul>
+<p>The only change from the positive form is the word "not" after the modal. Everything else, the object moving to the front and "be + V3" at the end, stays the same.</p>
+
+<h2 id="section-3">Modal Perfect: "Should Have Been Done"</h2>
+<p>Modals can also combine with a perfect form to talk about the past, usually to express regret, criticism or a missed opportunity. The passive version adds "have been" after the modal, followed by V3.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0;"><strong>Pattern:</strong> Object + modal + have been + V3</p>
+</div>
+<ul>
+  <li>Active: "You should have submitted the report yesterday." → Passive: "The report should have been submitted yesterday."</li>
+  <li>Active: "They could have solved this issue earlier." → Passive: "This issue could have been solved earlier."</li>
+  <li>Active: "He must have completed the task by now." → Passive: "The task must have been completed by now."</li>
+</ul>
+<p>This form appears often in essay writing and formal speech, so it's worth practising separately from the simple modal pattern in Section 1, even though the logic, modal, then a form of be, then V3, stays consistent throughout.</p>
+
+<h2 id="section-4">Yes/No Questions in Passive</h2>
+<p>Questions add one extra step: after converting the sentence as if it were a statement, you move the helping verb back to the front to rebuild the question.</p>
+<ol>
+  <li>Ignore the question word order for a moment and convert the sentence as a statement.</li>
+  <li>Once you have the passive statement, move the be verb or modal to the very front.</li>
+  <li>Add the question mark.</li>
+</ol>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Example:</strong> Did he write the letter?</p>
+  <p style="margin:0 0 6px;">Step 1 (as a statement): He wrote the letter → The letter was written by him.</p>
+  <p style="margin:0;">Step 2 (rebuild the question): <strong>Was the letter written by him?</strong></p>
+</div>
+<ul>
+  <li>"Does she clean the room?" → "Is the room cleaned by her?"</li>
+  <li>"Can you finish this today?" → "Can this be finished by you today?"</li>
+  <li>"Will they invite us?" → "Will we be invited by them?"</li>
+</ul>
+
+<h2 id="section-5">Wh- Questions in Passive</h2>
+<p>Wh- questions (who, what, when, where, why, how) follow the same two-step idea, with one extra detail: when "who" is the doer being asked about, it usually becomes "by whom" in formal passive style.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Example:</strong> Who wrote this book?</p>
+  <p style="margin:0 0 6px;">Step 1 (as a statement): Someone wrote this book → This book was written by someone.</p>
+  <p style="margin:0;">Step 2 (question word becomes "by whom", helping verb moves to front): <strong>By whom was this book written?</strong></p>
+</div>
+<ul>
+  <li>"What did she cook for dinner?" → "What was cooked for dinner by her?"</li>
+  <li>"When will they release the results?" → "When will the results be released?"</li>
+  <li>"Why did he cancel the meeting?" → "Why was the meeting cancelled by him?"</li>
+</ul>
+<p>In everyday spoken English, "who wrote this book" is often left as "who was this book written by", with "who" instead of "by whom" and the "by" moved to the end. Formal exam answers generally expect "by whom" at the front, so use that form unless the question specifically asks for informal style.</p>
+
+<h3>Negative Wh- Questions</h3>
+<p>Negative Wh- questions follow the same two-step process, with "not" carried over from the active helping verb into the passive helping verb.</p>
+<ul>
+  <li>Active: "Why didn't they inform the students?" → Passive: "Why were the students not informed?"</li>
+  <li>Active: "What hasn't she completed yet?" → Passive: "What hasn't been completed by her yet?"</li>
+</ul>
+
+<h2 id="section-6">Imperative Sentences in Passive</h2>
+<p>Imperative sentences give an order, a request or an instruction, and they have no visible subject in the active form ("you" is understood). Passive imperatives use a different structure built around "let".</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0;"><strong>Pattern (orders):</strong> Let + object + be + V3</p>
+</div>
+<ul>
+  <li>Active: "Close the door." → Passive: "Let the door be closed."</li>
+  <li>Active: "Finish the work by evening." → Passive: "Let the work be finished by evening."</li>
+  <li>Active: "Switch off the lights." → Passive: "Let the lights be switched off."</li>
+</ul>
+
+<h3>Negative orders</h3>
+<p>For a negative order, "not" goes right after "let", not after "be".</p>
+<ul>
+  <li>Active: "Do not open the gate." → Passive: "Let the gate not be opened."</li>
+  <li>Active: "Don't waste water." → Passive: "Let water not be wasted."</li>
+</ul>
+
+<h3>Requests</h3>
+<p>A polite request is usually rewritten with "You are requested to..." rather than forced into the "let" pattern, since "let" can sound like a command even for a soft request.</p>
+<ul>
+  <li>Active: "Please submit your application by Friday." → Passive: "You are requested to submit your application by Friday."</li>
+  <li>Active: "Kindly keep silence in the library." → Passive: "You are requested to keep silence in the library."</li>
+</ul>
+<p>If an exam question specifically asks for the "let" structure, use it even for a polite request; otherwise, "you are requested to" is the more natural and widely accepted form for requests in formal passive writing.</p>
+
+<h3>A Full Worked Checklist</h3>
+<p>When a sentence combines more than one of these features, work through it in this order: first identify whether it's a statement, a question, or an order. Then handle the modal (if any) using Section 1 or 3. Then, only if it's a question, move the helping word to the front last. Doing the steps in this order prevents the most common source of confusion, trying to rebuild the question word order before the passive verb itself is correct.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Combined example:</strong> Should they have submitted the report by now?</p>
+  <p style="margin:0 0 6px;">Step 1: this is a question with a modal perfect.</p>
+  <p style="margin:0 0 6px;">Step 2: as a statement: They should have submitted the report → The report should have been submitted.</p>
+  <p style="margin:0;">Step 3: rebuild the question by moving "should" to the front: <strong>Should the report have been submitted by now?</strong></p>
+</div>
+
+<h2 id="section-7">6 Common Traps</h2>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 1: Changing the modal's form</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The form must submitted by tomorrow.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The form must be submitted by tomorrow.</p>
+  <p style="margin:0;"><strong>Why:</strong> A modal is always followed by "be" before V3. Dropping "be" is the single most common mistake in modal passives.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 2: Missing "have been" in the modal perfect form</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The report should submitted yesterday.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>The report should have been submitted yesterday.</p>
+  <p style="margin:0;"><strong>Why:</strong> Past regret with a modal needs the full "have been" before V3, not just "be".</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 3: Forgetting to move the helping verb in a question</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>The letter was written by him?</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>Was the letter written by him?</p>
+  <p style="margin:0;"><strong>Why:</strong> A question needs the be verb or modal at the front. Leaving it in statement order turns the sentence into a statement with a question mark, which is not correct passive question form.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 4: Using "who" instead of "by whom" in formal answers</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>Who was this letter written?</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>By whom was this letter written?</p>
+  <p style="margin:0;"><strong>Why:</strong> When asking about the doer, formal passive style moves "by" to the front with "whom", rather than leaving it stranded or dropping it.</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 5: Wrong position of "not" in a negative order</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>Let the gate be not opened.</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>Let the gate not be opened.</p>
+  <p style="margin:0;"><strong>Why:</strong> "Not" goes right after "let", not after "be".</p>
+</div>
+
+<div style="border:1px solid var(--border-color);border-left:4px solid var(--color-accent);border-radius:var(--radius-md);padding:4px 16px 10px;margin:14px 0;background:var(--bg-card);">
+  <h3 style="margin:12px 0 8px;">Trap 6: Forcing "let" onto a polite request</h3>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-danger-subtle);color:var(--color-danger);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Incorrect</span>Let your application be submitted by Friday. (as a request)</p>
+  <p style="margin:0 0 6px;"><span style="display:inline-block;background:var(--color-success-subtle);color:var(--color-success);font-weight:800;font-size:12px;padding:1px 8px;border-radius:4px;margin-right:8px;">Correct</span>You are requested to submit your application by Friday.</p>
+  <p style="margin:0;"><strong>Why:</strong> "Let" reads as a command. Polite requests, especially those with "please" or "kindly" in the active sentence, are better rewritten with "you are requested to".</p>
+</div>
+
+<h2 id="section-8">10 Practice Sentences With Answers</h2>
+<p>Convert each sentence into the passive voice using the correct structure: modal, question or imperative. These are practice sentences (exam-pattern-based), not previous-year questions.</p>
+<ol style="padding-left:26px;">
+  <li style="margin-bottom:12px;">You must complete the assignment before Monday.</li>
+  <li style="margin-bottom:12px;">She can answer this question easily.</li>
+  <li style="margin-bottom:12px;">They should have informed the manager earlier.</li>
+  <li style="margin-bottom:12px;">Did the workers finish the construction?</li>
+  <li style="margin-bottom:12px;">Who designed this building?</li>
+  <li style="margin-bottom:12px;">Will the committee approve the plan?</li>
+  <li style="margin-bottom:12px;">Open the window.</li>
+  <li style="margin-bottom:12px;">Do not touch the wires.</li>
+  <li style="margin-bottom:12px;">Please send the documents by email.</li>
+  <li style="margin-bottom:12px;">You must not ignore the safety rules.</li>
+</ol>
+<details style="border:1px solid var(--border-color);border-radius:var(--radius-md);margin:16px 0 22px;background:var(--bg-card);">
+  <summary style="cursor:pointer;padding:12px 16px;font-weight:700;background:var(--color-accent-subtle);border-radius:var(--radius-md);">Show answers and explanations</summary>
+  <ol style="margin:14px 0 10px;padding-left:40px;padding-right:16px;line-height:1.7;">
+    <li><strong>The assignment must be completed before Monday.</strong> Modal + be + V3.</li>
+    <li><strong>This question can be answered easily by her.</strong> Modal + be + V3.</li>
+    <li><strong>The manager should have been informed earlier.</strong> Modal perfect: modal + have been + V3.</li>
+    <li><strong>Was the construction finished by the workers?</strong> Statement first, then move "was" to the front.</li>
+    <li><strong>By whom was this building designed?</strong> "Who" asking about the doer becomes "by whom".</li>
+    <li><strong>Will the plan be approved by the committee?</strong> Modal question: move "will" to the front.</li>
+    <li><strong>Let the window be opened.</strong> Imperative: let + object + be + V3.</li>
+    <li><strong>Let the wires not be touched.</strong> Negative imperative: "not" right after "let".</li>
+    <li><strong>You are requested to send the documents by email.</strong> Polite request, not "let".</li>
+    <li><strong>The safety rules must not be ignored.</strong> Negative modal: "not" right after the modal.</li>
+  </ol>
+</details>
+
+<h3>Where This Fits in a Structured Plan</h3>
+<p>Modals, questions and imperatives together make up a large share of the "tricky" passive voice questions in competitive exams, precisely because they combine two skills at once: the base passive pattern and one extra transformation. A chart or a single blog post can show the pattern, but only repeated, mixed practice makes the combination automatic. If you'd like structured drills covering exactly this, along with the tense chart and error-spotting practice, The Ultimate Guide to Active &amp; Passive Voice for Competitive Exams brings all of it together in one place. You can look at the details on the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#book/active-and-passive-voice-competitive-exams">book page</a>. The free guides in this series will still give you a solid foundation.</p>
+
+<h2 id="section-9">Quick Revision</h2>
+<div style="background:#0F1B33;color:#FFFFFF;padding:20px 24px 8px;border-radius:var(--radius-lg);border-top:4px solid var(--color-accent);margin:18px 0 26px;">
+  <h3 style="color:#F5A623;margin:0 0 10px;">Four patterns to remember:</h3>
+  <ul style="padding-left:22px;">
+    <li style="margin-bottom:8px;"><strong>Modal:</strong> object + modal + be + V3 (the form of "be" never changes).</li>
+    <li style="margin-bottom:8px;"><strong>Modal perfect:</strong> object + modal + have been + V3, for past regret or missed action.</li>
+    <li style="margin-bottom:8px;"><strong>Question:</strong> convert as a statement first, then move the be verb or modal to the front; "who" asking about the doer becomes "by whom".</li>
+    <li style="margin-bottom:8px;"><strong>Imperative:</strong> let + object + be + V3 for orders ("not" after "let" for negatives); "you are requested to..." for polite requests.</li>
+  </ul>
+</div>
+<p>These four patterns, along with the tense chart from our guide on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-rules-for-all-tenses/">passive voice rules for all tenses</a>, cover almost every passive voice question a competitive exam can ask. The one category left is sentences that resist passive conversion altogether, which our next guide covers in full.</p>
+
+<h2 id="section-10">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What is the passive voice rule for modal verbs?</h4>
+  <p>A: Keep the modal unchanged, add "be", then the third form of the verb: object + modal + be + V3. For past regret, use "have been" instead of just "be": modal + have been + V3.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How do you convert a question into passive voice?</h4>
+  <p>A: Convert the sentence as if it were a statement first, then move the be verb or modal back to the front to rebuild the question. For "who" asking about the doer, use "by whom" at the start in formal style.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What is the passive voice of an imperative sentence?</h4>
+  <p>A: Orders use "Let + object + be + V3", such as "Let the door be closed." Negative orders place "not" right after "let". Polite requests are usually rewritten as "You are requested to..." instead.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Why does "be" never change form after a modal?</h4>
+  <p>A: A modal verb is always followed by the base form of the next verb. Since "be" is that next verb, it stays as "be" regardless of tense; the modal itself carries whatever time meaning is needed.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Is "who was this written by" acceptable, or must I use "by whom"?</h4>
+  <p>A: "Who was this written by" is common in spoken English. Formal exam answers generally expect "By whom was this written?" placed at the front, so use that form unless informal style is specifically asked for.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Why does "do", "does" or "did" disappear in the passive question?</h4>
+  <p>A: These words only carry the tense in the active question; they have no meaning of their own. Once the sentence is converted as a statement first, that same tense reappears as the correct form of "be" (is, was, and so on), so "do/does/did" simply isn't needed anymore.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What is the difference between "let" and "you are requested to" in passive imperatives?</h4>
+  <p>A: "Let + object + be + V3" is used for direct orders and instructions. "You are requested to..." is used for polite requests, especially ones that contain "please" or "kindly" in the active sentence, because forcing "let" onto a request can sound like a command.</p>
+</div>
+
+<h2>Where to Go Next</h2>
+<p>With modals, questions and imperatives covered, the remaining gap is knowing which sentences can't be converted at all. Our next guide, <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentences-that-cannot-become-passive/">sentences that cannot become passive</a>, covers intransitive verbs and the common exceptions. If you'd like a refresher on the basics first, start with our <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-and-passive-voice-for-competitive-exams/">complete guide to active and passive voice</a>.</p>
+    `
   }
 ];
 /**
