@@ -126,16 +126,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-ssc-cgl-2026-zero-errors-ebook/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/a-an-the-rules-ssc-cgl/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -151,7 +141,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/day-1-active-and-passive-voice-for-competitive-exams/</loc>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-ssc-cgl-2026-zero-errors-ebook/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-and-passive-voice-for-competitive-exams/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-rules-for-all-tenses/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-modals-questions-imperatives/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentences-that-cannot-become-passive/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
