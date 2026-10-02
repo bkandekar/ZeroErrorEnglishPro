@@ -6550,6 +6550,243 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
 <h2>Where to Go Next</h2>
 <p>Knowing when not to use passive voice is just as valuable as knowing how to build it. With the core pattern, the tense chart, modals and questions, and these exceptions all covered, you're ready to look at how these mistakes show up inside error spotting questions. Continue with <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-passive-voice-error-spotting/">active and passive voice errors in error spotting</a>, or revisit <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-modals-questions-imperatives/">passive voice with modals, questions and imperatives</a> for a refresher.</p>
     `
+  },
+
+  
+  
+  {
+    slug: "active-passive-voice-error-spotting",
+    title: "Active and Passive Voice Errors in Error Spotting: 10 Common Mistakes and How to Fix Them",
+    category: "Voice",
+    readingTime: "12 min read",
+    difficulty: "Intermediate",
+    bookId: 4,
+    publishDate: "2026-10-02",
+    description: "10 common active and passive voice mistakes in error spotting, a 4-step checking method, and 10 SSC-style practice questions with explanations.",
+    formula: "V3 present -> be verb present -> tense and number match -> object and by-phrase correct",
+    body: `
+<img src="images/active-passive-voice-error-spotting-hero.webp" 
+     alt="Highlighted sentence showing an active and passive voice error being spotted and corrected"
+     width="1200" height="675"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<h2>You Know the Rules. The Exam Hides Them Anyway.</h2>
+<p>By this point in the series, you can recite the passive formula, the tense chart, the modal pattern, and the list of verbs that refuse passive voice altogether. None of that guarantees a quick, confident answer when the same ideas are buried inside a four-part sentence under a ticking clock.</p>
+<p>That gap, between knowing a rule and catching its violation in a live sentence, is what this guide closes. You'll get a four-step checking method, ten of the most common voice mistakes with clear incorrect-correct pairs, how these same errors disguise themselves in sentence improvement questions, and a ten-question practice set with full explanations. Every example here is an original practice sentence, not a previous-year question.</p>
+
+<div style="background:var(--color-primary-subtle);border-left:4px solid var(--color-primary);padding:15px;margin:20px 0;border-radius:4px;">
+  <p style="margin:0;"><strong>Quick answer:</strong> Voice errors hide because they're one small word (a missing "been", a wrong "by") inside a longer sentence. Check the verb form, the be verb, the subject-verb agreement and the object, in that order, every time.</p>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Why voice errors hide in plain sight</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">The 4-step checking method</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">10 common mistakes, explained</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">How these errors appear in sentence improvement</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">10 SSC-style error spotting questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Quick revision</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Why a systematic revision habit matters</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+</ol>
+
+<h2 id="section-1">Why Voice Errors Hide in Plain Sight</h2>
+<p>Think about how differently you read a grammar exercise versus a full exam sentence. In an exercise, you already know the topic is voice, so your eye is primed to check for it. In a real error spotting question, the topic could be anything: tense, prepositions, articles, subject-verb agreement, or voice. That uncertainty is exactly what makes voice errors slip past a casual reading.</p>
+<p>Error spotting splits a sentence into four parts and asks you to find the one that's wrong. Voice mistakes are especially good at hiding inside that format, for three reasons.</p>
+<ul>
+  <li><strong>They're often one word.</strong> A missing "being", a missing "been", or a V2 instead of a V3 can sit quietly inside an otherwise correct-looking sentence.</li>
+  <li><strong>They sound almost right.</strong> "The letter was wrote by him" has the rhythm of a correct passive sentence, so a quick read skips right past the broken verb form.</li>
+  <li><strong>Several rules can combine in one sentence.</strong> A single sentence might test tense agreement, V3 and the be verb all at once, and missing any one of the three is enough to make the whole sentence wrong.</li>
+</ul>
+<p>The fix isn't reading faster. It's checking with a method, so your eye knows exactly what to verify instead of hoping the error jumps out.</p>
+
+<h2 id="section-2">The 4-Step Checking Method</h2>
+<p>Run this sequence on any sentence that uses, or should use, passive voice.</p>
+<ol>
+  <li><strong>Find the verb form.</strong> Is it V3 (the third form)? A passive verb always ends in V3, never V1 or V2.</li>
+  <li><strong>Check the be verb.</strong> Is there a form of be (is, am, are, was, were, be, been, being) sitting right before the V3? If the word just before V3 isn't a form of be, something is missing.</li>
+  <li><strong>Check tense and number agreement.</strong> Does the be verb match the tense of the original sentence, and does it agree in number with the new subject (is/are, was/were)?</li>
+  <li><strong>Check the object and the "by" phrase.</strong> Does the sentence actually have an object to convert in the first place, and if a doer is named, is it in the correct pronoun form after "by"?</li>
+</ol>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>Try it:</strong> (A) The project / (B) was completed / (C) by the team / (D) last month.</p>
+  <p style="margin:0;">Step 1: "completed" is V3. Step 2: "was" is a be verb right before it. Step 3: "was" matches simple past, singular subject "the project". Step 4: "by the team" is correctly formed. <strong>No error.</strong> This sentence passes every check.</p>
+</div>
+
+<h2 id="section-3">10 Common Mistakes That Cost Marks</h2>
+
+<h3>Mistake 1: V2 Instead of V3</h3>
+<p><strong>Incorrect:</strong> The letter was wrote by him yesterday.</p>
+<p><strong>Correct:</strong> The letter was written by him yesterday.</p>
+<p><strong>Why:</strong> A passive verb always ends in the third form. "Wrote" is the second form; "written" is the third.</p>
+
+<h3>Mistake 2: Missing "Being" in a Continuous Tense</h3>
+<p><strong>Incorrect:</strong> The road is repaired by the workers right now.</p>
+<p><strong>Correct:</strong> The road is being repaired by the workers right now.</p>
+<p><strong>Why:</strong> Without "being", the sentence reads as a habitual action, not something happening right now.</p>
+
+<h3>Mistake 3: Missing "Been" in a Perfect Tense</h3>
+<p><strong>Incorrect:</strong> The report has written by the clerk.</p>
+<p><strong>Correct:</strong> The report has been written by the clerk.</p>
+<p><strong>Why:</strong> The word just before V3 must be a form of be. "Has" alone doesn't qualify.</p>
+
+<h3>Mistake 4: Be Verb Doesn't Match the Subject's Number</h3>
+<p><strong>Incorrect:</strong> The reports was submitted on time.</p>
+<p><strong>Correct:</strong> The reports were submitted on time.</p>
+<p><strong>Why:</strong> "Reports" is plural, so the be verb must be "were", not "was".</p>
+
+<h3>Mistake 5: Tense Shifts During Conversion</h3>
+<p><strong>Incorrect:</strong> A song is sung by her at the function yesterday.</p>
+<p><strong>Correct:</strong> A song was sung by her at the function yesterday.</p>
+<p><strong>Why:</strong> "Yesterday" signals simple past, so the be verb must be "was", not "is".</p>
+
+<h3>Mistake 6: Missing "Be" After a Modal</h3>
+<p><strong>Incorrect:</strong> The form must submitted before the deadline.</p>
+<p><strong>Correct:</strong> The form must be submitted before the deadline.</p>
+<p><strong>Why:</strong> A modal is always followed by "be" before V3 in a passive sentence. Dropping "be" is one of the most frequent modal-passive errors.</p>
+
+<h3>Mistake 7: Wrong Pronoun Form After "By"</h3>
+<p><strong>Incorrect:</strong> The prize was given to she by the judges.</p>
+<p><strong>Correct:</strong> The prize was given to her by the judges.</p>
+<p><strong>Why:</strong> A pronoun following a preposition like "to" or "by" always takes the object form (her, him, me, them), never the subject form.</p>
+
+<h3>Mistake 8: Forcing Passive Onto an Intransitive Verb</h3>
+<p><strong>Incorrect:</strong> Late was arrived by the guests.</p>
+<p><strong>Correct:</strong> The guests arrived late.</p>
+<p><strong>Why:</strong> "Arrive" has no object, so no passive version exists. "Late" is an adverb and can never become a subject.</p>
+
+<h3>Mistake 9: Confusing a Linking Verb's Complement for an Object</h3>
+<p><strong>Incorrect:</strong> A good doctor is been by her.</p>
+<p><strong>Correct:</strong> She is a good doctor.</p>
+<p><strong>Why:</strong> "Good doctor" describes "she"; it doesn't receive an action, so it can't become a passive subject.</p>
+
+<h3>Mistake 10: Wrong Word Order in a Passive Question</h3>
+<p><strong>Incorrect:</strong> The letter was written by him?</p>
+<p><strong>Correct:</strong> Was the letter written by him?</p>
+<p><strong>Why:</strong> A question needs the be verb or modal moved to the front. Leaving it in statement order, with only a question mark added, is not correct passive question form.</p>
+
+<p>These ten cover the core ground, but they build directly on the rule groups from earlier in this series: the tense chart in our guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-rules-for-all-tenses/">passive voice rules for all tenses</a>, the modal and question patterns in our guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/passive-voice-modals-questions-imperatives/">passive voice with modals, questions and imperatives</a>, and the exceptions in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentences-that-cannot-become-passive/">sentences that cannot become passive</a>.</p>
+
+<h3>Mistake Patterns at a Glance</h3>
+<p>Before moving on, scan this summary table. It groups the ten mistakes by the rule they break, which is a faster way to revise than rereading each explanation from scratch.</p>
+<div style="overflow-x:auto;margin:16px 0 24px;">
+<table style="width:100%;min-width:620px;border-collapse:collapse;font-size:14px;line-height:1.55;">
+  <thead>
+    <tr>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Rule broken</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">Mistakes involved</th>
+      <th style="background:#0F1B33;color:#FFFFFF;text-align:left;padding:10px 12px;">One-line fix</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Verb form</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Mistakes 1 and 2</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The passive verb must end in V3, with "being" added for continuous tenses.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Be verb and agreement</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Mistakes 3, 4 and 5</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">The be verb must sit before V3 and match both tense and number.</td></tr>
+    <tr><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Modals and pronouns</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">Mistakes 6 and 7</td><td style="padding:10px 12px;border-bottom:1px solid var(--border-color);">"Be" always follows a modal; pronouns after "by" take the object form.</td></tr>
+    <tr><td style="padding:10px 12px;">Sentences with no passive form</td><td style="padding:10px 12px;">Mistakes 8, 9 and 10</td><td style="padding:10px 12px;">Intransitive and linking verbs usually can't go passive at all.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="section-4">How These Errors Appear in Sentence Improvement</h2>
+<p>Sentence improvement questions give a full sentence with one part underlined, then ask you to pick the best replacement, or "No improvement" if the sentence is already correct. Voice errors show up here in a slightly different disguise: instead of spotting which of four parts is wrong, you compare the underlined phrase against four rewritten options.</p>
+<div style="background:var(--bg-secondary);border-left:4px solid var(--color-accent);padding:12px 16px;margin:14px 0 18px;border-radius:4px;">
+  <p style="margin:0 0 6px;"><strong>SSC-style example:</strong> The documents <u>was signed by the manager</u> this morning.</p>
+  <p style="margin:0;">The underlined part has a number-agreement error: "documents" is plural, so it needs "were", not "was". Improved: "were signed by the manager". The rest of the sentence, "this morning", confirms simple past, so "were" is correct, not "are".</p>
+</div>
+<p>The safest approach is the same four-step method from earlier. Apply it to the underlined phrase first, then quickly scan the rest of the sentence, since sentence improvement questions sometimes place a second, smaller clue just outside the underline.</p>
+
+<h2 id="section-5">10 SSC-Style Error Spotting Questions</h2>
+<p>Each sentence below is split into four parts. Identify the part with the error, or mark (D) "No error" if the sentence is correct. Give yourself eight minutes for all ten.</p>
+<ol style="padding-left:26px;">
+  <li style="margin-bottom:14px;">(A) The novel / (B) was wrote / (C) by a famous author / (D) last year.</li>
+  <li style="margin-bottom:14px;">(A) The bridge / (B) is being / (C) construct by the / (D) engineers currently.</li>
+  <li style="margin-bottom:14px;">(A) The results / (B) has been / (C) announced by / (D) the board.</li>
+  <li style="margin-bottom:14px;">(A) The tickets / (B) was booked / (C) by my brother / (D) last week.</li>
+  <li style="margin-bottom:14px;">(A) The cake / (B) is baked / (C) by her every / (D) Sunday morning.</li>
+  <li style="margin-bottom:14px;">(A) The proposal / (B) must approved / (C) by the committee / (D) before Friday.</li>
+  <li style="margin-bottom:14px;">(A) The award / (B) was given / (C) to she / (D) by the principal.</li>
+  <li style="margin-bottom:14px;">(A) Suddenly was / (B) arrived the guests / (C) at the venue / (D) No error.</li>
+  <li style="margin-bottom:14px;">(A) A talented singer / (B) is been / (C) by my younger / (D) sister.</li>
+  <li style="margin-bottom:14px;">(A) The letter was / (B) written by him / (C) before he left / (D) No error.</li>
+</ol>
+<details style="border:1px solid var(--border-color);border-radius:var(--radius-md);margin:16px 0 22px;background:var(--bg-card);">
+  <summary style="cursor:pointer;padding:12px 16px;font-weight:700;background:var(--color-accent-subtle);border-radius:var(--radius-md);">Show answers and explanations</summary>
+  <ol style="margin:14px 0 10px;padding-left:40px;padding-right:16px;line-height:1.7;">
+    <li><strong>(B).</strong> Should be "was written". V3 is required, not V2.</li>
+    <li><strong>(C).</strong> Should be "being constructed". Passive needs V3 after "being", not the base form.</li>
+    <li><strong>(B).</strong> Should be "have been". "Results" is plural, so "has" is wrong; it needs "have".</li>
+    <li><strong>(B).</strong> Should be "were booked". "Tickets" is plural, so "was" is wrong.</li>
+    <li><strong>(D).</strong> No error. This sentence correctly uses simple present passive for a habitual action.</li>
+    <li><strong>(B).</strong> Should be "must be approved". "Be" is missing after the modal "must".</li>
+    <li><strong>(C).</strong> Should be "to her". A pronoun after a preposition takes the object form.</li>
+    <li><strong>(B).</strong> Should be "the guests arrived suddenly". "Arrive" is intransitive and has no passive form; the sentence should stay active.</li>
+    <li><strong>(B).</strong> Should be "is". "A talented singer" is a complement describing the subject, not an object, so this sentence has no correct passive form at all; it should read "My younger sister is a talented singer."</li>
+    <li><strong>(D).</strong> No error. The sentence correctly uses simple past passive, matching "before he left".</li>
+  </ol>
+</details>
+<p>If you missed more than two, revisit the matching mistake above before your next attempt. Most wrong answers trace back to a missing "being" or "been", a V2 used instead of V3, or passive voice forced onto an intransitive or linking verb.</p>
+
+<h3>Common Reasons Marks Are Lost Even With Correct Knowledge</h3>
+<p>Before moving to revision, it helps to name the non-rule reasons students lose marks on questions they could actually answer correctly.</p>
+<ul>
+  <li><strong>Rushing the first read,</strong> skimming a sentence once and answering from a half-formed impression instead of reading it fully.</li>
+  <li><strong>Anchoring on the first option that looks plausible,</strong> without checking the remaining parts.</li>
+  <li><strong>Assuming every sentence must contain an error,</strong> and overlooking "No error" as a genuine, frequent answer.</li>
+</ul>
+<p>None of these are grammar problems. They're exam-temperament problems, and timed practice fixes them, not further rule revision.</p>
+
+<h2 id="section-6">Quick Revision</h2>
+<div style="background:#0F1B33;color:#FFFFFF;padding:20px 24px 8px;border-radius:var(--radius-lg);border-top:4px solid var(--color-accent);margin:18px 0 26px;">
+  <h3 style="color:#F5A623;margin:0 0 10px;">Before every error spotting attempt, check for:</h3>
+  <ul style="padding-left:22px;">
+    <li style="margin-bottom:8px;">V2 used where V3 is required.</li>
+    <li style="margin-bottom:8px;">A missing "being" (continuous) or "been" (perfect) before V3.</li>
+    <li style="margin-bottom:8px;">A be verb that doesn't match the subject's number or the sentence's tense.</li>
+    <li style="margin-bottom:8px;">A missing "be" right after a modal verb.</li>
+    <li style="margin-bottom:8px;">A subject-form pronoun used after "by" or "to" instead of the object form.</li>
+    <li style="margin-bottom:8px;">Passive voice forced onto an intransitive verb or a linking verb's complement.</li>
+    <li style="margin-bottom:8px;">Statement word order left unchanged in what should be a passive question.</li>
+  </ul>
+</div>
+
+<h2 id="section-7">Why a Systematic Revision Habit Matters</h2>
+<p>Knowing ten mistakes today doesn't mean you'll catch them under exam pressure next month. The gap closes only with repetition spread over time, not a single reading session. A student who revises these traps weekly, alongside fresh mixed practice across tenses, modals and exceptions, builds the instinct to spot an error in seconds instead of minutes.</p>
+<p>That's also why isolated tips rarely work on their own. You need the complete rule set, a growing bank of traps, and enough practice across every voice pattern to make the checking method automatic, kept together so nothing gets missed. If you'd like a structured, exam-focused resource that brings the tense chart, modals, exceptions and error-spotting practice into one place, you can look at the details of <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#book/active-and-passive-voice-competitive-exams">The Ultimate Guide to Active &amp; Passive Voice for Competitive Exams</a>. Practise error spotting in a structured way, rather than piecing it together from scattered notes.</p>
+
+<h2 id="section-8">Frequently Asked Questions</h2>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How can I spot voice errors quickly in SSC CGL and similar exams?</h4>
+  <p>A: Use the four-step method: check the verb form is V3, check a be verb sits right before it, check that be verb matches the tense and the subject's number, then check the object and any "by" phrase. Practising this order, every time, builds speed faster than random guessing.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: What are the most common active and passive voice errors in competitive exams?</h4>
+  <p>A: The ten covered in this guide come up repeatedly: V2 instead of V3, a missing "being" or "been", a be verb that doesn't match number or tense, a missing "be" after a modal, a wrong pronoun after "by", passive voice forced onto intransitive or linking verbs, and incorrect word order in passive questions.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Why do I still make voice mistakes even after learning the rules?</h4>
+  <p>A: Most students learn the rules in isolation but rarely practise spotting them inside full sentences under time pressure. The fix is deliberate error spotting practice, not re-reading the rules alone.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Is "no error" a common correct answer for voice-based error spotting questions?</h4>
+  <p>A: Yes. A sentence that correctly uses an intransitive or linking verb in the active voice, with no passive equivalent, is often the correct "no error" answer. Don't assume every sentence must contain a mistake.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: How is error spotting for voice different from fill-in-the-blank voice questions?</h4>
+  <p>A: In fill-in-the-blank questions, you build the correct form yourself, so the structure is already decided. In error spotting, you first have to locate where in a full sentence the voice rule was broken, which requires scanning rather than constructing.</p>
+</div>
+
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Which single step catches the most errors fastest?</h4>
+  <p>A: Checking that a genuine form of be sits right before V3. A huge share of voice errors, missing "being", missing "been", missing "be" after a modal, all show up as exactly this one gap, so it's worth checking first.</p>
+</div>
+<div style="margin-bottom:15px;border-bottom:1px solid var(--border-color);padding-bottom:10px;">
+  <h4>Q: Do these error types appear in cloze passages too?</h4>
+  <p>A: Yes. Cloze passages sometimes ask you to choose the correct passive form from four options, testing the same verb-form and agreement rules, just inside a running paragraph instead of a standalone sentence.</p>
+</div>
+
+<h2>Where to Go Next</h2>
+<p>Error spotting rewards a checklist, not a guess. Keep the four-step method close at hand, and revisit the rule groups behind today's ten mistakes whenever you need a refresher: our <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-and-passive-voice-for-competitive-exams/">complete guide to active and passive voice</a> for the basics, and <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/active-vs-passive-voice-in-writing/">active vs passive voice in writing</a> for when each one actually works best.</p>
+    `
   }
 ];
 /**
