@@ -7024,7 +7024,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
   description: "Discover exactly what the Ultimate Guide to Active & Passive Voice covers for SSC CGL, Banking and Railway exams, who benefits most, and how the zero-error transformation method eliminates the traps examiners recycle every year.",
   formula: "Object of Active → Subject of Passive + correct form of BE + Past Participle + (by + Agent)",
   body: `
-<img src="images/ultimate-guide-hero.webp" 
+<img src="images/ultimate-guid-active-passive-voice-hero.webp" 
      alt="Ultimate Guide to Active and Passive Voice for SSC CGL Banking Railway competitive exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
