@@ -7012,7 +7012,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     `
   },
 
-  ,
+  
 {
   slug: "ultimate-guide-active-passive-voice-competitive-exams",
   title: "The Ultimate Guide to Active & Passive Voice for Competitive Exams: What's Inside and Who Should Use It (CTA)",
