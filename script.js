@@ -7253,7 +7253,313 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/#books" style="display:inline-block;background:#F5A623;color:#1B3A6B;padding:10px 22px;border-radius:6px;font-weight:700;text-decoration:none;">View All Grammar Guides →</a>
 </div>
 `
+},
+
+  
+
+{
+  slug: "in-on-at-prepositions-rules",
+  title: "In, On, At Prepositions of Time and Place: Rules, Examples and Exam Tricks",
+  category: "Prepositions",
+  readingTime: "13 min read",
+  difficulty: "Beginner",
+  bookId: 5,
+  publishDate: "2026-10-05",
+  description: "Learn the rules of in, on and at for time and place with simple examples, exam tricks, common mistakes and a 15-question practice set with answers.",
+  formula: "AT = exact point | ON = day, date, surface | IN = month, year, enclosed space",
+  body: `
+<img src="images/in-on-at-prepositions-rules-hero.webp"
+     alt="Chart showing the rules of in, on and at for time and place with examples"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Let me start with a sentence you might have written in a test: "My brother was born in 5 May."</p>
+
+<p>Looks fine, doesn't it? It isn't. That one tiny word, <b>in</b>, is enough to cost you a mark in error spotting, fill in the blanks or sentence improvement.</p>
+
+<p>In, on and at are three of the smallest words in English. They're also three of the most tested. Why do so many of us slip? Because in our own languages, one small marker often does the job of all three. English wants us to choose, and when we're not sure, we guess. Guessing is expensive in an exam.</p>
+
+<p>I've taught English grammar for 22 years and coached competitive exam students for more than 15. This is the topic where I see students lose marks they should already be earning. The good news is that the rules fit on one page and the exceptions fit on half a page. In this guide you'll get both, plus tricks for the exam hall, the mistakes examiners love to set, and a 15-question practice set with answers.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Quick answer (save this):</b>
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Preposition</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">For time</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">For place</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>AT</b></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">exact points: at 6 pm, at noon, at night</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">specific points: at the bus stop, at the door, at home</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>ON</b></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">days and dates: on Monday, on 15 August</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">surfaces: on the table, on the wall, on the first floor</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>IN</b></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">longer periods: in March, in 2026, in summer</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">enclosed or large spaces: in the room, in Pune, in India</td></tr>
+</table></div>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">What are prepositions of time and place?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Prepositions of time: at, on, in</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Prepositions of place: at, on, in</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">The one mental picture that makes it easy</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">The exceptions you must learn by heart</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">6 exam tricks for in, on and at</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Common mistakes: the exam pattern</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">When time and place appear in the same sentence</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Practice set: 15 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Stop Losing Marks on Small Words</a></li>
+</ol>
+
+<h2 id="section-1">What are prepositions of time and place?</h2>
+
+<p>A preposition is a small linking word that connects a noun or pronoun to the rest of the sentence. When it tells us <i>when</i> something happens, it's a preposition of time. When it tells us <i>where</i>, it's a preposition of place.</p>
+
+<p>Look at this sentence: "The class starts at 9 am on Monday in the main hall." Three prepositions, three jobs. <b>At 9 am</b> gives the exact time, <b>on Monday</b> gives the day, and <b>in the main hall</b> gives the place. If you can say why each word is right, you've already understood half of this topic.</p>
+
+<h2 id="section-2">Prepositions of time: at, on, in</h2>
+
+<p>For time, think of a zoom lens. The smaller the time, the more likely you need <b>at</b>. The bigger the time, the more likely you need <b>in</b>. Days and dates sit in the middle with <b>on</b>.</p>
+
+<h3>1. Use AT for exact times and points</h3>
+
+<ul>
+<li>The train leaves <b>at</b> 6:45 pm.</li>
+<li>We eat lunch <b>at</b> noon.</li>
+<li>He studies <b>at</b> night.</li>
+<li>She called me <b>at</b> midnight.</li>
+<li>I can't talk <b>at</b> the moment.</li>
+<li>He started working <b>at</b> the age of eighteen.</li>
+<li>Let's decide <b>at</b> the end of the day.</li>
+</ul>
+
+<h3>2. Use ON for days and dates</h3>
+
+<ul>
+<li>My exam is <b>on</b> Monday.</li>
+<li>She was born <b>on</b> 12 March.</li>
+<li>We hoist the flag <b>on</b> Independence Day.</li>
+<li>They are coming <b>on</b> my birthday.</li>
+<li>I'll see you <b>on</b> Friday evening.</li>
+<li>The result came <b>on</b> a rainy afternoon.</li>
+</ul>
+
+<p>Notice the last two. When you name a day and then add a part of the day, the day wins. So it's "on Friday evening", not "in Friday evening". The same goes for "on a rainy afternoon", because that afternoon belongs to one particular day.</p>
+
+<h3>3. Use IN for months, years, seasons and longer periods</h3>
+
+<ul>
+<li>The session begins <b>in</b> July.</li>
+<li>He joined the company <b>in</b> 2019.</li>
+<li>It rains heavily <b>in</b> the monsoon.</li>
+<li>Many inventions happened <b>in</b> the twentieth century.</li>
+<li>I go for a walk <b>in</b> the morning.</li>
+<li>She will call you back <b>in</b> an hour.</li>
+</ul>
+
+<p>That last example needs a small note. "In an hour" means after an hour from now. If you mean "before an hour is over", use <i>within</i>. Examiners don't test this too often, but you'll use it in real writing.</p>
+
+<h2 id="section-3">Prepositions of place: at, on, in</h2>
+
+<p>For place, use a simple picture: <b>AT is a point, ON is a surface, IN is a space with boundaries.</b></p>
+
+<h3>1. Use AT for a specific point or location</h3>
+
+<ul>
+<li>I'm waiting <b>at</b> the bus stop.</li>
+<li>Someone is standing <b>at</b> the door.</li>
+<li>She is <b>at</b> home.</li>
+<li>He is <b>at</b> work till six.</li>
+<li>We met <b>at</b> the airport.</li>
+<li>The students are <b>at</b> school.</li>
+<li>They live <b>at</b> 25 Park Street.</li>
+<li>He sits <b>at</b> the back of the class.</li>
+</ul>
+
+<p>With "school", "college" and "work", <b>at</b> tells us the activity or the place as a point on the map. "He is at school" means he's attending it, not that he's inside a particular room.</p>
+
+<h3>2. Use ON for surfaces and lines</h3>
+
+<ul>
+<li>The keys are <b>on</b> the table.</li>
+<li>There is a map <b>on</b> the wall.</li>
+<li>Don't leave your bag <b>on</b> the floor.</li>
+<li>Their flat is <b>on</b> the third floor.</li>
+<li>Turn left. The pharmacy is <b>on</b> your right.</li>
+<li>I met her <b>on</b> the bus.</li>
+<li>The match is <b>on</b> TV tonight.</li>
+<li>Your answer is <b>on</b> page 42.</li>
+<li>He is <b>on</b> the phone.</li>
+</ul>
+
+<h3>3. Use IN for enclosed spaces, cities, states and countries</h3>
+
+<ul>
+<li>My mother is <b>in</b> the kitchen.</li>
+<li>The pencils are <b>in</b> the box.</li>
+<li>We live <b>in</b> Pune.</li>
+<li>Pune is <b>in</b> Maharashtra.</li>
+<li>Maharashtra is <b>in</b> India.</li>
+<li>Birds are flying <b>in</b> the sky.</li>
+<li>I read it <b>in</b> the newspaper.</li>
+<li>She is standing <b>in</b> the queue.</li>
+<li>He came <b>in</b> a taxi.</li>
+</ul>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Want everything about prepositions in one place?</b> I've put the rules, examples and exam-style practice for the whole topic in my ebook, <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</a>. Keep reading, though. This guide alone will fix the in/on/at confusion.
+</div>
+
+<h2 id="section-4">The one mental picture that makes it easy</h2>
+
+<p>If you only remember one thing from this post, remember this:</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Idea</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Time</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Place</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Tiny and exact</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">AT (clock time)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">AT (point)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Flat and specific</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">ON (day, date)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">ON (surface)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Wide and inside</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">IN (month, year, season)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">IN (room, city, country)</td></tr>
+</table></div>
+
+<p>Before you pick a preposition, ask yourself one question: "Is the thing after the blank a point, a surface or a space?" For time, ask: "Is it a clock time, a day, or a long period?" That single pause takes two seconds and saves you from most mistakes.</p>
+
+<h2 id="section-5">The exceptions you must learn by heart</h2>
+
+<p>Every rule has a few naughty students. These are the ones examiners like.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Expression</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Why it surprises us</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">at night, but <b>in</b> the morning / afternoon / evening</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Night is the odd one out. Learn it as a fixed phrase.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on</b> Monday morning</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">When a day is named, the whole phrase takes ON.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">on time / in time</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><i>On time</i> = at the planned time. <i>In time</i> = early enough to do something. "We reached the station in time to catch the train."</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">at the end / in the end</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><i>At the end of the film</i> = at that point. <i>In the end</i> = finally.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">at the corner / in the corner</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><i>At the corner of the street</i> (outside). <i>In the corner of the room</i> (inside).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">on the bus, train, plane / in a car, taxi</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You can stand or walk inside big vehicles, so we use ON. Small vehicles take IN.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">at the weekend / on the weekend</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Both are used. British English prefers "at", American English prefers "on". Don't panic if you see either one.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in hospital / at home</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">These are fixed expressions. No article with "home", and "in hospital" is common in British English.</td></tr>
+</table></div>
+
+<p>Also remember that we don't use a preposition before <i>this</i>, <i>last</i>, <i>next</i>, <i>every</i>, <i>today</i>, <i>tomorrow</i> and <i>yesterday</i> in time expressions. We say "I'll see you next Monday", not "on next Monday". That is a classic trap.</p>
+
+<h2 id="section-6">6 exam tricks for in, on and at</h2>
+
+<p>Rules are good. Speed is better. Here's how I teach my students to solve these questions without panic.</p>
+
+<ol>
+<li><b>Classify the noun first.</b> Look at the word after the blank. Clock time goes with AT. A day or a date goes with ON. A month, year, season or century goes with IN. This one habit solves nearly half the questions.</li>
+<li><b>Spot the "day + part of day" combination.</b> If you see Sunday morning, Friday night or Monday afternoon, the answer is ON. Students often jump to IN because they spot "morning" first.</li>
+<li><b>Picture the place.</b> Is it a dot on a map (AT), a flat surface (ON) or a container you can be inside (IN)? Draw it quickly in your head.</li>
+<li><b>Hunt for fixed phrases.</b> At night, at noon, in time, on time, on foot, in a hurry, at home. If one of these fits, don't overthink it.</li>
+<li><b>Watch for words that kill the preposition.</b> If the sentence has next, last, this, every, today, tomorrow or yesterday, there should be no in/on/at before it.</li>
+<li><b>Use elimination in MCQs.</b> If an option says "in 5 May", cross it out at once. Dates take ON. You often only need to remove two wrong options to be safe.</li>
+</ol>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>A small tip from the classroom:</b> Make flashcards with the noun on one side and the preposition on the other. "Monday" on the front, "on" on the back. Ten minutes a day for a week and the pattern sits in your head without effort. My ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar</a> follows the same step-by-step approach for the rest of the topic.
+</div>
+
+<h2 id="section-7">Common mistakes: the exam pattern</h2>
+
+<p>I'm not quoting any particular year's paper here. These are the <b>common exam patterns</b> that appear in error spotting, sentence improvement and fill in the blanks across SSC, banking and school-level tests. Learn the pattern, and you'll recognise a new question at once.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Wrong</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Right</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Why</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She was born in 12 March.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She was born on 12 March.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Dates take ON.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The meeting is at Wednesday.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The meeting is on Wednesday.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Days take ON.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We reached the station in 5 pm.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We reached the station at 5 pm.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Clock time takes AT.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I'll see you on next Monday.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I'll see you next Monday.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">No preposition before "next".</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He studies in night.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He studies at night.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">"At night" is a fixed phrase.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">There is a poster in the wall.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">There is a poster on the wall.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Surface takes ON.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">My uncle lives on Nagpur.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">My uncle lives in Nagpur.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Cities take IN.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She met him in the Sunday morning.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She met him on Sunday morning.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day + part of day takes ON.</td></tr>
+</table></div>
+
+<p>When you see an error-spotting sentence, read the preposition and the noun together as a pair. If the pair sounds odd ("in 12 March", "at Wednesday"), your ear has already found the error. Train your ear by reading a short English paragraph aloud every day. It sounds old-fashioned, but it works.</p>
+
+<h2 id="section-8">When time and place appear in the same sentence</h2>
+
+<p>Real sentences rarely use just one of these. In writing tasks, letters and speaking, you'll often need time and place together. Here's the order that sounds natural: place first, then time.</p>
+
+<ul>
+<li>We'll meet <b>at</b> the station <b>at</b> 6 pm.</li>
+<li>The seminar is <b>in</b> the main hall <b>on</b> Saturday.</li>
+<li>She was born <b>in</b> Nagpur <b>on</b> 3 June <b>in</b> 2003.</li>
+<li>The workshop will be held <b>at</b> our college <b>in</b> September.</li>
+</ul>
+
+<p>Look at the third example. It has three prepositions, and each one follows its own rule: city takes IN, date takes ON, year takes IN. Students who panic see a messy sentence. Students who break it into pieces see three easy decisions.</p>
+
+<p>A quick habit for letters and emails: when you write an invitation or a notice, check three things in order. Where? Which day or date? What time? Choose the preposition for each piece separately, and the sentence will almost always come out correct.</p>
+
+<h2 id="section-9">Practice set: 15 questions</h2>
+
+<p>Fill in each blank with <b>in</b>, <b>on</b> or <b>at</b>. Try it first without looking at the answers, then check yourself. Be honest. Nobody is watching, and that's exactly why it helps.</p>
+
+<ol>
+<li>The train leaves ____ 6:45 pm.</li>
+<li>My exam is ____ 12 December.</li>
+<li>She was born ____ 2004.</li>
+<li>We usually go for a walk ____ the evening.</li>
+<li>I will meet you ____ Sunday morning.</li>
+<li>He is waiting ____ the bus stop.</li>
+<li>The keys are ____ the table.</li>
+<li>My mother is ____ the kitchen.</li>
+<li>Many students study ____ night.</li>
+<li>The meeting will start ____ an hour.</li>
+<li>There is a map ____ the wall.</li>
+<li>They live ____ Nagpur.</li>
+<li>The bus arrived ____ time, so nobody was late.</li>
+<li>He studied ____ the library all afternoon.</li>
+<li>She was ____ home when I called.</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b> 1) at 2) on 3) in 4) in 5) on 6) at 7) on 8) in 9) at 10) in 11) on 12) in 13) on 14) in 15) at
+<br><br>
+<b>Your score:</b> 13 to 15 means you're exam-ready on this topic. 9 to 12 means you know the rules but need to revise the exceptions. Below 9 means go back to the "mental picture" table and the flashcard habit, then try again after two days.
+</div>
+
+<p>If you'd like more practice sets like this one, with mixed prepositions and exam-style questions, you'll find them in <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">my Preposition ebook on Amazon</a>.</p>
+
+<h2 id="section-10">Frequently asked questions</h2>
+
+<h3>Is it "in the morning" or "at the morning"?</h3>
+<p>It's "in the morning". The same applies to "in the afternoon" and "in the evening". The odd one is "at night". But if you name the day, use ON: "on Monday morning".</p>
+
+<h3>Do we say "on weekends" or "at weekends"?</h3>
+<p>Both are correct. British English usually says "at the weekend" or "at weekends". American English usually says "on the weekend" or "on weekends". In an exam, you'll rarely have to choose between the two, because only one of them will appear in the options.</p>
+
+<h3>What is the difference between "in time" and "on time"?</h3>
+<p>"On time" means punctual, exactly at the planned time. "In time" means early enough to do something. "The train arrived on time" is about punctuality. "We got there in time to see the start" is about being early enough.</p>
+
+<h3>Why do we say "on the bus" but "in a car"?</h3>
+<p>The traditional explanation is size. Buses, trains and planes are large, and you can stand or walk inside them, so we use ON. Cars and taxis are small, so we use IN. It's a convention, so just learn it as a pair.</p>
+
+<h3>Do I need a preposition before "next Monday" or "last year"?</h3>
+<p>No. Words like next, last, this, every, today, tomorrow and yesterday already tell us the time, so we skip the preposition. "On next Monday" is a very common mistake in Indian classrooms.</p>
+
+<h3>How can I remember in, on and at permanently?</h3>
+<p>Use the point-surface-space picture for place and the small-medium-big idea for time. Then practise with a short daily quiz. Ten questions a day for a week usually fixes the habit. Reading English newspapers aloud also helps your ear catch what looks wrong.</p>
+
+<h2 id="section-11">Stop Losing Marks on Small Words</h2>
+<p>In, on and at are only the beginning. Appropriate prepositions, error spotting, fill in the blanks and confusing pairs like between and among all follow their own patterns, and each one gets easier when you learn it step by step.</p>
+<p>My ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener"><strong>Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</strong></a> brings the rules, examples and exam-style practice together so you can revise in one place.</p>
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Is it \"in the morning\" or \"at the morning\"?", "acceptedAnswer": {"@type": "Answer", "text": "It's \"in the morning\". The same applies to \"in the afternoon\" and \"in the evening\". The odd one is \"at night\". But if you name the day, use ON: \"on Monday morning\"."}},
+    {"@type": "Question", "name": "Do we say \"on weekends\" or \"at weekends\"?", "acceptedAnswer": {"@type": "Answer", "text": "Both are correct. British English usually says \"at the weekend\" or \"at weekends\". American English usually says \"on the weekend\" or \"on weekends\"."}},
+    {"@type": "Question", "name": "What is the difference between \"in time\" and \"on time\"?", "acceptedAnswer": {"@type": "Answer", "text": "\"On time\" means punctual, exactly at the planned time. \"In time\" means early enough to do something."}},
+    {"@type": "Question", "name": "Why do we say \"on the bus\" but \"in a car\"?", "acceptedAnswer": {"@type": "Answer", "text": "Buses, trains and planes are large and you can stand or walk inside them, so we use ON. Cars and taxis are small, so we use IN. It is a convention to learn as a pair."}},
+    {"@type": "Question", "name": "Do I need a preposition before \"next Monday\" or \"last year\"?", "acceptedAnswer": {"@type": "Answer", "text": "No. Words like next, last, this, every, today, tomorrow and yesterday already tell us the time, so we skip the preposition."}},
+    {"@type": "Question", "name": "How can I remember in, on and at permanently?", "acceptedAnswer": {"@type": "Answer", "text": "Use the point-surface-space picture for place and the small-medium-big idea for time, then practise with a short daily quiz for a week."}}
+  ]
 }
+</script>
+
+`
+}
+
 ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
