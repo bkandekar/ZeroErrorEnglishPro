@@ -7558,6 +7558,308 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
 </script>
 
 `
+},
+  
+
+
+{
+  slug: "preposition-error-spotting-ssc-cgl-bank-exams",
+  title: "Preposition Error Spotting: 15 Common Mistakes in SSC CGL and Bank Exams",
+  category: "Prepositions",
+  readingTime: "14 min read",
+  difficulty: "Intermediate",
+  bookId: 5,
+  publishDate: "2026-10-06",
+  description: "Learn 15 common preposition mistakes in SSC CGL and bank exam error spotting, with corrections, a 5-step checking method and a 10-question test with answers.",
+  formula: "Verb / adjective + fixed preposition: check the pair, not the whole sentence",
+  body: `
+<img src="images/preposition-error-spotting-ssc-cgl-bank-hero.webp"
+     alt="Preposition error spotting: 15 common mistakes in SSC CGL and bank exams with corrections"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Open any SSC CGL or bank exam English paper and you'll spot the same quiet pattern. A sentence is split into three or four parts. Most of them look fine. The mistake hides in one tiny word, and that word is very often a preposition.</p>
+
+<p>Why? Because prepositions can't be worked out by logic alone. Nobody can explain why we say "married to" and not "married with". We simply do. Examiners know this. They also know that students who think in Marathi, Hindi or another language are the most likely to pick the wrong word and feel sure about it.</p>
+
+<p>I've coached exam students for more than 15 years, and the 15 mistakes below walk into my classroom again and again. Learn them as pairs and read each example aloud twice. By the end you'll also have a five-step checking method, a revision table of fixed pairs and a ten-question test with answers.</p>
+
+<p>One honest note: these are <b>common exam patterns</b>, not questions copied from a particular year's paper. Don't memorise the sentences. Memorise the pairs.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Quick answer: the 15 mistakes at a glance</b>
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">No.</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Wrong</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Right</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">discuss about</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">discuss</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">senior than</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">senior to</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">prefer A than B</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">prefer A to B</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">married with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">married to</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">comprise of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">comprise / consist of</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">reply the letter</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">reply to the letter</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">7</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">explain me</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">explain to me</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">8</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">angry on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">angry with / at</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">9</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">different than</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">different from</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">10</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">cope up with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">cope with</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">11</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">despite of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">despite / in spite of</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">12</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">congratulate for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">congratulate on</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">13</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">suffer with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">suffer from</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">14</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">insist for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">insist on</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">15</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">accused for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">accused of</td></tr>
+</table></div>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">How examiners hide preposition errors</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Group 1: The extra word (mistakes 1, 5, 10, 11)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Group 2: The "to" family (mistakes 2, 3, 4, 6, 7)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Group 3: The wrong swap (mistakes 8, 9, 12, 13, 14, 15)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Why smart students still miss these</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">The 5-step preposition check (20 seconds)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Fixed pairs for quick revision</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Build a mistake notebook (it takes five minutes a day)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Mini test: 10 error-spotting questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Turn these 15 into a lifelong habit</a></li>
+</ol>
+
+<h2 id="section-1">How examiners hide preposition errors</h2>
+
+<p>In a typical error-spotting question, the sentence is cut into parts marked (A), (B), (C) and (D), where (D) usually says "No error". Preposition mistakes come in three shapes, and knowing the shape tells you where to look:</p>
+
+<ul>
+<li><b>The extra word.</b> The verb doesn't need a preposition, but the sentence adds one (discuss about).</li>
+<li><b>The "to" family.</b> A special word needs <i>to</i>, but the sentence uses <i>than</i>, <i>with</i> or nothing at all (senior than).</li>
+<li><b>The wrong swap.</b> The word needs a fixed preposition, and the sentence uses a close cousin (angry on, suffer with).</li>
+</ul>
+
+<p>That's why I tell my students to read the prepositions first, before the whole sentence. If time and place words like in, on and at are still shaky, spend ten minutes on my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">in, on and at prepositions</a> first, then come back here.</p>
+
+<h2 id="section-2">Group 1: The extra word (mistakes 1, 5, 10, 11)</h2>
+
+<p>These verbs and words are complete on their own. Adding a preposition is like putting a second hat on someone who's already wearing one.</p>
+
+<h3>1. Discuss about</h3>
+<p><span style="color:#b3261e;font-weight:bold;">The panel discussed about the new policy.</span><br><span style="color:#1b7a3a;font-weight:bold;">The panel discussed the new policy.</span></p>
+<p>"Discuss" already means "talk about", so "about" says the same thing twice. Watch for the same trap with <i>mention</i>, <i>attend</i>, <i>reach</i> and <i>enter</i>: we say "reached the station" and "entered the room", never "reached to" or "entered into the room". The noun is different, though: "a discussion about the policy" is fine.</p>
+
+<h3>5. Comprise of</h3>
+<p><span style="color:#b3261e;font-weight:bold;">The committee comprises of seven members.</span><br><span style="color:#1b7a3a;font-weight:bold;">The committee comprises seven members.</span></p>
+<p>"Comprise" takes its object directly, just like "discuss". If you want the word "of", switch to "consists of" or "is composed of". In an exam, if you see "comprises of", mark it.</p>
+
+<h3>10. Cope up with</h3>
+<p><span style="color:#b3261e;font-weight:bold;">She couldn't cope up with the pressure.</span><br><span style="color:#1b7a3a;font-weight:bold;">She couldn't cope with the pressure.</span></p>
+<p>"Cope" pairs with "with" and nothing else. There's no "up" in it. The same family of extra words includes "return back", "repeat again" and "revert back". Whenever a small word adds nothing to the meaning, suspect it.</p>
+
+<h3>11. Despite of</h3>
+<p><span style="color:#b3261e;font-weight:bold;">Despite of the rain, the match continued.</span><br><span style="color:#1b7a3a;font-weight:bold;">Despite the rain, the match continued.</span></p>
+<p>"Despite" and "in spite of" mean the same thing. You can use either, but you can't mix them into "despite of". A neat way to remember: "in spite of" has its own "of" already, and "despite" has none.</p>
+
+<h2 id="section-3">Group 2: The "to" family (mistakes 2, 3, 4, 6, 7)</h2>
+
+<p>This is the group that catches the most students, because "than", "with" and "for" feel natural and "to" feels odd.</p>
+
+<h3>2. Senior than</h3>
+<p><span style="color:#b3261e;font-weight:bold;">He is senior than me in the office.</span><br><span style="color:#1b7a3a;font-weight:bold;">He is senior to me in the office.</span></p>
+<p>Words like <i>senior</i>, <i>junior</i>, <i>superior</i>, <i>inferior</i>, <i>prior</i> and <i>preferable</i> come from Latin and take "to", not "than". "Than" is for ordinary comparatives like taller or older. Say it aloud: "This plan is preferable to that one."</p>
+
+<h3>3. Prefer A than B</h3>
+<p><span style="color:#b3261e;font-weight:bold;">I prefer coffee than tea.</span><br><span style="color:#1b7a3a;font-weight:bold;">I prefer coffee to tea.</span></p>
+<p>"Prefer" always uses "to". Even with -ing words: "She prefers walking to driving." The phrase "would rather" is different. It takes "than": "I would rather walk than drive." Examiners love to test this contrast.</p>
+
+<h3>4. Married with</h3>
+<p><span style="color:#b3261e;font-weight:bold;">She is married with a lawyer.</span><br><span style="color:#1b7a3a;font-weight:bold;">She is married to a lawyer.</span></p>
+<p>"Married to" and "engaged to" are the correct pairs. And if you use the verb "marry", you need no preposition at all: "She married a lawyer." "Married with" is only correct in a different sense: "married with two children" (meaning she has children).</p>
+
+<h3>6. Reply the letter</h3>
+<p><span style="color:#b3261e;font-weight:bold;">He replied the letter at once.</span><br><span style="color:#1b7a3a;font-weight:bold;">He replied to the letter at once.</span></p>
+<p>"Reply" needs "to". Its cousin "answer" doesn't: "He answered the letter at once." Same meaning, different pattern, so examiners enjoy placing one inside the other's sentence. Also remember "respond to".</p>
+
+<h3>7. Explain me</h3>
+<p><span style="color:#b3261e;font-weight:bold;">Please explain me this rule.</span><br><span style="color:#1b7a3a;font-weight:bold;">Please explain this rule to me.</span></p>
+<p>The thing you explain comes first. The person comes after "to". The same pattern works for <i>describe</i>, <i>suggest</i> and <i>announce</i>. "He suggested me a book" is wrong. Say "He suggested a book to me."</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Want all these fixed pairs in one place?</b> In my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</a>, I've organised fixed prepositions after verbs and adjectives, the confusing pairs and error-spotting practice step by step. Keep reading, though. These 15 will already lift your accuracy.
+</div>
+
+<h2 id="section-4">Group 3: The wrong swap (mistakes 8, 9, 12, 13, 14, 15)</h2>
+
+<p>Here the word needs a preposition, but we pick a cousin. Learn each pair as one unit, like a phone number.</p>
+
+<h3>8. Angry on</h3>
+<p><span style="color:#b3261e;font-weight:bold;">She was angry on her brother.</span><br><span style="color:#1b7a3a;font-weight:bold;">She was angry with her brother.</span></p>
+<p>Use "angry with" for a person and "angry at" or "angry about" for a thing or situation: "He was angry at the delay."</p>
+
+<h3>9. Different than</h3>
+<p><span style="color:#b3261e;font-weight:bold;">His answer is different than mine.</span><br><span style="color:#1b7a3a;font-weight:bold;">His answer is different from mine.</span></p>
+<p>"Different from" is the traditional form, and it's the one exam answer keys follow. You may see "different than" in American writing, but in an SSC or bank paper, "from" is the safe choice. The verb works the same way: "differ from".</p>
+
+<h3>12. Congratulate for</h3>
+<p><span style="color:#b3261e;font-weight:bold;">I congratulate you for your success.</span><br><span style="color:#1b7a3a;font-weight:bold;">I congratulate you on your success.</span></p>
+<p>You congratulate someone <i>on</i> something, but you thank someone <i>for</i> something. Both sentences look alike, which is exactly why examiners put them side by side.</p>
+
+<h3>13. Suffer with</h3>
+<p><span style="color:#b3261e;font-weight:bold;">He is suffering with a high fever.</span><br><span style="color:#1b7a3a;font-weight:bold;">He is suffering from a high fever.</span></p>
+<p>"Suffer from" is the fixed pair for illness, hardship or a problem. Say it as one phrase: suffer from, suffer from, suffer from.</p>
+
+<h3>14. Insist for</h3>
+<p><span style="color:#b3261e;font-weight:bold;">She insisted for a refund.</span><br><span style="color:#1b7a3a;font-weight:bold;">She insisted on a refund.</span></p>
+<p>"Insist" takes "on". Its family: depend on, rely on, focus on, congratulate on. With a clause, no preposition is needed: "She insisted that he should pay."</p>
+
+<h3>15. Accused for</h3>
+<p><span style="color:#b3261e;font-weight:bold;">He was accused for theft.</span><br><span style="color:#1b7a3a;font-weight:bold;">He was accused of theft.</span></p>
+<p>The "of" family for crime and charge words: accused of, suspected of, convicted of, guilty of. Watch the exceptions. "Charged with" takes "with", and "blamed for" takes "for".</p>
+
+<h2 id="section-5">Why smart students still miss these</h2>
+
+<p>Here's something I notice in every batch. The students who miss these questions are rarely the weak ones. They're often the fluent ones, the students who speak well and read a lot. Why? Because fluent speakers trust their ear, and an ear trained on casual English or on a mix of languages will happily accept "discuss about" or "prefer than". These phrases are everywhere in daily conversation, in office emails and even in some newspaper headlines.</p>
+
+<p>The exam doesn't care how often you've heard a phrase. It cares whether the phrase follows the standard rule. So the fix isn't to read more. The fix is to switch from "does this sound right?" to "does this pair match the rule?" That small change in question is what separates a 70 percent score from a 90 percent one in this section.</p>
+
+<p>Also, don't panic about speed. A preposition check takes a few seconds once the pairs are in your head, and every question you secure here gives you more time for harder parts of the paper such as reading comprehension.</p>
+
+<h2 id="section-6">The 5-step preposition check (20 seconds)</h2>
+
+<p>Knowing 15 mistakes is great. Having a method for the 16th is better. Here's the routine I teach.</p>
+
+<ol>
+<li><b>Underline every preposition first.</b> Don't read the whole sentence yet.</li>
+<li><b>Find its partner.</b> Which verb, adjective or noun comes just before it?</li>
+<li><b>Ask: does this word need a preposition at all?</b> Discuss, comprise, despite, reach and enter don't.</li>
+<li><b>Recall the fixed pair.</b> Does it match? Senior to, married to, angry with, suffer from?</li>
+<li><b>Hunt for extra words.</b> Up, back, again and off next to a verb are suspects.</li>
+</ol>
+
+<p>Only after these five steps should you select "No error". Treat "No error" as a conclusion, never as a default. Students who pick it because "nothing jumped out" lose marks they could have earned.</p>
+
+<h2 id="section-7">Fixed pairs for quick revision</h2>
+
+<p>Revise these in families. Five new pairs a day for a week is far better than one long weekend of cramming.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Example</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">good at / weak in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She is good at maths but weak in history.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">afraid of / proud of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He is proud of his team.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">interested in / keen on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I'm interested in journalism.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">capable of / aware of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She is aware of the risks.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">belong to / object to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This book belongs to my sister.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">depend on / rely on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You can rely on him.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">wait for / look for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We are waiting for the bus.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">apologise to (person) for (thing)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He apologised to her for the delay.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">blame (person) for (thing)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Don't blame him for the mistake.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">thank (person) for (thing)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I thanked her for her help.</td></tr>
+</table></div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Practice habit:</b> pick one family each day (the "to" family on Monday, the "of" family on Tuesday) and write two sentences for every pair. That's it. My ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar</a> follows the same pair-by-pair approach, with exam-style practice after each group.
+</div>
+
+<h2 id="section-8">Build a mistake notebook (it takes five minutes a day)</h2>
+
+<p>Every time you get a preposition question wrong, in a mock test, in a practice set or in a conversation, write it in a small notebook in three columns: the wrong version, the right version and the pair in one line. Don't copy the whole explanation. Just the pair.</p>
+
+<p>Once a week, cover the right column and test yourself. You'll find that you keep making the same four or five mistakes, and those are the ones worth your time. By the third week, the notebook usually becomes the most useful revision material you own, because it's built from your own errors and not from somebody else's list.</p>
+
+<h2 id="section-9">Mini test: 10 error-spotting questions</h2>
+
+<p>Each sentence has four parts. Find the part with the error, or choose (D) if there's none. Try it first, then check the answers.</p>
+
+<ol>
+<li>She was angry (A) / on her brother (B) / for breaking the vase. (C) / No error (D)</li>
+<li>The committee discussed about (A) / the budget (B) / for two hours. (C) / No error (D)</li>
+<li>He prefers walking (A) / than driving (B) / on short trips. (C) / No error (D)</li>
+<li>Despite of (A) / heavy traffic, (B) / we reached on time. (C) / No error (D)</li>
+<li>The manager congratulated (A) / the team on (B) / their excellent performance. (C) / No error (D)</li>
+<li>I could not reply (A) / his letter (B) / because I was travelling. (C) / No error (D)</li>
+<li>Please explain me (A) / the meaning of (B) / this phrase. (C) / No error (D)</li>
+<li>She is suffering (A) / with a severe headache (B) / and cannot attend class. (C) / No error (D)</li>
+<li>The two sisters are (A) / completely different than (B) / each other. (C) / No error (D)</li>
+<li>He insisted (A) / on paying the bill (B) / for everyone. (C) / No error (D)</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b> 1) B (angry with) 2) A (discussed the budget) 3) B (prefers walking to driving) 4) A (Despite) 5) D (no error) 6) B (reply to his letter) 7) A (explain the meaning to me) 8) B (suffering from) 9) B (different from) 10) D (no error)
+<br><br>
+<b>Your score:</b> 9 or 10 means you're exam-ready on this topic. 6 to 8 means revise the group where you slipped. Below 6, go back to the 5-step check and try again after two days.
+</div>
+
+<h2 id="section-10">Frequently asked questions</h2>
+
+<h3>Why do preposition errors appear so often in error spotting?</h3>
+<p>Because the right preposition is usually a matter of fixed usage, not logic. That makes it hard to guess and easy to test. Examiners can build a convincing wrong sentence by changing just one word.</p>
+
+<h3>Should I memorise a long list of prepositions?</h3>
+<p>Learn them in families (to, with, from, of, on) and attach a short sentence to each pair. A sentence you can say aloud sticks far better than a bare list.</p>
+
+<h3>Is "different than" ever correct?</h3>
+<p>You'll see it in some American writing, especially before a clause. But exam answer keys follow the traditional "different from", so choose that in SSC and bank papers.</p>
+
+<h3>If I'm unsure, should I pick "No error"?</h3>
+<p>Not automatically. Run the 5-step check first. If a preposition fails the check, that part is your answer. If all five steps pass, then "No error" is a safe conclusion.</p>
+
+<h3>How long does it take to master these 15?</h3>
+<p>Most students I teach get comfortable in about a week with ten minutes a day: five pairs, two sentences each, plus one mini test on the weekend.</p>
+
+<h2 id="section-11">Turn these 15 into a lifelong habit</h2>
+
+<p>Fifteen mistakes won't cover every preposition question, but they cover the patterns behind most of them. Once you see the three shapes (the extra word, the "to" family and the wrong swap), new questions stop looking new.</p>
+
+<p>If you want the complete system, my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener"><strong>Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</strong></a> puts the rules, fixed pairs and exam-style practice together in one place.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do preposition errors appear so often in error spotting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the right preposition is usually a matter of fixed usage, not logic. That makes it hard to guess and easy to test. Examiners can build a convincing wrong sentence by changing just one word."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I memorise a long list of prepositions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Learn them in families (to, with, from, of, on) and attach a short sentence to each pair. A sentence you can say aloud sticks far better than a bare list."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is \"different than\" ever correct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You'll see it in some American writing, especially before a clause. But exam answer keys follow the traditional \"different from\", so choose that in SSC and bank papers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "If I'm unsure, should I pick \"No error\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not automatically. Run the 5-step check first. If a preposition fails the check, that part is your answer. If all five steps pass, then \"No error\" is a safe conclusion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to master these 15?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most students I teach get comfortable in about a week with ten minutes a day: five pairs, two sentences each, plus one mini test on the weekend."
+      }
+    }
+  ]
+}
+</script>
+
+`
 }
 
 ];
