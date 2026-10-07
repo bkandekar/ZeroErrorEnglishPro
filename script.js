@@ -7860,6 +7860,330 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
 </script>
 
 `
+},
+
+  
+
+
+{
+  slug: "appropriate-prepositions-list-verb-adjective-noun",
+  title: "Appropriate Prepositions List: Verb, Adjective and Noun + Preposition with Examples",
+  category: "Prepositions",
+  readingTime: "15 min read",
+  difficulty: "Intermediate",
+  bookId: 5,
+  publishDate: "2026-10-07",
+  description: "Learn the appropriate prepositions list with 80+ verb, adjective and noun pairs, examples, a 7-day plan and a 12-question quiz with answers for exams.",
+  formula: "Verb / adjective / noun + fixed preposition: learn the pair, not the word",
+  body: `
+<img src="images/appropriate-prepositions-list-hero.webp"
+     alt="Appropriate prepositions list with verb, adjective and noun pairs and examples"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Ask a Class 12 student to complete "She is good ___ maths" and almost everyone writes <i>at</i>. Now ask for "She is jealous ___ her friend's success" and the room goes quiet. Same type of word, same type of sentence, but one pair feels familiar and the other doesn't.</p>
+
+<p>That's the whole story of appropriate prepositions. There's no hidden logic. Some words simply belong together, the way tea belongs with a cup. Examiners know that, and they test it in error spotting, fill in the blanks and sentence improvement year after year.</p>
+
+<p>The good news is that you don't need to learn 500 pairs in random order. In 22 years of teaching, I've found that students remember them best when they're grouped by word type (verbs, adjectives and nouns) and then by the preposition itself. That's exactly how this list is built. Each pair has an example sentence, because a pair on its own is easy to forget and a sentence is not.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Quick answer:</b> An appropriate preposition is the fixed preposition that a particular verb, adjective or noun takes. Examples: <i>depend on</i>, <i>fond of</i>, <i>reason for</i>. They're learned as pairs, not worked out by rule. Start with the three lists below, learn five pairs a day, and test yourself with the 12-question quiz at the end.
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">What are appropriate prepositions?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Verb + preposition list with examples</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Adjective + preposition list with examples</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Noun + preposition list with examples</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Words that change meaning with the preposition</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Using these pairs in your own writing</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">5 ways to memorise appropriate prepositions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Three exam traps to watch for</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">A 7-day plan to learn the whole list</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Quick quiz: 12 fill-in-the-blanks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">Make these pairs yours</a></li>
+</ol>
+
+<h2 id="section-1">What are appropriate prepositions?</h2>
+
+<p>An appropriate preposition (also called a dependent preposition) is the preposition that must follow a certain word to make the phrase correct. We say "depend on", never "depend from". We say "afraid of", never "afraid from". The word before the preposition decides which one is right.</p>
+
+<p>The three most common patterns are:</p>
+
+<ul>
+<li><b>Verb + preposition:</b> listen to, believe in, wait for</li>
+<li><b>Adjective + preposition:</b> proud of, interested in, responsible for</li>
+<li><b>Noun + preposition:</b> reason for, solution to, increase in</li>
+</ul>
+
+<p>If you're still unsure about the small time and place words, my guides on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">in, on and at</a> and on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">preposition error spotting</a> are good companions to this one.</p>
+
+<h2 id="section-2">Verb + preposition list with examples</h2>
+
+<p>Verbs cause the most trouble, so let's start here. The table is sorted by preposition so you can revise one family at a time.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Example</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> accuse of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He was accused of cheating.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> approve of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">My parents approve of my plan.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> consist of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The team consists of eleven players.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> remind of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This song reminds me of my school days.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> think of / dream of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She dreams of becoming an officer.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> belong to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This bag belongs to Riya.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> listen to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Please listen to the instructions.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> refer to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The speaker referred to a recent survey.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> adhere to / object to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Candidates must adhere to the rules.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> look forward to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We look forward to meeting you.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> contribute to / lead to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Hard work leads to success.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> comply with / deal with / cope with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">How do you deal with exam stress?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> interfere with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Noise interferes with my concentration.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> provide (someone) with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The school provides students with books.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> charge (someone) with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The police charged him with theft.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> suffer from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She suffers from back pain.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> prevent / prohibit from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Rain prevented us from playing.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> protect from / escape from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Wear a cap to protect yourself from the sun.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> recover from / benefit from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He has recovered from his illness.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on:</b> depend on / rely on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You can rely on me.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on:</b> insist on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He insisted on paying the bill.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on:</b> focus on / concentrate on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Focus on your weak areas.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on:</b> congratulate on / comment on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We congratulated her on her promotion.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>in:</b> believe in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I believe in hard work.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>in:</b> succeed in / persist in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She succeeded in clearing the exam.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>in:</b> participate in / specialise in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Many students participated in the debate.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> wait for / look for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We are waiting for the results.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> apply for / ask for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He applied for a bank job.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> blame for / thank for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Don't blame others for your mistakes.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>at:</b> laugh at / smile at</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Don't laugh at anyone's mistakes.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>at:</b> aim at / glance at</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He aimed at the target.</td></tr>
+</table></div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Want these lists with practice after every group?</b> In my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</a>, fixed prepositions after verbs and adjectives, confusing pairs and error-spotting practice are laid out unit by unit. Keep going, because adjectives and nouns come next.
+</div>
+
+<h2 id="section-3">Adjective + preposition list with examples</h2>
+
+<p>Adjectives are a bit kinder. Many of them follow the same prepositions again and again, so patterns appear quickly.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Example</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> afraid of / fond of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She is afraid of heights but fond of travelling.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> proud of / ashamed of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We are proud of our team.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> aware of / conscious of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Are you aware of the deadline?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> capable of / guilty of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He is capable of solving it.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> jealous of / tired of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I'm tired of waiting.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>of:</b> full of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The hall was full of students.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> married to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She is married to an engineer.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> senior to / junior to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He is junior to me in service.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> superior to / inferior to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This brand is superior to that one.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>to:</b> similar to / loyal to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Your idea is similar to mine.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> satisfied with / pleased with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The manager was pleased with our work.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> familiar with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Are you familiar with this topic?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>with:</b> angry with (person)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She was angry with her brother.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>at:</b> good at / bad at</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He is good at mental maths.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>at:</b> surprised at / shocked at</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We were shocked at the news.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>in:</b> interested in / weak in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I'm interested in journalism.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>in:</b> rich in / deficient in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Spinach is rich in iron.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> free from / safe from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The area is free from pollution.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>from:</b> different from / absent from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Two students were absent from class.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>on:</b> keen on / dependent on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She is keen on learning French.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> famous for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Pune is famous for its educational institutions.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> responsible for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He is responsible for the final report.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> ready for / late for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Are you ready for the interview?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>for:</b> suitable for / necessary for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This book is suitable for beginners.</td></tr>
+</table></div>
+
+<h2 id="section-4">Noun + preposition list with examples</h2>
+
+<p>Nouns are the most ignored group, and that's why they surprise students in sentence improvement questions. Spend extra time here.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Example</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">reason for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">What is the reason for the delay?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">cause of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Carelessness is the main cause of errors.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">need for / demand for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">There is a growing demand for skilled workers.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">respect for / love for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He has great respect for his teachers.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">solution to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">We need a solution to this problem.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">answer to / reply to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She knew the answer to every question.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">key to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Practice is the key to success.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">invitation to / reaction to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">What was your reaction to the news?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">increase in / decrease in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">There was a sharp increase in prices.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">interest in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He shows a keen interest in sports.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">belief in / faith in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Have faith in your preparation.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">confidence in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I have full confidence in her ability.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">difficulty in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She had difficulty in finding the address.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">advantage of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Take advantage of every chance to practise.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">difference between</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">What is the difference between these two words?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">possibility of / chance of</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">There's a chance of rain tonight.</td></tr>
+</table></div>
+
+<h2 id="section-5">Words that change meaning with the preposition</h2>
+
+<p>This is where examiners get creative. The same word takes different prepositions, and the meaning shifts.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Word</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What changes</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">look at / look for / look after / look into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">look at = see; look for = search; look after = take care of; look into = investigate</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">agree with / agree to / agree on</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">agree with a person or opinion; agree to a plan or request; agree on a matter that people decide together</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">angry with / angry at</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">angry with a person; angry at a thing or situation</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">arrive at / arrive in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">arrive at a station, airport or small place; arrive in a city or country</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">result in / result from</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The rain resulted in a delay (effect). The delay resulted from the rain (cause).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">compare with / compare to</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">compare with = examine differences in detail; compare to = point out a likeness</td></tr>
+</table></div>
+
+<p>Don't try to memorise every row at once. Pick two rows a day, write one sentence for each version, and say them aloud.</p>
+
+<h2 id="section-6">Using these pairs in your own writing</h2>
+
+<p>Fixed prepositions don't only help in objective questions. They show up in letters, essays and emails, where a wrong pair quietly lowers the impression your writing makes. A formal letter that says "I am interested to this post" or "I am looking forward for your reply" looks careless, even if everything else is neat.</p>
+
+<p>Here's a simple habit. After you finish writing, scan only for prepositions. Circle each one, look at the word before it, and ask: is this a pair I know? It takes less than a minute, and it catches the errors your eyes skip while reading for meaning. Correct versions of the two examples above are "I am interested in this post" and "I am looking forward to your reply".</p>
+
+<h2 id="section-7">5 ways to memorise appropriate prepositions</h2>
+
+<ol>
+<li><b>Learn by family.</b> One day for the "of" family, one day for "to", one for "with" and "from", and so on. Your brain remembers patterns better than loose items.</li>
+<li><b>Group by meaning.</b> Communication verbs often take "to" (reply to, listen to, refer to). Verbs of blame and thanks take "for". Verbs of belief and success take "in".</li>
+<li><b>Always learn the pair with a sentence.</b> "Fond of" is forgettable. "She is fond of classical music" sticks.</li>
+<li><b>Five pairs a day, not fifty.</b> Revise yesterday's five before you add today's. In three weeks you'll have covered the whole list in this article.</li>
+<li><b>Read and mark.</b> Take one newspaper editorial and underline every verb, adjective or noun followed by a preposition. You'll be surprised how often you've already met these pairs.</li>
+</ol>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>A small classroom tip:</b> Write each pair on one side of a card and a gap sentence on the other: "She is jealous ___ her friend." Flip, answer, check. My ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar</a> is built on the same learn-practise-check rhythm.
+</div>
+
+<h2 id="section-8">Three exam traps to watch for</h2>
+
+<ul>
+<li><b>"Than" instead of "to".</b> Senior, junior, superior, inferior and prefer all take "to". Example: "I prefer tea to coffee."</li>
+<li><b>An extra preposition.</b> Discuss, comprise, mention and reach take no preposition at all. "We discussed the plan" is right, and "discussed about" is wrong.</li>
+<li><b>The look-alike pair.</b> Thank for, congratulate on. Blame for, accuse of. Suffer from, die of. Slow down and check the pair before you decide.</li>
+</ul>
+
+<p>For a full set of these mistakes, with corrections and a test, read my guide on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">15 common preposition mistakes in SSC CGL and bank exams</a>.</p>
+
+<h2 id="section-9">A 7-day plan to learn the whole list</h2>
+
+<p>Lists are only useful if you finish them. Here's a plan I give my batches, with about fifteen minutes a day.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Day</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to learn</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to do</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Verbs with "of" and "to"</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Write one new sentence for each pair</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Verbs with "with" and "from"</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Revise Day 1, then repeat the same routine</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Verbs with "on" and "in"</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Cover the right column and test yourself</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Verbs with "for" and "at"</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Say five sentences aloud without looking</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Adjective pairs</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Make cards with a gap sentence on the back</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Noun pairs and the meaning-change table</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Write a short paragraph using eight pairs</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">7</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Revision day</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Take the 12-question quiz and fix your weak families</td></tr>
+</table></div>
+
+<p>If you slip on a day, don't restart. Just carry on from where you stopped. Consistency matters more than perfect streaks.</p>
+
+<h2 id="section-10">Quick quiz: 12 fill-in-the-blanks</h2>
+
+<p>Fill in each blank with the correct preposition. Don't peek at the answers until you've tried all twelve.</p>
+
+<ol>
+<li>She is proud ____ her daughter.</li>
+<li>He has been suffering ____ fever for two days.</li>
+<li>The teacher congratulated him ____ his success.</li>
+<li>This house belongs ____ my uncle.</li>
+<li>We are looking forward ____ the holidays.</li>
+<li>She is fond ____ classical music.</li>
+<li>The doctor prevented him ____ going out.</li>
+<li>Are you satisfied ____ your results?</li>
+<li>He is responsible ____ the whole project.</li>
+<li>The government is trying to find a solution ____ this problem.</li>
+<li>He apologised ____ his mistake to the teacher.</li>
+<li>The new rule resulted ____ a lot of confusion.</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b> 1) of 2) from 3) on 4) to 5) to 6) of 7) from 8) with 9) for 10) to 11) for 12) in
+<br><br>
+<b>Your score:</b> 11 or 12 means you're in great shape. 8 to 10 means revise the families where you slipped. Below 8, go back to the verb table and try again after two days.
+</div>
+
+<h2 id="section-11">Frequently asked questions</h2>
+
+<h3>Is there a rule to find the right preposition?</h3>
+<p>Not a single rule. Most pairs come from usage, so you learn them as pairs. But patterns help: communication verbs lean towards "to", and verbs of blame and thanks take "for".</p>
+
+<h3>Is it "depend on" or "depend upon"?</h3>
+<p>Both are correct. "Upon" is a little more formal. In an exam, if both appear in different options, check the rest of the sentence for the real error.</p>
+
+<h3>How many appropriate prepositions should I learn each day?</h3>
+<p>Five is a good number. Revise the previous day's five first, then add the new ones. This keeps your revision light and your memory strong.</p>
+
+<h3>Do appropriate prepositions change between British and American English?</h3>
+<p>A few do, like "different from" and "different than", but the standard pairs in exam syllabi follow the traditional forms. When in doubt, choose the classic pair.</p>
+
+<h3>Which list should I learn first?</h3>
+<p>Start with verbs, because they appear most often in error-spotting and fill-in-the-blank questions. Then move to adjectives, and finally nouns.</p>
+
+<h2 id="section-12">Make these pairs yours</h2>
+
+<p>You've now got more than 80 pairs, each with an example. That's a serious toolkit, but only if you use it. Choose one family today, write a sentence for each pair, and say them aloud. Tomorrow, move to the next family. Three weeks from now, these pairs will feel as natural as your own phone number.</p>
+
+<p>For the complete system, with more pairs, confusing combinations and exam-style practice, my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener"><strong>Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</strong></a> keeps everything in one place.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a rule to find the right preposition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not a single rule. Most pairs come from usage, so you learn them as pairs. But patterns help: communication verbs lean towards \"to\", and verbs of blame and thanks take \"for\"."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it \"depend on\" or \"depend upon\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both are correct. \"Upon\" is a little more formal. In an exam, if both appear in different options, check the rest of the sentence for the real error."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many appropriate prepositions should I learn each day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Five is a good number. Revise the previous day's five first, then add the new ones. This keeps your revision light and your memory strong."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do appropriate prepositions change between British and American English?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A few do, like \"different from\" and \"different than\", but the standard pairs in exam syllabi follow the traditional forms. When in doubt, choose the classic pair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which list should I learn first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with verbs, because they appear most often in error-spotting and fill-in-the-blank questions. Then move to adjectives, and finally nouns."
+      }
+    }
+  ]
+}
+</script>
+
+`
 }
 
 ];
