@@ -8192,7 +8192,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   slug: "preposition-fill-in-the-blanks-tricks",
   title: "Fill in the Blanks with Prepositions: 5 Tricks to Pick the Right Answer Fast",
   category: "Prepositions",
-  readingTime: "14 min read",
+  readingTime: "15 min read",
   difficulty: "Intermediate",
   bookId: 5,
   publishDate: "2026-10-08",
@@ -8218,6 +8218,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
 <li><b>Eliminate</b> two options in five seconds.</li>
 <li>Check for a <b>fixed phrase</b> or idiom first.</li>
 </ol>
+<b>Memory shortcut:</b> <b>B-A-M-E-F</b> = "<b>B</b>e <b>A</b> <b>M</b>aster, <b>E</b>liminate <b>F</b>ast" (Before, After, Meaning, Eliminate, Fixed phrase).
 </div>
 
 <h3>In This Guide</h3>
@@ -8228,13 +8229,14 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Trick 3: Use the meaning test for look-alike pairs</a></li>
   <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Trick 4: Eliminate two options in five seconds</a></li>
   <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Trick 5: Check for fixed phrases and idioms first</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Your 20-second exam-hall routine</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Cloze passage practice: using all five tricks together</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">5 mistakes students make in fill-in-the-blanks</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Practice set: 10 questions to solve with the 5 tricks</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">A 10-minute daily practice habit</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
-  <li><a href="javascript:void(0)" onclick="document.getElementById('section-13').scrollIntoView({behavior:'smooth'})">Solve, don't guess</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Memory shortcuts you can save</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Your 20-second exam-hall routine</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Cloze passage practice: using all five tricks together</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">5 mistakes students make in fill-in-the-blanks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Practice set: 10 questions to solve with the 5 tricks</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">A 10-minute daily practice habit</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-13').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-14').scrollIntoView({behavior:'smooth'})">Solve, don't guess</a></li>
 </ol>
 
 <h2 id="section-1">Why fill-in-the-blank questions feel so tricky</h2>
@@ -8337,7 +8339,25 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
 
 <p>A quick method: when you read the sentence, ask, "Does any part of this sound like a ready-made phrase?" If yes, check it against this list before you apply any rule.</p>
 
-<h2 id="section-7">Your 20-second exam-hall routine</h2>
+<h2 id="section-7">Memory shortcuts you can save</h2>
+
+<p>Tricks work better when they stick. Here are the shortcuts I give my students. Screenshot this table and revise it before every test.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Topic</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Memory shortcut</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The 5 tricks</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>B-A-M-E-F</b>: "Be A Master, Eliminate Fast"</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">at / on / in (time)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Clock, calendar, years: <b>AT</b> the clock, <b>ON</b> the calendar day, <b>IN</b> the long stretch</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since / for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>S</b>ince = <b>S</b>tart point. <b>F</b>or = <b>F</b>ixed length.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between / among</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be<b>TW</b>een has <b>TW</b>o. <b>Among</b> means many.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">by / with</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>B</b>y = <b>B</b>oss (the doer). <b>W</b>ith = <b>W</b>eapon (the tool).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>IN + TO = INTO</b>. Into is movement towards the inside.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">beside / besides</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Beside = by the <b>side</b>. Besides has an extra <b>S</b> for <b>extra</b> things.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">look forward to ___</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">"If <b>TO</b> is a preposition, <b>-ING</b> is the condition." (looking forward to meeting)</td></tr>
+</table></div>
+
+<p>Pick two shortcuts a day and use each in one sentence of your own. Your own sentence will stay in memory far longer than mine.</p>
+
+<h2 id="section-8">Your 20-second exam-hall routine</h2>
 
 <p>Let's put the five tricks into one routine you can run on every blank.</p>
 
@@ -8352,7 +8372,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
 
 <p>You won't hit exact timings at first, and that's fine. Speed comes after accuracy. Practise the routine slowly on ten questions a day, and within two weeks it will run on its own.</p>
 
-<h2 id="section-8">Cloze passage practice: using all five tricks together</h2>
+<h2 id="section-9">Cloze passage practice: using all five tricks together</h2>
 
 <p>In a cloze passage, the blanks sit inside a paragraph, and that actually helps you, because the surrounding sentences give extra clues. Try this one. Write down your seven answers before you look.</p>
 
@@ -8364,7 +8384,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 
 <p>Which trick solved which blank? Blank 1: Trick 2 (clock time → at). Blanks 2 and 3: Trick 1 (excited about, worried about). Blanks 4 and 5: Trick 5 (on foot, on time). Blank 6: Trick 1 (pleased with). Blank 7: Trick 1 (congratulate on). Once you see which trick you used, you'll start choosing them automatically.</p>
 
-<h2 id="section-9">5 mistakes students make in fill-in-the-blanks</h2>
+<h2 id="section-10">5 mistakes students make in fill-in-the-blanks</h2>
 
 <ul>
 <li><b>Reading the options before the sentence.</b> The options bias you. Read the sentence with the blank first, and form your own guess.</li>
@@ -8374,7 +8394,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 <li><b>Going by the ear.</b> If a phrase "sounds fine", check it against the pair. "Discuss about" sounds fine to many people.</li>
 </ul>
 
-<h2 id="section-10">Practice set: 10 questions to solve with the 5 tricks</h2>
+<h2 id="section-11">Practice set: 10 questions to solve with the 5 tricks</h2>
 
 <ol>
 <li>The meeting is scheduled ___ Friday. (a) in (b) at (c) on (d) by</li>
@@ -8405,13 +8425,13 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 <b>Your score:</b> 9 or 10 means you're exam-ready. 6 to 8 means revisit the trick where you slipped. Below 6, reread Tricks 1 and 2 and try again after two days.
 </div>
 
-<h2 id="section-11">A 10-minute daily practice habit</h2>
+<h2 id="section-12">A 10-minute daily practice habit</h2>
 
 <p>Tricks only work if you use them regularly. Here's the habit I recommend to my batches. Pick ten fill-in-the-blank questions from any source, whether a practice paper, a mock test or the sets in this series. Solve them without a timer first, and write the trick you used next to each answer. Then check your score and note any slip in a small notebook: the sentence, the correct preposition and the trick you missed.</p>
 
 <p>After a week, you'll notice that your slips cluster around one or two tricks, perhaps the meaning test or fixed phrases. Those are your weak spots, and now you know exactly where to spend your time. This is much better than doing a hundred random questions and hoping something sticks. If you also want practice on spotting mistakes, my guide on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">preposition error spotting</a> uses the same pair-by-pair approach.</p>
 
-<h2 id="section-12">Frequently asked questions</h2>
+<h2 id="section-13">Frequently asked questions</h2>
 
 <h3>How much time should I spend on each blank?</h3>
 <p>As a rule of thumb, aim for about twenty seconds. If you can't decide, eliminate the clearly wrong options and move on. You can come back if time remains.</p>
@@ -8428,7 +8448,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 <h3>What if two options both sound correct?</h3>
 <p>Run the meaning test from Trick 3. Ask what the sentence is really saying: a point or a length, two or many, the doer or the tool. The meaning decides which one is correct.</p>
 
-<h2 id="section-13">Solve, don't guess</h2>
+<h2 id="section-14">Solve, don't guess</h2>
 
 <p>The next time a fill-in-the-blank question shows up, don't reach for the option that "sounds right". Read before the blank, read after the blank, run the meaning test, eliminate and check for a fixed phrase. That routine takes less time than guessing and gives you a reason for every answer.</p>
 
@@ -8489,6 +8509,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 
 `
 }
+
 
 
 ];
