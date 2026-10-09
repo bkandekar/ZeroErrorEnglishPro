@@ -8508,6 +8508,379 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
 </script>
 
 `
+},
+  
+
+
+{
+  slug: "confusing-prepositions-between-among-since-for-beside-besides",
+  title: "Confusing Prepositions Explained: Between vs Among, Since vs For, Beside vs Besides",
+  category: "Prepositions",
+  readingTime: "14 min read",
+  difficulty: "Intermediate",
+  bookId: 5,
+  publishDate: "2026-10-09",
+  description: "Clear confusing prepositions with simple tests and memory shortcuts: between vs among, since vs for, beside vs besides and more, plus a 12-question practice set.",
+  formula: "Two or many? Number or date? Side or extra? Ask the one-line test for each pair",
+  body: `
+<img src="images/confusing-prepositions-between-among-hero.webp"
+     alt="Confusing prepositions explained: between vs among, since vs for, beside vs besides with memory shortcuts"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>"The sweets were divided between the five children." Sounds fine, right? It isn't. And "I am living in Pune since 2015" has a hidden mistake too. These two sentences are the kind that quietly cost marks in error spotting, sentence improvement and fill in the blanks.</p>
+
+<p>Why do we get them wrong? Because the pairs look alike, they sound alike, and in everyday talk people use them loosely. Between and among. Since and for. Beside and besides. Examiners know that a student who relies on the ear will slip, so they build questions around exactly these pairs.</p>
+
+<p>This guide gives you a clear rule, a simple test and a memory shortcut for each pair. After 22 years of teaching, I've learned that a good shortcut beats a long explanation every time. You'll also find a mid-article cheat sheet to screenshot, a practice set with answers and the traps that examiners love. The examples are <b>common exam patterns</b>, not questions from any particular year's paper.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Quick answer: 7 confusing pairs at a glance</b>
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">One-line test</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between / among</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Two (between) or more than two (among)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since / for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Starting point (since) or length of time (for)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">beside / besides</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Next to (beside) or in addition to (besides)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Already inside (in) or moving inside (into)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">by / until</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">A deadline (by) or a continuing period (until)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / within</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">After a time (in) or before it ends (within)?</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">during / while</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Followed by a noun (during) or a clause (while)?</td></tr>
+</table></div>
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">1. Between vs among</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">2. Since vs for</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">3. Beside vs besides</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">4. In vs into</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Memory shortcuts cheat sheet (screenshot this)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">5. By vs until</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">6. In vs within</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">7. During vs while</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">The 30-second scan: spot which pair is being tested</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Exam traps with these pairs</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Mini error-spotting set: 6 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">Practice set: 12 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-13').scrollIntoView({behavior:'smooth'})">A 7-day plan: one pair a day</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-14').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-15').scrollIntoView({behavior:'smooth'})">Remember the test, not the rule</a></li>
+</ol>
+
+<h2 id="section-1">1. Between vs among</h2>
+
+<p><b>The rule:</b> Use <b>between</b> for two people or things. Use <b>among</b> for three or more.</p>
+
+<ul>
+<li>The twins shared the chocolate <b>between</b> themselves.</li>
+<li>The principal distributed the books <b>among</b> the students.</li>
+<li>There is no difference <b>between</b> the two plans.</li>
+<li>She was standing <b>among</b> a crowd of fans.</li>
+</ul>
+
+<p>A note on subtle cases: <i>between</i> is also used for more than two when the items are clearly separate and distinct, as in "a treaty between the three countries" or "the distance between Pune, Mumbai and Nashik". In exam questions, though, the safe rule is two for <i>between</i> and more than two for <i>among</i>, unless the sentence clearly lists separate items.</p>
+
+<p><b>The classic trap:</b> "Between you and I" is wrong. After a preposition, we use the object form: <b>between you and me</b>. This one shows up again and again.</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> Be<b>TW</b>een has <b>TW</b>o. <b>AMONG</b> = a <b>MOB</b> (many).
+</div>
+
+<h2 id="section-2">2. Since vs for</h2>
+
+<p><b>The rule:</b> Use <b>since</b> with a <i>starting point</i> (a date, day, time or event). Use <b>for</b> with a <i>length of time</i> (a number of hours, days or years). Both usually go with perfect tenses.</p>
+
+<ul>
+<li>I have been learning English <b>since</b> 2022.</li>
+<li>She has been waiting <b>for</b> two hours.</li>
+<li>He has lived here <b>since</b> his childhood.</li>
+<li>We have known each other <b>for</b> ten years.</li>
+</ul>
+
+<p><b>The classic trap:</b> "I am living in Pune since 2015" is wrong. Since and for with a period up to now need a perfect tense: "I <b>have been living</b> in Pune since 2015." If the period is finished, use <i>from ... to</i> with the simple past: "He worked here from 2010 to 2015."</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> Can you put a <b>number</b> in front of it (two hours, five years)? Use <b>FOR</b>. Is it a <b>date or event</b> (2022, Monday, last Diwali)? Use <b>SINCE</b>.
+</div>
+
+<h2 id="section-3">3. Beside vs besides</h2>
+
+<p><b>The rule:</b> <b>Beside</b> means "next to". <b>Besides</b> means "in addition to" or "apart from".</p>
+
+<ul>
+<li>She sat <b>beside</b> me during the lecture.</li>
+<li>There is a tall tree <b>beside</b> the temple.</li>
+<li><b>Besides</b> English, he teaches maths and science.</li>
+<li>Who else is coming <b>besides</b> Rahul?</li>
+</ul>
+
+<p>The word <i>besides</i> can also stand alone as a linking word meaning "also": "I don't want to go. Besides, it's too late." That's a different use, so don't confuse it with the preposition.</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> Be<b>SIDE</b> = by the <b>side</b>. Be<b>SIDES</b> has an <b>extra S</b> for <b>extra</b> things.
+</div>
+
+<h2 id="section-4">4. In vs into</h2>
+
+<p><b>The rule:</b> <b>In</b> tells us where something is. <b>Into</b> tells us movement towards the inside, or a change of state.</p>
+
+<ul>
+<li>The cat is sleeping <b>in</b> the box.</li>
+<li>The cat jumped <b>into</b> the box.</li>
+<li>Water turns <b>into</b> ice at zero degrees Celsius.</li>
+<li>She came <b>into</b> the room and sat down.</li>
+</ul>
+
+<p>One small point: "log in to your account" is not the same as "into". There, <i>in</i> belongs to the verb "log in" and <i>to</i> is a separate preposition.</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> <b>IN + TO = INTO</b>. If you can see the movement, you need into.
+</div>
+
+<h2 id="section-5">Memory shortcuts cheat sheet (screenshot this)</h2>
+
+<p>Before we go further, here's every shortcut in one place. Save this table and revise it before a test.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Memory shortcut</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between / among</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be<b>TW</b>een = <b>TW</b>o. <b>AMONG</b> = a <b>MOB</b> (many).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since / for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Number in front? <b>FOR</b>. Date or event? <b>SINCE</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">beside / besides</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be<b>SIDE</b> = side. Be<b>SIDES</b> = extra S for <b>extra</b> things.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>IN + TO = INTO</b> (movement inside).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">by / until</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>BY</b> = deadline. <b>UNTIL</b> = <b>UN</b>broken stretch.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / within</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>IN</b> = after the time. <b>WITHIN</b> = <b>WITH</b>in the limit, before it ends.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">during / while</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>DURING</b> brings a <b>noun</b>. <b>WHILE</b> brings a <b>whole clause</b> (with a verb).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between you and ___</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">After a preposition, use <b>me</b>, never "I".</td></tr>
+</table></div>
+
+<p>A word about how to use these. A shortcut works best when it feels like yours, so feel free to change mine. If "mob" doesn't ring a bell, pick another image for <i>among</i>, such as a crowd at a railway station. The goal isn't to memorise my words. The goal is to attach each pair to something you'll recall in the middle of an exam when your heart is beating a little faster. I've seen students invent shortcuts in Marathi and Hindi that worked even better than mine, and that's perfectly fine.</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Want more shortcuts and practice like this?</b> In my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener">Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</a>, confusing pairs, fixed prepositions and error-spotting practice are laid out step by step. Now let's finish the last three pairs.
+</div>
+
+<h2 id="section-6">5. By vs until</h2>
+
+<p><b>The rule:</b> <b>By</b> means "not later than" a certain time. It marks a deadline. <b>Until</b> (or <b>till</b>) means "continuing up to" a time. It describes something that goes on.</p>
+
+<ul>
+<li>Submit the form <b>by</b> Friday. (any time before or on Friday)</li>
+<li>Please wait <b>until</b> Friday. (wait continuously up to Friday)</li>
+<li>I will finish the report <b>by</b> evening.</li>
+<li>She studied <b>until</b> midnight.</li>
+</ul>
+
+<p>Ask yourself: is there an action that continues, like waiting, studying or working? That usually takes <i>until</i>. Is there a single action that must be done before a time, like submitting, finishing or arriving? That usually takes <i>by</i>.</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> <b>BY</b> = deadline. <b>UNTIL</b> = <b>UN</b>broken stretch.
+</div>
+
+<h2 id="section-7">6. In vs within</h2>
+
+<p><b>The rule:</b> <b>In</b> a period of time means "after" that period has passed. <b>Within</b> means "before that period is over".</p>
+
+<ul>
+<li>The train will leave <b>in</b> ten minutes. (after ten minutes)</li>
+<li>Complete the form <b>within</b> ten minutes. (before ten minutes are over)</li>
+<li>The parcel will reach you <b>within</b> three days.</li>
+<li>I'll see you <b>in</b> a week.</li>
+</ul>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> <b>WITH</b>in = <b>WITH</b>in the limit. <b>IN</b> = at the end of the period.
+</div>
+
+<h2 id="section-8">7. During vs while</h2>
+
+<p><b>The rule:</b> <b>During</b> is a preposition, so it's followed by a noun. <b>While</b> is a conjunction, so it's followed by a clause (a subject and a verb).</p>
+
+<ul>
+<li>He fell asleep <b>during</b> the lecture.</li>
+<li>He fell asleep <b>while</b> the teacher was speaking.</li>
+<li>Don't use your phone <b>during</b> the exam.</li>
+<li>Don't use your phone <b>while</b> you are driving.</li>
+</ul>
+
+<p>People also mix up <i>during</i> and <i>for</i>. <b>During</b> says when something happened ("during the summer"). <b>For</b> says how long it lasted ("for three months").</p>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut:</b> <b>DURING</b> + <b>noun</b>. <b>WHILE</b> + <b>whole clause</b>. Look at the next word and you'll know.
+</div>
+
+<h2 id="section-9">The 30-second scan: spot which pair is being tested</h2>
+
+<p>In the exam, you don't have time to think "which of my seven rules applies?" Here's a quick way to let the sentence tell you.</p>
+
+<ol>
+<li><b>Look at the options or the underlined word.</b> If you see between, among, since, for, beside, besides, by, until, within, during or while, you already know which family you're in.</li>
+<li><b>Ask the one-line test from the table at the top.</b> Two or many? Number or date? Noun or clause?</li>
+<li><b>Check the neighbour.</b> The word right after the blank (a number, a date, a noun, a clause) usually settles it. If the neighbour is "two hours", it's for. If it's "2019", it's since.</li>
+</ol>
+
+<p>This three-step scan takes about thirty seconds on your first few tries and under ten once it becomes a habit.</p>
+
+<h2 id="section-10">Exam traps with these pairs</h2>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Wrong</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Right</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Why</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">The prize was shared between the five winners.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">The prize was shared among the five winners.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">More than two.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">This is a secret between you and I.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">This is a secret between you and me.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Object form after a preposition.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">I am working here since 2019.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">I have been working here since 2019.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Since needs a perfect tense.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">She has lived here since five years.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">She has lived here for five years.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">A length of time takes for.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">Beside English, he teaches maths.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">Besides English, he teaches maths.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">"In addition to" needs besides.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">He fell asleep while the lecture.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">He fell asleep during the lecture.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">While needs a clause.</td></tr>
+</table></div>
+
+<p>If you also want to master fixed pairs like "senior to" and "suffer from", my guides on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">preposition error spotting</a> and on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-fill-in-the-blanks-tricks/">fill in the blanks with prepositions</a> are the natural next steps.</p>
+
+<h2 id="section-11">Mini error-spotting set: 6 questions</h2>
+
+<p>Each sentence has three parts, (A), (B) and (C), and (D) means "No error". Find the part with the error.</p>
+
+<ol>
+<li>The teacher distributed the sweets (A) / between the (B) / twenty students. (C) / No error (D)</li>
+<li>I have been (A) / learning French (B) / for last year. (C) / No error (D)</li>
+<li>Beside her mother, (A) / she has two (B) / sisters and a brother. (C) / No error (D)</li>
+<li>The cat jumped (A) / in the basket (B) / and fell asleep. (C) / No error (D)</li>
+<li>Please finish (A) / the work until (B) / Monday morning. (C) / No error (D)</li>
+<li>He listened to music (A) / while the journey (B) / to Pune. (C) / No error (D)</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b> 1) B (among the twenty students) 2) C (since last year) 3) A (Besides her mother) 4) B (into the basket) 5) B (by Monday morning) 6) B (during the journey)
+</div>
+
+<h2 id="section-12">Practice set: 12 questions</h2>
+
+<p>Choose the correct word or write the missing preposition. Try all twelve before you look at the answers.</p>
+
+<ol>
+<li>The prize money was shared ___ the five finalists. (between / among)</li>
+<li>There is no secret ___ you and me. (between / among)</li>
+<li>I have been learning English ___ 2022. (since / for)</li>
+<li>She has been waiting ___ two hours. (since / for)</li>
+<li>A tall tree stands ___ the temple. (beside / besides)</li>
+<li>___ English, he speaks German and French. (Beside / Besides)</li>
+<li>The ball rolled ___ the room. (in / into)</li>
+<li>Submit the form ___ Friday at the latest. (by / until)</li>
+<li>Please wait here ___ I return. (by / until)</li>
+<li>Complete the form ___ ten minutes, or you will be disqualified. (in / within)</li>
+<li>He fell asleep ___ the lecture. (during / while)</li>
+<li>She fell asleep ___ she was reading. (during / while)</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers with reasons:</b>
+<br>1) among (five finalists)
+<br>2) between (two people: you and me)
+<br>3) since (2022 is a starting point)
+<br>4) for (two hours is a length)
+<br>5) beside (next to)
+<br>6) Besides (in addition to)
+<br>7) into (movement towards the inside)
+<br>8) by (a deadline)
+<br>9) until (waiting continues up to the return)
+<br>10) within (before ten minutes are over)
+<br>11) during (followed by a noun)
+<br>12) while (followed by a clause)
+<br><br>
+<b>Your score:</b> 11 or 12 means you're exam-ready. 8 to 10 means revisit the pair where you slipped. Below 8, reread the cheat sheet and try again after two days.
+</div>
+
+<h2 id="section-13">A 7-day plan: one pair a day</h2>
+
+<p>Seven pairs, seven days. Spend about ten minutes a day, and don't skip the sentence-writing step.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Day</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Pair</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to do</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between / among</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Say the shortcut aloud. Write three sentences using each word.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since / for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Write five sentences about yourself, using numbers and dates.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">beside / besides</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Describe your room with beside. Describe your hobbies with besides.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Describe three movements and three positions around you.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">by / until</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Write your deadlines with by. Write your waiting times with until.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / within, during / while</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Write two sentences for each of the four words.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">7</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Revision</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Cover the table, recall every shortcut and take the 12-question practice set again.</td></tr>
+</table></div>
+
+<p>Don't worry if you miss a day. Pick up from where you stopped.</p>
+
+<h2 id="section-14">Frequently asked questions</h2>
+
+<h3>Can "between" be used for more than two?</h3>
+<p>Yes, when the items are clearly separate and distinct, as in "the distance between three cities". But in most exam questions, use the simple rule: two for between, more than two for among.</p>
+
+<h3>Is "between you and I" ever correct?</h3>
+<p>Standard grammar, and every exam answer key, says "between you and me". A preposition takes the object form of a pronoun.</p>
+
+<h3>Can I use "since" with a simple past tense?</h3>
+<p>Mostly no, when you are talking about a period up to now. Use a perfect tense: "I have lived here since 2015". A sentence like "It is ten years since I left school" is a special pattern, so treat it as a fixed structure.</p>
+
+<h3>Are "beside" and "besides" ever interchangeable?</h3>
+<p>No. Beside means "next to". Besides means "in addition to". Mixing them up changes the meaning completely, which is why examiners test them.</p>
+
+<h3>How do I remember so many pairs?</h3>
+<p>Use the shortcuts in the cheat sheet. Pick two pairs a day, say each shortcut aloud and write one sentence of your own. Within a week, all seven will feel familiar.</p>
+
+<h2 id="section-15">Remember the test, not the rule</h2>
+
+<p>These seven pairs look confusing only until you attach a quick test to each one: two or many, number or date, side or extra, still or moving, deadline or stretch, after or before, noun or clause. Five seconds with the right test beats a minute of worry.</p>
+
+<p>For the complete system, my ebook <a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener"><strong>Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</strong></a> brings the rules, confusing pairs and exam-style practice together in one place.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can \"between\" be used for more than two?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, when the items are clearly separate and distinct, as in \"the distance between three cities\". But in most exam questions, use the simple rule: two for between, more than two for among."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is \"between you and I\" ever correct?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard grammar, and every exam answer key, says \"between you and me\". A preposition takes the object form of a pronoun."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use \"since\" with a simple past tense?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mostly no, when you are talking about a period up to now. Use a perfect tense: \"I have lived here since 2015\". A sentence like \"It is ten years since I left school\" is a special pattern, so treat it as a fixed structure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are \"beside\" and \"besides\" ever interchangeable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Beside means \"next to\". Besides means \"in addition to\". Mixing them up changes the meaning completely, which is why examiners test them."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I remember so many pairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the shortcuts in the cheat sheet. Pick two pairs a day, say each shortcut aloud and write one sentence of your own. Within a week, all seven will feel familiar."
+      }
+    }
+  ]
+}
+</script>
+
+`
 }
 
 
