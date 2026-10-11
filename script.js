@@ -9210,6 +9210,340 @@ Last Sunday, our school organised a science exhibition (1) ___ the main hall. Th
 </script>
 
 `
+},
+
+  
+
+
+{
+  slug: "preposition-in-english-grammar-ebook-exam-mastery",
+  title: "Preposition in English Grammar Ebook: A Confident Path to Exam Mastery for Class 12 and Competitive Aspirants",
+  category: "Prepositions",
+  readingTime: "12 min read",
+  difficulty: "Beginner",
+  bookId: 5,
+  publishDate: "2026-10-11",
+  description: "Meet the Preposition in English Grammar ebook for Class 12 and competitive exams: who it is for, how it helps, a 30-day study plan and a quick readiness check.",
+  formula: "Rule, example, practice: learn in families, remember with shortcuts, revise from one book",
+  body: `
+<img src="images/preposition-ebook-exam-mastery-hero.webp"
+     alt="Preposition in English Grammar ebook: a confident path to exam mastery for Class 12 and competitive aspirants"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Six days ago, we started with a tiny mistake: "He was born in 5 May." Since then, you've seen the in-on-at rules, the 15 mistakes that examiners love, a list of more than 80 fixed pairs, five tricks for fill in the blanks, the confusing pairs and a 30-question practice set. If you've read even half of it, your prepositions are already stronger than they were a week ago.</p>
+
+<p>Now let me be honest with you. These blog posts are single lessons. They're free, and they'll stay free. But exam accuracy doesn't come from reading separate lessons. It comes from seeing the whole topic in the right order, practising it again and again, and revising it quickly before a test. That's what I built my ebook for.</p>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get the Ebook on Amazon</a></p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Is this ebook right for you? Check these five lines:</b>
+<ol>
+<li>You're in Class 12, or you're preparing for SSC, banking, railway, state or defence exams.</li>
+<li>You lose marks in error spotting, fill in the blanks or sentence improvement because of small words.</li>
+<li>You know the rules when you read them, but forget them during a test.</li>
+<li>You want everything about prepositions in one place, not scattered across fifty web pages.</li>
+<li>You'd rather practise a little every day than panic the night before the exam.</li>
+</ol>
+If you nodded at two or more, keep reading.
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Your 6-day recap: what you've already learned</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">5 mistakes you can stop making this month</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why prepositions deserve a dedicated ebook</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Memory shortcuts from the week (screenshot this)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Who is this ebook for?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">How the ebook helps you study</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Free posts vs the ebook: what's the difference?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">A 30-day plan to master prepositions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">No time? Use the 15-minute version</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Quick readiness check: 5 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">The cost of waiting</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">How to judge any grammar book (including mine)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-13').scrollIntoView({behavior:'smooth'})">Three honest objections, answered</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-14').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-15').scrollIntoView({behavior:'smooth'})">What to do in the next 10 minutes</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-16').scrollIntoView({behavior:'smooth'})">Your next step</a></li>
+</ol>
+
+<h2 id="section-1">Your 6-day recap: what you've already learned</h2>
+
+<p>Before we talk about the ebook, here's a quick map of this week's posts. If you missed any, open them now. They're the best way to see how I teach.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Day</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Post</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">The one idea to remember</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">In, on, at: rules and exam tricks</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">AT the clock, ON the calendar day, IN the long stretch.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">15 common error-spotting mistakes</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Read the prepositions first, and check each one against its partner word.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/appropriate-prepositions-list-verb-adjective-noun/">Appropriate prepositions list</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Learn the pair, not the word, and learn it in families.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-fill-in-the-blanks-tricks/">Fill in the blanks: 5 tricks</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be A Master, Eliminate Fast (B-A-M-E-F).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/confusing-prepositions-between-among-since-for-beside-besides/">Confusing prepositions</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Attach a one-line test to every look-alike pair.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-practice-questions-with-answers-mixed-mcqs/">30 practice MCQs with answers</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Keep an error log, and retake the set after three days.</td></tr>
+</table></div>
+
+<h2 id="section-2">5 mistakes you can stop making this month</h2>
+
+<p>Here are five slips I see in almost every batch. Every one of them was covered this week, and every one of them is easy to fix once you've seen it.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Common slip</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Correct form</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Where we covered it</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">discuss about the topic</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">discuss the topic</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 2 (error spotting)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">senior than me</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">senior to me</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 2 and Day 3</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between you and I</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between you and me</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 5 (confusing pairs)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since five years</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">for five years</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 4 and Day 5</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">looking forward to meet</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">looking forward to meeting</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 4 (fill in the blanks)</td></tr>
+</table></div>
+
+<p>Imagine fixing just these five in your own writing and test answers. That alone could save you several marks across a few mock tests, and these five are only the beginning.</p>
+
+<h2 id="section-3">Why prepositions deserve a dedicated ebook</h2>
+
+<p>Prepositions look like a small topic. They're not. Think about what examiners actually test: time and place, fixed pairs after verbs, adjectives and nouns, confusing pairs, extra prepositions, idioms and phrases. That's a lot of material hiding behind a few tiny words.</p>
+
+<p>And here's the problem with learning them from random websites. One page teaches in, on and at. Another gives a list of fixed pairs. A third has a quiz with no explanation. You collect bits and pieces, but you never see the whole picture, and you never know what to revise first.</p>
+
+<p>A good book solves three problems at once. It gives you a <b>sequence</b>, so you learn the basics before the tricky parts. It gives you <b>practice</b> right after each idea, so you test yourself while it's fresh. And it gives you <b>one place to revise</b>, so the week before the exam, you open a single book instead of twenty tabs.</p>
+
+<h2 id="section-4">Memory shortcuts from the week (screenshot this)</h2>
+
+<p>Here's every shortcut from this week's posts, gathered in one table. Save it, and read it aloud once a day.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Topic</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Memory shortcut</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Time: at / on / in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>AT</b> the clock, <b>ON</b> the calendar day, <b>IN</b> the long stretch.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Place: at / on / in</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>P-S-S</b>: <b>P</b>oint = AT, <b>S</b>urface = ON, <b>S</b>pace = IN.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Rank words and prefer</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Senior, junior, superior, inferior and prefer take <b>TO</b>, never "than".</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">No helper needed</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>D-C-R-E</b>: <b>D</b>iscuss, <b>C</b>omprise, <b>R</b>each, <b>E</b>nter go straight to their object.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">congratulate / thank</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Podium: congratulate <b>ON</b>. Favour: thank <b>FOR</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Fill in the blanks</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>B-A-M-E-F</b>: Be A Master, Eliminate Fast.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">between / among</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be<b>TW</b>een = <b>TW</b>o. <b>AMONG</b> = a <b>MOB</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">since / for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Number in front? <b>FOR</b>. Date or event? <b>SINCE</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">beside / besides</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Be<b>SIDE</b> = side. Be<b>SIDES</b> = extra S for <b>extra</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">in / into</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>IN + TO = INTO</b>.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">by / until</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>BY</b> = deadline. <b>UNTIL</b> = <b>UN</b>broken stretch.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">look forward to ___</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">If <b>TO</b> is a preposition, <b>-ING</b> is the condition.</td></tr>
+</table></div>
+
+<p>These shortcuts are the heart of how I teach. They turn rules you'd forget into pictures you'd remember. If you like this style, you'll feel at home with the way I explain things in the ebook.</p>
+
+<h2 id="section-5">Who is this ebook for?</h2>
+
+<ul>
+<li><b>Class 12 students</b> who want accurate English in board-style writing and a strong base for competitive exams after school.</li>
+<li><b>SSC aspirants</b> who face error spotting, fill in the blanks and sentence improvement.</li>
+<li><b>Banking and railway aspirants</b> who need speed along with accuracy in the English section.</li>
+<li><b>State exam and defence exam aspirants</b> (MPSC, State PSC, NDA, CDS) who want a clear, exam-focused revision of prepositions.</li>
+<li><b>Self-learners and teachers</b> who want a structured way to teach or learn prepositions.</li>
+</ul>
+
+<p>If you're starting from absolute basics, begin with the free posts above and then move to the ebook when you're ready to go deeper. If you already know the rules and keep losing marks, the ebook's practice approach is exactly what you need.</p>
+
+<h2 id="section-6">How the ebook helps you study</h2>
+
+<p>I teach prepositions the way I have taught them in my classroom for more than 22 years: <b>rule, example, practice</b>, and I wrote the ebook around the same approach. First, you see the idea in simple language. Then you see it used in real sentences. Then you test yourself with exam-style questions, so that the idea sticks.</p>
+
+<p>Three principles make this method work:</p>
+
+<ol>
+<li><b>Families, not lists.</b> You learn related pairs together, which your memory handles much better than a long alphabetical list.</li>
+<li><b>Shortcuts that stay.</b> A tricky idea needs a way to remember it, because you don't have time to re-derive a rule in the exam hall.</li>
+<li><b>Practice with a purpose.</b> Questions should follow common exam patterns, so you get used to the way examiners think.</li>
+</ol>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">See the Ebook on Amazon</a></p>
+
+<h2 id="section-7">Free posts vs the ebook: what's the difference?</h2>
+
+<p>Let me make this simple, so you can decide for yourself.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;"></th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">This week's free posts</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">The ebook</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Format</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Six separate lessons on the website</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">One book you can read and revise from start to finish</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Best for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Understanding a single idea quickly</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Building a complete, organised understanding of prepositions</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Revision before an exam</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You open several pages and search for what you need</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You open one book</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Cost</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Free</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Paid, with the current price shown on the Amazon page</td></tr>
+</table></div>
+
+<p>If a free post is enough for you, great. I'll be happy to have helped. If you want to go deeper and keep everything in one place, the ebook is there for you.</p>
+
+<h2 id="section-8">A 30-day plan to master prepositions</h2>
+
+<p>A book only helps if you use it. Here's the plan I'd follow if I were preparing today. It takes about twenty minutes a day.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Week</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Focus</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Daily routine</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Time and place basics</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Read one section, say the shortcut aloud, write five sentences of your own.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Fixed pairs after verbs, adjectives and nouns</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Learn five pairs a day, with one sentence each. Revise yesterday's five first.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Confusing pairs and error spotting</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Do ten questions a day, and keep an error log.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Mixed practice and revision</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Take a timed set every day and retake the questions you got wrong.</td></tr>
+</table></div>
+
+<p>At the end of thirty days, you won't just know prepositions better. You'll have a notebook of your own mistakes, a head full of shortcuts and the confidence that comes from seeing the same patterns again and again.</p>
+
+<h2 id="section-9">No time? Use the 15-minute version</h2>
+
+<p>Not everyone can give twenty minutes a day. If you have only fifteen, split them like this: five minutes to read one shortcut and write two sentences, five minutes for ten fixed pairs, and five minutes for three or four practice questions. Fifteen focused minutes every day beat a three-hour session once a month. Consistency is what builds exam accuracy, and it works even when you're busy with college, work or other subjects.</p>
+
+<h2 id="section-10">Quick readiness check: 5 questions</h2>
+
+<p>Answer these without looking at anything. This is a quick check, not a test.</p>
+
+<ol>
+<li>He was born ___ 12 May.</li>
+<li>She is fond ___ music.</li>
+<li>I have lived here ___ 2019.</li>
+<li>The prize was shared ___ the four winners. (between / among)</li>
+<li>We are looking forward ___ meeting you.</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b> 1) on 2) of 3) since 4) among 5) to
+<br><br>
+<b>If you got all five:</b> excellent. Keep revising with the shortcuts, and use the ebook for extra practice.
+<br>
+<b>If you got three or four:</b> you have a good base, but a few gaps remain. That's exactly where focused practice helps.
+<br>
+<b>If you got two or fewer:</b> start with this week's free posts, then move to the ebook for the full system.
+</div>
+
+<h2 id="section-11">The cost of waiting</h2>
+
+<p>I won't tell you a fake deadline, because there isn't one. But here's something true. Marks lost on small words are marks you never get back. Mock test after mock test, the same slip repeats: "discuss about", "senior than", "since five years". Each repeat is a mark you could have saved.</p>
+
+<p>The student who starts today has weeks of practice before the exam. The student who starts the night before has a long list and a lot of worry. Nobody ever wishes they had started later.</p>
+
+<div style="background:#0b1f4b;color:#ffffff;padding:26px 22px;border-radius:8px;text-align:center;margin:30px 0;">
+<div style="font-size:22px;font-weight:bold;color:#f2c94c;margin-bottom:10px;font-family:Arial,sans-serif;">Stop losing marks on small words</div>
+<div style="font-size:17px;color:#ffffff;margin-bottom:14px;">Get <b>Preposition in English Grammar: Your Confident Path to Exam Mastery for 12th Graders &amp; Competitive Aspirants</b> and start your 30-day plan today.</div>
+<a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get the Ebook on Amazon</a>
+</div>
+
+<h2 id="section-12">How to judge any grammar book (including mine)</h2>
+
+<p>Before you spend money on any study material, ask these four questions. I'd want you to ask them about my ebook too.</p>
+
+<ol>
+<li><b>Does it explain in simple language?</b> If you need a dictionary to understand the rule, it's the wrong book.</li>
+<li><b>Does it give examples for every idea?</b> A rule without a sentence is just a slogan.</li>
+<li><b>Does it let you practise?</b> Reading builds understanding. Practice builds accuracy.</li>
+<li><b>Does it fit your exam?</b> A book for general English is different from a book built around exam patterns.</li>
+</ol>
+
+<p>Open the Amazon page, read the description and judge for yourself against these four questions. That's how a smart student buys study material.</p>
+
+<h2 id="section-13">Three honest objections, answered</h2>
+
+<p><b>"I can learn this free from videos and websites."</b> You can, and many students do. The challenge is organising what you find and revising it in time. A single book saves you that effort.</p>
+
+<p><b>"I don't have time."</b> The 15-minute version above is built for you. If you can scroll your phone for fifteen minutes, you can fix prepositions.</p>
+
+<p><b>"My English is weak."</b> Then start early, not late. Prepositions are one of the fastest topics to improve because the patterns repeat. A few weeks of steady work shows results you can feel in your very next practice test.</p>
+
+<h2 id="section-14">Frequently asked questions</h2>
+
+<h3>Who is the Preposition in English Grammar ebook for?</h3>
+<p>It's written for Class 12 students and competitive exam aspirants preparing for SSC, banking, railway, state and defence exams. Self-learners and teachers who want a structured approach to prepositions can use it too.</p>
+
+<h3>Where can I get the ebook?</h3>
+<p>The ebook is available on Amazon. Tap any "Get the Ebook on Amazon" button in this post to go to the book's page, where you can see the current price and details.</p>
+
+<h3>Will the free blog posts remain available?</h3>
+<p>Yes. All six lessons from this week stay on the site, and I'll keep adding new ones. The ebook is for students who want everything in one place, with extra practice.</p>
+
+<h3>I'm weak in English basics. Should I still buy it?</h3>
+<p>Start with the free posts, especially in, on and at and the appropriate prepositions list. If the examples feel comfortable, you're ready for the ebook. If they feel too fast, spend another week on the basics first.</p>
+
+<h3>How should I use the ebook along with the blog posts?</h3>
+<p>Treat the posts as a taste of the method and the ebook as the full course. Follow the 30-day plan in this post, and use the shortcut table for daily revision.</p>
+
+<h3>Who wrote the ebook?</h3>
+<p>I did. I'm Balu Kandekar, an English grammar educator from Pune with 22 years of teaching experience and more than 15 years of coaching students for competitive exams.</p>
+
+<h2 id="section-15">What to do in the next 10 minutes</h2>
+
+<ol>
+<li><b>Screenshot the shortcut table</b> above, so it's one tap away on your phone.</li>
+<li><b>Bookmark the six posts</b> from this week and keep them for revision.</li>
+<li><b>Open the ebook page on Amazon</b> and read the description.</li>
+<li><b>Start the 15-minute routine tonight.</b> Don't wait for Monday or the first of the month.</li>
+<li><b>Send this post to one friend</b> who struggles with English prepositions.</li>
+</ol>
+
+<p>Small steps, taken today, are better than big plans made tomorrow.</p>
+
+<h2 id="section-16">Your next step</h2>
+
+<p>You've read six lessons, tried the practice and seen the shortcuts. The only thing left is to turn that knowledge into a habit. A little practice every day, with the right material, makes prepositions one of the easiest parts of the English paper instead of one of the most annoying.</p>
+
+<p>Take the next step now. Open the ebook, start your 30-day plan and fix prepositions for good.</p>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://a.co/d/07HNdmUW" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get Your Copy Today</a></p>
+
+<p>And if this week helped you, send it to one friend who is preparing for the same exam. A good tip shared is a mark saved for two people.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the Preposition in English Grammar ebook for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's written for Class 12 students and competitive exam aspirants preparing for SSC, banking, railway, state and defence exams. Self-learners and teachers who want a structured approach to prepositions can use it too."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get the ebook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ebook is available on Amazon. Tap any \"Get the Ebook on Amazon\" button in this post to go to the book's page, where you can see the current price and details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will the free blog posts remain available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. All six lessons from this week stay on the site, and I'll keep adding new ones. The ebook is for students who want everything in one place, with extra practice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm weak in English basics. Should I still buy it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the free posts, especially in, on and at and the appropriate prepositions list. If the examples feel comfortable, you're ready for the ebook. If they feel too fast, spend another week on the basics first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I use the ebook along with the blog posts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Treat the posts as a taste of the method and the ebook as the full course. Follow the 30-day plan in this post, and use the shortcut table for daily revision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who wrote the ebook?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I did. I'm Balu Kandekar, an English grammar educator from Pune with 22 years of teaching experience and more than 15 years of coaching students for competitive exams."
+      }
+    }
+  ]
+}
+</script>
+
+`
 }
 
 
