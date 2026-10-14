@@ -10251,7 +10251,358 @@ Example: He said, "I am tired." becomes He said that he was tired.
 </script>
 
 `
+},
+  
+
+{
+  slug: "pronouns-time-place-words-reported-speech",
+  title: "Changes in Pronouns, Time and Place Words in Reported Speech: Rules and Examples",
+  category: "Direct & Indirect Speech",
+  readingTime: "14 min read",
+  difficulty: "Beginner",
+  bookId: 3,
+  publishDate: "2026-10-14",
+  description: "Learn how pronouns, time words and place words change in reported speech with the P-T-P method, memory tricks, 12 examples and a practice set with answers.",
+  formula: "P-T-P: Person, Time, Place | S-O-N pronouns | N-F near to far | Y-B, T-A",
+  body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/pronouns-time-place-words-reported-speech-hero.webp"
+     alt="Changes in pronouns, time words and place words in reported speech with memory tricks"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Read this sentence: She said to me, "I will meet you here tomorrow." Now report it. A common attempt looks like this: "She told me that she would meet you here tomorrow."</p>
+
+<p>Count the mistakes. The pronoun is wrong, because "you" now refers to me, the listener, so it must become "me". The place word is wrong, because "here" must become "there". And the time word is wrong, because "tomorrow" must become "the next day". Three small words, three changes, and most students catch only one of them.</p>
+
+<p>The correct answer is: <b>She told me that she would meet me there the next day.</b></p>
+
+<p>This is the heart of reported speech. Tenses get all the attention, but pronouns, time words and place words decide whether your answer is right or only almost right. In this guide, I'll show you a simple three-check method, the complete lists of changes, the exceptions, the mistakes examiners love and a practice set with answers. If you haven't read the basics, start with my post on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/direct-and-indirect-speech-rules-with-examples/">direct and indirect speech rules with examples</a>, and my guide to the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-changes-in-direct-and-indirect-speech-chart/">tense changes chart</a>. The examples here are original sentences on <b>common exam patterns</b>, not questions from a particular year's paper.</p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Quick answer: the three checks (P-T-P)</b>
+<ol>
+<li><b>P</b>erson: change the pronouns (S-O-N rule).</li>
+<li><b>T</b>ime: change the time words (now to then, tomorrow to the next day).</li>
+<li><b>P</b>lace: change the place words (here to there, this to that).</li>
+</ol>
+Example: She said to me, "I will meet you here tomorrow." becomes She told me that she would meet me there the next day.
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Part 1: Pronoun changes in reported speech</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">Part 2: Time words in reported speech</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Part 3: Place and demonstrative words</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">Memory tricks cheat sheet (screenshot this)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">When time and place words do NOT change</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">A step-by-step walkthrough of a harder sentence</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">12 worked examples</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">7 common mistakes with pronouns, time and place</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">Practice set: 12 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">A 3-day plan to master this lesson</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">Where to go from here</a></li>
+</ol>
+
+<h2 id="section-1">Part 1: Pronoun changes in reported speech</h2>
+
+<p>A pronoun in direct speech is chosen from the speaker's point of view. When you report it, you speak from your own point of view, so the pronoun must change to match who is who in the reporting sentence.</p>
+
+<h3>The three-part rule</h3>
+
+<ul>
+<li><b>First person</b> (I, me, my, mine, we, us, our, ours) changes according to the <b>subject</b> of the reporting verb.</li>
+<li><b>Second person</b> (you, your, yours) changes according to the <b>object</b> of the reporting verb.</li>
+<li><b>Third person</b> (he, she, it, they, him, her, them, his, their) does <b>not change</b>.</li>
+</ul>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut: S-O-N.</b> First person follows the <b>S</b>ubject. Second person follows the <b>O</b>bject. Third person has <b>N</b>o change.
+</div>
+
+<h3>Examples of each rule</h3>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Type</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Direct speech</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Indirect speech</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">First person follows the subject</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said, "I am tired."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said that he was tired.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Second person follows the object</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said to Sunil, "You are late."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi told Sunil that he was late.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Third person stays</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said to Sunil, "She is late."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi told Sunil that she was late.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Both together</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said to Sunil, "I will help you."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi told Sunil that he would help him.</td></tr>
+</table></div>
+
+<h3>The full pronoun table</h3>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Direct speech</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Becomes (in indirect speech)</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I, me, my, mine, myself</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">he/she, him/her, his/her, his/hers, himself/herself</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">we, us, our, ours, ourselves</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">they, them, their, theirs, themselves</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">you, your, yours, yourself</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I/he/she/they, me/him/her/them, my/his/her/their, and so on (it depends on the listener)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">he, she, it, they, him, her, them</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">no change</td></tr>
+</table></div>
+
+<h3>Special cases that confuse students</h3>
+
+<p><b>When the speaker is also the reporter.</b> If you're reporting your own words, "I" stays "I": I said to him, "I will help you." becomes I told him that I would help him. The first-person pronoun follows the subject, and the subject is "I".</p>
+
+<p><b>When the listener is the reporter.</b> You said to me, "You are late." becomes You told me that I was late. The second person "you" follows the object ("me"), so it becomes "I".</p>
+
+<p><b>When there's no object.</b> If the reporting verb has no listener (He said, "You are late."), the second person depends on the context. It becomes "I", "he", "she", "they" or a name, according to who the speaker meant. Exam questions usually give a clear context.</p>
+
+<h2 id="section-2">Part 2: Time words in reported speech</h2>
+
+<p>Words that point to a moment close to the speaker also change when the report is made later. Here's the standard list.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Direct speech</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Indirect speech</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">now</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">then</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">today</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">that day</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">tonight</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">that night</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">this morning / this evening</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">that morning / that evening</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">tomorrow</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the next day / the following day</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">tomorrow morning</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the next morning</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">yesterday</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the previous day / the day before</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">last night</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the previous night / the night before</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">last week / last year</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the previous week / the previous year</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">next week / next month</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">the following week / the following month</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">two days ago</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">two days before</td></tr>
+</table></div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut: Y-B, T-A.</b> <b>Y</b>esterday goes with <b>B</b>efore (the day before, the previous day). <b>T</b>omorrow goes with <b>A</b>fter (the day after, the next day, the following day).
+</div>
+
+<h2 id="section-3">Part 3: Place and demonstrative words</h2>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Direct speech</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Indirect speech</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">here</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">there</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">this</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">that</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">these</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">those</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">come</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">go (when the movement is away from the reporter's place)</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">bring</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">take (when the movement is away from the reporter's place)</td></tr>
+</table></div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut: N-F (Near to Far).</b> Near words (now, here, this, these) become far words (then, there, that, those).
+</div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Memory shortcut: COME GOES, BRING TAKES.</b> When the action moves away from where you're standing, "come" becomes "go" and "bring" becomes "take".
+</div>
+
+<h2 id="section-4">Memory tricks cheat sheet (screenshot this)</h2>
+
+<p>Here's every shortcut from this guide, plus the earlier ones from this series, in one place.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to check</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Memory shortcut</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The order of checks</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>P-T-P</b>: <b>P</b>erson, <b>T</b>ime, <b>P</b>lace.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Pronouns</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>S-O-N</b>: first person follows <b>S</b>ubject, second person follows <b>O</b>bject, third person <b>N</b>o change.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Near and far words</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>N-F</b>: <b>N</b>ear words become <b>F</b>ar words (now, then; here, there; this, that).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Yesterday and tomorrow</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>Y-B, T-A</b>: Yesterday means before, tomorrow means after.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">come and bring</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>COME GOES, BRING TAKES</b> when the movement is away from you.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Tenses (previous post)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>ONE STEP BACK</b>, like reversing a car.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Tense families (previous post)</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>SAME FAMILY, PAST ADDRESS</b> and <b>PAST GOES PERFECT</b>.</td></tr>
+</table></div>
+
+<div style="background:#fff8e1;border-left:4px solid #F5A623;padding:15px;margin:20px 0;">
+<b>Want more memory tricks and exam-style practice?</b> In my ebook <a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener">Mastering Direct &amp; Indirect Speech: Ultimate Guide to Confident Reporting</a>, the rules are explained step by step with examples and practice. Now let's look at the exceptions.
+</div>
+
+<h2 id="section-5">When time and place words do NOT change</h2>
+
+<ul>
+<li><b>The reporting verb is in the present or future tense.</b> He says, "I will come tomorrow." becomes He says that he will come tomorrow. Here, the report is happening now, so "tomorrow" is still tomorrow.</li>
+<li><b>The report is made on the same day or in the same place.</b> If you're reporting at the same moment and at the same location, the word may stay. For example, "He said that he would come tomorrow" is acceptable if you say it today. But in exams, unless a question says so, change the words by the standard rule.</li>
+</ul>
+
+<p>In practice, treat these two as the only exceptions you need. In most exam questions, the reporting verb is in the past and there's no hint about when and where the report is made, so the standard changes apply.</p>
+
+<h2 id="section-6">A step-by-step walkthrough of a harder sentence</h2>
+
+<p>Let's apply P-T-P to a longer sentence that mixes everything: <i>Ravi said to Seema, "I lost my pen yesterday, and you can use this one now."</i></p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Check</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What changes</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Reporting verb</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">said to becomes told, and we add "that".</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Person</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I becomes he (subject, Ravi). my becomes his. you becomes she (object, Seema).</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Time</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">yesterday becomes the previous day. now becomes then.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Place and demonstrative</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">this one becomes that one.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Tense</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">lost becomes had lost. can becomes could.</td></tr>
+</table></div>
+
+<p><b>Final answer:</b> Ravi told Seema that he had lost his pen the previous day and that she could use that one then.</p>
+
+<p>See how the sentence breaks into small, easy decisions? That's the real skill. A long sentence isn't harder than a short one. It just has more small decisions. Take them one by one in the P-T-P order, and the answer builds itself.</p>
+
+<h2 id="section-7">12 worked examples</h2>
+
+<p>Study each one, and notice which check (person, time or place) is at work. Try converting them yourself before you read the answers.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">No.</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Direct speech</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Indirect speech</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He said, "I am busy now."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He said that he was busy then.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She said to me, "I will meet you here tomorrow."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She told me that she would meet me there the next day.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi said to Sunil, "I will help you."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Ravi told Sunil that he would help him.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I said to him, "I will help you."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I told him that I would help him.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You said to me, "I am ready."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You told me that you were ready.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">They said, "We are playing here today."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">They said that they were playing there that day.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">7</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The boy said, "My father came yesterday."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The boy said that his father had come the previous day.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">8</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Meena said to her sister, "Your book is on this table."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Meena told her sister that her book was on that table.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">9</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He said, "I saw her two days ago."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He said that he had seen her two days before.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">10</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She said, "I will come here next week."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She said that she would go there the following week.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">11</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Anita said, "I lost my keys last night."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Anita said that she had lost her keys the previous night.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">12</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Sunil said, "I am going to Pune tonight."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Sunil said that he was going to Pune that night.</td></tr>
+</table></div>
+
+<h2 id="section-8">7 common mistakes with pronouns, time and place</h2>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Wrong</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Right</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Why</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">Rita told Sita that I would help you.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">Rita told Sita that she would help her.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">First person follows the subject, second person the object.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">She said that she would come tomorrow.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">She said that she would come the next day.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Tomorrow becomes the next day.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">He told me that he was playing here.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">He told me that he was playing there.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Here becomes there.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">They said that this book was old.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">They said that that book was old.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">This becomes that.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">He said that he met her last week.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">He said that he had met her the previous week.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Last week becomes the previous week.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">I said to him that I will help him.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">I told him that I would help him.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Said to becomes told, and the tense steps back.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#b3261e;font-weight:bold;">She said that she was busy now.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;color:#1b7a3a;font-weight:bold;">She said that she was busy then.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Now becomes then.</td></tr>
+</table></div>
+
+<h2 id="section-9">Practice set: 12 questions</h2>
+
+<p>Convert each sentence into indirect speech. Use the P-T-P check on every one, and write your answers in a notebook first.</p>
+
+<ol>
+<li>He said, "I am leaving now."</li>
+<li>She said to me, "I will see you tomorrow."</li>
+<li>They said, "We live here."</li>
+<li>Mohan said to Sohan, "Your pen is on this desk."</li>
+<li>I said to her, "I will call you tonight."</li>
+<li>The boy said, "I saw a tiger yesterday."</li>
+<li>You said to me, "You are late."</li>
+<li>She said, "I have been waiting here since morning."</li>
+<li>Raj said to Ravi, "I will meet you next Monday."</li>
+<li>Seema said, "These books are mine."</li>
+<li>He said, "I bought this bike two years ago."</li>
+<li>Anil said to me, "My brother will come today."</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b>
+<br>1) He said that he was leaving then.
+<br>2) She told me that she would see me the next day.
+<br>3) They said that they lived there.
+<br>4) Mohan told Sohan that his pen was on that desk.
+<br>5) I told her that I would call her that night.
+<br>6) The boy said that he had seen a tiger the previous day.
+<br>7) You told me that I was late.
+<br>8) She said that she had been waiting there since morning.
+<br>9) Raj told Ravi that he would meet him the following Monday.
+<br>10) Seema said that those books were hers.
+<br>11) He said that he had bought that bike two years before.
+<br>12) Anil told me that his brother would come that day.
+<br><br>
+<b>Your score:</b> 11 or 12 means you're exam-ready on this part. 8 to 10 means revise the pronoun rule and the lists. Below 8, go back to the cheat sheet and try again after two days.
+</div>
+
+<h2 id="section-10">A 3-day plan to master this lesson</h2>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Day</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to do</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Learn S-O-N. Write ten sentences with first, second and third person pronouns and convert them.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Learn N-F, Y-B T-A and COME GOES, BRING TAKES. Write five sentences for each.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Retake the 12-question practice set without looking at the answers.</td></tr>
+</table></div>
+
+<h2 id="section-11">Frequently asked questions</h2>
+
+<h3>Why do pronouns change in reported speech?</h3>
+<p>Because a pronoun is chosen from the speaker's point of view. When you report the sentence, you speak from your own point of view, so the pronouns must match the new situation.</p>
+
+<h3>How do I change "you" in indirect speech?</h3>
+<p>The second person follows the object of the reporting verb. If you say "Ravi said to Sunil, 'You are late'", then "you" refers to Sunil, so it becomes "he". If the listener is the reporter, "you" becomes "I".</p>
+
+<h3>Do I always change "now" to "then"?</h3>
+<p>In exam questions, yes, when the reporting verb is in the past. The exceptions are a present or future reporting verb, and a report made at the same moment and place.</p>
+
+<h3>Should I write "the next day" or "the following day"?</h3>
+<p>Both are correct for "tomorrow". Use whichever you prefer, and be consistent. The same is true for "the previous day" and "the day before" for "yesterday".</p>
+
+<h3>When does "come" become "go"?</h3>
+<p>When the movement is away from the place where the reporter is standing. If the movement is towards the reporter's place, "come" stays "come". Exam questions with "come" and "go" usually follow the first rule.</p>
+
+<h3>What is the easiest way to remember all these changes?</h3>
+<p>Use P-T-P to decide the order of checks (person, time, place), S-O-N for pronouns and N-F for near words. Practise ten sentences a day for a week and the changes become automatic.</p>
+
+<h2 id="section-12">Where to go from here</h2>
+
+<p>You now have the three checks, the full lists and the memory tricks to handle pronouns, time words and place words in any statement. Practise the twelve questions again in three days, and keep the cheat sheet on your phone. The next posts in this series cover reporting verbs and then questions, commands and exclamations.</p>
+
+<p>If you'd like the complete system in one place, with rules, memory tricks and exam-style practice, my ebook <a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener"><strong>Mastering Direct &amp; Indirect Speech: Ultimate Guide to Confident Reporting: For SSC CGL, IBPS PO, CAT, CUET, UPSC and State PSCs</strong></a> is available on Amazon.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do pronouns change in reported speech?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because a pronoun is chosen from the speaker's point of view. When you report the sentence, you speak from your own point of view, so the pronouns must match the new situation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I change \\"you\\" in indirect speech?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The second person follows the object of the reporting verb. If you say \\"Ravi said to Sunil, 'You are late'\\", then \\"you\\" refers to Sunil, so it becomes \\"he\\". If the listener is the reporter, \\"you\\" becomes \\"I\\"."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I always change \\"now\\" to \\"then\\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In exam questions, yes, when the reporting verb is in the past. The exceptions are a present or future reporting verb, and a report made at the same moment and place."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I write \\"the next day\\" or \\"the following day\\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both are correct for \\"tomorrow\\". Use whichever you prefer, and be consistent. The same is true for \\"the previous day\\" and \\"the day before\\" for \\"yesterday\\"."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When does \\"come\\" become \\"go\\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When the movement is away from the place where the reporter is standing. If the movement is towards the reporter's place, \\"come\\" stays \\"come\\". Exam questions with \\"come\\" and \\"go\\" usually follow the first rule."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the easiest way to remember all these changes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use P-T-P to decide the order of checks (person, time, place), S-O-N for pronouns and N-F for near words. Practise ten sentences a day for a week and the changes become automatic."
+      }
+    }
+  ]
 }
+</script>
+
+`
+}
+
 
 
   ];
