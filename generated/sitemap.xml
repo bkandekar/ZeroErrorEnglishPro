@@ -230,4 +230,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/pronouns-time-place-words-reported-speech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/reporting-verbs-list-indirect-speech/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
