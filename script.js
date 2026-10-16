@@ -11001,7 +11001,7 @@ Example: She said to me, "I will meet you here tomorrow." becomes She told me th
   description: "Learn indirect speech of questions, commands and exclamations with simple rules, memory tricks, 12 examples, common mistakes and a practice set with answers.",
   formula: "IF for yes/no, WH stays | KILL THE Q | COMMAND = person plus TO | what a, how = very",
   body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/indirect-speech-questions-commands.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/indirect - speech - questions - commands.webp"
      alt="Indirect speech of questions, commands and exclamations with rules, examples and memory tricks"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
