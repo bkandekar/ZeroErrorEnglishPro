@@ -13358,27 +13358,29 @@ initApp();
     var nav = document.createElement('nav');
     nav.id = 'all-articles-nav';
     nav.setAttribute('aria-label', 'All grammar articles');
-    nav.style.cssText = 'max-width:960px;margin:40px auto;padding:20px 16px;border-top:2px solid #C9A227;font-family:inherit;';
+    nav.style.cssText = 'max-width:1100px;margin:0 auto;padding:16px 20px;font-family:inherit;';
 
-    var h = document.createElement('h2');
-    h.textContent = 'All Grammar Articles';
-    h.style.cssText = 'font-size:20px;margin:0 0 12px;color:#0B1F4B;';
-    nav.appendChild(h);
+    var details = document.createElement('details');
+    var summary = document.createElement('summary');
+    summary.textContent = 'All article links (index)';
+    summary.style.cssText = 'cursor:pointer;font-size:14px;font-weight:600;color:#F5B82E;padding:8px 0;';
+    details.appendChild(summary);
 
     var ul = document.createElement('ul');
-    ul.style.cssText = 'list-style:none;padding:0;margin:0;display:grid;gap:8px;';
+    ul.style.cssText = 'list-style:none;padding:0;margin:10px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:6px 20px;';
 
     list.forEach(function (a) {
       var li = document.createElement('li');
       var link = document.createElement('a');
       link.href = BASE + 'blog/' + a.slug + '/';
       link.textContent = a.title;
-      link.style.cssText = 'color:#0B1F4B;text-decoration:underline;';
+      link.style.cssText = 'color:#CBD5E1;text-decoration:none;font-size:13px;line-height:1.5;';
       li.appendChild(link);
       ul.appendChild(li);
     });
 
-    nav.appendChild(ul);
+    details.appendChild(ul);
+    nav.appendChild(details);
     (document.querySelector('footer') || document.body).appendChild(nav);
   }
 
