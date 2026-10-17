@@ -13341,3 +13341,50 @@ window.navigateTo = navigateTo;
 
 // Boot
 initApp();
+
+/* ===== Crawlable article links for Google (paste at the very END of script.js) ===== */
+(function addCrawlableArticleLinks() {
+  var BASE = '/ZeroErrorEnglishPro/';
+
+  function build() {
+    if (document.getElementById('all-articles-nav')) return;
+    if (typeof ARTICLES === 'undefined') return;
+
+    var list = ARTICLES.filter(function (a) {
+      return typeof isPublished === 'function' ? isPublished(a) : true;
+    });
+    if (!list.length) return;
+
+    var nav = document.createElement('nav');
+    nav.id = 'all-articles-nav';
+    nav.setAttribute('aria-label', 'All grammar articles');
+    nav.style.cssText = 'max-width:960px;margin:40px auto;padding:20px 16px;border-top:2px solid #C9A227;font-family:inherit;';
+
+    var h = document.createElement('h2');
+    h.textContent = 'All Grammar Articles';
+    h.style.cssText = 'font-size:20px;margin:0 0 12px;color:#0B1F4B;';
+    nav.appendChild(h);
+
+    var ul = document.createElement('ul');
+    ul.style.cssText = 'list-style:none;padding:0;margin:0;display:grid;gap:8px;';
+
+    list.forEach(function (a) {
+      var li = document.createElement('li');
+      var link = document.createElement('a');
+      link.href = BASE + 'blog/' + a.slug + '/';
+      link.textContent = a.title;
+      link.style.cssText = 'color:#0B1F4B;text-decoration:underline;';
+      li.appendChild(link);
+      ul.appendChild(li);
+    });
+
+    nav.appendChild(ul);
+    (document.querySelector('footer') || document.body).appendChild(nav);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', build);
+  } else {
+    build();
+  }
+})();
