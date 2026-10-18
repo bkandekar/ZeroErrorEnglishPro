@@ -11731,7 +11731,7 @@ Example: She said to me, "I will meet you here tomorrow." becomes She told me th
 
 <p>Now let me be honest with you. These blog posts are lessons, and they'll stay free. But marks in competitive exams come from seeing the whole topic in the right order, practising it in large numbers and revising it quickly before a test. That's why I wrote a full book on this topic: <b>Mastering Direct &amp; Indirect Speech: Ultimate Guide to Confident Reporting</b>.</p>
 
-<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get the Book on Amazon</a></p>
+<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4BdOSFt" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Ebook on Amazon</a><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
 
 <div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
 <b>Is this book right for you? Check these five lines:</b>
@@ -11838,7 +11838,7 @@ If you nodded at two or more, keep reading.
 <tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Exclamations</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>FEEL the interjection, VERY the rest</b>.</td></tr>
 </table></div>
 
-<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">See the Book on Amazon</a></p>
+<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4BdOSFt" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Ebook on Amazon</a><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
 
 <h2 id="section-6">Who is this book for?</h2>
 
@@ -11869,6 +11869,8 @@ If you nodded at two or more, keep reading.
 <h2 id="section-8">Price and formats</h2>
 
 <p>At the time of writing, the Kindle edition is listed at $3.99 and the paperback at $10.99. Prices on Amazon can change, so please check the book page for the current price in your region before you buy.</p>
+
+<p><b>Ebook link:</b> <a href="https://amzn.to/4BdOSFt" target="_blank" rel="noopener">Open the ebook page on Amazon</a>.</p>
 
 <h2 id="section-9">A 30-day plan to master reported speech</h2>
 
@@ -11920,7 +11922,7 @@ If you nodded at two or more, keep reading.
 <div style="background:#0b1f4b;color:#ffffff;padding:26px 22px;border-radius:8px;text-align:center;margin:30px 0;">
 <div style="font-size:22px;font-weight:bold;color:#f2c94c;margin-bottom:10px;font-family:Arial,sans-serif;">Stop losing marks in narration</div>
 <div style="font-size:17px;color:#ffffff;margin-bottom:14px;">Get <b>Mastering Direct &amp; Indirect Speech: Ultimate Guide to Confident Reporting</b> and start your 30-day plan today.</div>
-<a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get the Book on Amazon</a>
+<a href="https://amzn.to/4BdOSFt" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Ebook on Amazon</a><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:transparent;color:#ffffff;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a>
 </div>
 
 <h2 id="section-12">How to judge any grammar book (including mine)</h2>
@@ -11980,7 +11982,7 @@ If you nodded at two or more, keep reading.
 
 <p>You've read six lessons, tried the practice and seen the shortcuts. The only thing left is to turn that knowledge into a habit. A little practice every day, with the right material, makes direct and indirect speech one of the easiest scoring areas in the English paper.</p>
 
-<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;">Get Your Copy Today</a></p>
+<p style="text-align:center;margin:26px 0;"><a href="https://amzn.to/4BdOSFt" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Ebook on Amazon</a><a href="https://amzn.to/4xEe19H" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
 
 <p>And if this week helped you, send it to one friend preparing for the same exam. A good tip shared is a mark saved for two people.</p>
 
