@@ -14,7 +14,7 @@ const BOOKS = [
     imageUrl: "images/book-01-spot-the-error-subject-verb-agreement3.webp",
     benefit: "Master every hidden trap examiners set around subjects, collective nouns, and tricky conjunctions with 200+ exam-calibrated questions.",
     idealFor: "SSC CGL (Tier 1 & 2), Banking PO/Clerk & Railway Aspirants",
-    amazonUrl: "https://a.co/d/03ghn2zJ",
+    amazonUrl: "https://amzn.to/4k9MucG",
     difficulty: "Intermediate",
     transformation: "Turn the single highest-yield, trap-ridden error-spotting section in competitive English into your highest-scoring guaranteed accuracy zone.",
     syllabus: [
@@ -41,7 +41,7 @@ const BOOKS = [
     imageUrl: "images/book-02-tense-in-english-grammar.webp",
     benefit: "Stop losing marks to time-marker traps and sequence-of-tense confusion with a practical, exam-first breakdown of all twelve tenses.",
     idealFor: "SSC CGL, Banking, Railway & CBSE Class 12 Students",
-    amazonUrl: "https://a.co/d/02Ss1kAh",
+    amazonUrl: "https://amzn.to/4zxOYpY",
     difficulty: "Beginner",
     transformation: "Replace guesswork with a reliable, time-marker-driven system for choosing the correct tense in any sentence, every time.",
     syllabus: [
@@ -68,7 +68,7 @@ const BOOKS = [
     imageUrl: "images/book-03-direct-and-indirect-speech.webp",
     benefit: "Master backshifting exceptions, interrogative word order, and reporting-verb selection with 200+ narration questions calibrated to SSC CGL Tier 2.",
     idealFor: "SSC CGL Tier 2, Banking Descriptive & Railway Aspirants",
-    amazonUrl: "https://a.co/d/0i8MEMm0",
+    amazonUrl: "https://amzn.to/4s9FTkC",
     difficulty: "Intermediate",
     transformation: "Convert narration from your most error-prone descriptive-paper section into a confidently mastered, rule-driven skill.",
     syllabus: [
@@ -95,7 +95,7 @@ const BOOKS = [
     imageUrl: "images/book-04-active-and-passive-voice.webp",
     benefit: "Master voice transformation across all tenses, plus the quasi-passive and sensory-verb exceptions that trip up even advanced learners.",
     idealFor: "SSC CGL, Banking PO/Clerk, UPSC CSAT & GRE Aspirants",
-    amazonUrl: "https://a.co/d/01c8z5iZ",
+    amazonUrl: "https://amzn.to/4slF7RF",
     difficulty: "Advanced",
     transformation: "Move beyond the mechanical active-to-passive formula to confidently recognize when passive voice is grammatically impossible.",
     syllabus: [
@@ -122,7 +122,7 @@ const BOOKS = [
     imageUrl: "images/book-05-preposition-in-english-grammar.webp",
     benefit: "Master fixed prepositions after verbs and adjectives, plus the commonly confused pairs examiners test most often.",
     idealFor: "CBSE Class 12, SSC CGL, Banking & Railway Aspirants",
-    amazonUrl: "https://a.co/d/0ikzjDus",
+    amazonUrl: "https://amzn.to/4k3Izyb",
     difficulty: "Beginner",
     transformation: "Replace memorized guesswork with a reliable, pattern-based approach to choosing the correct preposition every time.",
     syllabus: [
@@ -149,7 +149,7 @@ const BOOKS = [
     imageUrl: "images/book-06-non-finite-verbs.webp",
     benefit: "Master the verbs that take only gerunds, only infinitives, or change meaning with each, using 500 exam-calibrated drills.",
     idealFor: "SSC CGL, Banking PO, UPSC CSAT & GRE Aspirants",
-    amazonUrl: "https://a.co/d/06jhxF5w",
+    amazonUrl: "https://amzn.to/4ypj8dV",
     difficulty: "Advanced",
     transformation: "Turn the most consistently confused area of English verb usage into a fast, rule-driven identification skill.",
     syllabus: [
@@ -176,7 +176,7 @@ const BOOKS = [
     imageUrl: "images/book-07-unlocking-english-modals-1.webp",
     benefit: "Build a foundational, confidence-first understanding of modal verbs for ability, obligation, advice, and deduction.",
     idealFor: "CBSE Class 12, Beginner-to-Intermediate Competitive Aspirants",
-    amazonUrl: "https://a.co/d/0bBHQjZG",
+    amazonUrl: "https://amzn.to/4i5gaVI",
     difficulty: "Beginner",
     transformation: "Move from hesitant, memorized modal usage to confident, meaning-driven modal selection in both writing and speech.",
     syllabus: [
@@ -203,7 +203,7 @@ const BOOKS = [
     imageUrl: "images/book-08-clauses-and-phrases-demystified.webp",
     benefit: "Master Noun, Adjective, and Adverb clause identification, phrase-vs-clause distinction, and relative pronoun rules with 40+ drilled examples.",
     idealFor: "SSC CGL, Banking, UPSC CSAT & GRE Aspirants",
-    amazonUrl: "https://a.co/d/0i0UEwyN",
+    amazonUrl: "https://amzn.to/4ibEcP9",
     difficulty: "Intermediate",
     transformation: "Replace slow, uncertain clause analysis with a fast, repeatable identification system built for exam-timer pressure.",
     syllabus: [
@@ -230,7 +230,7 @@ const BOOKS = [
     imageUrl: "images/book-09-question-tags-zero-errors.webp",
     benefit: "Master every question-tag rule and trap — including tricky subjects, modal tags, and imperative tags — with 200+ drilled MCQs.",
     idealFor: "SSC CGL, IBPS PO/Clerk & Railway Aspirants",
-    amazonUrl: "https://a.co/d/0anNYhDq",
+    amazonUrl: "https://amzn.to/4yWcRYt",
     difficulty: "Intermediate",
     transformation: "Turn a small, frequently underestimated topic into a guaranteed-accuracy scoring zone through exhaustive rule coverage.",
     syllabus: [
@@ -257,7 +257,7 @@ const BOOKS = [
     imageUrl: "images/book-10-articles-for-ssc-cgl-2026-zero-errors.webp",
     benefit: "Master A, An, and The with sound-based rules, zero-article exceptions, and idiomatic usage traps calibrated to the 2026 SSC CGL pattern.",
     idealFor: "SSC CGL 2026 Aspirants",
-    amazonUrl: "https://a.co/d/0blmbB4k",
+    amazonUrl: "https://amzn.to/4yVOc61",
     difficulty: "Beginner",
     transformation: "Eliminate one of the most frequently missed, easily fixable error categories from your Error Spotting score.",
     syllabus: [
@@ -284,7 +284,7 @@ const BOOKS = [
     imageUrl: "images/book-11-advanced-punctuation-mastery.webp",
     benefit: "Master comma splices, semicolons, apostrophes, and quotation punctuation with exam-focused rules and drills.",
     idealFor: "SSC CGL, Banking Descriptive Paper & CBSE Class 12 Students",
-    amazonUrl: "https://amzn.to/4irsiSu",
+    amazonUrl: "https://amzn.to/4yXLKMo",
     difficulty: "Intermediate",
     transformation: "Turn punctuation from an overlooked afterthought into a precise, rule-governed writing skill that strengthens every sentence.",
     syllabus: [
@@ -311,7 +311,7 @@ const BOOKS = [
     imageUrl: "images/book-12-100-english-grammar-shortcuts.webp",
     benefit: "100 quick-check formulas and elimination tricks covering tenses, agreement, articles, and prepositions for maximum exam speed.",
     idealFor: "All Competitive Exam Aspirants Needing Fast Revision",
-    amazonUrl: "https://a.co/d/0cG2Dfum",
+    amazonUrl: "https://amzn.to/4ivnquD",
     difficulty: "Beginner",
     transformation: "Compress months of grammar study into 100 instantly applicable shortcuts for rapid pre-exam revision.",
     syllabus: [
@@ -338,7 +338,7 @@ const BOOKS = [
     imageUrl: "images/book-13-modal-auxiliaries-mastery-zero-errors.webp",
     benefit: "Drill modal verb error patterns exhaustively with 200+ MCQs covering semi-modals, perfect infinitives, and prohibition forms.",
     idealFor: "SSC CGL, Banking PO/Clerk & Railway Aspirants",
-    amazonUrl: "https://a.co/d/0hMtBcQ0",
+    amazonUrl: "https://amzn.to/4BiSHcM",
     difficulty: "Advanced",
     transformation: "Move from general modal awareness to zero-error precision through exhaustive, exam-pattern-calibrated drilling.",
     syllabus: [
@@ -365,7 +365,7 @@ const BOOKS = [
     imageUrl: "images/book-14-mastering-modal-auxiliaries.webp",
     benefit: "A complete, progressive modal-verb guide — from basic forms to advanced speculation and formal academic usage.",
     idealFor: "CBSE Class 12, UPSC CSAT, GRE & Advanced Learners",
-    amazonUrl: "https://a.co/d/02QHzDdT",
+    amazonUrl: "https://amzn.to/47uiwJ1",
     difficulty: "Intermediate",
     transformation: "Build a complete, layered command of modal verbs — from foundational rules to the nuanced usage advanced exams reward.",
     syllabus: [
