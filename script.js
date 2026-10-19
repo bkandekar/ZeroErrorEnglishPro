@@ -392,7 +392,7 @@ const BOOKS = [
   imageUrl: "images/book-15-question-tags-made-easy.webp",
   benefit: "Stop hesitating mid-sentence and never mix up “isn’t it?” with “don’t you?” again—master question tags with simple rules, real-life examples and quick practice.",
   idealFor: "Students, Teachers, SSC/Banking/Railway Aspirants, Interview Candidates & English Enthusiasts",
-  amazonUrl: "https://a.co/d/018NrP7L",
+  amazonUrl: "https://amzn.to/3U9Czt4",
   difficulty: "Beginner",
   transformation: "Replace confusion and second-guessing with a clear, rule-based system so you form the correct question tag instantly in speaking and writing.",
   syllabus: [
