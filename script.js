@@ -284,7 +284,7 @@ const BOOKS = [
     imageUrl: "images/book-11-advanced-punctuation-mastery.webp",
     benefit: "Master comma splices, semicolons, apostrophes, and quotation punctuation with exam-focused rules and drills.",
     idealFor: "SSC CGL, Banking Descriptive Paper & CBSE Class 12 Students",
-    amazonUrl: "https://a.co/d/0aPIplRt",
+    amazonUrl: "https://amzn.to/4irsiSu",
     difficulty: "Intermediate",
     transformation: "Turn punctuation from an overlooked afterthought into a precise, rule-governed writing skill that strengthens every sentence.",
     syllabus: [
