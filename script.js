@@ -1102,7 +1102,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     body: `
 <img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/fixed-prepositions-25-verbs-hero.webp"
      alt="Fixed Prepositions: 25 High-Frequency Verbs for SSC CGL, Banking and UPSC Exams"
-     loading="lazy"
+     loading="eager"
      decoding="async"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
