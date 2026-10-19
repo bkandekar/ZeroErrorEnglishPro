@@ -1100,9 +1100,16 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Master 25 fixed prepositions after verbs, like depend on, insist on and discuss, with memory tricks, examples and practice for SSC, bank and UPSC exams.",
     formula: "ON/OF lean on it | TO parcel to an address | FOR chase it | IN/FROM/WITH/AT mixed team | NONE the naked five",
     body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/fixed-prepositions-25-verbs-hero.webp"
+     alt="Fixed Prepositions: 25 High-Frequency Verbs for SSC CGL, Banking and UPSC Exams"
+     loading="lazy"
+     decoding="async"
+     style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<!-- BLOG ARTICLE CONTENT STARTS HERE -->
+
+    `
     
-   <img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/fixed-prepositions-25-verbs-hero.webp" alt="Fixed prepositions after verbs: 25 high-frequency verbs for SSC, bank and UPSC exams" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
-<style>
 .zp-post{line-height:1.8;color:#1f2937}
 .zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
 .zp-post h3{color:#0B2545;margin:22px 0 8px}
