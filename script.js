@@ -425,7 +425,7 @@ const ARTICLES = [
     description: "Examiners never test simple sentences. Discover how they disguise plural intervening phrases, invert clauses, and manipulate proximity to cost you 2.5 marks — with the exact test that catches every trap.",
     formula: "Subject 1 + [as well as / along with + Noun 2] + Verb (agrees strictly with Subject 1)",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/subject-verb-agreement-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/subject-verb-agreement-hero.webp" 
      alt="Subject-Verb Agreement traps for SSC and Banking exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -602,7 +602,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Stop translating directly from your native language. Learn exactly why words like 'yesterday', 'ago', and 'in 2020' strictly forbid the Present Perfect — with the test that catches the error every time.",
     formula: "Definite Past Time Marker (yesterday, ago, in 2021) -> Past Simple strictly (V2)",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/present-perfect-past-simple-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/present-perfect-past-simple-hero.webp" 
      alt="Present Perfect vs Past Simple time-marker trap"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -768,7 +768,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Universal truths, interrogative word order, and reporting verbs explained with an 8-second elimination technique — built specifically for SSC CGL Tier 2 narration questions.",
     formula: "Universal Truth / Scientific Fact -> ZERO backshift regardless of past reporting verb",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/direct-indirect-speech-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/direct-indirect-speech-hero.webp" 
      alt="Direct and Indirect Speech backshifting traps for SSC CGL"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -934,7 +934,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Sensory verbs and quasi-passive constructions break the standard active-to-passive formula. Learn exactly when passive voice is grammatically impossible and how examiners exploit it.",
     formula: "Sensory Verb (look, seem, smell, taste, feel) + Adjective -> NO passive form exists",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-passive-quasi-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-passive-quasi-hero.webp" 
      alt="Active and Passive Voice quasi-passive and sensory verb traps"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -1089,25 +1089,274 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
 </div>
     `
   },
-  {
-    slug: "fixed-prepositions-after-verbs-mastery",
+    {
+    slug: "fixed-prepositions-25-high-frequency-verbs-exam-guide",
     title: "Fixed Prepositions: 25 High-Frequency Verbs That Reject Intuition",
     category: "Prepositions",
-    readingTime: "9 min read",
-    difficulty: "Advanced",
+    readingTime: "14 min read",
+    difficulty: "Intermediate",
     bookId: 5,
-    publishDate: "2024-01-01",
-    description: "Learn why verbs like 'prohibit', 'abstain', and 'comply' demand specific particles, plus 10 superfluous preposition traps.",
-    formula: "Prohibit / Abstain / Refrain -> strictly takes 'FROM' + Gerund",
-    body: `
-      <h3>The Superfluous Preposition Trap</h3>
-      <p>Many transitive verbs take direct objects and become ungrammatical when candidates insert conversational prepositions like 'about', 'for', or 'into'.</p>
-      <div class="explanation-panel">
-        <strong>Incorrect:</strong> The committee discussed about the economic plan.<br>
-        <strong>Correct:</strong> The committee <strong>discussed the economic plan</strong>.
-      </div>
-    `
-  },
+    publishDate: "2026-10-19",
+    description: "Master 25 fixed prepositions after verbs, like depend on, insist on and discuss, with memory tricks, examples and practice for SSC, bank and UPSC exams.",
+    formula: "ON/OF lean on it | TO parcel to an address | FOR chase it | IN/FROM/WITH/AT mixed team | NONE the naked five",
+    body: `<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/fixed-prepositions-25-verbs-hero.jpg" alt="Fixed prepositions after verbs: 25 high-frequency verbs for SSC, bank and UPSC exams" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Read this sentence: “We discussed about the plan.” Does it sound right? To most of us it does, and that’s exactly the problem. It’s wrong, and it has cost students marks in error spotting for years.</p>
+<p>Fixed prepositions are the one grammar area where your intuition works against you. You can’t reason your way to “depend on” or “differ from.” The English language simply decided, and you have to know. The good news is that exams don’t test hundreds of these. A small set of high-frequency verbs shows up again and again, and in this guide you’ll learn 25 of them, sorted into five groups with a memory trick for each.</p>
+<p>If you want the basics first, start with <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/fixed-prepositions-after-verbs-mastery/" style="color:#0B2545;font-weight:700">our earlier guide on fixed prepositions after verbs</a>. This post goes deeper into the verbs that fool even confident students.</p>
+
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-why').scrollIntoView({behavior:'smooth'})">Why intuition fails with prepositions</li>
+<li onclick="document.getElementById('section-trap').scrollIntoView({behavior:'smooth'})">Hindi and Marathi translation traps</li>
+<li onclick="document.getElementById('section-map').scrollIntoView({behavior:'smooth'})">The 5-box memory map</li>
+<li onclick="document.getElementById('section-verbs').scrollIntoView({behavior:'smooth'})">The 25 verbs in five groups</li>
+<li onclick="document.getElementById('section-table').scrollIntoView({behavior:'smooth'})">Quick reference table</li>
+<li onclick="document.getElementById('section-two').scrollIntoView({behavior:'smooth'})">Verbs with two correct prepositions</li>
+<li onclick="document.getElementById('section-forms').scrollIntoView({behavior:'smooth'})">Noun and adjective forms</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">5 common mistakes</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 5-step preposition check</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">The 5-day revision plan</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+</ul></div>
+
+<h2 id="section-why">Why intuition fails with prepositions</h2>
+<p>There are two reasons, and both are fixable once you see them.</p>
+<p><b>Reason 1: we translate.</b> When a Hindi or Marathi sentence says “is baare mein baat karna,” our brain adds “about” and produces “discuss about.” But English built “discuss” to carry that meaning on its own. The preposition is already inside the verb.</p>
+<p><b>Reason 2: we trust synonyms.</b> “Talk” takes “about,” so we assume “discuss” does too. “Answer” takes nothing, but “reply” takes “to.” Two verbs with the same meaning can behave differently, and no rule predicts which.</p>
+<p>So stop looking for logic. Treat each verb and its preposition as a single block, the way you’d learn a phone number. “Depend on” is one unit. “Listen to” is one unit. Once you store them that way, your intuition stops interfering.</p>
+
+<h2 id="section-trap">Hindi and Marathi translation traps</h2>
+<p>Most of the errors in this guide come from translating word by word. Here are five patterns I see again and again. Notice how the “natural” English version is the wrong one.</p>
+<table>
+<tr><th>What we think in Hindi or Marathi</th><th>What the brain writes</th><th>What English wants</th></tr>
+<tr><td>is baare mein charcha karna</td><td><span class="zp-no">discuss about</span></td><td><span class="zp-yes">discuss</span> the issue</td></tr>
+<tr><td>se shaadi karna</td><td><span class="zp-no">marry with</span></td><td><span class="zp-yes">marry</span> her / <span class="zp-yes">get married to</span> her</td></tr>
+<tr><td>ka intezaar karna</td><td><span class="zp-no">wait the bus</span></td><td><span class="zp-yes">wait for</span> the bus</td></tr>
+<tr><td>ko sunna</td><td><span class="zp-no">listen the song</span></td><td><span class="zp-yes">listen to</span> the song</td></tr>
+<tr><td>se alag hona</td><td><span class="zp-no">differ than</span></td><td><span class="zp-yes">differ from</span></td></tr>
+</table>
+<p>Do you see the pattern? When your own language uses a small joining word, you carry it into English. When English hides the preposition inside the verb, you add one that isn’t needed. Neither habit is a flaw in your intelligence. It’s just how languages travel, and the five-box map is the antidote.</p>
+
+<h2 id="section-map">The 5-box memory map</h2>
+<p>Twenty-five verbs sound heavy until you drop them into five boxes. Each box has one picture to remember.</p>
+<div class="zp-trick">
+<p style="margin:0">
+<b>Box 1: ON / OF</b> = lean on it, made of it<br>
+<b>Box 2: TO</b> = a parcel travelling to an address<br>
+<b>Box 3: FOR</b> = chasing something you want<br>
+<b>Box 4: IN / FROM / WITH / AT</b> = mixed team, one picture each<br>
+<b>Box 5: NONE</b> = the “naked five”, no preposition at all</p>
+</div>
+<p>Before you pick a preposition in the exam, name the box first. That one step stops most guessing. My <i>Prepositions</i> ebook uses the same box-by-box approach, with more verbs and plenty of practice.</p>
+
+<h2 id="section-verbs">The 25 verbs in five groups</h2>
+
+<h3>Box 1: ON and OF (5 verbs)</h3>
+<div class="zp-ex">
+<b>1. depend on</b> <span class="zp-yes">✓ Your result depends on your daily practice.</span> <span class="zp-no">✗ depends of / depends from</span><br>
+<b>2. insist on</b> <span class="zp-yes">✓ She insisted on paying the bill.</span> <span class="zp-no">✗ insisted to pay</span><br>
+<b>3. consist of</b> <span class="zp-yes">✓ The committee consists of nine members.</span> <span class="zp-no">✗ consists from / is consisted of</span><br>
+<b>4. approve of</b> <span class="zp-yes">✓ My father doesn’t approve of late-night study.</span> <span class="zp-no">✗ approve for</span><br>
+<b>5. congratulate on</b> <span class="zp-yes">✓ I congratulated her on her selection.</span> <span class="zp-no">✗ congratulate for</span>
+</div>
+<p><b>Memory trick:</b> “ON is for leaning, OF is for parts and opinions.” You lean <i>on</i> a person (depend, insist, and congratulate someone <i>on</i> an achievement). A thing is made <i>of</i> parts, and you have an opinion <i>of</i> something (consist of, approve of). Note that “consist” never takes the passive. Also, “approve of” is about opinions, but when an authority sanctions something you write “approve the proposal” with no preposition.</p>
+
+<h3>Box 2: TO (5 verbs)</h3>
+<div class="zp-ex">
+<b>6. listen to</b> <span class="zp-yes">✓ Listen to the instructions carefully.</span> <span class="zp-no">✗ listen the instructions</span><br>
+<b>7. reply to</b> <span class="zp-yes">✓ He replied to my email within an hour.</span> <span class="zp-no">✗ replied my email</span><br>
+<b>8. object to</b> <span class="zp-yes">✓ Many parents object to extra fees.</span> <span class="zp-no">✗ object on / object for</span><br>
+<b>9. belong to</b> <span class="zp-yes">✓ This notebook belongs to Meena.</span> <span class="zp-no">✗ is belonging to</span><br>
+<b>10. prefer … to</b> <span class="zp-yes">✓ I prefer tea to coffee.</span> <span class="zp-no">✗ prefer tea than coffee</span>
+</div>
+<p><b>Memory trick:</b> “A parcel travels TO an address.” Words, sounds, ownership and preference all travel toward a target. “To” here is a preposition, so a verb after it takes -ing: “She objects to being interrupted.” Also, “answer” takes no preposition at all (“He answered my email”), which is a classic trap beside “reply to.”</p>
+
+<h3>Box 3: FOR (5 verbs)</h3>
+<div class="zp-ex">
+<b>11. wait for</b> <span class="zp-yes">✓ We waited for the bus for an hour.</span> <span class="zp-no">✗ waited the bus</span><br>
+<b>12. apply for</b> <span class="zp-yes">✓ She applied for the post of clerk.</span> <span class="zp-no">✗ applied the post</span><br>
+<b>13. search for</b> <span class="zp-yes">✓ The police searched for the missing child.</span> <span class="zp-no">✗ searched the missing child</span><br>
+<b>14. ask for</b> <span class="zp-yes">✓ He asked for a glass of water.</span> <span class="zp-no">✗ asked a glass of water</span><br>
+<b>15. thank … for</b> <span class="zp-yes">✓ I thanked him for his help.</span> <span class="zp-no">✗ thanked to him</span>
+</div>
+<p><b>Memory trick:</b> “Wise Aspirants Search, Ask, Thank, Wait.” The first letters (W, A, S, A, T) cover Wait, Apply, Search, Ask, Thank. Picture yourself chasing something you want, and the chase always takes FOR. One careful point: you search a place <i>for</i> a thing (“searched the room for his keys”), but you search <i>for</i> the thing itself when the place isn’t mentioned.</p>
+
+<h3>Box 4: IN, FROM, WITH and AT (5 verbs)</h3>
+<div class="zp-ex">
+<b>16. participate in</b> <span class="zp-yes">✓ Over 200 students participated in the quiz.</span> <span class="zp-no">✗ participated on / participated the quiz</span><br>
+<b>17. succeed in</b> <span class="zp-yes">✓ She succeeded in clearing SSC CGL.</span> <span class="zp-no">✗ succeeded to clear</span><br>
+<b>18. differ from</b> <span class="zp-yes">✓ British spelling differs from American spelling.</span> <span class="zp-no">✗ differs than</span><br>
+<b>19. agree with / to</b> <span class="zp-yes">✓ I agree with you. The board agreed to the plan.</span> <span class="zp-no">✗ I agree to you.</span><br>
+<b>20. laugh at</b> <span class="zp-yes">✓ Don’t laugh at his accent.</span> <span class="zp-no">✗ laugh on his accent</span>
+</div>
+<p><b>Memory trick:</b> “IN is inside an event.” You take part <i>in</i> a quiz and succeed <i>in</i> an exam because you’re inside the process. “Differ FROM” keeps things at a distance, and you laugh <i>at</i> someone the way you point a finger AT them. For “agree,” remember: <b>with people, to plans</b>.</p>
+
+<h3>Box 5: NONE, the naked five</h3>
+<p>These verbs take no preposition. Adding one is the most common error of all.</p>
+<div class="zp-ex">
+<b>21. discuss</b> <span class="zp-yes">✓ We discussed the plan.</span> <span class="zp-no">✗ discussed about the plan</span><br>
+<b>22. mention</b> <span class="zp-yes">✓ She mentioned the deadline.</span> <span class="zp-no">✗ mentioned about the deadline</span><br>
+<b>23. marry</b> <span class="zp-yes">✓ He married a doctor.</span> <span class="zp-no">✗ married with a doctor</span><br>
+<b>24. resemble</b> <span class="zp-yes">✓ She resembles her mother.</span> <span class="zp-no">✗ resembles to her mother</span><br>
+<b>25. reach</b> <span class="zp-yes">✓ We reached Pune at noon.</span> <span class="zp-no">✗ reached to Pune</span>
+</div>
+<p><b>Memory trick:</b> “Dear Mom Makes Rice Rolls.” D-M-M-R-R gives you Discuss, Mention, Marry, Resemble, Reach. Think of them as naked verbs: they’re already complete, so don’t dress them in a preposition. The same group includes “enter,” “attend,” “approach” and “contact.” With “marry,” the preposition appears only in “get married <i>to</i> someone,” and with “reach,” you switch to “arrive <i>at</i> a place” or “arrive <i>in</i> a city.”</p>
+
+<h2 id="section-table">Quick reference table</h2>
+<p>Screenshot this for your revision folder.</p>
+<table>
+<tr><th>Box</th><th>Verbs</th></tr>
+<tr><td>ON / OF</td><td>depend on, insist on, consist of, approve of, congratulate on</td></tr>
+<tr><td>TO</td><td>listen to, reply to, object to, belong to, prefer … to</td></tr>
+<tr><td>FOR</td><td>wait for, apply for, search for, ask for, thank … for</td></tr>
+<tr><td>IN / FROM / WITH / AT</td><td>participate in, succeed in, differ from, agree with/to, laugh at</td></tr>
+<tr><td>NONE</td><td>discuss, mention, marry, resemble, reach</td></tr>
+</table>
+
+<h2 id="section-two">Verbs with two correct prepositions</h2>
+<p>Some verbs change meaning when the preposition changes. Examiners love these, because intuition can’t help you.</p>
+<div class="zp-box">
+<p><b>agree:</b> with a person or opinion, to a proposal, on a matter. “We agreed on a date.”</p>
+<p><b>apply:</b> for a job, to an organisation. “She applied to three banks for a clerk’s post.”</p>
+<p><b>apologise:</b> to a person, for a mistake. “I apologised to him for the delay.”</p>
+<p><b>differ:</b> from means “is unlike,” and with means “disagrees with.” “I differ with you on this.”</p>
+</div>
+<p>The trick is to ask yourself what comes next. A person or a thing? An action or a reason? Let the object choose the preposition.</p>
+
+<h2 id="section-forms">Noun and adjective forms keep the same bond</h2>
+<p>Here’s a useful bonus. When a verb turns into a noun or adjective, the preposition often stays attached, so learning one form helps you with the others.</p>
+<div class="zp-box">
+<p><b>depend on</b> → dependent on, independent of</p>
+<p><b>differ from</b> → different from</p>
+<p><b>participate in</b> → participation in</p>
+<p><b>succeed in</b> → success in</p>
+<p><b>approve of</b> → approval of</p>
+<p><b>insist on</b> → insistence on</p>
+<p><b>reply to</b> → a reply to</p>
+</div>
+<p>Two exceptions to remember. The noun “discussion” can take “about” or “of,” even though the verb never does. And “independent” takes “of,” not “from,” which examiners enjoy testing. So “She is dependent on her parents, but he is independent of his.”</p>
+
+<h2 id="section-mistakes">5 common mistakes in exams</h2>
+<div class="zp-box">
+<p><b>1. Adding “about” to the naked five.</b> <span class="zp-no">✗ He mentioned about the delay.</span> <span class="zp-yes">✓ He mentioned the delay.</span></p>
+<p><b>2. “Prefer than.”</b> <span class="zp-no">✗ I prefer walking than driving.</span> <span class="zp-yes">✓ I prefer walking to driving.</span></p>
+<p><b>3. “Congratulate for.”</b> <span class="zp-no">✗ I congratulate you for your success.</span> <span class="zp-yes">✓ I congratulate you on your success.</span></p>
+<p><b>4. Skipping “to” after “listen.”</b> <span class="zp-no">✗ She listens the radio daily.</span> <span class="zp-yes">✓ She listens to the radio daily.</span></p>
+<p><b>5. “Marry with.”</b> <span class="zp-no">✗ She married with an engineer.</span> <span class="zp-yes">✓ She married an engineer.</span></p>
+</div>
+<p><b>Common exam pattern:</b> error spotting sentences where all four parts look smooth, but one carries a wrong preposition after a high-frequency verb. If you notice a verb from this list, check its box immediately before reading further.</p>
+
+<h2 id="section-method">The 5-step preposition check</h2>
+<div class="zp-box">
+<p><b>Step 1: Spot the verb.</b> Underline it and name its box.</p>
+<p><b>Step 2: Test the naked five.</b> If it’s discuss, mention, marry, resemble or reach, delete any preposition.</p>
+<p><b>Step 3: Match the box.</b> ON/OF, TO, FOR, or the mixed team.</p>
+<p><b>Step 4: Check the object.</b> A person or a plan? That decides “agree with” or “agree to.”</p>
+<p><b>Step 5: Check what follows.</b> After a preposition, use -ing: “insist on going,” “succeed in passing,” “object to being late.”</p>
+</div>
+<p>That fifth step catches the “insisted to go” error, and it’s worth ten seconds in the paper.</p>
+
+<h2>A pattern teachers see every year</h2>
+<p>Students often learn these verbs in a list, recognise them in a list, and still get them wrong in a passage. The reason is that list-learning trains recognition, not retrieval. In a real sentence, the verb arrives with all its surrounding words, and your brain falls back on translation.</p>
+<p>The fix is small. Pick five verbs a day, write one sentence for each from your own life, and say each sentence aloud. “My brother depends on me for notes.” “I waited for the train.” Your own sentences stick far better than textbook ones, and in five days you’ve covered all 25.</p>
+
+<h2 id="section-plan">The 5-day revision plan</h2>
+<p>You don’t need a month. Spend about twenty minutes a day, one box at a time.</p>
+<div class="zp-box">
+<p><b>Day 1: Box 1 (ON/OF).</b> Write five sentences with depend, insist, consist, approve and congratulate.</p>
+<p><b>Day 2: Box 2 (TO).</b> Write five sentences, and add one with an -ing form after “object to.”</p>
+<p><b>Day 3: Box 3 (FOR).</b> Use “Wise Aspirants Search, Ask, Thank, Wait” and write five sentences.</p>
+<p><b>Day 4: Box 4 (IN/FROM/WITH/AT).</b> Write sentences for each verb, including “agree with” and “agree to.”</p>
+<p><b>Day 5: Box 5 (NONE).</b> Recite “Dear Mom Makes Rice Rolls,” then write five sentences with no preposition.</p>
+</div>
+<p>On day six, test yourself with the practice set below, and keep a list of every verb you got wrong. Revisit that list for a week. Most learners find that only three or four verbs keep fooling them, and those few deserve extra attention.</p>
+
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Learn in chunks, not words.</b> “Depend on,” never “depend” alone.</p>
+<p><b>Trust the box, not the sound.</b> “It sounds right” is how “discuss about” survives.</p>
+<p><b>Watch for noun forms.</b> “Discussion about” is fine, but the verb “discuss about” is not.</p>
+<p><b>Revise mistakes in pairs.</b> Write the wrong and right versions side by side: reply to / answer.</p>
+<p><b>Keep a personal error list.</b> Most students repeat the same five mistakes. Find yours and fix them.</p>
+</div>
+
+<h2 id="section-practice">Practice set: fill in the blanks</h2>
+<p>These are original practice sentences written for this guide.</p>
+<h3>Round 1: spot the error</h3>
+<p>Each sentence below has one wrong preposition or one preposition that shouldn’t be there. Fix it before you read the answers.</p>
+<ol>
+<li>She discussed about the issue with her teacher.</li>
+<li>The committee is consisted of five members.</li>
+<li>He insisted to take the exam again.</li>
+<li>We have been waiting the bus since morning.</li>
+<li>He congratulated me for my promotion.</li>
+<li>The two plans differ than each other.</li>
+<li>All the students participated on the debate.</li>
+<li>The train reached to Mumbai at noon.</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. discussed the issue (naked verb). &nbsp; 2. consists of (no passive). &nbsp; 3. insisted on taking (preposition plus -ing). &nbsp; 4. waiting for the bus. &nbsp; 5. congratulated me on my promotion. &nbsp; 6. differ from each other. &nbsp; 7. participated in the debate. &nbsp; 8. reached Mumbai (or arrived in Mumbai).</p>
+</div>
+<h3>Round 2: fill in the blanks</h3>
+<p>Put a dash (–) where no preposition is needed.</p>
+<ol>
+<li>The result depends ___ your last month’s revision.</li>
+<li>She prefers walking ___ driving.</li>
+<li>He insisted ___ meeting the manager.</li>
+<li>I congratulate you ___ your success.</li>
+<li>The students are waiting ___ the results.</li>
+<li>Please listen ___ me carefully.</li>
+<li>He succeeded ___ passing the exam.</li>
+<li>This pen belongs ___ my sister.</li>
+<li>She resembles ___ her mother.</li>
+<li>Did you reply ___ his message?</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. on &nbsp; 2. to &nbsp; 3. on &nbsp; 4. on &nbsp; 5. for &nbsp; 6. to &nbsp; 7. in &nbsp; 8. to &nbsp; 9. – (resemble is a naked verb) &nbsp; 10. to</p>
+</div>
+<p>Scored 8 or more? You’re in good shape. Scored below 6? Revisit Boxes 1 and 5, then try again tomorrow. For many more verbs with exercises and answers, my <i>Prepositions</i> ebook gives you a full practice bank.</p>
+
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>Is “discuss about” ever correct?</h3>
+<p>No. As a verb, “discuss” takes no preposition. The noun is different: “a discussion about the budget” is correct.</p>
+<h3>Can I say both “depend on” and “depend upon”?</h3>
+<p>Yes. “Upon” is more formal, and both are accepted. In exams, “on” is the usual answer option.</p>
+<h3>Why is it “prefer to” and not “prefer than”?</h3>
+<p>English fixed the pattern as “prefer X to Y.” “Than” belongs to the comparative structure “would rather walk than ride.”</p>
+<h3>How many fixed prepositions should I learn for SSC and bank exams?</h3>
+<p>Start with the 25 high-frequency verbs in this guide, then add more by category. Depth beats breadth: knowing these cold is worth more than half-knowing 200.</p>
+<h3>What’s the fastest way to remember them?</h3>
+<p>Use the five boxes, write one personal sentence per verb, and say it aloud. Five verbs a day finishes the list in five days.</p>
+
+<h2>Your next step</h2>
+<p>Fixed prepositions reward memory, not logic, and you now have a map: five boxes, 25 verbs, and a memory trick for each. Practise five a day, run the 5-step check in every error spotting question, and keep a list of the ones you miss.</p>
+<p>When you want the complete treatment, with more verbs, exercises and answer keys, get my Prepositions ebook on Amazon: <a href="https://amzn.to/4k3Izyb" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4k3Izyb</a></p>
+<p>Which of the 25 verbs fooled you the most? Tell me in the comments, and I’ll explain it further.</p>
+
+</div>
+`
+    },
   {
     slug: "conditionals-third-vs-mixed-exam-rules",
     title: "Third Conditionals vs Mixed Conditionals: Eliminating Guesswork",
@@ -1138,6 +1387,9 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Who, whom, whose, which, that — one wrong relative pronoun is one of the most repeated Error Spotting traps in SSC and Bank exams. Learn the exact rule for each.",
     formula: "Who/Whom/Whose -> People only | Which -> Things only | That -> Defining clauses, no commas",
     body: `
+    <img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/relative-clauses-who-which-that-hero.webp"
+     alt="Relative clauses in English grammar: who, which and that rules explained"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 <!-- SECTION 1: HOOK -->
 <h2>"The Person Which Called You" — Did You Catch the Error?</h2>
 <p>If it took you a second look, you're exactly who this guide is for. Relative pronouns feel simple until an exam sentence quietly swaps one for the wrong one, and most aspirants read straight past it without noticing.</p>
