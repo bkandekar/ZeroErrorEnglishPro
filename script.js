@@ -425,7 +425,7 @@ const ARTICLES = [
     description: "Examiners never test simple sentences. Discover how they disguise plural intervening phrases, invert clauses, and manipulate proximity to cost you 2.5 marks — with the exact test that catches every trap.",
     formula: "Subject 1 + [as well as / along with + Noun 2] + Verb (agrees strictly with Subject 1)",
     body: `
-<img src="images/subject-verb-agreement-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/subject-verb-agreement-hero.jpg" 
      alt="Subject-Verb Agreement traps for SSC and Banking exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -602,7 +602,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Stop translating directly from your native language. Learn exactly why words like 'yesterday', 'ago', and 'in 2020' strictly forbid the Present Perfect — with the test that catches the error every time.",
     formula: "Definite Past Time Marker (yesterday, ago, in 2021) -> Past Simple strictly (V2)",
     body: `
-<img src="images/present-perfect-past-simple-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/present-perfect-past-simple-hero.jpg" 
      alt="Present Perfect vs Past Simple time-marker trap"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -768,7 +768,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Universal truths, interrogative word order, and reporting verbs explained with an 8-second elimination technique — built specifically for SSC CGL Tier 2 narration questions.",
     formula: "Universal Truth / Scientific Fact -> ZERO backshift regardless of past reporting verb",
     body: `
-<img src="images/direct-indirect-speech-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/direct-indirect-speech-hero.jpg" 
      alt="Direct and Indirect Speech backshifting traps for SSC CGL"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -934,7 +934,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
     description: "Sensory verbs and quasi-passive constructions break the standard active-to-passive formula. Learn exactly when passive voice is grammatically impossible and how examiners exploit it.",
     formula: "Sensory Verb (look, seem, smell, taste, feel) + Adjective -> NO passive form exists",
     body: `
-<img src="images/active-passive-quasi-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-passive-quasi-hero.jpg" 
      alt="Active and Passive Voice quasi-passive and sensory verb traps"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -1425,7 +1425,7 @@ When the pronoun is the object of a defining clause, it can be omitted completel
     description: "Phrases and clauses look similar but examiners test them very differently. Learn the one-second Subject+Verb Test that tells them apart every time.",
     formula: "Phrase -> No subject + finite verb pair | Clause -> Has a subject + finite verb (main or subordinate)",
     body: `
-<img src="images/phrase-vs-clause-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/phrase-vs-clause-hero.jpg" 
      alt="Phrase vs Clause difference for exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2016,7 +2016,7 @@ If you remove the clause and the sentence still makes complete sense on its own 
     description: "Subordinate clause errors are where UPSC CSAT and GRE Verbal quietly separate strong candidates from the rest. Learn the exact traps examiners recycle and the test that catches every one of them.",
     formula: "Subordinate clause -> has a subject + finite verb but cannot stand alone | Check: connector logic + tense agreement + no redundant pairing",
     body: `
-<img src="images/subordinate-clause-errors-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/subordinate-clause-errors-hero.jpg" 
      alt="Subordinate Clause Errors in Error Spotting for UPSC and GRE"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2415,7 +2415,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "No definitions, no theory — just the fastest way to tell Noun, Adjective, and Adverb clauses apart under exam-timer pressure. Built for SSC, Bank, and UPSC speed rounds.",
     formula: "3-second test: Can you replace it with 'it/that'? Noun. Sits beside a noun? Adjective. Answers when/where/why/how? Adverb.",
     body: `
-<img src="images/noun-adjective-adverb-fast-tricks-hero.jpg" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/noun-adjective-adverb-fast-tricks-hero.jpg" 
      alt="Fast tricks to identify Noun Adjective and Adverb clauses for SSC Bank UPSC"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2534,7 +2534,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "Four phrase types, one exam-ready test. Learn to identify Noun, Adjective, Adverb, and Prepositional phrases in seconds, with the exact traps SSC and Bank examiners repeat every year.",
     formula: "Ask what job the phrase does: names a thing -> Noun Phrase | describes a noun -> Adjective Phrase | describes a verb -> Adverb Phrase | starts with a preposition -> Prepositional Phrase",
     body: `
-<img src="images/types-of-phrases-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/types-of-phrases-hero.webp" 
      alt="Types of Phrases in English Grammar - Noun Adjective Adverb Prepositional"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2719,7 +2719,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "Every question tag follows one flip-and-match rule — until negative words, imperatives, and tricky subjects break the pattern. Learn the exact traps SSC, Banking, and MPSC examiners repeat every year.",
     formula: "Positive statement -> Negative tag | Negative statement -> Positive tag | Tag verb matches the statement's auxiliary + subject matches with a pronoun",
     body: `
-<img src="images/question-tags-rules-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/question-tags-rules-hero.webp" 
      alt="Question Tags Rules and Examples for SSC Banking MPSC exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -2909,7 +2909,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "A fast, scannable checklist of the 10 question-tag rules examiners test most — from hidden negatives to imperative tags — built for quick pre-exam revision.",
     formula: "Positive statement -> Negative tag | Negative statement -> Positive tag | Watch for hidden negatives, fixed forms, and modal verbs",
     body: `
-<img src="images/10-tricky-question-tag-rules-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/10-tricky-question-tag-rules-hero.webp" 
      alt="10 Tricky Question Tag Rules for SSC and Bank aspirants"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3044,7 +3044,7 @@ When a subordinate clause of reason or condition is placed too far from what it 
     description: "Simple-sentence question tags are easy. Complex, compound, and conditional sentences follow a completely different rule for which clause gets tagged — learn it here with exam-calibrated examples.",
     formula: "Complex -> tag the main clause | Compound -> tag the nearest clause | Conditional -> never tag the if-clause, always tag the main clause",
     body: `
-<img src="images/question-tags-complex-compound-conditional-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/question-tags-complex-compound-conditional-hero.webp" 
      alt="Question Tags for Complex Compound and Conditional Sentences"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3278,7 +3278,7 @@ Students often correctly identify "if" and "although" clauses as subordinate but
     description: "Every question-tag rule in one summary table, plus 15 free practice questions with full solutions — the single-page revision resource for your last week of exam prep.",
     formula: "Flip the polarity, match the auxiliary or modal, match the subject pronoun, and always check for hidden negatives, fixed forms, and the correct clause first",
     body: `
-<img src="images/master-question-tags-summary-practice-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/master-question-tags-summary-practice-hero.webp" 
      alt="Master Question Tags for Competitive Exams Rules Summary and Practice"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3457,7 +3457,7 @@ Students often correctly identify "if" and "although" clauses as subordinate but
     description: "Examiners don't test question tags randomly — they repeat the same handful of formats and traps year after year. Here's the pattern, broken down by format and frequency, not just the rules.",
     formula: "Question tags appear in 3 formats (fill-in-blank, error-spotting, sentence-improvement) and cluster around the same 4-5 trap categories across papers",
     body: `
-<img src="images/question-tags-previous-year-papers-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/question-tags-previous-year-papers-hero.webp" 
      alt="Question Tags in Previous Year Papers examiner patterns"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3554,7 +3554,7 @@ Students often correctly identify "if" and "although" clauses as subordinate but
     description: "Five question-tag beliefs that feel obviously true — and cost marks precisely because they sound so reasonable. Here's what's actually happening in each one.",
     formula: "What sounds grammatically logical and what's actually the accepted standard form are often two different things in question tags",
     body: `
-<img src="images/5-question-tag-myths-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/5-question-tag-myths-hero.webp" 
      alt="5 Question Tag Myths Every Aspirant Believes"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3630,7 +3630,7 @@ Students often correctly identify "if" and "although" clauses as subordinate but
     description: "A week of question-tag content, organized into one roadmap — rules, tricks, structure, practice, and myths, all in the order that actually builds mastery.",
     formula: "Rules -> Quick recall -> Structure -> Diagnostic practice -> Exam-format awareness -> Myth-checking, in that order",
     body: `
-<img src="images/question-tags-mastery-roadmap-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/question-tags-mastery-roadmap-hero.webp" 
      alt="Question Tags Mastery 7-Day Roadmap"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -3706,7 +3706,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Learn articles in English grammar for SSC CGL 2026: rules of a, an, the and zero article, common traps, solved examples and an exam-ready revision plan.",
     formula: "A / An = sound of the next word | The = specific, known noun | No article = general idea",
     body: `
-<img src="images/articles-in-english-grammar-ssc-cgl-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-in-english-grammar-ssc-cgl-hero.webp" 
      alt="Cards showing a, an, the and zero article for SSC CGL 2026 English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -4277,7 +4277,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Learn a and an rules with examples for SSC CGL. Master the vowel sound rule, tricky cases like hour and university, and avoid the most common exam errors.",
     formula: "A = consonant sound | An = vowel sound | Always judge by sound, never spelling",
     body: `
-<img src="images/a-an-the-rules-ssc-cgl-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/a-an-the-rules-ssc-cgl-hero.webp" 
      alt="A and An word cards showing the sound rule for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -4559,7 +4559,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Confused about when to use 'the'? Learn definite article rules with examples, exceptions and exam traps, plus SSC-style practice questions with answers.",
     formula: "The = known, unique, superlative, ordinal, or a fixed geographical/idiomatic category",
     body: `
-<img src="images/definite-article-the-rules-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/definite-article-the-rules-hero.webp" 
      alt="THE word card with examples of definite article rules for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -4832,7 +4832,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Know when no article is needed. Learn zero article rules with examples: meals, languages, transport, places, abstract nouns and exam-style traps for SSC.",
     formula: "No article = general plural/uncountable nouns, meals, languages, most names, by + transport",
     body: `
-<img src="images/zero-article-rules-ssc-cgl-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/zero-article-rules-ssc-cgl-hero.webp" 
      alt="No article symbol with examples of zero article rules for SSC CGL English grammar"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -5080,7 +5080,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Understand how articles are tested in SSC CGL, then practise 20 SSC-style MCQs with answers and explanations, plus a simple preparation plan for 2026.",
     formula: "Know the rule -> practise in timed sets -> log every mistake -> revise only the weak rules",
     body: `
-<img src="images/articles-questions-ssc-cgl-practice-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-questions-ssc-cgl-practice-hero.webp" 
      alt="Practice MCQ sheet on articles for SSC CGL with a stopwatch showing timed practice"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -5340,7 +5340,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Explore Articles For SSC CGL 2026 - Zero Errors: what the book covers, who it suits best, how to use it for daily revision and where to get it on Amazon.",
     formula: "Learn the rule -> practise against named traps -> revise on a 30-day cycle",
     body: `
-<img src="images/articles-ssc-cgl-2026-zero-errors-ebook-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-ssc-cgl-2026-zero-errors-ebook-hero.webp" 
      alt="Articles For SSC CGL 2026 Zero Errors paperback book cover on a study desk"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -5542,7 +5542,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Master Active and Passive Voice for SSC CGL, Banking and Railway exams. Complete rules, tense conversion tables,  common traps, error spotting practice and a clear 30-day revision path.",
     formula: "Identify the object → change the verb form → add 'by' only when needed → check tense consistency",
     body: `
-<img src="images/active-passive-voice-competitive-exams-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-passive-voice-competitive-exams-hero.webp" 
      alt="Active and Passive Voice for Competitive Exams complete guide cover"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -5684,7 +5684,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Passive voice rules for all tenses with a complete conversion chart, a 5-step method, common traps and 10 practice sentences with answers.",
     formula: "Object + be verb (same tense) + V3 + (by + doer)",
     body: `
-<img src="images/passive-voice-rules-for-all-tenses-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/passive-voice-rules-for-all-tenses-hero.webp" 
      alt="Passive voice conversion chart for all tenses with the be verb and V3 pattern"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -6015,7 +6015,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Step-by-step rules for passive voice with modals, questions and imperative sentences, with examples, common traps and 10 practice sentences.",
     formula: "Modal + be + V3 | Question: convert then move helper to front | Let + object + be + V3",
     body: `
-<img src="images/passive-voice-modals-questions-imperatives-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/passive-voice-modals-questions-imperatives-hero.webp" 
      alt="Passive voice rules for modals, questions and imperative sentences with step-by-step examples"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -6303,7 +6303,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Sentences that cannot be changed into passive voice: intransitive verbs, linking verbs, possession verbs, dual-nature verbs and a 3-second checklist.",
     formula: "Ask: what did the subject do it to? No clear object means no passive.",
     body: `
-<img src="images/sentences-that-cannot-become-passive-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/sentences-that-cannot-become-passive-hero.webp" 
      alt="Examples of intransitive verbs and sentences that cannot be converted into passive voice"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -6565,7 +6565,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "10 common active and passive voice mistakes in error spotting, a 4-step checking method, and 10 SSC-style practice questions with explanations.",
     formula: "V3 present -> be verb present -> tense and number match -> object and by-phrase correct",
     body: `
-<img src="images/active-passive-voice-error-spotting-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-passive-voice-error-spotting-hero.webp" 
      alt="Highlighted sentence showing an active and passive voice error being spotted and corrected"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -6801,7 +6801,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
     description: "Active vs passive voice in writing for UPSC and GRE: when each works best, the accountability trap, and how to fix overused passive sentences.",
     formula: "Active = direct, accountable, confident | Passive = unknown/unimportant doer, process-focused",
     body: `
-<img src="images/active-vs-passive-voice-in-writing-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/active-vs-passive-voice-in-writing-hero.webp" 
      alt="Comparison of active and passive voice sentences for UPSC and GRE essay writing"
      width="1200" height="675"
      style="width:100%;height:auto;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
@@ -7024,7 +7024,7 @@ Five plausible-sounding beliefs that cost marks precisely because they sound so 
   description: "Discover exactly what the Ultimate Guide to Active & Passive Voice covers for SSC CGL, Banking and Railway exams, who benefits most, and how the zero-error transformation method eliminates the traps examiners recycle every year.",
   formula: "Object of Active → Subject of Passive + correct form of BE + Past Participle + (by + Agent)",
   body: `
-<img src="images/ultimate-guid-active-passive-voice-hero.webp" 
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/ultimate-guid-active-passive-voice-hero.webp" 
      alt="Ultimate Guide to Active and Passive Voice for SSC CGL Banking Railway competitive exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -7268,7 +7268,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   description: "Learn the rules of in, on and at for time and place with simple examples, exam tricks, common mistakes and a 15-question practice set with answers.",
   formula: "AT = exact point | ON = day, date, surface | IN = month, year, enclosed space",
   body: `
-<img src="images/in-on-at-prepositions-rules-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/in-on-at-prepositions-rules-hero.webp"
      alt="Chart showing the rules of in, on and at for time and place with examples"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -7573,7 +7573,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   description: "Learn 15 common preposition mistakes in SSC CGL and bank exam error spotting, with corrections, a 5-step checking method and a 10-question test with answers.",
   formula: "Verb / adjective + fixed preposition: check the pair, not the whole sentence",
   body: `
-<img src="images/preposition-error-spotting-ssc-cgl-bank-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-error-spotting-ssc-cgl-bank-hero.webp"
      alt="Preposition error spotting: 15 common mistakes in SSC CGL and bank exams with corrections"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -7876,7 +7876,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   description: "Learn the appropriate prepositions list with 80+ verb, adjective and noun pairs, examples, a 7-day plan and a 12-question quiz with answers for exams.",
   formula: "Verb / adjective / noun + fixed preposition: learn the pair, not the word",
   body: `
-<img src="images/appropriate-prepositions-list-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/appropriate-prepositions-list-hero.webp"
      alt="Appropriate prepositions list with verb, adjective and noun pairs and examples"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -8199,7 +8199,7 @@ Why: “Get” itself functions as a passive marker in informal style; stacking 
   description: "Learn 5 simple tricks to solve preposition fill in the blanks fast, with examples, a 20-second exam routine, a cloze passage and a 10-question practice set.",
   formula: "Read before the blank, read after it, test the meaning, eliminate, check fixed phrases",
   body: `
-<img src="images/preposition-fill-in-the-blanks-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-fill-in-the-blanks-hero.webp"
      alt="Five tricks to solve fill in the blanks with prepositions quickly in competitive exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -8523,7 +8523,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
   description: "Clear confusing prepositions with simple tests and memory shortcuts: between vs among, since vs for, beside vs besides and more, plus a 12-question practice set.",
   formula: "Two or many? Number or date? Side or extra? Ask the one-line test for each pair",
   body: `
-<img src="images/confusing-prepositions-between-among-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/confusing-prepositions-between-among-hero.webp"
      alt="Confusing prepositions explained: between vs among, since vs for, beside vs besides with memory shortcuts"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -8896,7 +8896,7 @@ Riya woke up (1) ___ 5 am on Monday. She was excited (2) ___ her first interview
   description: "Practise 30 mixed preposition MCQs with answers and reasons for Class 12 and competitive exams, plus memory shortcuts, a cloze passage and a 7-day plan.",
   formula: "Point, Surface, Space | Fixed pairs beat logic | Check every preposition against its partner word",
   body: `
-<img src="images/preposition-practice-questions-mcq-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-practice-questions-mcq-hero.webp"
      alt="Preposition practice questions with answers: mixed MCQs for Class 12 and competitive exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -9226,7 +9226,7 @@ Last Sunday, our school organised a science exhibition (1) ___ the main hall. Th
   description: "Meet the Preposition in English Grammar ebook for Class 12 and competitive exams: who it is for, how it helps, a 30-day study plan and a quick readiness check.",
   formula: "Rule, example, practice: learn in families, remember with shortcuts, revise from one book",
   body: `
-<img src="images/preposition-ebook-exam-mastery-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-ebook-exam-mastery-hero.webp"
      alt="Preposition in English Grammar ebook: a confident path to exam mastery for Class 12 and competitive aspirants"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
@@ -9559,7 +9559,7 @@ If you nodded at two or more, keep reading.
   description: "Learn direct and indirect speech rules with a 5-step method, memory tricks, 10 solved examples, common mistakes and a practice set with answers.",
   formula: "Remove quotes + that | S-O-N pronouns | ONE STEP BACK tense | N-F time and place words",
   body: `
-<img src="images/direct-indirect-speech-rules-hero.webp"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/direct-indirect-speech-rules-hero.webp"
      alt="Direct and indirect speech rules with examples: five-step method and memory tricks for competitive exams"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
