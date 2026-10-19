@@ -1087,7 +1087,7 @@ Two nouns joined by "and" but referring to a single entity or idea ("Bread and b
   <h4>Q: Why do exams test verbs that "can't" be passivized instead of ones that can?</h4>
   <p>A: Because recognizing the exception requires deeper understanding than applying the mechanical formula — it's a more reliable way to separate strong candidates from those who memorized a rule without understanding it.</p>
 </div>
-    ,
+    `
   },
   
     {
