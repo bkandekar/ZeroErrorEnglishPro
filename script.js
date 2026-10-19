@@ -12056,7 +12056,7 @@ If you nodded at two or more, keep reading.
     readingTime: "13 min read",
     difficulty: "Beginner to Advanced",
     bookId: 11,
-    publishDate: "2026-10-20",
+    publishDate: "2026-10-19",
     description: "Learn the 8 comma rules in English grammar with examples, a one-line memory trick and a 4-step check to avoid comma errors in SSC, bank and UPSC exams.",
     formula: "Smart Candidates Insert Extra Addresses, Tags, Adjectives, Dates",
     body: `<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/comma-rules-hero.webp" alt="Comma rules in English grammar with examples and memory tricks for competitive exams" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
