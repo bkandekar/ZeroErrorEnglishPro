@@ -12720,20 +12720,17 @@ If you nodded at two or more, keep reading.
   },
 
   {
-    slug: "apostrophe-rules-with-examples-its-vs-its-whose-vs-whos-plural-vs-possessive",
-  
+    
+  slug: "apostrophe-rules-with-examples-its-vs-its-whose-vs-whos-plural-vs-possessive",
   title: "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
-  excerpt: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
-  metaDescription: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
   category: "Punctuation",
-  tags: ["apostrophe rules", "its vs it's", "whose vs who's", "plural vs possessive", "grammar", "punctuation"],
-  author: "Admin",
-  publishDate: "2026-10-20",
   readingTime: "10 min read",
-  heroImage: "https://bkandekar.github.io/ZeroErrorEnglishPro/images/apostrophe-rules-hero.webp",
-  heroImageAlt: "Apostrophe rules with examples including its vs it's and whose vs who's",
   bookId: 11,
-  content: `
+  publishDate: "2026-10-20",
+  description: "Learn apostrophe rules with examples — master its vs it's...",  // excerpt ऐवजी हे
+  formula: "Its = possessive. It's = it is / it has.",                 // जोडा
+  body: `                                                       // content ऐवजी body
+
 <p>Learn apostrophe rules with examples, and you'll stop second-guessing yourself every time you write "its" or "it's." The apostrophe is a tiny mark, but it causes more writing errors than almost any other punctuation symbol. This guide covers every major rule — possession, contractions, plurals, and the three most confused pairs: its/it's, whose/who's, and plural/possessive nouns.</p>
 
 <h2>Why Apostrophes Confuse Even Good Writers</h2>
