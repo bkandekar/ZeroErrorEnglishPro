@@ -12721,20 +12721,20 @@ If you nodded at two or more, keep reading.
 
   
 {
-  id: "apostrophe-rules-with-examples",
-  title: "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
   slug: "apostrophe-rules-with-examples-its-vs-its-whose-vs-whos-plural-vs-possessive",
-  excerpt: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
-  metaDescription: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
+  title: "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
   category: "Punctuation",
-  tags: ["apostrophe rules", "its vs it's", "whose vs who's", "plural vs possessive", "grammar", "punctuation"],
-  author: "Admin",
-  publishDate: "2026-10-20",
   readingTime: "11 min read",
+  difficulty: "Beginner",
+  bookId: 11,
+  publishDate: "2026-10-20",
+  description: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
+  formula: "Its = possessive (no apostrophe). It's = it is / it has.",
+  
   heroImage: "https://bkandekar.github.io/ZeroErrorEnglishPro/images/apostrophe-rules-hero.webp",
   heroImageAlt: "Apostrophe rules with examples including its vs it's and whose vs who's",
-  bookId: 11,
-  content: `
+ 
+  body: `
 <p>Learn apostrophe rules with examples, and you'll stop second-guessing yourself every time you write "its" or "it's." The apostrophe is one of the smallest punctuation marks in English, yet it causes more everyday writing errors than almost any other symbol on the keyboard. A single misplaced apostrophe can change the entire meaning of a sentence — "the dog's bone" is very different from "the dogs' bone," and "its" is grammatically unrelated to "it's," even though they look almost identical.</p>
 
 <p>This guide covers every major apostrophe rule you need — possession, contraction, plurals, names ending in S, joint ownership, and the three most confused pairs in English: its/it's, whose/who's, and plural/possessive nouns. By the end, you'll have a simple mental test you can run in two seconds before typing any apostrophe.</p>
