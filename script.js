@@ -12518,7 +12518,7 @@ If you nodded at two or more, keep reading.
     readingTime: "12 min read",
     difficulty: "Intermediate",
     bookId: 5,
-    publishDate: "2026-10-20",
+    publishDate: "2026-10-20T00:00:00+05:30",
     description: "Learn punctuation error spotting with comma, apostrophe, quotation mark, colon and semicolon rules, exam-style examples, and practice questions.",
     formula: "COMMA structure | APOSTROPHE possession/contraction | QUOTES exact words | COLON introduce | SEMICOLON connect clauses | END MARK sentence purpose",
     body: `<div class="zp-post">
@@ -12589,7 +12589,7 @@ If you nodded at two or more, keep reading.
 <h3>What is the best way to improve?</h3><p>Practise identifying the sentence structure and review the rule behind each correction.</p>
 <p>Explore more English grammar and error-spotting guides at ZeroErrorEnglishPro.</p>
 </div>`
-  },
+  }
 
   ];
 /**
