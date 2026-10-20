@@ -12511,84 +12511,208 @@ If you nodded at two or more, keep reading.
   },
 
 
-  {
-    slug: "punctuation-error-spotting-ssc-cgl-bank-exams-tricks-practice",
-    title: "Punctuation Error Spotting for SSC CGL and Bank Exams: Tricks, Examples and Practice",
+{
+    slug: "comma-rules-in-english-grammar-with-examples",
+    title: "Comma Rules in English Grammar: 8 Easy Rules with Examples and a Memory Trick",
     category: "Punctuation",
-    readingTime: "12 min read",
-    difficulty: "Intermediate",
-    bookId: 5,
-    publishDate: "2026-10-20T00:00:00+05:30",
-    description: "Learn punctuation error spotting with comma, apostrophe, quotation mark, colon and semicolon rules, exam-style examples, and practice questions.",
-    formula: "COMMA structure | APOSTROPHE possession/contraction | QUOTES exact words | COLON introduce | SEMICOLON connect clauses | END MARK sentence purpose",
-    body: `<div class="zp-post">
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/punctuation-error-spotting-hero.webp" alt="Punctuation error spotting rules and practice for competitive exams" loading="lazy" style="width:100%;height:auto;border-radius:12px">
-<p>A punctuation mark can change the meaning or grammatical structure of a sentence. Learn to identify errors by checking the rule—not merely where you pause while reading.</p>
-<nav aria-label="Article contents"><strong>In this guide</strong><ul>
-<li><a href="#commas">Commas</a></li><li><a href="#apostrophes">Apostrophes</a></li><li><a href="#quotes">Quotation marks</a></li><li><a href="#colon">Colons</a></li><li><a href="#semicolon">Semicolons</a></li><li><a href="#endmarks">End marks</a></li><li><a href="#practice">Practice and answers</a></li><li><a href="#faq">FAQ</a></li></ul></nav>
-<h2 id="commas">1. Commas: identify the structure</h2>
-<p><strong>Subject and verb:</strong> Do not separate an ordinary subject from its verb: “The candidates who qualified were selected.” Not “The candidates who qualified, were selected.”</p>
-<p><strong>Defining clauses:</strong> Essential identifying information normally takes no commas: “Students who registered early received confirmation.”</p>
-<p><strong>Non-defining clauses:</strong> Extra information is set off with commas: “My only brother, who lives in Pune, is an engineer.” Without the context “only brother,” the punctuation may change the meaning rather than simply be wrong.</p>
-<p><strong>Introductory elements:</strong> Use a comma when it improves clarity, especially after longer introductory clauses: “After finishing the examination, she left.” A comma after a short introduction is sometimes optional.</p>
-<p><strong>Lists:</strong> Both “pens, books and files” and “pens, books, and files” are valid in common styles. Use the serial (Oxford) comma when clarity requires it.</p>
-<h2 id="apostrophes">2. Apostrophes: possession and contractions</h2>
-<p>Singular: “the girl's bag.” Regular plural ending in s: “the girls' bags.” Irregular plural: “the children's books.”</p>
-<p>“It's” means “it is” or “it has”; “its” is possessive. “Who's” means “who is” or “who has”; “whose” shows possession.</p>
-<p>Write “the 1990s” for the decade, not “the 1990's.”</p>
-<h2 id="quotes">3. Quotation marks</h2>
-<p>Use quotation marks for direct speech: “She said, ‘I am ready.’” Use no quotation marks for ordinary reported speech: “She said that she was ready.”</p>
-<p>Question marks belonging to quoted questions stay with the question: “Are you ready?” she asked. The placement of periods and commas with quotations varies by British and American style; follow the style required by your exam or publication.</p>
-<h2 id="colon">4. Colons: introduce an explanation or list</h2>
-<p>“She packed three things: a pen, a notebook and a calculator.” The words before this colon form a complete independent clause.</p>
-<p>Avoid a colon directly between a verb and its object in a normal sentence: “She wants a pen and a notebook,” not “She wants: a pen and a notebook.”</p>
-<h2 id="semicolon">5. Semicolons: connect related independent clauses</h2>
-<p>Correct: “The paper was difficult; many students ran out of time.” Incorrect comma splice: “The paper was difficult, many students ran out of time.”</p>
-<p>With a conjunctive adverb: “She revised carefully; therefore, she felt prepared.” A semicolon can also separate complex list items that already contain commas.</p>
-<h2 id="endmarks">6. Full stops, question marks and exclamation marks</h2>
-<p>Direct question: “Where are you going?” Reported question: “He asked me where I was going.” A reported question normally ends with a full stop when the whole sentence is a statement.</p>
-<p>Use exclamation marks for strong emotion or emphasis, not as a substitute for every full stop.</p>
-<h2>Quick memory formula</h2>
-<p><strong>COMMA</strong> = sentence structure and lists; <strong>APOSTROPHE</strong> = possession or contraction; <strong>QUOTES</strong> = exact words; <strong>COLON</strong> = introduction; <strong>SEMICOLON</strong> = related independent clauses; <strong>END MARK</strong> = sentence purpose.</p>
-<h2>Five-step checking method</h2>
-<ol><li>Locate the punctuation or suspected missing mark.</li><li>Identify the sentence structure.</li><li>Check whether the rule is mandatory or style-dependent.</li><li>Test common pairs: its/it's, whose/who's, defining/non-defining.</li><li>Read the corrected sentence and confirm its intended meaning.</li></ol>
-<h2 id="practice">Practice: spot and correct the error</h2>
-<p>These are original exam-style exercises, not verified past-paper questions. Each item has an intended correction; context-dependent alternatives are noted.</p>
-<ol>
-<li>The candidates who qualified, were called for verification.</li>
-<li>Its important to check the instructions.</li>
-<li>She said, “I have finished my revision.</li>
-<li>The test was lengthy, many students left questions unanswered.</li>
-<li>My only brother who lives in Delhi is a doctor.</li>
-<li>The teachers room is on the second floor. (The room belongs to multiple teachers.)</li>
-<li>He asked me where was I going?</li>
-<li>She has three goals a stable job, financial security and further study.</li>
-<li>The dog wagged it's tail.</li>
-<li>The 1990's were a decade of change.</li>
-</ol>
-<h3>Answer key</h3>
-<ol>
-<li>Remove the comma: “The candidates who qualified were called for verification.”</li>
-<li>“It's important to check the instructions.”</li>
-<li>Close the quotation: “She said, ‘I have finished my revision.’” (Matching quotation marks are essential.)</li>
-<li>Use a semicolon or full stop between independent clauses.</li>
-<li>“My only brother, who lives in Delhi, is a doctor.” The “only” makes the clause non-defining.</li>
-<li>“The teachers' room is on the second floor.”</li>
-<li>“He asked me where I was going.” Change word order and end punctuation.</li>
-<li>“She has three goals: a stable job, financial security and further study.”</li>
-<li>“The dog wagged its tail.”</li>
-<li>“The 1990s were a decade of change.”</li>
-</ol>
-<h2>Five-day revision plan</h2>
-<p>Day 1: commas and clause types. Day 2: apostrophes. Day 3: quotations and colons. Day 4: semicolons and end marks. Day 5: timed mixed practice and review. Adjust the schedule to your progress.</p>
-<h2 id="faq">Frequently asked questions</h2>
-<h3>Is the Oxford comma compulsory?</h3><p>Not universally. Usage depends on the required style, and the comma may be needed to prevent ambiguity.</p>
-<h3>How many punctuation questions appear in SSC CGL?</h3><p>There is no fixed number to assume for every paper. Check the current official syllabus and recent papers for the format and coverage.</p>
-<h3>Is “it's” possessive?</h3><p>No. “It's” is a contraction; “its” is possessive.</p>
-<h3>Can a semicolon replace a full stop?</h3><p>Yes, between closely related independent clauses, when the connection is appropriate.</p>
-<h3>What is the best way to improve?</h3><p>Practise identifying the sentence structure and review the rule behind each correction.</p>
-<p>Explore more English grammar and error-spotting guides at ZeroErrorEnglishPro.</p>
-</div>`
+    readingTime: "13 min read",
+    difficulty: "Beginner to Advanced",
+    bookId: 11,
+    publishDate: "2026-10-20",
+    description: "Learn the 8 comma rules in English grammar with examples, a one-line memory trick and a 4-step check to avoid comma errors in SSC, bank and UPSC exams.",
+    formula: "Smart Candidates Insert Extra Addresses, Tags, Adjectives, Dates",
+    body: `&lt;img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/comma-rules-hero.jpg" alt="Comma rules in English grammar with examples and memory tricks for competitive exams" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px"&gt;
+&lt;style&gt;
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+&lt;/style&gt;
+&lt;div class="zp-post"&gt;
+
+&lt;p&gt;“Let’s eat, grandma.” Or: “Let’s eat grandma.” Same words, one tiny mark, and a very different dinner. 😄&lt;/p&gt;
+&lt;p&gt;That joke has been around for years because it’s true. A comma isn’t decoration. It changes meaning, and in a competitive exam it changes your score. SSC CGL, IBPS PO, UPSC and State PSC papers keep returning to commas in error spotting, sentence improvement and cloze passages, and most students lose those marks for one simple reason: they place commas by feeling instead of by rule.&lt;/p&gt;
+&lt;p&gt;Here’s the good news. English has only eight situations where a comma really matters. Learn those eight, add a couple of memory shortcuts, and you’ll stop guessing. That’s exactly what this guide does, with examples you can test yourself on.&lt;/p&gt;
+
+&lt;div class="zp-toc"&gt;&lt;b&gt;In this guide&lt;/b&gt;
+&lt;ul&gt;
+&lt;li onclick="document.getElementById('section-basics').scrollIntoView({behavior:'smooth'})"&gt;What a comma actually does&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-trick').scrollIntoView({behavior:'smooth'})"&gt;The one-line memory trick for all 8 rules&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-rules').scrollIntoView({behavior:'smooth'})"&gt;The 8 comma rules with examples&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-splice').scrollIntoView({behavior:'smooth'})"&gt;The comma splice: the biggest exam trap&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})"&gt;5 common comma mistakes&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})"&gt;The 4-step comma check&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})"&gt;Practice set with answers&lt;/li&gt;
+&lt;li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})"&gt;FAQ&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+
+&lt;h2 id="section-basics"&gt;What a comma actually does&lt;/h2&gt;
+&lt;p&gt;A comma does two jobs. It tells the reader where to take a short breath, and it tells the reader which words belong together. That second job is the one examiners care about, because grouping decides meaning.&lt;/p&gt;
+&lt;p&gt;Try the pause test. Read your sentence aloud at normal speed. If your voice naturally dips or pauses at a spot, a comma might belong there. If it doesn’t, leave it out. The test isn’t perfect (some commas are pure grammar, and we’ll meet those below), but it fixes about half of the mistakes I see in student answer sheets.&lt;/p&gt;
+&lt;p&gt;Remember this line, because we’ll come back to it: &lt;b&gt;a comma is a pause, not a stop.&lt;/b&gt; A stop is a full stop. A pause lets the sentence keep walking.&lt;/p&gt;
+
+&lt;h2 id="section-trick"&gt;The memory trick: one sentence for all 8 rules&lt;/h2&gt;
+&lt;p&gt;Eight rules sound like a lot until you hang them on one sentence. Read this slowly and screenshot it for your revision folder.&lt;/p&gt;
+&lt;div class="zp-trick"&gt;
+&lt;p style="margin:0 0 8px"&gt;&lt;b&gt;“Smart Candidates Insert Extra Addresses, Tags, Adjectives, Dates.”&lt;/b&gt;&lt;/p&gt;
+&lt;p style="margin:0"&gt;
+&lt;b&gt;S&lt;/b&gt;mart = &lt;b&gt;S&lt;/b&gt;eries (lists)&lt;br&gt;
+&lt;b&gt;C&lt;/b&gt;andidates = &lt;b&gt;C&lt;/b&gt;ompound sentences (FANBOYS)&lt;br&gt;
+&lt;b&gt;I&lt;/b&gt;nsert = &lt;b&gt;I&lt;/b&gt;ntroductory words and clauses&lt;br&gt;
+&lt;b&gt;E&lt;/b&gt;xtra = &lt;b&gt;E&lt;/b&gt;xtra information (non-restrictive)&lt;br&gt;
+&lt;b&gt;A&lt;/b&gt;ddresses = &lt;b&gt;A&lt;/b&gt;ddressing a person&lt;br&gt;
+&lt;b&gt;T&lt;/b&gt;ags = &lt;b&gt;T&lt;/b&gt;ag questions&lt;br&gt;
+&lt;b&gt;A&lt;/b&gt;djectives = &lt;b&gt;A&lt;/b&gt;djectives of equal rank&lt;br&gt;
+&lt;b&gt;D&lt;/b&gt;ates = &lt;b&gt;D&lt;/b&gt;ates, places and direct speech&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Before you write a comma in an exam, ask yourself: “Which letter am I using?” If you can’t name one, the comma probably doesn’t belong. This single habit removes most unnecessary commas, and unnecessary commas are just as wrong as missing ones.&lt;/p&gt;
+&lt;p&gt;The book &lt;i&gt;Advanced Punctuation Mastery&lt;/i&gt; builds a whole memory-aids chapter around shortcuts like this one, with mnemonics, quick-reference cards and rule summary tables for every punctuation mark.&lt;/p&gt;
+
+&lt;h2 id="section-rules"&gt;The 8 comma rules, with examples&lt;/h2&gt;
+
+&lt;h3&gt;Rule 1 (S): Commas in a series&lt;/h3&gt;
+&lt;p&gt;When you list three or more items, separate them with commas. This works for words, phrases and whole clauses.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;She bought pens, notebooks, and a calculator.&lt;br&gt;He woke up, brushed his teeth, and left for the coaching class.&lt;/div&gt;
+&lt;p&gt;The comma before “and” in the last item is called the Oxford comma. Both styles are accepted in standard English. What matters is consistency: pick one style and use it throughout. It earns its place when meaning could blur. “I thank my parents, Ravi and Meera” could mean your parents are Ravi and Meera, or that you’re thanking four people. “I thank my parents, Ravi, and Meera” leaves no doubt.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; “Slash the list.” Every item gets a slash except the last one, and the slash is your comma. If you only have two items, there’s no list, so no comma: &lt;span class="zp-no"&gt;✗ tea, and coffee&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ tea and coffee&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Rule 2 (C): Commas in compound sentences&lt;/h3&gt;
+&lt;p&gt;When two complete sentences are joined by a conjunction, put a comma before the conjunction. The seven conjunctions that do this job are easy to remember as &lt;b&gt;FANBOYS&lt;/b&gt;: &lt;b&gt;F&lt;/b&gt;or, &lt;b&gt;A&lt;/b&gt;nd, &lt;b&gt;N&lt;/b&gt;or, &lt;b&gt;B&lt;/b&gt;ut, &lt;b&gt;O&lt;/b&gt;r, &lt;b&gt;Y&lt;/b&gt;et, &lt;b&gt;S&lt;/b&gt;o.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; He studied all night, but he still felt nervous.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; She wanted to join the course, so she paid the fee.&lt;/div&gt;
+&lt;p&gt;Here’s the catch. If the second part has no subject of its own, you don’t have two sentences, so you don’t need the comma: “He studied all night but still felt nervous.” Ask yourself: “Does the part after the conjunction have its own subject and verb?” If yes, comma. If no, no comma.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; FANBOYS, and then the “two subjects” check. Two subjects, one comma.&lt;/p&gt;
+
+&lt;h3&gt;Rule 3 (I): Commas after introductory elements&lt;/h3&gt;
+&lt;p&gt;Anything that opens a sentence before the main subject usually gets a comma after it. That includes single words (However, Yes, Unfortunately), phrases (After the exam, Running late), and dependent clauses (Although he was tired, If you practise daily).&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; However, the results were announced late.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; If you practise daily, you will improve.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; Although the paper was tough, she finished on time.&lt;/div&gt;
+&lt;p&gt;Flip the order and the comma disappears: “You will improve if you practise daily.” A dependent clause that comes after the main clause doesn’t need a comma in most cases.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; “Opening act, then comma.” Whatever performs before the main subject walks in gets a comma when it leaves the stage.&lt;/p&gt;
+
+&lt;h3&gt;Rule 4 (E): Commas around extra information&lt;/h3&gt;
+&lt;p&gt;This is the rule that decides most error spotting questions. Extra information, which you could remove without breaking the sentence, goes between commas. Essential information, which you can’t remove without changing the meaning, takes no commas.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; My brother, who lives in Pune, is a doctor.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; My brother who lives in Pune is a doctor.&lt;/div&gt;
+&lt;p&gt;Both are correct, but they say different things. The first suggests you have one brother, and his location is a bonus detail. The second suggests you have more than one brother, and “who lives in Pune” tells us which one. Same words, different meaning, all because of two commas.&lt;/p&gt;
+&lt;p&gt;Two more points examiners like. First, extra information always needs a &lt;i&gt;pair&lt;/i&gt; of commas. &lt;span class="zp-no"&gt;✗ My uncle, who lives in Nashik is a farmer.&lt;/span&gt; The second comma is missing. Second, in formal writing “which” introduces extra information (with commas) and “that” introduces essential information (without commas): “The book that I bought yesterday is excellent.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; “Commas are brackets.” They come in pairs, and if you can delete the bracketed part and still have a sensible sentence, you needed the commas.&lt;/p&gt;
+
+&lt;h3&gt;Rule 5 (A): Commas when addressing someone&lt;/h3&gt;
+&lt;p&gt;When you speak directly to a person, set the name or title off with a comma.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; Rahul, please open the window.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; Thank you, sir.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; I hope you understand, Priya, why we chose this plan.&lt;/div&gt;
+&lt;p&gt;A name in the middle takes two commas, one on each side. A name at the end takes one comma before it. &lt;span class="zp-no"&gt;✗ Good morning sir.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ Good morning, sir.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; “Call the name, add a comma.” If you could shout the word to get someone’s attention, it needs a comma.&lt;/p&gt;
+
+&lt;h3&gt;Rule 6 (T): Commas before tag questions&lt;/h3&gt;
+&lt;p&gt;A tag question is the short question at the end of a statement. The comma goes before it.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; You’re coming tomorrow, aren’t you?&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; She can’t swim, can she?&lt;/div&gt;
+&lt;p&gt;The pattern is simple. A positive statement gets a negative tag, and a negative statement gets a positive tag. Exams combine this with tricky cases such as “Let’s go, shall we?” and “Open the door, will you?”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Memory shortcut:&lt;/b&gt; “Opposites attract.” Positive pairs with negative, negative pairs with positive, and a comma sits between the two.&lt;/p&gt;
+
+&lt;h3&gt;Rule 7 (A): Commas between adjectives of equal rank&lt;/h3&gt;
+&lt;p&gt;When two or more adjectives describe the same noun equally, separate them with commas. When they build on each other, don’t.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; She wore a bright, colourful dress.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; They have three old wooden chairs.&lt;/div&gt;
+&lt;p&gt;How do you tell the difference? Use the &lt;b&gt;Swap-or-And test&lt;/b&gt;. Can you swap the adjectives (“a colourful, bright dress”) or put “and” between them (“a bright and colourful dress”)? If yes, use a comma. Try the same on “three old wooden chairs.” “Wooden old three chairs” sounds wrong, so no commas.&lt;/p&gt;
+
+&lt;h3&gt;Rule 8 (D): Commas in dates, places and direct speech&lt;/h3&gt;
+&lt;p&gt;Use a comma between the day and the year in the style September 24, 2025, and another one after the year if the sentence continues. Use commas to separate a city from its state, and a speaker from the words spoken.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; The book was published on September 24, 2025, and it is still on sale.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; She lives in Pune, Maharashtra, with her family.&lt;br&gt;&lt;span class="zp-yes"&gt;✓&lt;/span&gt; He said, “I will come.” / “I will come,” he said.&lt;/div&gt;
+&lt;p&gt;Inside the quotation marks, the comma sits before the closing quote when the spoken words come first. Notice how the speaker’s tag (“he said”) is separated from the quote by a comma, not a full stop.&lt;/p&gt;
+&lt;p&gt;Chapter 4 of &lt;i&gt;Advanced Punctuation Mastery&lt;/i&gt; covers these rules in a full chapter on the comma, including series separation, restrictive and non-restrictive elements, tag questions, addressing and introductory elements, with practice questions and answers after each section.&lt;/p&gt;
+
+&lt;h2 id="section-splice"&gt;The comma splice: the biggest exam trap&lt;/h2&gt;
+&lt;p&gt;A comma splice happens when you join two complete sentences with only a comma. It’s the most common comma error in student writing, and examiners love it.&lt;/p&gt;
+&lt;div class="zp-ex"&gt;&lt;span class="zp-no"&gt;✗ She was tired, she kept studying.&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;There are two complete sentences here (“She was tired” and “she kept studying”), and a comma alone can’t hold them together. A comma is a thread. Two full sentences need a rope. You have four ways to fix it:&lt;/p&gt;
+&lt;div class="zp-box"&gt;
+1. Use a full stop: She was tired. She kept studying.&lt;br&gt;
+2. Use a semicolon: She was tired; she kept studying.&lt;br&gt;
+3. Use a FANBOYS word: She was tired, but she kept studying.&lt;br&gt;
+4. Make one part dependent: Although she was tired, she kept studying.
+&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;Common exam pattern:&lt;/b&gt; an error spotting sentence that looks smooth when you read it quickly, such as “The train was late, we missed the meeting.” When the grammar feels fine but something is off, count the subjects and verbs. Two complete ideas with only a comma between them is your answer.&lt;/p&gt;
+
+&lt;h2 id="section-mistakes"&gt;5 common comma mistakes (and how to fix them)&lt;/h2&gt;
+&lt;div class="zp-box"&gt;
+&lt;p&gt;&lt;b&gt;1. The comma splice.&lt;/b&gt; &lt;span class="zp-no"&gt;✗ It was raining, we stayed home.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ It was raining, so we stayed home.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. A comma between subject and verb.&lt;/b&gt; &lt;span class="zp-no"&gt;✗ The tallest boy in the class, won the prize.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ The tallest boy in the class won the prize.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Only one comma around extra information.&lt;/b&gt; &lt;span class="zp-no"&gt;✗ My teacher, Mr. Sharma is strict.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ My teacher, Mr. Sharma, is strict.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. A comma before “that” in an essential clause.&lt;/b&gt; &lt;span class="zp-no"&gt;✗ The book, that I bought yesterday, is excellent.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ The book that I bought yesterday is excellent.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. A comma between only two items.&lt;/b&gt; &lt;span class="zp-no"&gt;✗ She likes music, and dance.&lt;/span&gt; &lt;span class="zp-yes"&gt;✓ She likes music and dance.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Mistake 2 deserves special attention. Students put a comma where they breathe, usually after a long subject. Don’t. The subject and its verb stay together, however long the subject is.&lt;/p&gt;
+
+&lt;h2 id="section-method"&gt;The 4-step comma check&lt;/h2&gt;
+&lt;p&gt;When you’re stuck on a sentence, don’t stare at it. Work through it in the same order every time. I call it &lt;b&gt;Before, Inside, After&lt;/b&gt;.&lt;/p&gt;
+&lt;div class="zp-box"&gt;
+&lt;p&gt;&lt;b&gt;Step 1: Find the main clause.&lt;/b&gt; Underline the part that could stand alone as a sentence.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Step 2: Check what comes Before it.&lt;/b&gt; Is there an introductory word, phrase or clause? Add a comma after it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Step 3: Check what sits Inside.&lt;/b&gt; Look for extra information, a name, or adjectives of equal rank. Commas go in pairs here.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Step 4: Check what comes After.&lt;/b&gt; Is there a tag question, a FANBOYS word with a new subject, or a trailing detail? Place the comma before it, and make sure no comma separates the subject from its verb.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;It takes about ten seconds once you’ve practised it. In a timed paper, that’s a fair price for a mark you’d otherwise lose.&lt;/p&gt;
+
+&lt;h2&gt;A pattern I see in almost every class&lt;/h2&gt;
+&lt;p&gt;Here’s something teachers notice year after year. Weak commas rarely come from not knowing the rules. They come from not &lt;i&gt;applying&lt;/i&gt; the rules under time pressure. A student reads the rule on Monday, nods, and then writes “My cousin, who studies in Mumbai is preparing for SSC” on Friday without noticing the missing second comma.&lt;/p&gt;
+&lt;p&gt;The fix isn’t more reading. It’s one short daily habit: take five sentences from any newspaper editorial, circle every comma, and name its letter from “Smart Candidates Insert Extra Addresses, Tags, Adjectives, Dates.” After two weeks, you’ll start seeing commas the way an examiner does. You’ll also spot the commas that have no letter, and those are the ones that don’t belong.&lt;/p&gt;
+
+&lt;h2&gt;Expert tips for exam day&lt;/h2&gt;
+&lt;div class="zp-box"&gt;
+&lt;p&gt;&lt;b&gt;Read the sentence without the comma, then with it.&lt;/b&gt; If the meaning shifts, the comma is doing real work.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Hunt for pairs.&lt;/b&gt; If you see one comma around extra information, look for its partner.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Don’t punish short sentences.&lt;/b&gt; “Yes, sir.” “However, it rained.” Tiny openers still get a comma.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Trust rules over feelings.&lt;/b&gt; “It sounds right” fails you more often than any other reason in error spotting.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stay consistent.&lt;/b&gt; In writing sections, whichever style you choose for the Oxford comma, keep it the same throughout.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id="section-practice"&gt;Practice set: add, remove or fix the commas&lt;/h2&gt;
+&lt;p&gt;These are original practice sentences written for this guide. Try them before you read the answers.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;My friend who is a lawyer lives in Nagpur.&lt;/li&gt;
+&lt;li&gt;After the interview he felt relieved.&lt;/li&gt;
+&lt;li&gt;She was tired, she finished the work.&lt;/li&gt;
+&lt;li&gt;You haven’t met my manager have you?&lt;/li&gt;
+&lt;li&gt;He bought a small, red, car.&lt;/li&gt;
+&lt;li&gt;Thank you sir for the guidance.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="zp-box"&gt;
+&lt;p&gt;&lt;b&gt;Answers&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1. My friend, who is a lawyer, lives in Nagpur. (Rule 4, extra information: a pair of commas, assuming you have one such friend in mind.)&lt;/p&gt;
+&lt;p&gt;2. After the interview, he felt relieved. (Rule 3, introductory phrase.)&lt;/p&gt;
+&lt;p&gt;3. She was tired, but she finished the work. Or: She was tired; she finished the work. (Comma splice, fixed with FANBOYS or a semicolon.)&lt;/p&gt;
+&lt;p&gt;4. You haven’t met my manager, have you? (Rule 6, tag question.)&lt;/p&gt;
+&lt;p&gt;5. He bought a small red car. (Rule 7: “small” and “red” fail the Swap-or-And test, and a comma never separates the last adjective from its noun.)&lt;/p&gt;
+&lt;p&gt;6. Thank you, sir, for the guidance. (Rule 5, addressing: a comma on each side.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;If you scored 5 or 6, you’re ready for harder material. If you scored 3 or fewer, re-read Rules 3 and 4 and try again tomorrow. &lt;i&gt;Advanced Punctuation Mastery&lt;/i&gt; includes a self-diagnostic test, practice exercises after every rule, previous-year style exam questions and complete answer keys, so you can measure exactly where you stand.&lt;/p&gt;
+
+&lt;h2 id="section-faq"&gt;Frequently asked questions&lt;/h2&gt;
+&lt;h3&gt;Is the Oxford comma compulsory in exams?&lt;/h3&gt;
+&lt;p&gt;No. Both styles are accepted. Exam questions rarely hinge on the Oxford comma alone, and when they do, the reason is usually ambiguity. Choose one style and stay consistent.&lt;/p&gt;
+&lt;h3&gt;Do I put a comma before “because”?&lt;/h3&gt;
+&lt;p&gt;Usually not. “She stayed home because she was ill” needs no comma. Add one only when “because” starts a contrasting afterthought, which is rare.&lt;/p&gt;
+&lt;h3&gt;Should I always put a comma before “and”?&lt;/h3&gt;
+&lt;p&gt;Only in a list of three or more (Rule 1), or when “and” joins two complete sentences with their own subjects (Rule 2). Otherwise, skip it.&lt;/p&gt;
+&lt;h3&gt;Where does the comma go with quotation marks?&lt;/h3&gt;
+&lt;p&gt;When the spoken words come first, the comma sits inside the closing quotation mark: “I will come,” he said. When the speaker comes first, a comma follows the speaker: He said, “I will come.”&lt;/p&gt;
+&lt;h3&gt;How do I improve my comma accuracy quickly?&lt;/h3&gt;
+&lt;p&gt;Use the eight-letter sentence, run the Before-Inside-After check, and practise five sentences a day. Two weeks of that beats two hours of rereading rules.&lt;/p&gt;
+
+&lt;h2&gt;Your next step&lt;/h2&gt;
+&lt;p&gt;Commas are small, but they’re a reliable source of marks once you stop guessing. Memorise “Smart Candidates Insert Extra Addresses, Tags, Adjectives, Dates,” practise the 4-step check, and review your mistakes every few days.&lt;/p&gt;
+&lt;p&gt;When you want every punctuation mark covered with rules, exam-style questions, memory aids and answer keys in one place, grab &lt;b&gt;Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants&lt;/b&gt; on Amazon: &lt;a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700"&gt;https://amzn.to/4irsiSu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Which of the eight rules gave you the most trouble? Tell me in the comments, and I’ll cover it in more detail.&lt;/p&gt;
+
+&lt;/div&gt;
+`
   }
 
   ];
