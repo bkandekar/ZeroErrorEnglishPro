@@ -12850,39 +12850,13 @@ const QUIZ_QUESTIONS = [
     explanation: "In 'one of those + plural noun + who', the relative pronoun refers to the plural antecedent ('leaders')."
   },
   {
+  {
     q: "She is the ONLY one of the candidates who _____ secured full marks in the analytical section.",
     options: ["have", "has", "are", "were"],
     answer: 1,
     explanation: "When modified by 'the only one of', the relative clause points exclusively to the singular person ('has')."
   }
-
-  {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
-  "description": "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
-  "image": "https://yourdomain.com/images/apostrophe-rules-hero.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Admin"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Site Name",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://yourdomain.com/images/logo.png"
-    }
-  },
-  "datePublished": "2026-11-03",
-  "dateModified": "2026-11-03",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://yourdomain.com/blog/apostrophe-rules-with-examples/"
-  }
-},
 ];
-
 // --- 5. DATA REPOSITORY: 10-TOPIC WEAKNESS FINDER ---
 const WEAKNESS_QUESTIONS = [
   {
