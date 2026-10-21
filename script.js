@@ -12465,7 +12465,8 @@ If you nodded at two or more, keep reading.
     publishDate: "2026-10-20",
     description: "Learn 10 common punctuation errors asked in SSC CGL and bank exams, a CASE scan method, memory tricks and 10 practice questions with answers.",
     formula: "Check every CASE: Commas, Apostrophes, Semicolons-colons, Extras",
-    body: `<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/punctuation-error-spotting-hero.webp" alt="Punctuation error spotting for SSC CGL and bank exams with tricks and practice questions" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+    body: `
+    <img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/punctuation-error-spotting-hero.webp" alt="Punctuation error spotting for SSC CGL and bank exams with tricks and practice questions" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
 <style>
 .zp-post{line-height:1.8;color:#1f2937}
 .zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
