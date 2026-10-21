@@ -12665,7 +12665,7 @@ If you nodded at two or more, keep reading.
 
 
     {
-    slug: "apostrophe-rules-with-examples",
+    slug: "apostrophe-rules-with-examples-its-vs-its-whose-vs-whos-plural-vs-possessive",
     title: "Apostrophe Rules with Examples: Its vs It’s, Whose vs Who’s, Plural vs Possessive",
     category: "Punctuation",
     readingTime: "12 min read",
