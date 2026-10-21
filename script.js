@@ -12849,7 +12849,7 @@ const QUIZ_QUESTIONS = [
     answer: 1,
     explanation: "In 'one of those + plural noun + who', the relative pronoun refers to the plural antecedent ('leaders')."
   },
-  {
+  
   {
     q: "She is the ONLY one of the candidates who _____ secured full marks in the analytical section.",
     options: ["have", "has", "are", "were"],
