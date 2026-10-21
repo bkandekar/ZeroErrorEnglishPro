@@ -12663,238 +12663,228 @@ If you nodded at two or more, keep reading.
 `
   },
 
-  
-{
-  slug: "apostrophe-rules-with-examples-its-vs-its-whose-vs-whos-plural-vs-possessive",
-  title: "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
-  category: "Punctuation",
-  readingTime: "11 min read",
-  difficulty: "Beginner",
-  bookId: 11,
-  publishDate: "2026-10-20",
-  description: "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
-  formula: "Its = possessive (no apostrophe). It's = it is / it has.",
-  
-  heroImage: "https://bkandekar.github.io/ZeroErrorEnglishPro/images/apostrophe-rules-hero.webp",
-  heroImageAlt: "Apostrophe rules with examples including its vs it's and whose vs who's",
- 
-  body: `
-<p>Learn apostrophe rules with examples, and you'll stop second-guessing yourself every time you write "its" or "it's." The apostrophe is one of the smallest punctuation marks in English, yet it causes more everyday writing errors than almost any other symbol on the keyboard. A single misplaced apostrophe can change the entire meaning of a sentence — "the dog's bone" is very different from "the dogs' bone," and "its" is grammatically unrelated to "it's," even though they look almost identical.</p>
 
-<p>This guide covers every major apostrophe rule you need — possession, contraction, plurals, names ending in S, joint ownership, and the three most confused pairs in English: its/it's, whose/who's, and plural/possessive nouns. By the end, you'll have a simple mental test you can run in two seconds before typing any apostrophe.</p>
+    {
+    slug: "apostrophe-rules-with-examples",
+    title: "Apostrophe Rules with Examples: Its vs It’s, Whose vs Who’s, Plural vs Possessive",
+    category: "Punctuation",
+    readingTime: "12 min read",
+    difficulty: "Beginner",
+    bookId: 11,
+    publishDate: "2026-10-21",
+    description: "Learn apostrophe rules with examples: its vs it’s, whose vs who’s and plural vs possessive, with a memory trick, 3-question check and 10 practice questions.",
+    formula: "OWN or OMIT, never COUNT",
+    body: `<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/apostrophe-rules-hero.webp" alt="Apostrophe rules with examples: its vs it's, whose vs who's, plural vs possessive" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
 
-<h2>Why Apostrophes Confuse Even Good Writers</h2>
-<p>Apostrophes do two completely different jobs in English: they show <strong>possession</strong> (ownership) and they show <strong>contraction</strong> (missing letters). The confusion happens because English also uses the letter "s" to mark plurals — so three unrelated uses of "s" and apostrophes collide in everyday writing. A writer sees an "s" at the end of a word and instinctively reaches for the apostrophe key, even when no ownership or contraction is involved. This is why "banana's" and "laptop's" show up so often in casual writing, even though neither sentence involves possession.</p>
+<p>You’ve seen the sign outside a fruit stall: “Banana’s, 40 rupees a dozen.” And you’ve probably written this one yourself in a hurry: “The dog wagged it’s tail.” Both are wrong, and both are wrong in the same way. The apostrophe was added because the word ended in s, not because anything was owned or left out.</p>
+<p>The apostrophe is the smallest mark on the keyboard, and it’s one of the most expensive in an exam. SSC CGL, bank PO and UPSC papers keep testing it in error spotting, sentence improvement and cloze passages, because the same five or six confusions trip up even strong students: its and it’s, whose and who’s, plural and possessive, and the apostrophe in decades and numbers.</p>
+<p>The good news is that an apostrophe has only two jobs. Learn those two jobs, add one three-question check, and you’ll stop guessing for good. This guide gives you the rules, a memory trick, the exam traps and a ten-question practice set with answers. If you haven’t read the earlier posts in this series, start with <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">comma rules with examples</a> and <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/punctuation-error-spotting-ssc-cgl-bank-exams/">punctuation error spotting</a>.</p>
 
-<p>Another layer of confusion comes from spoken English. When we speak, "its" and "it's" sound identical, and so do "whose" and "who's." Since there's no audible difference, many writers rely on instinct rather than rule — and instinct is wrong about half the time with apostrophes. That's exactly why a structured rule system, rather than guesswork, is the fastest way to get this right permanently.</p>
-
-<h2>The 7 Core Apostrophe Rules</h2>
-
-<h3>Rule 1: Singular Possessive — Add 's</h3>
-<p>For a singular noun, add an apostrophe plus s to show ownership, no matter how long or short the word is.</p>
+<div class="zp-toc"><b>In this guide</b>
 <ul>
-  <li>The dog's leash is red.</li>
-  <li>My sister's car is new.</li>
-  <li>The manager's office is on the third floor.</li>
-</ul>
+<li onclick="document.getElementById('section-two').scrollIntoView({behavior:'smooth'})">The only two jobs an apostrophe has</li>
+<li onclick="document.getElementById('section-own').scrollIntoView({behavior:'smooth'})">Job 1: showing ownership (the possessive rules)</li>
+<li onclick="document.getElementById('section-omit').scrollIntoView({behavior:'smooth'})">Job 2: showing missing letters (contractions)</li>
+<li onclick="document.getElementById('section-its').scrollIntoView({behavior:'smooth'})">Its vs it’s, and the pronoun family</li>
+<li onclick="document.getElementById('section-whose').scrollIntoView({behavior:'smooth'})">Whose vs who’s</li>
+<li onclick="document.getElementById('section-plural').scrollIntoView({behavior:'smooth'})">Plural vs possessive: no apostrophe for a crowd</li>
+<li onclick="document.getElementById('section-special').scrollIntoView({behavior:'smooth'})">Special cases examiners like</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">8 common apostrophe mistakes</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 3-question apostrophe check</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+</ul></div>
 
-<h3>Rule 2: Plural Nouns Ending in S — Add Only '</h3>
-<p>If the plural noun already ends in "s," simply add an apostrophe after the existing s. Do not add another "s."</p>
-<ul>
-  <li>The students' project won first prize.</li>
-  <li>The teachers' lounge is upstairs.</li>
-  <li>The employees' feedback was reviewed by management.</li>
-</ul>
+<h2 id="section-two">The only two jobs an apostrophe has</h2>
+<p>Here’s the whole topic in one line, and it’s the memory trick for this post.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“OWN or OMIT. Never COUNT.”</b></p>
+<p style="margin:0">
+<b>OWN</b> = the apostrophe shows ownership (the dog’s bowl)<br>
+<b>OMIT</b> = the apostrophe shows omitted letters (don’t, it’s)<br>
+<b>Never COUNT</b> = the apostrophe never makes a plural (bananas, 1990s, MBAs)</p>
+</div>
+<p>Before you type an apostrophe, ask which of the two jobs it’s doing. If it isn’t owning and it isn’t omitting, delete it. That single question removes most apostrophe errors, because most wrong apostrophes are plural s’s that picked up an apostrophe by habit.</p>
+<p>Every example in this post is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper.</p>
 
-<h3>Rule 3: Irregular Plurals (Not Ending in S) — Add 's</h3>
-<p>Irregular plurals like "children," "men," "women," and "people" don't end in s, so they follow the same rule as singular nouns — add 's.</p>
-<ul>
-  <li>The children's toys were scattered everywhere.</li>
-  <li>The women's team won the match.</li>
-  <li>The people's choice award went to a local artist.</li>
-</ul>
+<h2 id="section-own">Job 1: showing ownership</h2>
 
-<h3>Rule 4: Contractions — Apostrophe Replaces Missing Letters</h3>
-<p>An apostrophe in a contraction marks the exact spot where letters have been removed. This is purely a shortcut for speech and informal writing — never use contractions where possession is meant.</p>
-<ul>
-  <li>do not → don't</li>
-  <li>she is → she's</li>
-  <li>they have → they've</li>
-  <li>could not → couldn't</li>
-</ul>
+<h3>Rule 1: A singular owner takes apostrophe + s</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> the teacher’s desk, my sister’s laptop, the company’s policy</div>
+<p>It doesn’t matter how long the word is. One owner, add ’s.</p>
 
-<h3>Rule 5: Its vs It's</h3>
-<p>This is the single most common apostrophe mistake in English, and examiners, editors, and teachers all flag it constantly.</p>
-<ul>
-  <li><strong>Its</strong> = possessive (belonging to it). No apostrophe.
-    <ul>
-      <li>The company increased its revenue this year.</li>
-      <li>The cat licked its paw.</li>
-    </ul>
-  </li>
-  <li><strong>It's</strong> = contraction of "it is" or "it has." Always has an apostrophe.
-    <ul>
-      <li>It's going to rain today. (It is going to rain.)</li>
-      <li>It's been a long week. (It has been a long week.)</li>
-    </ul>
-  </li>
-</ul>
-<p>A simple trick: if you can expand the word to "it is" or "it has" and the sentence still makes sense, use "it's." If expanding it sounds wrong, use "its."</p>
+<h3>Rule 2: A plural owner ending in s takes only the apostrophe</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> the students’ notice board, the teachers’ room, the two boys’ bags</div>
+<p>The plural already has its s, so you only add the apostrophe after it. Memory trick: <b>“Owner first, apostrophe next, s last, unless the owner already ends in s.”</b> Write the owner in full, then decide where the apostrophe goes.</p>
 
-<h3>Rule 6: Whose vs Who's</h3>
-<p>This follows the exact same logic as its/it's — possession versus contraction.</p>
-<ul>
-  <li><strong>Whose</strong> = possessive (belonging to whom). No apostrophe.
-    <ul>
-      <li>Whose laptop is this?</li>
-      <li>I don't know whose idea it was.</li>
-    </ul>
-  </li>
-  <li><strong>Who's</strong> = contraction of "who is" or "who has."
-    <ul>
-      <li>Who's coming to the meeting? (Who is coming?)</li>
-      <li>Who's finished the report? (Who has finished?)</li>
-    </ul>
-  </li>
-</ul>
+<h3>Rule 3: A plural owner not ending in s takes apostrophe + s</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> the children’s park, the men’s hostel, the women’s team, people’s opinion</div>
+<p>Children, men, women and people are plural without an s, so they behave like singular owners. <span class="zp-no">✗ childrens’</span> and <span class="zp-no">✗ mens’</span> are classic exam errors.</p>
 
-<h3>Rule 7: No Apostrophe for Plain Plurals</h3>
-<p>Don't add an apostrophe just to make a word plural — this is one of the most common writing errors, especially with numbers, abbreviations, and decades.</p>
-<ul>
-  <li>Wrong: The 1990's were a great decade.</li>
-  <li>Right: The 1990s were a great decade.</li>
-  <li>Wrong: I bought two laptop's today.</li>
-  <li>Right: I bought two laptops today.</li>
-  <li>Wrong: She has three MBA's.</li>
-  <li>Right: She has three MBAs.</li>
-</ul>
+<h3>Rule 4: Names ending in s</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> James’s book or James’ book (both accepted)<br><span class="zp-yes">✓</span> Charles’s car or Charles’ car</div>
+<p>Style guides differ, and both forms are accepted in standard English. For writing, pick one style and stay consistent. In objective exams, the question will almost always test a clearer error, so don’t spend time here.</p>
 
-<h2>Bonus Rule: Names Ending in S</h2>
-<p>Proper nouns ending in "s" cause special confusion because style guides disagree slightly on them. The most widely accepted modern rule is to add 's even when the name already ends in s, though some style guides allow just an apostrophe for very old or classical names.</p>
-<ul>
-  <li>James's book is on the table.</li>
-  <li>Chris's car broke down.</li>
-  <li>Traditional/classical exception: Moses' journey, Jesus' teachings.</li>
-</ul>
-<p>For everyday writing, exams, and professional documents, adding 's (James's, Chris's) is the safer and more widely accepted choice unless your specific style guide says otherwise.</p>
+<h3>Rule 5: Joint and separate ownership</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> Ravi and Meera’s house (one house, owned together)<br><span class="zp-yes">✓</span> Ravi’s and Meera’s houses (each has a different house)</div>
+<p>If the owners share one thing, only the last name takes the apostrophe. If each owns a separate thing, every owner takes one.</p>
 
-<h2>Bonus Rule: Joint vs Individual Possession</h2>
-<p>When two people own something together, only the second name takes the apostrophe. When two people own separate things, both names take an apostrophe.</p>
-<ul>
-  <li>Joint possession: Raj and Priya's house is beautiful. (They own one house together.)</li>
-  <li>Individual possession: Raj's and Priya's cars are parked outside. (Each owns a separate car.)</li>
-</ul>
-<p>This distinction rarely comes up in casual writing but appears frequently in formal documents, legal writing, and exam questions designed to test deeper understanding of possession rules.</p>
+<h3>Rule 6: Time and amount expressions</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> a week’s holiday, yesterday’s match, today’s newspaper<br><span class="zp-yes">✓</span> two days’ notice, three months’ leave</div>
+<p>Time expressions behave like owners. One week, so ’s. Two days, so s’. Use the same Rule 1 and Rule 2 logic, and count the number first.</p>
 
-<h2>Memory Trick: "Sam's Puppy Plays, Catching Its Wandering Nose"</h2>
-<p>This one sentence helps you recall the 7 core rules in order, without needing to memorize a dry list:</p>
-<ul>
-  <li><strong>S</strong>am's → <strong>S</strong>ingular possessive (add 's)</li>
-  <li><strong>P</strong>uppy → <strong>P</strong>lural ending in s (add only ')</li>
-  <li><strong>P</strong>lays → <strong>P</strong>lural irregular, not ending in s (add 's)</li>
-  <li><strong>C</strong>atching → <strong>C</strong>ontractions (apostrophe for missing letters)</li>
-  <li><strong>I</strong>ts → <strong>I</strong>ts vs It's</li>
-  <li><strong>W</strong>andering → <strong>W</strong>hose vs Who's</li>
-  <li><strong>N</strong>ose → <strong>N</strong>o apostrophe for plain plurals</li>
-</ul>
-<p>Read this sentence once before you start writing or taking a test — it takes about five seconds and covers every major trap examiners and editors look for.</p>
+<h2 id="section-omit">Job 2: showing missing letters</h2>
+<p>A contraction joins two words and drops some letters. The apostrophe sits exactly where the letters went missing.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Full form</th><th>Contraction</th><th>Missing letters</th></tr>
+<tr><td>do not</td><td>don’t</td><td>o</td></tr>
+<tr><td>cannot</td><td>can’t</td><td>no</td></tr>
+<tr><td>will not</td><td>won’t</td><td>irregular change</td></tr>
+<tr><td>they are</td><td>they’re</td><td>a</td></tr>
+<tr><td>I have</td><td>I’ve</td><td>ha</td></tr>
+<tr><td>who is / who has</td><td>who’s</td><td>i or ha</td></tr>
+<tr><td>it is / it has</td><td>it’s</td><td>i or ha</td></tr>
+</table></div>
+<p>Contractions are for speech and informal writing. In a formal essay or letter, many examiners prefer the full forms, so write “do not” instead of “don’t” when the tone is formal.</p>
 
-<h2>Plural vs Possessive: The Quick Test</h2>
-<p>Ask yourself one simple question: <strong>"Does this word own something, or is there just more than one of it?"</strong></p>
-<ul>
-  <li>More than one → just add "s" (no apostrophe): books, cars, teachers, phones</li>
-  <li>Owns something → add apostrophe: book's cover, car's engine, teacher's desk, phone's battery</li>
-</ul>
-<p>If you can mentally rephrase the word as "belonging to [noun]," it needs an apostrophe. If you're simply counting more than one item, it never does.</p>
-<ul>
-  <li>"The dog's bone" = "the bone belonging to the dog" → apostrophe needed.</li>
-  <li>"Two dogs ran" = just more than one dog → no apostrophe.</li>
-  <li>"The company's policy" = "the policy belonging to the company" → apostrophe needed.</li>
-  <li>"Three companies merged" = just more than one company → no apostrophe.</li>
-</ul>
+<h2 id="section-its">Its vs it’s, and the pronoun family</h2>
+<p>This is the single most-tested apostrophe pair, and the rule is simple once you see the pattern.</p>
+<div class="zp-ex"><span class="zp-yes">✓</span> The company announced its new policy. (its = belonging to it)<br><span class="zp-yes">✓</span> It’s going to rain today. (it’s = it is)<br><span class="zp-yes">✓</span> It’s been a long week. (it’s = it has)</div>
+<p><b>The expansion test:</b> say “it is” or “it has” in the gap. If the sentence still makes sense, write it’s. If it doesn’t, write its.</p>
+<p><b>Why its has no apostrophe:</b> possessive pronouns never take one. His, hers, ours, yours, theirs and its all show ownership without an apostrophe. Memory trick: <b>“Its is like his and hers, and his and hers have no apostrophe.”</b></p>
+<div style="overflow-x:auto"><table>
+<tr><th>Owns (no apostrophe)</th><th>Omits (apostrophe)</th></tr>
+<tr><td>its</td><td>it’s (it is / it has)</td></tr>
+<tr><td>whose</td><td>who’s (who is / who has)</td></tr>
+<tr><td>your</td><td>you’re (you are)</td></tr>
+<tr><td>their</td><td>they’re (they are)</td></tr>
+<tr><td>hers, ours, yours, theirs</td><td>no contractions exist</td></tr>
+</table></div>
+<p>Notice the pattern. In every pair, the word that owns has no apostrophe, and the word that omits letters has one. Learn that once, and you’ve covered four exam pairs at the same time.</p>
 
-<h2>5 Common Apostrophe Mistakes</h2>
+<h2 id="section-whose">Whose vs who’s</h2>
+<div class="zp-ex"><span class="zp-yes">✓</span> Whose laptop is this? (whose = belonging to whom)<br><span class="zp-yes">✓</span> Who’s coming to the meeting? (who’s = who is)<br><span class="zp-yes">✓</span> Who’s finished the report? (who’s = who has)</div>
+<p>The test is the same expansion test. Say “who is” or “who has” in the gap. If it fits, use who’s. If it doesn’t, use whose.</p>
+<p>A small exam note: “whose” isn’t only for people. “The company whose profits doubled” is correct. Ownership, not personhood, decides it. You can also revisit the relative pronoun rules in my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/relative-clauses-who-which-that-rules/">who, which and that</a>.</p>
+
+<h2 id="section-plural">Plural vs possessive: no apostrophe for a crowd</h2>
+<p>This is the error behind “Banana’s, 40 rupees.” A plural only tells you there’s more than one. It doesn’t tell you anything is owned. Ask one question: <b>“Does anything belong to this word?”</b></p>
+<div class="zp-ex"><span class="zp-no">✗ All the student’s must submit their forms.</span><br><span class="zp-yes">✓ All the students must submit their forms.</span> (more than one, nothing owned)<br><span class="zp-yes">✓ The student’s form was incomplete.</span> (the form belongs to one student)</div>
+<p>Memory trick: <b>“An apostrophe belongs to an owner, not to a crowd.”</b></p>
+<p>The same rule covers numbers, decades, abbreviations and letters.</p>
+<div class="zp-ex"><span class="zp-no">✗ In the 1990’s, MBA’s became popular.</span><br><span class="zp-yes">✓ In the 1990s, MBAs became popular.</span></div>
+<p>The only common exception is a single letter or a lowercase letter used as a word, where the apostrophe prevents confusion: “mind your p’s and q’s,” “she got three A’s.” You’re unlikely to be tested on this, so don’t let it make you add apostrophes to ordinary plurals.</p>
+
+<h2 id="section-special">Special cases examiners like</h2>
+<div class="zp-box">
+<p><b>1. Double possessive.</b> “A friend of my father’s” is correct. The “of” shows a relationship, and the ’s shows ownership, and English allows both together.</p>
+<p><b>2. Possessive before an -ing word.</b> “I appreciate his coming” is formal and correct. “I appreciate him coming” is common in speech. Exam keys usually prefer the possessive form.</p>
+<p><b>3. Compound nouns.</b> The apostrophe goes on the last word: “my mother-in-law’s house,” “the Prime Minister of India’s speech.”</p>
+<p><b>4. Shop names and places.</b> “I’m going to the doctor’s” means the doctor’s clinic. The noun is understood, so it can be dropped.</p>
+<p><b>5. Plural nouns that look singular.</b> Words like “news,” “physics” and “mathematics” are singular, so they aren’t made possessive with a plural pattern.</p>
+</div>
+
+<h2 id="section-mistakes">8 common apostrophe mistakes (and fixes)</h2>
+<div class="zp-box">
+<p><b>1. Its for it’s.</b> <span class="zp-no">✗ Its raining outside.</span> <span class="zp-yes">✓ It’s raining outside.</span></p>
+<p><b>2. It’s for its.</b> <span class="zp-no">✗ The cat licked it’s paw.</span> <span class="zp-yes">✓ The cat licked its paw.</span></p>
+<p><b>3. Who’s for whose.</b> <span class="zp-no">✗ Who’s bag is this?</span> <span class="zp-yes">✓ Whose bag is this?</span></p>
+<p><b>4. An apostrophe in a plain plural.</b> <span class="zp-no">✗ She bought three apple’s.</span> <span class="zp-yes">✓ She bought three apples.</span></p>
+<p><b>5. An apostrophe in a decade.</b> <span class="zp-no">✗ The 1980’s were different.</span> <span class="zp-yes">✓ The 1980s were different.</span></p>
+<p><b>6. Wrong position for a plural owner.</b> <span class="zp-no">✗ The two boy’s bags.</span> <span class="zp-yes">✓ The two boys’ bags.</span></p>
+<p><b>7. Childrens’ or mens’.</b> <span class="zp-no">✗ The childrens’ park.</span> <span class="zp-yes">✓ The children’s park.</span></p>
+<p><b>8. An apostrophe in a possessive pronoun.</b> <span class="zp-no">✗ This book is her’s.</span> <span class="zp-yes">✓ This book is hers.</span></p>
+</div>
+
+<h2 id="section-method">The 3-question apostrophe check</h2>
+<p>When you see an apostrophe, or a word that needs one, run these three questions in order.</p>
+<div class="zp-box">
+<p><b>Question 1: Can I expand it?</b> Try “is,” “has,” “are,” “not” or “have.” If the expansion works, it’s a contraction, and the apostrophe marks the missing letters (it’s, who’s, you’re).</p>
+<p><b>Question 2: Does something belong to it?</b> If yes, it’s ownership. Write the owner, then apply Rule 1, 2 or 3. A singular owner takes ’s, a plural ending in s takes s’, and an irregular plural takes ’s.</p>
+<p><b>Question 3: Is it just more than one?</b> If it’s only a count, it’s a plain plural, and there’s no apostrophe at all.</p>
+</div>
+<p>It takes about five seconds, and it uses the same “OWN or OMIT, never COUNT” logic. If the word fails all three, the apostrophe doesn’t belong. The book <i>Advanced Punctuation Mastery</i> goes deeper with an apostrophe decision tree and a possession versus contraction chapter, so you can see the same logic laid out step by step.</p>
+
+<h2>A pattern teachers see every year</h2>
+<p>Most students who miss apostrophe questions can recite the rules. What they don’t have is a habit of checking. They write its or it’s by feel, add an s’ to anything that ends in s, and rely on “it looks right.”</p>
+<p>The fix is a small daily exercise. Take five sentences from a newspaper, circle every apostrophe, and write next to each one the word OWN or OMIT. Then circle every plural noun and ask whether it owns anything. After two weeks, you’ll see apostrophes the way an examiner does, and the unnecessary ones will jump out at you.</p>
+
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Say the expansion aloud.</b> “It is” or “who is” in the gap settles its/it’s and whose/who’s in two seconds.</p>
+<p><b>Underline every s at the end of a word.</b> Then check whether it’s a plural, a possessive or a contraction.</p>
+<p><b>Don’t add apostrophes to be safe.</b> An extra apostrophe is as wrong as a missing one.</p>
+<p><b>Check the owner’s number first.</b> Singular means ’s. Plural ending in s means s’. Irregular plural means ’s.</p>
+<p><b>Remember “No error.”</b> A correct apostrophe sentence is a valid answer.</p>
+</div>
+
+<h2 id="section-practice">Practice set: 10 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. These are original practice sentences written for this guide.</p>
 <ol>
-  <li>Writing "it's" when you mean possession (its color, not it's color).</li>
-  <li>Adding apostrophes to plain plurals (banana's instead of bananas, especially on handwritten signs and menus).</li>
-  <li>Confusing "whose" and "who's" in questions, particularly in formal writing and exams.</li>
-  <li>Forgetting the apostrophe in contractions under time pressure (dont instead of don't, cant instead of can't).</li>
-  <li>Placing the apostrophe incorrectly in plural possessives (childrens' instead of children's, mens' instead of men's).</li>
+<li>The dog wagged (A) / it’s tail (B) / when it saw the owner. (C) / No error (D)</li>
+<li>Who’s coming (A) / to the meeting (B) / tomorrow? (C) / No error (D) &nbsp; <i>(Read this one carefully: it’s correct.)</i></li>
+<li>The two boy’s (A) / bags were kept (B) / near the door. (C) / No error (D)</li>
+<li>She bought (A) / three apple’s (B) / from the market. (C) / No error (D)</li>
+<li>The childrens’ (A) / playground (B) / is closed today. (C) / No error (D)</li>
+<li>In the 1990’s, (A) / many families (B) / bought their first TV. (C) / No error (D)</li>
+<li>Hers is better (A) / than (B) / their’s. (C) / No error (D)</li>
+<li>We have (A) / a weeks’ holiday (B) / in December. (C) / No error (D)</li>
+<li>Ravi and Meera’s (A) / new house (B) / is near the school. (C) / No error (D)</li>
+<li>Whose (A) / going to (B) / collect the forms? (C) / No error (D)</li>
 </ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. (B): “it’s” should be “its” (ownership).</p>
+<p>2. (D): no error. “Who’s” means “who is,” so the sentence is correct.</p>
+<p>3. (A): should be “boys’,” because the owner is plural and ends in s.</p>
+<p>4. (B): should be “apples.” It’s a plain plural, so no apostrophe.</p>
+<p>5. (A): should be “children’s.” An irregular plural takes ’s.</p>
+<p>6. (A): should be “1990s.” An apostrophe never makes a plural.</p>
+<p>7. (C): should be “theirs.” Possessive pronouns take no apostrophe.</p>
+<p>8. (B): should be “a week’s holiday.” One week means ’s.</p>
+<p>9. (D): no error. “Ravi and Meera’s house” shows joint ownership correctly.</p>
+<p>10. (A): should be “Who’s,” because you can expand it to “who is.”</p>
+</div>
+<p>If you scored 9 or 10, you’re ready for harder questions. If you scored 6 to 8, revise the rule behind the ones you missed. If you scored below 6, reread the two jobs and the pronoun table, and retake the set after two days. <i>Advanced Punctuation Mastery</i> also includes practice questions, previous-year style exam questions and complete answer keys after every rule, so you can keep measuring your progress.</p>
 
-<h2>Practice Set: 6 Questions with Answers</h2>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What is the easiest way to remember its vs it’s?</h3>
+<p>Say “it is” or “it has” in the gap. If it fits, write it’s. If it doesn’t, write its. Also remember that its follows the same pattern as his and hers, and neither of those has an apostrophe.</p>
+<h3>Do plurals ever take an apostrophe?</h3>
+<p>Almost never. Plain plurals (books, cars, MBAs, 1990s) take no apostrophe. The only common exception is a single letter or a lowercase letter used as a word, such as “p’s and q’s.”</p>
+<h3>Is it “James’s book” or “James’ book”?</h3>
+<p>Both are accepted. Choose one style and stay consistent. Exam questions rarely hinge on this, so focus on the clearer errors first.</p>
+<h3>How do I show that two people own something together?</h3>
+<p>Put the apostrophe on the last name only: “Ravi and Meera’s house.” If each person owns a different thing, use an apostrophe on both: “Ravi’s and Meera’s houses.”</p>
+<h3>How long does it take to improve at apostrophes?</h3>
+<p>Most students see a clear change within two weeks of five sentences a day. Label each apostrophe OWN or OMIT, and keep an error log for the patterns you miss.</p>
 
-<p><strong>Q1.</strong> Choose the correct option: "The cat chased ___ tail." (its / it's)<br>
-<strong>Answer:</strong> its — possessive, no apostrophe needed.</p>
+<h2>Your next step</h2>
+<p>Apostrophe errors survive because the mark looks harmless and we trust our ear. Replace the ear with a routine: OWN or OMIT, never COUNT. Ask which job each apostrophe is doing, run the three-question check, and delete any apostrophe that has no job.</p>
+<p>When you want every punctuation mark covered with rules, exam-style questions, memory aids and answer keys in one place, grab <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> on Amazon: <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4irsiSu</a></p>
+<p>Which of the apostrophe traps caught you out? Tell me in the comments, and I’ll explain it in more detail.</p>
 
-<p><strong>Q2.</strong> Choose the correct option: "___ going to the party tonight?" (Whose / Who's)<br>
-<strong>Answer:</strong> Who's — contraction of "who is."</p>
-
-<p><strong>Q3.</strong> Identify the error: "The dog's bowl's and the cat's toy's were everywhere."<br>
-<strong>Answer:</strong> "bowl's" and "toy's" should be plain plurals — "bowls" and "toys" (no apostrophe needed, since they're not possessive here).</p>
-
-<p><strong>Q4.</strong> Choose the correct option: "The company increased ___ profits." (its / it's)<br>
-<strong>Answer:</strong> its — possessive form.</p>
-
-<p><strong>Q5.</strong> Identify the error: "The childrens' books were on the shelf."<br>
-<strong>Answer:</strong> Should be "children's books" — "children" is already plural, so add 's, not s'.</p>
-
-<p><strong>Q6.</strong> Choose the correct option: "___ book is this on the table?" (Whose / Who's)<br>
-<strong>Answer:</strong> Whose — possessive, asking who owns the book.</p>
-
-<h2>FAQ</h2>
-
-<p><strong>Q: What's the easiest way to remember its vs it's?</strong><br>
-A: If you can replace the word with "it is" or "it has" and the sentence still makes sense, use "it's." Otherwise, use "its."</p>
-
-<p><strong>Q: Do plural nouns always need an apostrophe?</strong><br>
-A: No. Plain plurals (more than one of something) never need an apostrophe — only possessive plurals do.</p>
-
-<p><strong>Q: Why do irregular plurals like "children's" take 's instead of just '?</strong><br>
-A: Because "children" doesn't already end in "s," the normal possessive rule (add 's) applies, just like a singular noun.</p>
-
-<p><strong>Q: How should I handle names that already end in S, like James or Chris?</strong><br>
-A: In most modern writing and exam contexts, add 's even if the name ends in s — "James's book," "Chris's car." A few classical or traditional names (like Moses or Jesus) are commonly written with just an apostrophe, but this is an exception, not the default rule.</p>
-
-<p><strong>Q: Is there a difference between "Raj and Priya's house" and "Raj's and Priya's houses"?</strong><br>
-A: Yes. The first means they jointly own one house together, so only the second name gets the apostrophe. The second means they each own a separate house, so both names get their own apostrophe.</p>
-
-<h2>A Quick Resource for Deeper Practice</h2>
-<p>If you want more structured drills on apostrophes, contractions, and possessive forms — along with full practice exercises and answer keys — <em>Advanced Punctuation Mastery</em> covers these rules in detail as part of its broader punctuation framework. <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener noreferrer">Check it out here</a>.</p>
-
-<p>The book's practice-and-answer-key format is especially useful if you want to self-test apostrophe rules without needing external resources, particularly for the trickier cases like joint possession and names ending in S.</p>
-
-<p>If you're tired of hesitating over its/it's or whose/who's every time you write, this kind of structured reference can save you repeated corrections over time. <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener noreferrer">Grab your copy here</a>.</p>
-
-<h2>Conclusion</h2>
-<p>Apostrophe rules aren't actually complicated — they just get mixed up because "s" does three different jobs in English: marking plurals, marking possession, and marking contractions. Once you separate these three uses clearly in your mind, most apostrophe mistakes disappear on their own. Use the "Sam's Puppy Plays, Catching Its Wandering Nose" memory trick, run the "does it own something?" test before adding an apostrophe, pay extra attention to names ending in S and joint possession cases, and practice with the six questions above until its/it's and whose/who's stop feeling tricky altogether.</p>
-  `
-  {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Apostrophe Rules with Examples: Its vs It's, Whose vs Who's, Plural vs Possessive",
-  "description": "Learn apostrophe rules with examples — master its vs it's, whose vs who's, and plural vs possessive confusion with a memory trick and practice questions.",
-  "image": "https://yourdomain.com/images/apostrophe-rules-hero.jpg",
-  "author": {
-    "@type": "Person",
-    "name": "Admin"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Your Site Name",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://yourdomain.com/images/logo.png"
+</div>
+`
     }
-  },
-  "datePublished": "2026-10-03",
-  "dateModified": "2026-10-20",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/apostrophe-rules-with-examples/"
-  }
-}
-}
+  
   ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
