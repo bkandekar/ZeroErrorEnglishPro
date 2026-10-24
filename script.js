@@ -13089,8 +13089,290 @@ If you nodded at two or more, keep reading.
 
 </div>
 `
-    }
+    },
+
   
+    {
+    slug: "hyphen-vs-dash-en-dash-em-dash-rules",
+    title: "Hyphen vs Dash: En Dash, Em Dash and Hyphen Rules Made Simple",
+    category: "Punctuation",
+    readingTime: "12 min read",
+    difficulty: "Intermediate",
+    bookId: 11,
+    publishDate: "2026-10-23",
+    description: "Learn hyphen vs dash rules with examples: en dash, em dash and hyphen, the JOIN, SPAN, BREAK memory trick, 8 common mistakes and a 10-question practice set.",
+    formula: "Hyphen JOINS. En dash SPANS. Em dash BREAKS.",
+    body: `<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/hyphen-vs-dash-hero.webp" alt="Hyphen vs dash: en dash, em dash and hyphen rules made simple with examples" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Read these two phrases aloud: “a man-eating tiger” and “a man eating tiger.” Same words, same order. One is a dangerous animal. The other is a hungry man who happens to be sitting with a tiger. A single tiny line made the difference.</p>
+<p>That tiny line is the hyphen, and it has two bigger cousins: the en dash and the em dash. To most of us, all three look like “a line,” so we use whichever one the keyboard offers first. In an exam, that habit costs marks. SSC CGL, bank and UPSC papers test hyphens in error spotting, sentence improvement and cloze passages, and the answer key expects you to know when a hyphen belongs, when it doesn’t, and when a longer dash is the right mark.</p>
+<p>The good news is that the three marks have three clear jobs. In this guide you’ll get the rules, a memory trick, a side-by-side table, the traps examiners recycle and a ten-question practice set with answers. If you missed the earlier posts, start with <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-vs-colon-rules-with-examples/">semicolon vs colon</a> and <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/punctuation-error-spotting-ssc-cgl-bank-exams/">punctuation error spotting</a>.</p>
+
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-trick').scrollIntoView({behavior:'smooth'})">The memory trick: JOIN, SPAN, BREAK</li>
+<li onclick="document.getElementById('section-hyphen').scrollIntoView({behavior:'smooth'})">Hyphen rules with examples</li>
+<li onclick="document.getElementById('section-en').scrollIntoView({behavior:'smooth'})">En dash rules with examples</li>
+<li onclick="document.getElementById('section-em').scrollIntoView({behavior:'smooth'})">Em dash rules with examples</li>
+<li onclick="document.getElementById('section-compare').scrollIntoView({behavior:'smooth'})">Hyphen vs en dash vs em dash: side by side</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 3-test method</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">8 common mistakes</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+</ul></div>
+
+<h2 id="section-trick">The memory trick: JOIN, SPAN, BREAK</h2>
+<p>Here’s the whole topic in one line. Learn it, and you’ll choose the right mark in seconds.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“Hyphen JOINS. En dash SPANS. Em dash BREAKS.”</b></p>
+<p style="margin:0">
+<b>Hyphen ( - ) JOINS</b> words into one unit (well-known, twenty-five).<br>
+<b>En dash ( – ) SPANS</b> a range or a connection (10–15, Delhi–Mumbai).<br>
+<b>Em dash ( — ) BREAKS</b> the sentence for a sudden pause or extra detail.</p>
+</div>
+<p>The names also hint at the length. The hyphen is the shortest. The en dash is about as wide as the letter n. The em dash is about as wide as the letter m, so it’s the longest. Short to long, the jobs go from small (joining) to big (breaking).</p>
+<p>Every example in this post is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper.</p>
+
+<h2 id="section-hyphen">Hyphen rules with examples</h2>
+
+<h3>Rule 1: Join words that work together as one adjective before a noun</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> a well-known author<br><span class="zp-yes">✓</span> an up-to-date report<br><span class="zp-yes">✓</span> a ten-year-old boy</div>
+<p>Two or more words that act as one adjective before a noun are hyphenated. After the noun, the hyphen usually goes away: “The author is well known.” <b>Memory trick:</b> “Before the noun, glue them. After the noun, let them go.” This is the same pattern we met in the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/punctuation-error-spotting-ssc-cgl-bank-exams/">error spotting guide</a>.</p>
+<p><b>The singular trap:</b> the noun inside a compound adjective stays singular. We say “a five-day workshop,” never “a five-days workshop,” and “a ten-year-old boy,” never “a ten-years-old boy.” This is one of the most common exam traps. <b>Memory trick:</b> “Adjectives never take an s.”</p>
+
+<h3>Rule 2: Hyphenate numbers from twenty-one to ninety-nine</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> twenty-five, sixty-three, ninety-nine<br><span class="zp-yes">✓</span> a two-thirds majority</div>
+<p>Compound numbers written in words take a hyphen. Round numbers like twenty or one hundred don’t. Fractions take a hyphen when they act as adjectives: “a two-thirds majority.”</p>
+
+<h3>Rule 3: Some prefixes need a hyphen</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> ex-minister, self-confident, all-rounder, anti-corruption</div>
+<p>Hyphens are normal with the prefixes ex- (meaning former), self-, all- and quasi-, and when the prefix meets a capital letter, as in pro-American or anti-British. A hyphen also separates letters that would otherwise look odd, as in re-enter and co-operate (though cooperate is also accepted).</p>
+
+<h3>Rule 4: The hyphen that changes meaning</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> She will re-sign the contract. (sign again)<br><span class="zp-yes">✓</span> She will resign from her post. (quit)<br><span class="zp-yes">✓</span> a small-business owner (owner of a small business)<br><span class="zp-yes">✓</span> a man-eating tiger</div>
+<p>When a hyphen changes the meaning, the exam will use it as a trap. Read the sentence with and without the hyphen, and ask which meaning the writer wants.</p>
+
+<h3>Rule 5: Suspended hyphens</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> The college offers two- and three-year courses.</div>
+<p>When two hyphenated words share the same ending, you can drop the repeated part, but keep the hyphen after the first word.</p>
+
+<h3>What a hyphen should not do</h3>
+<ul>
+<li>It doesn’t follow an -ly adverb. <span class="zp-no">✗ a highly-paid officer</span> <span class="zp-yes">✓ a highly paid officer</span></li>
+<li>It doesn’t appear in a compound after the noun in most cases. <span class="zp-no">✗ The report is up-to-date.</span> <span class="zp-yes">✓ The report is up to date.</span></li>
+<li>It doesn’t replace a dash in a range or a break. We’ll see why below.</li>
+</ul>
+
+<h2 id="section-en">En dash rules with examples</h2>
+
+<h3>Rule 1: Show a range</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> pages 10–15<br><span class="zp-yes">✓</span> the years 2020–2025<br><span class="zp-yes">✓</span> Monday–Friday</div>
+<p>The en dash stands in for the word “to.” <b>Memory trick:</b> “If you can say ‘to,’ use the en dash.”</p>
+
+<h3>Rule 2: Show a connection between two things</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> the Delhi–Mumbai flight<br><span class="zp-yes">✓</span> the India–Pakistan match</div>
+<p>Here the dash stands in for “and,” “between” or “versus.” If the phrase means “from one to the other,” the en dash is the mark.</p>
+<p><b>An honest note for exam writers.</b> In handwriting, and in many everyday documents, people use a plain hyphen for ranges (10-15). Objective exams almost never ask you to choose between a hyphen and an en dash on a printed question. What they test is the bigger split: hyphen for joining words, and a long dash for breaking a sentence. Know the en dash for your own writing and for descriptive papers, and focus your exam practice on the hyphen and em dash traps.</p>
+<p>If you type, here are the shortcuts. On Windows: Alt+0150 for an en dash, and Alt+0151 for an em dash. On a Mac: Option+hyphen for an en dash, and Shift+Option+hyphen for an em dash.</p>
+
+<h2 id="section-em">Em dash rules with examples</h2>
+
+<h3>Rule 1: A sudden break or change in thought</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> He opened the envelope—and froze.<br><span class="zp-yes">✓</span> I thought I’d passed—until I saw the result.</div>
+
+<h3>Rule 2: A pair of dashes for extra information</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> My brother—who lives in Pune—is a doctor.</div>
+<p>A pair of em dashes works like a pair of commas or brackets, but it adds more emphasis. The pair must be complete. <span class="zp-no">✗ My brother—who lives in Pune is a doctor.</span> If you open with a dash, you must close with one. <b>Memory trick:</b> “Dashes come in pairs, unless the sentence ends.”</p>
+
+<h3>Rule 3: A dramatic explanation, like a strong colon</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> She had only one fear—failure.</div>
+<p>A colon would also work here (“She had only one fear: failure”). The colon is calmer and more formal. The em dash is more dramatic. Exams usually prefer the colon in formal sentences.</p>
+
+<h3>Rule 4: Interrupted speech</h3>
+<div class="zp-ex"><span class="zp-yes">✓</span> “I didn’t mean to—” she began.</div>
+<p>A dash at the end of a quotation shows that the speaker was cut off.</p>
+
+<h3>Spacing and style</h3>
+<p>Style guides differ. American style writes the em dash with no spaces (word—word). British style often uses a spaced en dash ( word – word ). Both are accepted. Choose one style and stay consistent. Don’t use a spaced hyphen ( word - word ) as a substitute for a dash in formal writing.</p>
+
+<h2 id="section-compare">Hyphen vs en dash vs em dash: side by side</h2>
+<div style="overflow-x:auto"><table>
+<tr><th>Feature</th><th>Hyphen ( - )</th><th>En dash ( – )</th><th>Em dash ( — )</th></tr>
+<tr><td>Memory word</td><td>JOINS</td><td>SPANS</td><td>BREAKS</td></tr>
+<tr><td>Length</td><td>Shortest</td><td>As wide as n</td><td>As wide as m</td></tr>
+<tr><td>Main job</td><td>Make one unit of words</td><td>Show a range or connection</td><td>Interrupt, emphasise or explain</td></tr>
+<tr><td>Test</td><td>Do the words act as one?</td><td>Can I say “to”?</td><td>Is there a sudden break or pair?</td></tr>
+<tr><td>Example</td><td>well-known author</td><td>pages 10–15</td><td>He left—suddenly.</td></tr>
+<tr><td>Exam frequency</td><td>High</td><td>Low</td><td>Medium</td></tr>
+</table></div>
+<p>If you’d like the complete reference, the book <i>Advanced Punctuation Mastery</i> has a chapter on hyphens versus dashes, plus rule summary tables and mnemonics in its quick reference section.</p>
+
+<h2 id="section-method">The 3-test method</h2>
+<p>When you meet a line in an exam sentence, run these three tests in order. It takes about ten seconds.</p>
+<div class="zp-box">
+<p><b>Test 1: Do the words work as one unit before a noun?</b> If yes, join them with a hyphen. Check that no -ly adverb is involved, and no plural noun hides inside the unit.</p>
+<p><b>Test 2: Can I say “to” between two things?</b> If yes, a range or connection needs an en dash. In exams, a hyphen often serves as an acceptable stand-in.</p>
+<p><b>Test 3: Is there a sudden break, a pair of extras, or a dramatic explanation?</b> If yes, an em dash fits. Check that the dashes come in a pair when they sit inside a sentence.</p>
+</div>
+
+<h2 id="section-mistakes">8 common mistakes (and fixes)</h2>
+<div class="zp-box">
+<p><b>1. A hyphen after the noun.</b> <span class="zp-no">✗ The author is well-known.</span> <span class="zp-yes">✓ The author is well known.</span></p>
+<p><b>2. A hyphen after an -ly adverb.</b> <span class="zp-no">✗ a highly-paid officer</span> <span class="zp-yes">✓ a highly paid officer</span></p>
+<p><b>3. A missing hyphen in a compound number.</b> <span class="zp-no">✗ twenty five students</span> <span class="zp-yes">✓ twenty-five students</span></p>
+<p><b>4. A plural inside a compound adjective.</b> <span class="zp-no">✗ a ten-years-old boy</span> <span class="zp-yes">✓ a ten-year-old boy</span></p>
+<p><b>5. A missing hyphen in a before-the-noun adjective.</b> <span class="zp-no">✗ an up to date report</span> <span class="zp-yes">✓ an up-to-date report</span></p>
+<p><b>6. An em dash for a range.</b> <span class="zp-no">✗ the years 2020—2025</span> <span class="zp-yes">✓ the years 2020–2025</span></p>
+<p><b>7. A spaced hyphen as a dash.</b> <span class="zp-no">✗ He left - suddenly.</span> <span class="zp-yes">✓ He left—suddenly.</span></p>
+<p><b>8. Only one dash in a pair.</b> <span class="zp-no">✗ My brother—who lives in Pune is a doctor.</span> <span class="zp-yes">✓ My brother—who lives in Pune—is a doctor.</span></p>
+</div>
+<p>Mistakes 1, 2 and 4 are the favourites in error spotting, because the sentence still sounds natural. Read each compound twice, once for meaning and once for the mark.</p>
+
+<h2>A pattern I see in almost every batch</h2>
+<p>Students usually think of the three lines as one mark in three sizes, and they pick by looks. The result is that they hyphenate everything or dash everything. A sentence with every line the same is a warning sign.</p>
+<p>The fix is a small habit. Take five sentences from any editorial, circle every hyphen or dash, and write JOIN, SPAN or BREAK next to each. Then look for compound adjectives before nouns and ask whether they have their hyphen. After two weeks, you’ll see these marks the way an examiner does.</p>
+
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Check the position.</b> A compound before the noun takes a hyphen. After the noun, it usually doesn’t.</p>
+<p><b>Check for -ly.</b> If the first word ends in -ly, delete the hyphen.</p>
+<p><b>Check the s.</b> A noun inside a compound adjective is singular.</p>
+<p><b>Say “to.”</b> If it fits between two numbers or places, it’s a range.</p>
+<p><b>Count the dashes.</b> A dash inside a sentence needs a partner.</p>
+</div>
+
+<h2 id="section-practice">Practice set: 10 questions</h2>
+<p>Choose the correct mark for each blank: a hyphen, an en dash, an em dash, or no mark. These are original practice sentences written for this guide.</p>
+<ol>
+<li>She is a well ___ known author.</li>
+<li>The exam will be held from 10 ___ 14 March.</li>
+<li>There are twenty ___ five students in the class.</li>
+<li>The Delhi ___ Mumbai flight was delayed.</li>
+<li>My brother ___ who lives in Pune ___ is a doctor.</li>
+<li>She is a highly ___ paid officer.</li>
+<li>It is an up ___ to ___ date report.</li>
+<li>He had only one fear ___ failure.</li>
+<li>Please read pages 20 ___ 25.</li>
+<li>She is very self ___ confident.</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. Hyphen. “Well-known” works as one adjective before “author.”</p>
+<p>2. En dash. A range, meaning “10 to 14.” (A hyphen is acceptable in most exam answer keys.)</p>
+<p>3. Hyphen. A compound number from twenty-one to ninety-nine.</p>
+<p>4. En dash. A connection between two places.</p>
+<p>5. Em dashes in both blanks. A pair sets off the extra information.</p>
+<p>6. No mark. An -ly adverb is never followed by a hyphen.</p>
+<p>7. Hyphens in both blanks. “Up-to-date” is one adjective before “report.”</p>
+<p>8. Em dash. A dramatic explanation. A colon would also work.</p>
+<p>9. En dash. A range, meaning “20 to 25.”</p>
+<p>10. Hyphen. The prefix “self-” takes a hyphen.</p>
+</div>
+<p>If you scored 9 or 10, you’re ready for harder questions. If you scored 6 to 8, revise the rule behind the ones you missed. If you scored below 6, go back to JOIN, SPAN, BREAK and the 3-test method, and retake the set after two days. <i>Advanced Punctuation Mastery</i> also includes practice questions, previous-year style exam questions and answer keys after every rule, so you can keep measuring your progress.</p>
+
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What is the difference between a hyphen and a dash?</h3>
+<p>A hyphen joins words into one unit, as in well-known. A dash separates parts of a sentence or shows a range. The en dash spans a range, and the em dash breaks the sentence for emphasis or extra information.</p>
+<h3>Is it “well known” or “well-known”?</h3>
+<p>Before a noun, write well-known (a well-known author). After the noun, write well known (The author is well known).</p>
+<h3>Do I use a hyphen or an en dash for page ranges?</h3>
+<p>In formal typesetting, an en dash is correct. In handwriting and everyday typing, a hyphen is widely used and accepted. Exam answer keys rarely penalise this choice.</p>
+<h3>Can I use a dash instead of a colon?</h3>
+<p>Often yes. A dash is more dramatic, and a colon is calmer and more formal. In formal exam sentences, the colon is usually the safer choice.</p>
+<h3>Why is it “a ten-year-old boy” and not “a ten-years-old boy”?</h3>
+<p>When the units act as an adjective before a noun, the noun inside stays singular. The same rule gives “a five-day workshop” and “a two-hour lecture.”</p>
+
+<h2>Your next step</h2>
+<p>The three lines look alike, but each has a clear job. Remember the line: the hyphen joins, the en dash spans and the em dash breaks. Run the 3-test method on every compound and dash you meet, and a wrong mark will stand out immediately.</p>
+<p>When you want every punctuation mark covered with rules, exam-style questions, memory aids and answer keys in one place, grab <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> on Amazon: <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4irsiSu</a></p>
+<p>Which of the three marks has confused you the most? Tell me in the comments, and I’ll explain it in more detail.</p>
+
+</div>
+
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Hyphen vs Dash: En Dash, Em Dash and Hyphen Rules Made Simple",
+    "description": "Learn hyphen vs dash rules with examples: en dash, em dash and hyphen, the JOIN, SPAN, BREAK memory trick, 8 common mistakes and a 10-question practice set.",
+    "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/hyphen-vs-dash-hero.webp",
+    "datePublished": "2026-10-23",
+    "dateModified": "2026-10-23",
+    "author": {
+      "@type": "Person",
+      "name": "Balu Kandekar"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ZeroErrorEnglishPro"
+    },
+    "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/hyphen-vs-dash-en-dash-em-dash-rules/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the difference between a hyphen and a dash?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A hyphen joins words into one unit, as in well-known. A dash separates parts of a sentence or shows a range. The en dash spans a range and the em dash breaks the sentence for emphasis or extra information."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it well known or well-known?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Before a noun, write well-known, as in a well-known author. After the noun, write well known, as in The author is well known."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I use a hyphen or an en dash for page ranges?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In formal typesetting an en dash is correct. In handwriting and everyday typing a hyphen is widely used and accepted. Exam answer keys rarely penalise this choice."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use a dash instead of a colon?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Often yes. A dash is more dramatic, and a colon is calmer and more formal. In formal exam sentences the colon is usually the safer choice."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is it a ten-year-old boy and not a ten-years-old boy?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "When the units act as an adjective before a noun, the noun inside stays singular. The same rule gives a five-day workshop and a two-hour lecture."
+        }
+      }
+    ]
+  }
+]
+    }
   ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
