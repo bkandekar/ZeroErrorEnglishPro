@@ -13306,15 +13306,15 @@ If you nodded at two or more, keep reading.
 
 </div>
 
-[
+
   {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "Hyphen vs Dash: En Dash, Em Dash and Hyphen Rules Made Simple",
     "description": "Learn hyphen vs dash rules with examples: en dash, em dash and hyphen, the JOIN, SPAN, BREAK memory trick, 8 common mistakes and a 10-question practice set.",
     "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/hyphen-vs-dash-hero.webp",
-    "datePublished": "2026-10-23",
-    "dateModified": "2026-10-23",
+    "datePublished": "2026-10-24",
+    "dateModified": "2026-10-24",
     "author": {
       "@type": "Person",
       "name": "Balu Kandekar"
@@ -13371,7 +13371,7 @@ If you nodded at two or more, keep reading.
       }
     ]
   }
-]
+
     }
   ];
 /**
