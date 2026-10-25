@@ -13375,7 +13375,345 @@ If you nodded at two or more, keep reading.
 ]
 </script>
 `
+    },
+  {
+  slug: "advanced-punctuation-mastery-ebook-guide",
+  title: "Day 7 Advanced Punctuation Mastery: The Complete Guide to Error-Free English for Competitive Aspirants",
+  category: "Punctuation Mastery",
+  readingTime: "14 min read",
+  difficulty: "Beginner",
+  bookId: 4,
+  publishDate: "2026-10-25",
+  description: "Meet the Advanced Punctuation Mastery ebook for SSC, banking, UPSC, IELTS and competitive exams: what is inside, who it is for, price, a 30-day plan and a readiness check.",
+  formula: "PAUSE = COMMA | STOP = PERIOD | JOIN = SEMICOLON | INTRODUCE = COLON | EMPHASIZE = DASH | LIST = OXFORD",
+  body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/advanced-punctuation-mastery-ebook-hero.webp"
+     alt="Advanced Punctuation Mastery: a complete guide to error-free English for competitive aspirants"
+     style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
+
+<p>Six days ago we began with the building blocks of clear writing. You learned how a single missing comma can change the meaning of a sentence, how a misplaced semicolon can cost marks in descriptive papers, and how the correct use of the colon and em dash can make your answers look polished and professional. If you have worked through even half of the free posts, your eye for punctuation is already sharper than it was a week ago.</p>
+
+<p>Now let me be honest with you. These blog posts are lessons, and they will stay free. But marks in competitive exams come from seeing the whole topic in the right order, practising it in large numbers and revising it quickly before a test. That is why I wrote a full book on this topic: <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b>.</p>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Book on Amazon</a><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Is this book right for you? Check these five lines:</b>
+<ol>
+<li>You're preparing for SSC, banking, UPSC, GRE, IELTS, CAT, CLAT, state exams or a school board exam.</li>
+<li>You lose marks in error spotting, sentence improvement or descriptive writing because of punctuation.</li>
+<li>You understand the rules when you read them, but forget them under exam pressure.</li>
+<li>You want a large amount of graded practice with solutions in one place.</li>
+<li>You'd rather build the habit a little every day than panic the night before a test.</li>
+</ol>
+If you nodded at two or more, keep reading.
+</div>
+
+<h3>In This Guide</h3>
+<ol>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-1').scrollIntoView({behavior:'smooth'})">Your 6-day recap: what you've already learned</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-2').scrollIntoView({behavior:'smooth'})">5 mistakes you can stop making this month</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-3').scrollIntoView({behavior:'smooth'})">Why punctuation deserves a complete book</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-4').scrollIntoView({behavior:'smooth'})">What's inside the book</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-5').scrollIntoView({behavior:'smooth'})">Memory tricks from the week (screenshot this)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-6').scrollIntoView({behavior:'smooth'})">Who is this book for?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-7').scrollIntoView({behavior:'smooth'})">Free posts vs the book: what's the difference?</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Price and formats</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-9').scrollIntoView({behavior:'smooth'})">A 30-day plan to master punctuation</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Quick readiness check: 5 questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-11').scrollIntoView({behavior:'smooth'})">The cost of waiting</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-12').scrollIntoView({behavior:'smooth'})">How to judge any grammar book (including mine)</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-13').scrollIntoView({behavior:'smooth'})">Three honest objections, answered</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-14').scrollIntoView({behavior:'smooth'})">Frequently asked questions</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-15').scrollIntoView({behavior:'smooth'})">What to do in the next 10 minutes</a></li>
+  <li><a href="javascript:void(0)" onclick="document.getElementById('section-16').scrollIntoView({behavior:'smooth'})">Your next step</a></li>
+</ol>
+
+<h2 id="section-1">Your 6-day recap: what you've already learned</h2>
+
+<p>Before we talk about the book, here's a quick map of this week's posts. If you missed any, open them now. They show you exactly how I teach.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Day</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Post</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">The one idea to remember</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/period-and-full-stop-rules/">Period and full stop rules</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Every complete thought needs a stop. Incomplete thoughts do not.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-with-examples/">Comma rules with examples</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">PAUSE = COMMA. Lists, openers, interrupters and non-restrictive clauses.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-and-colon-mastery/">Semicolon and colon mastery</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">JOIN related ideas with semicolon. INTRODUCE with colon.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/dash-hyphen-parentheses/">Dash, hyphen and parentheses</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">EMPHASIZE with em dash. CONNECT with hyphen. ASIDE with parentheses.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">5</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/quotation-marks-apostrophe-ellipsis/">Quotation marks, apostrophe and ellipsis</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">QUOTE the exact words. OWN the possession. TRAIL with three dots.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">6</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/punctuation-exercises-with-answers/">50+ punctuation exercises with answers</a></td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Keep an error log and retake the set after three days.</td></tr>
+</table></div>
+
+<h2 id="section-2">5 mistakes you can stop making this month</h2>
+
+<p>Here are five slips I see in almost every batch. Every one of them was covered this week, and every one is easy to fix once you've seen it.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Common slip</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Correct form</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Where we covered it</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I went to the market, and bought milk vegetables and bread.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">I went to the market and bought milk, vegetables and bread.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 2</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The students who scored high marks, were given certificates.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">The students who scored high marks were given certificates.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 2</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She said "I will come tomorrow".</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">She said, "I will come tomorrow."</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 5</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Its a beautiful day outside.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">It's a beautiful day outside.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 5</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He studied hard however he failed the test.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">He studied hard; however, he failed the test.</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Day 3</td></tr>
+</table></div>
+
+<p>Imagine fixing just these five in your own answers. That alone could save you several marks across a few mock tests, and these five are only the beginning.</p>
+
+<h2 id="section-3">Why punctuation deserves a complete book</h2>
+
+<p>Punctuation looks like one topic. It is really eight topics wearing one coat: the period, the comma, the semicolon, the colon, the dash, the hyphen, quotation marks and the apostrophe. Each has its own rules and its own exceptions. A mistake in any one of them costs the whole answer in error-spotting or descriptive writing.</p>
+
+<p>And exams do not test the topic in just one form. You may be asked to correct a sentence, choose the correctly punctuated option, spot the error in a long passage or write a precise paragraph. To be ready for all of these, you need three things that a single blog post cannot give you: a clear order of learning, a large amount of practice and one place to revise from.</p>
+
+<p>A good book gives you all three. It teaches the rules in sequence, so you never meet a hard idea before you are ready for it. It gives you drills right after each idea, so you test yourself while the idea is fresh. And it gives you one thing to open the week before an exam, instead of twenty browser tabs.</p>
+
+<h2 id="section-4">What's inside the book</h2>
+
+<p>Here's what the book offers, as described on its Amazon page. It runs to 263 pages and is available as a paperback.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Feature</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What it gives you</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Complete rules for every mark</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">From the period and comma to the semicolon, colon, em dash and advanced symbols.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Common punctuation mistakes</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Practice in spotting the usual blunders that cost marks in competitive papers.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Exam-oriented examples</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Real examples drawn from UPSC, SSC, banking, GRE, IELTS and academic writing.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Practical professional tips</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Guidance on using punctuation correctly in emails, reports, interviews and presentations.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Exercises to test and strengthen</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Graded drills that move from basic identification to advanced correction and rewriting.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Logic behind the rules</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Not just "do this", but why the rule exists so you remember it under pressure.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Step-by-step strategies</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">A clear path from confusion to confident, error-free writing.</td></tr>
+</table></div>
+
+<p>Please check the Amazon page for the latest description and sample pages before you decide. It is the right way to buy any study material.</p>
+
+<h2 id="section-5">Memory tricks from the week (screenshot this)</h2>
+
+<p>Here's every shortcut from this week's posts in one table. Save it, and read it aloud once a day. These tricks are the heart of how I teach.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">What to remember</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Memory shortcut</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Period / Full stop</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>STOP the thought</b>. Incomplete thoughts never get a period.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Comma</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>PAUSE = COMMA</b>. Lists, openers, interrupters, non-restrictive clauses.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Oxford comma</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>LIST = OXFORD</b>. Always put the final comma before "and" or "or".</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Semicolon</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>JOIN related ideas</b>. Two independent clauses that belong together.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Colon</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>INTRODUCE</b>. Lists, explanations, quotations that follow a complete clause.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Em dash</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>EMPHASIZE</b>. Sudden break, strong interruption or dramatic addition.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Hyphen</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>CONNECT</b>. Compound adjectives before a noun and certain prefixes.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Apostrophe</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>OWN or CONTRACT</b>. Possession or missing letters. Never for plurals.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Quotation marks</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>QUOTE the exact words</b>. Comma and period go inside in American style.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Parentheses</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;"><b>ASIDE</b>. Extra information that can be removed without breaking the sentence.</td></tr>
+</table></div>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Book on Amazon</a><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
+
+<h2 id="section-6">Who is this book for?</h2>
+
+<ul>
+<li><b>Class 11 and 12 students</b> (CBSE, ICSE and state boards) who want a strong base in punctuation for board exams and competitive tests.</li>
+<li><b>SSC and banking aspirants</b> (CGL, CHSL, IBPS, SBI, RBI) who face error spotting, sentence improvement and descriptive writing.</li>
+<li><b>UPSC, state PSC and defence candidates</b> (CDS, CAPF) who need accuracy in the English section and essay papers.</li>
+<li><b>GRE, IELTS, TOEFL, CAT and CLAT test-takers</b> who want to eliminate punctuation errors that lower band scores or percentile.</li>
+<li><b>Teachers, content writers and professionals</b> who want to write with clarity, precision and confidence.</li>
+<li><b>English learners</b> who want to stop sounding "off" in emails, reports and formal writing.</li>
+</ul>
+
+<p>If you're starting from absolute basics, begin with this week's free posts, and then move to the book when you're ready for larger practice. If you already know the rules and keep losing marks, the drills and exam-oriented examples are what you need.</p>
+
+<h2 id="section-7">Free posts vs the book: what's the difference?</h2>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;"></th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">This week's free posts</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">The book</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Format</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Six separate lessons on the website</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">One book (263 pages) you can read and revise from start to finish</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Best for</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Understanding one idea at a time</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">A complete system with large-scale practice and exam focus</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Practice</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">50+ exercises in one post</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Extensive graded drills, common-mistake sections and exam-style applications</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Revision</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You open several pages</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">You open one book, with clear rules, logic and professional tips</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Cost</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Free</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Paid, with the current price on the Amazon page</td></tr>
+</table></div>
+
+<p>If a free post is enough for you, I'm glad. If you want to go deeper and keep everything in one place, the book is there for you.</p>
+
+<h2 id="section-8">Price and formats</h2>
+
+<p>At the time of writing, the paperback is listed at $11.99. Prices on Amazon can change, so please check the book page for the current price in your region before you buy.</p>
+
+<p><b>Book link:</b> <a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener">Open the book page on Amazon</a>.</p>
+
+<p>Product details: ASIN B0FSKRLRTM | Independently published | Publication date 24 September 2025 | Language English | Print length 263 pages | ISBN-13 979-8266975972 | Item weight 1.69 pounds | Dimensions 8.5 x 0.6 x 11 inches | Reading age 12–18 years.</p>
+
+<h2 id="section-9">A 30-day plan to master punctuation</h2>
+
+<p>A book only helps if you use it. Here's the plan I'd follow if I were preparing today. It takes about 20 minutes a day.</p>
+
+<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;margin:14px 0 20px;font-size:14px;">
+<tr><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Week</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Focus</th><th style="background:#1B3A6B;color:#fff;padding:9px 10px;text-align:left;border:1px solid #1B3A6B;">Daily routine</th></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">1</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Period, comma and Oxford comma</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Read one section, say the shortcut aloud and correct ten sentences.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">2</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Semicolon, colon, dash and hyphen</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Convert or correct ten sentences a day and keep an error log.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">3</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Quotation marks, apostrophe and parentheses</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Do graded drills from basic to advanced and revise your log.</td></tr>
+<tr><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">4</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Exam practice and mixed passages</td><td style="border:1px solid #d5dbe8;padding:8px 10px;vertical-align:top;">Solve previous-year style questions against a timer and retake what you got wrong.</td></tr>
+</table></div>
+
+<p>After thirty days, you won't just know the rules. You'll have a notebook of your own mistakes, a head full of shortcuts and the confidence that comes from seeing the same patterns again and again.</p>
+
+<h2 id="section-10">Quick readiness check: 5 questions</h2>
+
+<p>Correct the punctuation in these sentences without looking at anything. This is a quick check, not a test.</p>
+
+<ol>
+<li>The candidates who scored above ninety percent were given certificates however the others were asked to reappear.</li>
+<li>She said I will submit the form tomorrow.</li>
+<li>Its important to revise the rules before the exam.</li>
+<li>He bought pens pencils notebooks and an eraser.</li>
+<li>The report which was submitted late was rejected.</li>
+</ol>
+
+<div style="background:#f0f7ff;border-left:4px solid #1B3A6B;padding:15px;margin:20px 0;">
+<b>Answers:</b>
+<br>1) The candidates who scored above ninety percent were given certificates; however, the others were asked to reappear.
+<br>2) She said, "I will submit the form tomorrow."
+<br>3) It's important to revise the rules before the exam.
+<br>4) He bought pens, pencils, notebooks and an eraser.
+<br>5) The report, which was submitted late, was rejected. (or without commas if the clause is restrictive)
+<br><br>
+<b>If you got all five:</b> excellent. Keep revising with the shortcuts, and use the book for extra practice and exam-style applications.
+<br>
+<b>If you got three or four:</b> you have a good base, with a few gaps. Focused practice is exactly what fills them.
+<br>
+<b>If you got two or fewer:</b> reread this week's free posts, then move to the book for the full system.
+</div>
+
+<h2 id="section-11">The cost of waiting</h2>
+
+<p>I won't invent a fake deadline, because there isn't one. But here's something true. Marks lost in punctuation questions are marks you don't get back. Mock test after mock test, the same slips repeat: missing Oxford commas, wrong apostrophes, run-on sentences without semicolons, quotation marks placed incorrectly. Each repeat is a mark you could have saved.</p>
+
+<p>The student who starts today has weeks of practice before the exam. The student who starts the night before has a long list and a lot of worry. Nobody ever wishes they'd started later.</p>
+
+<div style="background:#0b1f4b;color:#ffffff;padding:26px 22px;border-radius:8px;text-align:center;margin:30px 0;">
+<div style="font-size:22px;font-weight:bold;color:#f2c94c;margin-bottom:10px;font-family:Arial,sans-serif;">Stop losing marks in punctuation</div>
+<div style="font-size:17px;color:#ffffff;margin-bottom:14px;">Get <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> and start your 30-day plan today.</div>
+<a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Book on Amazon</a><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:transparent;color:#ffffff;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a>
+</div>
+
+<h2 id="section-12">How to judge any grammar book (including mine)</h2>
+
+<p>Before you spend money on any study material, ask these four questions. I'd want you to ask them about my book too.</p>
+
+<ol>
+<li><b>Does it explain in simple language?</b> If you need a dictionary to understand the rule, it's the wrong book.</li>
+<li><b>Does it give examples for every idea?</b> A rule without a sentence is just a slogan.</li>
+<li><b>Does it let you practise, with answers?</b> Reading builds understanding. Practice with solutions builds accuracy.</li>
+<li><b>Does it fit your exam?</b> A general English book is different from one built around the patterns your exam uses.</li>
+</ol>
+
+<p>Open the Amazon page, read the description and the sample, and judge against these four questions. That's how a smart student buys study material.</p>
+
+<h2 id="section-13">Three honest objections, answered</h2>
+
+<p><b>"I can learn this free from videos and websites."</b> You can, and many students do. The challenge is organising what you find and getting enough practice before the exam. A single book with graded drills, common-mistake sections and exam-oriented examples saves you that effort.</p>
+
+<p><b>"I don't have time."</b> The plan above takes about 20 minutes a day. If you can scroll your phone for 20 minutes, you can fix punctuation.</p>
+
+<p><b>"My English is weak."</b> Then start early, not late. Punctuation is one of the most rule-based topics in grammar, which means steady practice shows results quickly. A few weeks of work can change how your very next practice test feels.</p>
+
+<h2 id="section-14">Frequently asked questions</h2>
+
+<h3>Who is the Advanced Punctuation Mastery book for?</h3>
+<p>It's written for Class 11 and 12 students, SSC and banking aspirants, UPSC, state PSC and defence candidates, GRE, IELTS, TOEFL, CAT and CLAT test-takers, teachers, writers and English learners who want a complete system for error-free punctuation.</p>
+
+<h3>Where can I get the book?</h3>
+<p>It's available on Amazon as a paperback. Tap any "Get the Book on Amazon" button in this post to open the book page, where you can see the current price and details.</p>
+
+<h3>What does it include besides the rules?</h3>
+<p>According to its Amazon page, it includes complete rules and usage of all punctuation marks, common punctuation mistakes and how to avoid them, examples from competitive exams and academic writing, practical tips for professional communication, and exercises to test and strengthen your skills.</p>
+
+<h3>Is the book only for competitive exams?</h3>
+<p>No. While it is written with competitive aspirants in mind, the same rules apply to academic writing, professional emails, reports and everyday formal communication. The book helps anyone who wants to write with clarity and confidence.</p>
+
+<h3>Will the free blog posts remain available?</h3>
+<p>Yes. All six lessons from this week stay on the site, and I'll keep adding new ones. The book is for students who want everything in one place, with much more practice and professional guidance.</p>
+
+<h3>Who wrote the book?</h3>
+<p>I did. I'm Balu Kandekar, an English grammar educator from Pune with 22 years of teaching experience and more than 15 years of coaching students for competitive exams.</p>
+
+<h2 id="section-15">What to do in the next 10 minutes</h2>
+
+<ol>
+<li><b>Screenshot the shortcut table</b> above, so it's one tap away on your phone.</li>
+<li><b>Bookmark this week's six posts</b> for revision.</li>
+<li><b>Open the book page on Amazon</b>, read the description and look at the sample.</li>
+<li><b>Start the 20-minute routine tonight.</b> Don't wait for the first of the month.</li>
+<li><b>Send this post to one friend</b> who struggles with punctuation.</li>
+</ol>
+
+<p>Small steps, taken today, beat big plans made tomorrow.</p>
+
+<h2 id="section-16">Your next step</h2>
+
+<p>You've read six lessons, tried the practice and seen the shortcuts. The only thing left is to turn that knowledge into a habit. A little practice every day, with the right material, makes punctuation one of the easiest scoring areas in the English paper and in every piece of formal writing you produce.</p>
+
+<p style="text-align:center;margin:26px 0;"><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#c9a227;color:#0b1f4b;font-weight:bold;font-size:18px;padding:15px 30px;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">Get the Book on Amazon</a><a href="https://www.amazon.com/dp/B0FSKRLRTM" target="_blank" rel="noopener" style="display:inline-block;background:#ffffff;color:#0b1f4b;font-weight:bold;font-size:17px;padding:13px 26px;border:2px solid #c9a227;border-radius:6px;text-decoration:none;font-family:Arial,sans-serif;margin:6px;">See the Book Page on Amazon</a></p>
+
+<p>And if this week helped you, send it to one friend preparing for the same exam. A good tip shared is a mark saved for two people.</p>
+
+<div style="background:#f0f7ff;padding:15px;border-radius:8px;margin:28px 0;font-size:14px;">
+<b>About the author:</b> Balu Kandekar is an English grammar educator based in Pune with 22 years of teaching experience and more than 15 years of coaching students for SSC, banking, railway, UPSC, NDA/CDS, MPSC and Class 12 English. He is the author of the Fasttrack English Grammar / Zero Errors series on Amazon KDP.
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the Advanced Punctuation Mastery book for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's written for Class 11 and 12 students, SSC and banking aspirants, UPSC, state PSC and defence candidates, GRE, IELTS, TOEFL, CAT and CLAT test-takers, teachers, writers and English learners who want a complete system for error-free punctuation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get the book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's available on Amazon as a paperback. Tap any \\"Get the Book on Amazon\\" button in this post to open the book page, where you can see the current price and details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does it include besides the rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "According to its Amazon page, it includes complete rules and usage of all punctuation marks, common punctuation mistakes and how to avoid them, examples from competitive exams and academic writing, practical tips for professional communication, and exercises to test and strengthen your skills."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the book only for competitive exams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. While it is written with competitive aspirants in mind, the same rules apply to academic writing, professional emails, reports and everyday formal communication. The book helps anyone who wants to write with clarity and confidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will the free blog posts remain available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. All six lessons from this week stay on the site, and I'll keep adding new ones. The book is for students who want everything in one place, with much more practice and professional guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who wrote the book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I did. I'm Balu Kandekar, an English grammar educator from Pune with 22 years of teaching experience and more than 15 years of coaching students for competitive exams."
+      }
     }
+  ]
+}
+</script>
+`
+}
+  
   ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
