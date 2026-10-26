@@ -14014,7 +14014,7 @@ If you nodded at two or more, keep reading.
     category: "Sentence Improvement",
     readingTime: "13 min read",
     difficulty: "Intermediate",
-    bookId: 0, // KEEP your existing bookId for Clauses & Phrases Demystified
+    bookId: 8, // KEEP your existing bookId for Clauses & Phrases Demystified
     publishDate: "2026-10-27",
     description: "Practice combining sentences with 20 exercises and answers. Learn and, but, because, although, if, who and -ing patterns with clear explanations.",
     formula: "Ask how the ideas relate -> Pick the matching connector -> Join and check punctuation",
