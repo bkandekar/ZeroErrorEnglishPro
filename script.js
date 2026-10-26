@@ -14216,55 +14216,6 @@ If you nodded at two or more, keep reading.
 </div>
 `
     
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is sentence combining?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It's joining two or more short sentences into one longer sentence so that the relationship between the ideas is clear. You can use connectors, relative pronouns or short phrases."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Should I always use a comma when I combine sentences?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not always. Use a comma after an opening clause and before but, so or or when each side is a full sentence. You usually don't need one when the connecting clause comes second, as in 'We stayed home because it was raining.'"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can there be more than one correct answer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Many pairs can be joined in several correct ways. What matters is that the connector matches the relationship, no detail is lost and the punctuation is right."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many sentences should I combine at once?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Two is a good start. Joining three or more often makes a sentence that's hard to read, even when each connector is correct."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is sentence combining useful for exams?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Sentence improvement and sentence transformation questions test the same skill. Always check the latest official notification for your exam pattern."
-      }
-    }
-  ]
-}
-</script>
-
   }
 
   
