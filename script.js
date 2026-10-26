@@ -13750,7 +13750,7 @@ If you nodded at two or more, keep reading.
     readingTime: "13 min read",
     difficulty: "Intermediate",
     bookId: 12,
-    publishDate: "2026-10-27",
+    publishDate: "2026-10-26",
     description: "25 English grammar shortcuts for SSC CGL error spotting, each with a memory trick, a wrong sentence and its fix. Learn rules you can recall in seconds.",
     formula: "Spot the TRAPS: Tense, Right verb, Articles, Prepositions, Special patterns",
     body: `
