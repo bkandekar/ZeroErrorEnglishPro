@@ -14225,7 +14225,7 @@ If you nodded at two or more, keep reading.
     readingTime: "13 min read",
     difficulty: "Intermediate",
     bookId: 12,
-    publishDate: "2026-10-27",
+    publishDate: "2026-10-28",
     description: "Learn 10 subject-verb agreement tricks with memory hooks, wrong-and-right examples and a practice set. Spot the error in about 10 seconds.",
     formula: "Cut the extras -> Find the real subject -> Match the verb",
     body: `
@@ -14439,7 +14439,195 @@ If you nodded at two or more, keep reading.
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the fastest way to solve subject-verb agreement questions?", "acceptedAnswer": {"@type": "Answer", "text": "Cut the extras, find the real subject and match the verb to it. Crossing out of-phrases and words between commas solves most questions in a few seconds."}}, {"@type": "Question", "name": "Does the verb agree with the first or the last subject in either…or sentences?", "acceptedAnswer": {"@type": "Answer", "text": "It agrees with the subject nearest to it. In “Either the captain or his teammates have to submit,” the verb matches “teammates.”"}}, {"@type": "Question", "name": "Is the word news singular or plural?", "acceptedAnswer": {"@type": "Answer", "text": "Singular. Words like news, mathematics, physics and economics end in s but take singular verbs in exam questions."}}, {"@type": "Question", "name": "How many agreement questions come in SSC CGL?", "acceptedAnswer": {"@type": "Answer", "text": "There’s no fixed number, because agreement hides inside error spotting, fill in the blanks and sentence improvement. Check the latest official notification for your exam pattern."}}, {"@type": "Question", "name": "Do the same tricks work for bank and state exams?", "acceptedAnswer": {"@type": "Answer", "text": "The grammar rules are the same across exams, so the tricks carry over. Always check the latest notification for each exam’s pattern."}}]}
 </script>
 `
-  }
+  },
+  // Paste into script.js: inside const ARTICLES = [ ... ], right after the closing } of the most recent article (make sure that one ends with a comma), before the closing ];
+  {
+    slug: "run-on-sentences-comma-splices-how-to-fix-them",
+    title: "Run-On Sentences and Comma Splices: How to Fix Them",
+    category: "Punctuation",
+    readingTime: "14 min read",
+    difficulty: "Intermediate",
+    bookId: 0, // KEEP your existing bookId for Advanced Punctuation Mastery
+    publishDate: "2026-10-26",
+    description: "Learn what run-on sentences and comma splices are and fix them with 5 simple methods, clear examples and a practice set with answers.",
+    formula: "Both halves can stand alone? -> Then use a full stop, semicolon or comma plus conjunction",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/run-on-sentences-comma-splices-hero.webp" alt="How to fix run-on sentences and comma splices with five simple methods" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Read this sentence: “I finished my homework, I went to the park.” It looks tidy. There’s a capital letter, a comma and a full stop. But a careful reader will stumble, because two complete sentences have been stuck together with nothing stronger than a comma.</p>
+<p>That’s a comma splice, and its close cousin is the run-on sentence. They’re among the most common mistakes in English writing, and the good news is that they’re among the easiest to fix once you know what to look for.</p>
+<p>This guide explains both errors in plain language, shows five ways to fix each one, warns you about the sneaky connectors that cause splices, and gives you a ten-sentence practice set with answers. I’ve taught English grammar for 22 years, and I’ve seen this one mistake appear in school essays, office emails and exam answers alike. If you want to practise joining sentences correctly afterwards, try my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">sentence combining exercises</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-what').scrollIntoView({behavior:'smooth'})">What is a run-on sentence?</li>
+<li onclick="document.getElementById('section-test').scrollIntoView({behavior:'smooth'})">The stand-alone test</li>
+<li onclick="document.getElementById('section-fixes').scrollIntoView({behavior:'smooth'})">5 ways to fix a run-on or comma splice</li>
+<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">The however trap and other sneaky causes</li>
+<li onclick="document.getElementById('section-exceptions').scrollIntoView({behavior:'smooth'})">When a comma is allowed</li>
+<li onclick="document.getElementById('section-makeover').scrollIntoView({behavior:'smooth'})">A short paragraph makeover</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">Mistakes to avoid</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-what">What is a run-on sentence?</h2>
+<p>A run-on sentence happens when two or more complete sentences are joined without the right punctuation or connector. A complete sentence, also called an independent clause, has a subject and a verb and can stand alone. There are two main kinds of run-on.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Type</th><th>Example</th><th>What went wrong</th></tr>
+<tr><td>Fused sentence</td><td>The shop was closed we went home.</td><td>No punctuation at all between two sentences.</td></tr>
+<tr><td>Comma splice</td><td>The shop was closed, we went home.</td><td>Only a comma between two sentences.</td></tr>
+</table></div>
+<p>Notice that length has nothing to do with it. A short sentence can be a run-on, and a long sentence can be perfectly correct. The problem is the join, not the size.</p>
+<h2 id="section-test">The stand-alone test</h2>
+<p>You can find a run-on with one question. Split the sentence at the point where you suspect the problem and ask whether each half can stand alone as a sentence.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“Two full sentences need a rope, not a comma.”</b></p>
+<p style="margin:0">
+<b>Left half</b> can stand alone?<br>
+<b>Right half</b> can stand alone?<br>
+If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a connector</p>
+</div>
+<p>Try it on “She loves music, she plays the guitar every day.” Both halves stand alone, and only a comma holds them together, so it’s a splice. Now try “Although she was tired, she kept working.” The first half can’t stand alone, so the comma is correct.</p>
+<h2 id="section-fixes">5 ways to fix a run-on or comma splice</h2>
+<p>Take one broken sentence and fix it five different ways. Each fix gives a slightly different feel, so pick the one that matches what you want to say.</p>
+<p>Our broken sentence is: <b>“I finished my homework, I went to the park.”</b></p>
+<h3>Fix 1: Use a full stop</h3>
+<div class="zp-ex"><span class="zp-yes">✓ I finished my homework. I went to the park.</span></div>
+<p>Split the two sentences. This is the safest fix and works every time. <b>Memory trick:</b> “When in doubt, stop.”</p>
+<h3>Fix 2: Use a semicolon</h3>
+<div class="zp-ex"><span class="zp-yes">✓ I finished my homework; I went to the park.</span></div>
+<p>A semicolon joins two closely related sentences. Don’t capitalise the word after it. <b>Memory trick:</b> “A semicolon is a full stop that keeps its eyes on the next sentence.” See the difference in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-vs-colon-rules-with-examples/">semicolon vs colon rules</a>.</p>
+<h3>Fix 3: Use a comma and a conjunction</h3>
+<div class="zp-ex"><span class="zp-yes">✓ I finished my homework, and I went to the park.</span></div>
+<p>Add a comma plus one of the FANBOYS words: for, and, nor, but, or, yet, so. <b>Memory trick:</b> “Comma plus FANBOYS is the rope.”</p>
+<h3>Fix 4: Make one idea depend on the other</h3>
+<div class="zp-ex"><span class="zp-yes">✓ After I finished my homework, I went to the park.</span></div>
+<p>Turn one sentence into a dependent clause with a word like because, although, after or when. Put a comma after it if it comes first. <b>Memory trick:</b> “Make one sentence lean on the other.” This is the same skill as <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/">combining sentences using clauses</a>.</p>
+<h3>Fix 5: Turn one sentence into a phrase</h3>
+<div class="zp-ex"><span class="zp-yes">✓ Having finished my homework, I went to the park.</span></div>
+<p>If both sentences share a subject, shorten one into an -ing phrase. <b>Memory trick:</b> “Same doer, shorter sentence.”</p>
+<h2 id="section-traps">The however trap and other sneaky causes</h2>
+<p>Some splices are harder to see because the second sentence starts with a word that looks like a connector but isn’t one.</p>
+<div class="zp-box">
+<p><b>Trap 1: However, therefore, moreover and then.</b> These words are not conjunctions. “He was tired, however he kept working” is a splice. Use a semicolon before the word and a comma after it: “He was tired; however, he kept working.”</p>
+<p><b>Trap 2: A pronoun starts the second half.</b> When the second part begins with he, she, it, they or this, check carefully. “It was late, it was dark” is a splice.</p>
+<p><b>Trap 3: A command followed by a result.</b> “Study hard, you will pass” is a splice. Fix it with “Study hard, and you will pass.”</p>
+<p><b>Trap 4: A long sentence that feels finished.</b> Writers run on because the thought feels continuous. If you take a breath, you probably need a full stop.</p>
+</div>
+<p>A quick memory aid for Trap 1: “However needs a semicolon in front and a comma behind.” You can find more comma and connector rules in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">comma rules in English grammar</a>.</p>
+<h2 id="section-exceptions">When a comma is allowed</h2>
+<p>Not every comma between two clauses is wrong. Here are the cases where it’s fine.</p>
+<div class="zp-box">
+<p><b>A comma and a conjunction.</b> “I was tired, but I kept working.” The conjunction does the work.</p>
+<p><b>A dependent clause first.</b> “Although I was tired, I kept working.” The first half can’t stand alone.</p>
+<p><b>A list of short, parallel clauses.</b> “I came, I saw, I conquered” is a famous stylistic exception. Use it deliberately, and rarely.</p>
+</div>
+<h2 id="section-makeover">A short paragraph makeover</h2>
+<p>Here’s a paragraph with three problems. Read it aloud and notice where you take a breath.</p>
+<div class="zp-box">
+<p><b>Before:</b> The bus was late, I waited for twenty minutes it was cold. I was tired however I kept waiting, finally it arrived.</p>
+</div>
+<p>The first sentence has a splice, then a fused sentence. The second has the however trap, then another splice. Here’s the repaired version.</p>
+<div class="zp-box">
+<p><b>After:</b> The bus was late, so I waited for twenty minutes in the cold. I was tired; however, I kept waiting, and finally it arrived.</p>
+</div>
+<p>Notice that I used three different fixes: a conjunction with a comma, a semicolon with however, and a comma with and. Using a mix keeps your writing from sounding mechanical.</p>
+<h2 id="section-practice">Practice set: 10 sentences to fix</h2>
+<p>Decide whether each sentence is correct, a comma splice or a fused sentence, then fix it. Your fix may differ from mine, and that’s fine if it follows the stand-alone test.</p>
+<ol>
+<li>I finished my homework, I went to the park.</li>
+<li>The shop was closed we went home.</li>
+<li>She loves music, she plays the guitar every day.</li>
+<li>It was raining we stayed inside.</li>
+<li>He is tired, however he keeps working.</li>
+<li>My brother lives in Dubai he works in a bank.</li>
+<li>I like tea, but my sister likes coffee.</li>
+<li>The movie was long, it was also boring.</li>
+<li>Study hard, you will pass.</li>
+<li>She was late the bus had broken down.</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. I finished my homework, and I went to the park. (Or use a full stop or a semicolon.) <i>(comma splice)</i></p>
+<p>2. The shop was closed, so we went home. <i>(fused sentence)</i></p>
+<p>3. She loves music, and she plays the guitar every day. <i>(comma splice)</i></p>
+<p>4. Because it was raining, we stayed inside. <i>(fused sentence, fixed by making one idea depend on the other)</i></p>
+<p>5. He is tired; however, he keeps working. <i>(the however trap)</i></p>
+<p>6. My brother lives in Dubai, where he works in a bank. <i>(fused sentence, fixed with where)</i></p>
+<p>7. Correct as written. <i>(a comma plus but is the rope)</i></p>
+<p>8. The movie was long and boring. <i>(splice, fixed by joining the ideas)</i></p>
+<p>9. Study hard, and you will pass. <i>(command splice)</i></p>
+<p>10. She was late because the bus had broken down. <i>(fused sentence, reason added)</i></p>
+</div>
+<p>If you fixed 9 or 10 correctly, you’ve got the skill. If you fixed 6 to 8, re-read the five fixes and retry the ones you missed. If you fixed fewer than 6, go back to the stand-alone test and practise it on every sentence you read for a week. For more practice joining sentences the right way, use my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">sentence combining exercises</a>.</p>
+<h2 id="section-mistakes">Mistakes to avoid</h2>
+<div class="zp-box">
+<p><b>Fixing with a comma and calling it done.</b> A comma alone never joins two full sentences.</p>
+<p><b>Capitalising after a semicolon.</b> Unless the next word is a name, keep it lowercase.</p>
+<p><b>Using too many semicolons.</b> One or two per page is plenty. Mix in full stops and conjunctions.</p>
+<p><b>Over-correcting.</b> Not every long sentence is a run-on. Use the stand-alone test before you cut anything.</p>
+</div>
+<h2>A pattern I see in almost every batch</h2>
+<p>Learners usually understand the rule when I explain it. The slip happens when they’re thinking about ideas, not punctuation. They write fast, the thought flows, and a comma lands where a full stop belongs. The fix is a reading habit. After you write, read each sentence aloud and pause where you’d naturally stop. If you paused and there’s only a comma, stop and check it.</p>
+<h2>Expert tips for practice</h2>
+<div class="zp-box">
+<p><b>Edit in a separate pass.</b> Write first, then check punctuation on a second read.</p>
+<p><b>Underline every comma.</b> For each one, ask whether both sides can stand alone.</p>
+<p><b>Learn the however family.</b> However, therefore, moreover and then cause most hidden splices.</p>
+<p><b>Keep a splice log.</b> Save three of your own splices each week and fix them five ways.</p>
+</div>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What is the difference between a run-on sentence and a comma splice?</h3>
+<p>A run-on, or fused sentence, has no punctuation between two complete sentences. A comma splice has only a comma between them. Both join two sentences incorrectly.</p>
+<h3>How do I fix a comma splice quickly?</h3>
+<p>Replace the comma with a full stop, a semicolon, or a comma plus a conjunction such as and, but or so. You can also make one part depend on the other with a word like because or although.</p>
+<h3>Is a long sentence always a run-on?</h3>
+<p>No. A long sentence is correct if its clauses are joined properly with conjunctions, punctuation or dependent clauses. A short sentence can be a run-on if two full sentences are stuck together.</p>
+<h3>Can I use a semicolon before however?</h3>
+<p>Yes. Put a semicolon before however and a comma after it, as in “He was tired; however, he kept working.”</p>
+<h3>Do exams test comma splices?</h3>
+<p>Sentence correction and error spotting questions often include them. Check the latest official notification for your exam pattern.</p>
+<h2>Your next step</h2>
+<p>Pick three sentences from your own writing today. Apply the stand-alone test to each comma, fix any splice in two different ways, and read the results aloud. That small habit will serve you better than any rule list.</p>
+<p>When you want every punctuation mark covered with rules, exam-style questions and answer keys in one place, see my ebook <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> on Amazon: <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4irsiSu</a></p>
+<p>Which fix do you find easiest to use? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">Comma Rules in English Grammar With Examples</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/punctuation-error-spotting-ssc-cgl-bank-exams/">Punctuation Error Spotting for SSC CGL and Bank Exams</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-vs-colon-rules-with-examples/">Semicolon vs Colon: Rules With Examples</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">Sentence Combining Practice: 20 Exercises With Answers</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Run-On Sentences and Comma Splices: How to Fix Them", "description": "Learn what run-on sentences and comma splices are and fix them with 5 simple methods, clear examples and a practice set with answers.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/run-on-sentences-comma-splices-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the difference between a run-on sentence and a comma splice?", "acceptedAnswer": {"@type": "Answer", "text": "A run-on, or fused sentence, has no punctuation between two complete sentences. A comma splice has only a comma between them. Both join two sentences incorrectly."}}, {"@type": "Question", "name": "How do I fix a comma splice quickly?", "acceptedAnswer": {"@type": "Answer", "text": "Replace the comma with a full stop, a semicolon, or a comma plus a conjunction such as and, but or so. You can also make one part depend on the other with a word like because or although."}}, {"@type": "Question", "name": "Is a long sentence always a run-on?", "acceptedAnswer": {"@type": "Answer", "text": "No. A long sentence is correct if its clauses are joined properly with conjunctions, punctuation or dependent clauses. A short sentence can be a run-on if two full sentences are stuck together."}}, {"@type": "Question", "name": "Can I use a semicolon before however?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Put a semicolon before however and a comma after it, as in “He was tired; however, he kept working.”"}}, {"@type": "Question", "name": "Do exams test comma splices?", "acceptedAnswer": {"@type": "Answer", "text": "Sentence correction and error spotting questions often include them. Check the latest official notification for your exam pattern."}}]}
+</script>
+`
+    }
+
 
   
   ];
