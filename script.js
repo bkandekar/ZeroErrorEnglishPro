@@ -14216,6 +14216,229 @@ If you nodded at two or more, keep reading.
 </div>
 `
     
+  },
+// Paste into script.js: inside const ARTICLES = [ ... ], right after the closing } of the most recent article (make sure that one ends with a comma), before the closing ];
+  {
+    slug: "subject-verb-agreement-tricks-shortcut-rules-10-seconds",
+    title: "Subject-Verb Agreement Tricks: 10 Shortcut Rules to Solve Questions in 10 Seconds",
+    category: "Subject-Verb Agreement",
+    readingTime: "13 min read",
+    difficulty: "Intermediate",
+    bookId: 12,
+    publishDate: "2026-10-27",
+    description: "Learn 10 subject-verb agreement tricks with memory hooks, wrong-and-right examples and a practice set. Spot the error in about 10 seconds.",
+    formula: "Cut the extras -> Find the real subject -> Match the verb",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/subject-verb-agreement-tricks-hero.webp" alt="Subject-verb agreement tricks with memory hooks and practice questions" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Try this in ten seconds: (A) The list of required documents / (B) are available / (C) at the counter. / (D) No error.</p>
+<p>Most students read “documents,” hear a plural and pick (D). The sentence sounds fine. But the real subject is “list,” and “list” is singular, so part (B) should read “is available.” The word sitting right before the verb fooled the ear.</p>
+<p>That’s the whole game with subject-verb agreement. You don’t fail because you don’t know that singular goes with singular. You fail because you can’t find the real subject fast enough. Examiners know it, and they build every question around that one weakness.</p>
+<p>This guide gives you 10 shortcut rules, each with a memory trick, a wrong sentence and its correction. You’ll also get a three-word routine called CUT, FIND, MATCH, a 10-second time plan and a nine-question practice set with answers. After 22 years of teaching, I can tell you this topic is the quickest to improve, because the same ten patterns keep returning. For the complete rulebook, read my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-exam-rules/">subject-verb agreement exam rules</a>. For shortcuts across other topics, try <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 grammar shortcuts for error spotting</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-tested').scrollIntoView({behavior:'smooth'})">How agreement is tested in exams</li>
+<li onclick="document.getElementById('section-cfm').scrollIntoView({behavior:'smooth'})">The CUT, FIND, MATCH routine</li>
+<li onclick="document.getElementById('section-tricks').scrollIntoView({behavior:'smooth'})">10 subject-verb agreement tricks with examples</li>
+<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">Three trap sentences examiners reuse</li>
+<li onclick="document.getElementById('section-cheat').scrollIntoView({behavior:'smooth'})">Quick-fix cheat sheet</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 5-step error spotting method</li>
+<li onclick="document.getElementById('section-time').scrollIntoView({behavior:'smooth'})">A 10-second time plan</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day practice plan</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-tested">How agreement is tested in exams</h2>
+<p>Agreement rarely announces itself. It hides inside three familiar formats, and knowing them tells you where to look.</p>
+<div class="zp-box">
+<p><b>1. Error spotting.</b> A sentence is split into parts (A), (B), (C), and (D) is “No error.” The verb sits in one part and its real subject sits in another.</p>
+<p><b>2. Fill in the blanks.</b> You choose between is and are, has and have, or was and were. Only the real subject decides.</p>
+<p><b>3. Sentence improvement.</b> A part is underlined, and the options differ only in verb form.</p>
+</div>
+<p>A note on the examples in this post: every sentence is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper, and I haven’t attached any year to them. The patterns are what repeat, and the patterns are what you should learn.</p>
+<h2 id="section-cfm">The CUT, FIND, MATCH routine</h2>
+<p>You can’t recall ten rules one by one with the clock running. You need one routine that works on every sentence.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“CUT, FIND, MATCH.”</b></p>
+<p style="margin:0">
+<b>CUT</b> the extras: cross out of-phrases and any words between commas<br>
+<b>FIND</b> the real subject: the noun that is left, or the one after there<br>
+<b>MATCH</b> the verb: singular subject, singular verb; plural subject, plural verb</p>
+</div>
+<p>Say the three words silently on every sentence. It takes about six seconds, and it stops you from matching the verb to whichever noun sits closest.</p>
+<h2 id="section-tricks">10 subject-verb agreement tricks with examples</h2>
+<h3>Trick 1: Cut the OF-Phrase</h3>
+<div class="zp-ex"><span class="zp-no">✗ The list of required documents are available at the counter.</span><br><span class="zp-yes">✓ The list of required documents is available at the counter.</span></div>
+<p>The words after of are rarely the subject. Cross out the of-phrase and the real subject stands alone. <b>Memory trick:</b> “Of is a fence. Cut it.” The same logic gives “a box of apples is” and “the quality of these products is.”</p>
+<h3>Trick 2: The Near-Neighbour Rule</h3>
+<div class="zp-ex"><span class="zp-no">✗ Either the captain or his teammates has to submit the form.</span><br><span class="zp-yes">✓ Either the captain or his teammates have to submit the form.</span></div>
+<p>With either…or and neither…nor, the verb agrees with the subject closer to it. <b>Memory trick:</b> “The nearest neighbour hears the verb.” Swap the order, and “Either his teammates or the captain has to submit the form” is correct.</p>
+<h3>Trick 3: And Adds, Along With Only Accompanies</h3>
+<div class="zp-ex"><span class="zp-no">✗ The manager along with his assistants were present.</span><br><span class="zp-yes">✓ The manager along with his assistants was present.</span></div>
+<p>Two subjects joined by and take a plural verb. Along with, together with, as well as and in addition to add nothing, so the verb follows the first subject. <b>Memory trick:</b> “And is a plus sign. Along with is a passenger.” “The manager and his assistants were present” is correct, because and joins them.</p>
+<h3>Trick 4: Each and Every Walk Alone</h3>
+<div class="zp-ex"><span class="zp-no">✗ Every boy and girl in the class have received a gift.</span><br><span class="zp-yes">✓ Every boy and girl in the class has received a gift.</span></div>
+<p>Each, every, either, neither and one of the take singular verbs. Even “every boy and girl” stays singular. <b>Memory trick:</b> “Every is a one-by-one counter.”</p>
+<h3>Trick 5: One Dish, One Verb</h3>
+<div class="zp-ex"><span class="zp-no">✗ Bread and butter are my usual breakfast.</span><br><span class="zp-yes">✓ Bread and butter is my usual breakfast.</span></div>
+<p>When two nouns name one dish, one idea or one person, the verb is singular. <b>Memory trick:</b> “One plate, one verb.” With people, count the articles: “The poet and critic was honoured” means one man, while “The poet and the critic were honoured” means two.</p>
+<h3>Trick 6: Team as One</h3>
+<div class="zp-ex"><span class="zp-no">✗ The committee are ready to announce its decision.</span><br><span class="zp-yes">✓ The committee is ready to announce its decision.</span></div>
+<p>Collective nouns like committee, jury, team and family take a singular verb when the group acts as one unit. <b>Memory trick:</b> “If you can say its, say is.” British English sometimes uses a plural verb when members act separately, but “one unit, one verb” is the safe exam choice.</p>
+<h3>Trick 7: Look After OF for Fractions</h3>
+<div class="zp-ex"><span class="zp-no">✗ Half of the students is absent today.</span><br><span class="zp-yes">✓ Half of the students are absent today.</span></div>
+<p>With half, most, some, all and percentages, the noun after of decides the verb. <b>Memory trick:</b> “Half of what? That noun decides.” So “Half of the cake is gone” and “Half of the students are absent” are both correct.</p>
+<h3>Trick 8: Money Is a Lump Sum</h3>
+<div class="zp-ex"><span class="zp-no">✗ Ten thousand rupees are a big amount for him.</span><br><span class="zp-yes">✓ Ten thousand rupees is a big amount for him.</span></div>
+<p>Amounts of money, distance, time and weight are treated as one unit, so they take a singular verb. <b>Memory trick:</b> “A price tag is one thing.” Fifty kilometres is a long distance, and two hours is not enough.</p>
+<h3>Trick 9: There Is a Fake Subject</h3>
+<div class="zp-ex"><span class="zp-no">✗ There is two reasons for the delay.</span><br><span class="zp-yes">✓ There are two reasons for the delay.</span></div>
+<p>In sentences that begin with there or here, the real subject comes after the verb. Look ahead and match the noun that follows. <b>Memory trick:</b> “There is a stand-in. Look ahead for the star.”</p>
+<h3>Trick 10: One of the Girls Who</h3>
+<div class="zp-ex"><span class="zp-no">✗ She is one of the girls who has won a medal.</span><br><span class="zp-yes">✓ She is one of the girls who have won a medal.</span></div>
+<p>In “one of the girls who…,” the verb after who agrees with the plural noun girls, not with one. <b>Memory trick:</b> “One is a guest. The crowd answers.” But “the only one of the girls who has won a medal” takes a singular verb, because only points to one person.</p>
+<h2 id="section-traps">Three trap sentences examiners reuse</h2>
+<p>Once you know the ten tricks, these three disguises become easy to spot.</p>
+<div class="zp-box">
+<p><b>Trap 1: The long subject.</b> “The price of vegetables in the local markets have risen again.” The subject is “price,” so the verb must be “has risen.” Cut the of-phrase and the extra words, and the answer appears.</p>
+<p><b>Trap 2: The comma interruption.</b> “The teacher, as well as the students, were waiting.” The words between the commas are extras. The subject is “teacher,” so use “was waiting.”</p>
+<p><b>Trap 3: The inverted order.</b> “In the box is two pens.” The sentence starts with a place, but the subject comes later. The real subject is “pens,” so use “are.”</p>
+</div>
+<p>Notice the pattern. In every trap, the verb sits next to a noun that isn’t the subject. That’s why your first move is to trace the verb back to its subject, not to match it with whatever is nearby.</p>
+<h2 id="section-cheat">Quick-fix cheat sheet (screenshot this)</h2>
+<div style="overflow-x:auto"><table>
+<tr><th>Pattern</th><th>Quick fix</th></tr>
+<tr><td>1. Of-phrase</td><td>Of is a fence. Cut it.</td></tr>
+<tr><td>2. Either…or</td><td>The nearest neighbour hears the verb.</td></tr>
+<tr><td>3. Along with</td><td>And is a plus sign. Along with is a passenger.</td></tr>
+<tr><td>4. Each, every</td><td>Every is a one-by-one counter.</td></tr>
+<tr><td>5. Two nouns, one thing</td><td>One plate, one verb.</td></tr>
+<tr><td>6. Collective noun</td><td>If you can say its, say is.</td></tr>
+<tr><td>7. Fractions</td><td>Half of what? That noun decides.</td></tr>
+<tr><td>8. Money, distance</td><td>A price tag is one thing.</td></tr>
+<tr><td>9. There is, there are</td><td>Look ahead for the star.</td></tr>
+<tr><td>10. One of the…who</td><td>One is a guest. The crowd answers.</td></tr>
+</table></div>
+<p>For 100 triggers like these across grammar topics, see <i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> on Amazon.</p>
+<h2 id="section-method">The 5-step error spotting method</h2>
+<p>CUT, FIND, MATCH tells you what to do. This routine tells you how to run it from start to finish.</p>
+<div class="zp-box">
+<p><b>Step 1: Read the sentence once.</b> Underline the verb.</p>
+<p><b>Step 2: CUT.</b> Cross out of-phrases and anything between commas.</p>
+<p><b>Step 3: FIND.</b> Trace the verb back to its real subject. Check for there, who, either…or and and.</p>
+<p><b>Step 4: MATCH.</b> Singular with singular, plural with plural. Test your fix by reading the corrected sentence.</p>
+<p><b>Step 5: Only then choose “No error.”</b> It’s a conclusion, never a default.</p>
+</div>
+<h2 id="section-time">A 10-second time plan</h2>
+<p>Here’s a plan that works for most students. Adjust the seconds to suit your pace.</p>
+<div class="zp-box">
+<p><b>0 to 2 seconds:</b> read once and underline the verb.</p>
+<p><b>2 to 5 seconds:</b> CUT the extras.</p>
+<p><b>5 to 8 seconds:</b> FIND the real subject.</p>
+<p><b>8 to 10 seconds:</b> MATCH, mark the answer and move on. If you’re stuck, skip it and return.</p>
+</div>
+<h2>A pattern I see in almost every batch</h2>
+<p>Here’s something that repeats year after year in my classes. A student can recite “a singular subject takes a singular verb” perfectly on the board, then picks “No error” on “The list of documents are available.” The knowledge is there. The tracing isn’t.</p>
+<p>The fix is a habit, not more theory. Take ten sentences from any newspaper, circle each verb and draw an arrow back to its subject with a pencil. Ten sentences a day for two weeks trains your eyes to travel from the verb to the true subject, and that’s the whole skill.</p>
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Never match the verb to the nearest noun.</b> Match it to the real subject.</p>
+<p><b>Watch commas.</b> Words between a pair of commas usually don’t change the verb.</p>
+<p><b>Look for the trap word.</b> Of, along with, there, who and either…or are where examiners hide the error.</p>
+<p><b>Keep an error log.</b> Write down every trick you miss and revise that list for a week.</p>
+</div>
+<h2 id="section-plan">A 5-day practice plan</h2>
+<p>You don’t need a big block of time. Fifteen minutes a day is enough if you do the same thing each time: read the tricks, say the memory hooks aloud, then solve ten mixed sentences and note every mistake.</p>
+<div class="zp-box">
+<p><b>Day 1:</b> Tricks 1 and 2</p>
+<p><b>Day 2:</b> Tricks 3 and 4</p>
+<p><b>Day 3:</b> Tricks 5 and 6</p>
+<p><b>Day 4:</b> Tricks 7 and 8</p>
+<p><b>Day 5:</b> Tricks 9 and 10, then retake the practice set below</p>
+</div>
+<h3>Three mistakes to avoid</h3>
+<div class="zp-box">
+<p><b>Learning the hook without the rule.</b> If you only remember “nearest neighbour,” you won’t know it applies to either…or and not to and.</p>
+<p><b>Using the wrong trick.</b> Each trick has a trigger word. Check that the trigger is really in the sentence before you apply the rule.</p>
+<p><b>Learning all ten in one evening.</b> It feels productive and fades by morning. Two a day holds far better.</p>
+</div>
+<h2 id="section-practice">Practice set: 9 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<ol>
+<li>The list of required documents (A) / are available (B) / at the counter. (C) / No error (D)</li>
+<li>Either the captain or his teammates (A) / has to (B) / submit the form. (C) / No error (D)</li>
+<li>The manager along with his assistants (A) / were present (B) / in the meeting. (C) / No error (D)</li>
+<li>Bread and butter (A) / are my usual (B) / breakfast. (C) / No error (D)</li>
+<li>Half of the students (A) / was absent (B) / yesterday. (C) / No error (D)</li>
+<li>Ten thousand rupees (A) / are a big amount (B) / for him. (C) / No error (D)</li>
+<li>There is (A) / two reasons (B) / for the delay. (C) / No error (D)</li>
+<li>She is one of the girls (A) / who has won (B) / a medal. (C) / No error (D)</li>
+<li>The committee has approved (A) / the plan (B) / unanimously. (C) / No error (D)</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. (B): the real subject is “list,” so use “is available.” (Trick 1)</p>
+<p>2. (B): the nearer subject “teammates” is plural, so use “have to.” (Trick 2)</p>
+<p>3. (B): along with doesn’t add a subject, so use “was present.” (Trick 3)</p>
+<p>4. (B): bread and butter is one dish, so use “is.” (Trick 5)</p>
+<p>5. (B): the noun after of is “students,” so use “were absent.” (Trick 7)</p>
+<p>6. (B): an amount of money is one unit, so use “is a big amount.” (Trick 8)</p>
+<p>7. (A): the real subject is “reasons,” so use “There are.” (Trick 9)</p>
+<p>8. (B): the verb agrees with “girls,” so use “who have won.” (Trick 10)</p>
+<p>9. (D): no error. The committee acts as one unit, so “has” is correct. (Trick 6)</p>
+</div>
+<p>If you scored 8 or 9, you’re ready for harder questions. If you scored 5 to 7, revise the tricks you missed. If you scored below 5, go back to CUT, FIND, MATCH and the cheat sheet, and retake the set after two days.</p>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What is the fastest way to solve subject-verb agreement questions?</h3>
+<p>Cut the extras, find the real subject and match the verb to it. Crossing out of-phrases and words between commas solves most questions in a few seconds.</p>
+<h3>Does the verb agree with the first or the last subject in either…or sentences?</h3>
+<p>It agrees with the subject nearest to it. In “Either the captain or his teammates have to submit,” the verb matches “teammates.”</p>
+<h3>Is the word news singular or plural?</h3>
+<p>Singular. Words like news, mathematics, physics and economics end in s but take singular verbs in exam questions.</p>
+<h3>How many agreement questions come in SSC CGL?</h3>
+<p>There’s no fixed number, because agreement hides inside error spotting, fill in the blanks and sentence improvement. Check the latest official notification for your exam pattern.</p>
+<h3>Do the same tricks work for bank and state exams?</h3>
+<p>The grammar rules are the same across exams, so the tricks carry over. Always check the latest notification for each exam’s pattern.</p>
+<h2>Your next step</h2>
+<p>Agreement errors survive because the verb’s real subject hides behind a closer noun. Change how you read. Run CUT, FIND, MATCH on every sentence, name the trick and only then choose “No error.”</p>
+<p>When you’re ready for the full set, grab <b>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</b> on Amazon: <a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://link.amazon/B03rEYi9F</a></p>
+<p>Which of the ten tricks caught you out? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-exam-rules/">Subject-Verb Agreement: Exam Rules That Decide Your Score</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 English Grammar Shortcuts for SSC CGL Error Spotting</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/present-perfect-vs-past-simple-exam-traps/">Present Perfect vs Past Simple: Exam Traps</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">Articles Error Spotting for SSC CGL</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Subject-Verb Agreement Tricks: 10 Shortcut Rules to Solve Questions in 10 Seconds", "description": "Learn 10 subject-verb agreement tricks with memory hooks, wrong-and-right examples and a practice set. Spot the error in about 10 seconds.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/subject-verb-agreement-tricks-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the fastest way to solve subject-verb agreement questions?", "acceptedAnswer": {"@type": "Answer", "text": "Cut the extras, find the real subject and match the verb to it. Crossing out of-phrases and words between commas solves most questions in a few seconds."}}, {"@type": "Question", "name": "Does the verb agree with the first or the last subject in either…or sentences?", "acceptedAnswer": {"@type": "Answer", "text": "It agrees with the subject nearest to it. In “Either the captain or his teammates have to submit,” the verb matches “teammates.”"}}, {"@type": "Question", "name": "Is the word news singular or plural?", "acceptedAnswer": {"@type": "Answer", "text": "Singular. Words like news, mathematics, physics and economics end in s but take singular verbs in exam questions."}}, {"@type": "Question", "name": "How many agreement questions come in SSC CGL?", "acceptedAnswer": {"@type": "Answer", "text": "There’s no fixed number, because agreement hides inside error spotting, fill in the blanks and sentence improvement. Check the latest official notification for your exam pattern."}}, {"@type": "Question", "name": "Do the same tricks work for bank and state exams?", "acceptedAnswer": {"@type": "Answer", "text": "The grammar rules are the same across exams, so the tricks carry over. Always check the latest notification for each exam’s pattern."}}]}
+</script>
+`
   }
 
   
