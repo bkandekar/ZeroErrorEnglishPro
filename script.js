@@ -14440,7 +14440,7 @@ If you nodded at two or more, keep reading.
 </script>
 `
   },
-  // Paste into script.js: inside const ARTICLES = [ ... ], right after the closing } of the most recent article (make sure that one ends with a comma), before the closing ];
+
   {
     slug: "run-on-sentences-comma-splices-how-to-fix-them",
     title: "Run-On Sentences and Comma Splices: How to Fix Them",
@@ -14626,8 +14626,246 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the difference between a run-on sentence and a comma splice?", "acceptedAnswer": {"@type": "Answer", "text": "A run-on, or fused sentence, has no punctuation between two complete sentences. A comma splice has only a comma between them. Both join two sentences incorrectly."}}, {"@type": "Question", "name": "How do I fix a comma splice quickly?", "acceptedAnswer": {"@type": "Answer", "text": "Replace the comma with a full stop, a semicolon, or a comma plus a conjunction such as and, but or so. You can also make one part depend on the other with a word like because or although."}}, {"@type": "Question", "name": "Is a long sentence always a run-on?", "acceptedAnswer": {"@type": "Answer", "text": "No. A long sentence is correct if its clauses are joined properly with conjunctions, punctuation or dependent clauses. A short sentence can be a run-on if two full sentences are stuck together."}}, {"@type": "Question", "name": "Can I use a semicolon before however?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Put a semicolon before however and a comma after it, as in “He was tired; however, he kept working.”"}}, {"@type": "Question", "name": "Do exams test comma splices?", "acceptedAnswer": {"@type": "Answer", "text": "Sentence correction and error spotting questions often include them. Check the latest official notification for your exam pattern."}}]}
 </script>
 `
-    }
+    },
+  
 
+
+  {
+    slug: "tense-shortcuts-competitive-exams-memory-tricks",
+    title: "Tense Shortcuts for Competitive Exams: Easy Memory Tricks to Pick the Right Tense",
+    category: "Tenses",
+    readingTime: "14 min read",
+    difficulty: "Intermediate",
+    bookId: 12,
+    publishDate: "2026-10-27",
+    description: "Learn 10 tense shortcuts with memory tricks, a time-signal word chart and a practice set. Pick the right tense in about 12 seconds.",
+    formula: "Look for the time word -> Label the time -> Lock the tense",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/tense-shortcuts-competitive-exams-hero.webp" alt="Tense shortcuts for competitive exams with memory tricks and a signal word chart" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Try this in ten seconds: (A) When have you / (B) come to Pune / (C) for the first time? / (D) No error.</p>
+<p>Most students read it twice, find it natural and pick (D). It sounds natural because we say “Have you come to Pune?” all the time. But the moment you add “when,” the tense has to change. The correct question is “When did you come to Pune?” and the error sits quietly in part (A).</p>
+<p>That’s how tense questions work in competitive exams. The sentence rarely looks broken. One small time word decides which tense is allowed, and examiners hide that word where your eye won’t land. Students who memorise twelve tense formulas still miss it. Students who learn to hunt for the time word catch it.</p>
+<p>This guide gives you 10 tense shortcuts, each with a memory trick, a wrong sentence and its correction. You’ll also get a time-signal word chart, a three-word routine called LOOK, LABEL, LOCK, a 12-second time plan and a nine-question practice set with answers. After 22 years of teaching, I can say tenses improve fastest when you stop translating formulas and start reacting to signals. I covered since, for, ago and a few more in my post on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 grammar shortcuts for error spotting</a>, so these ten are new. For the toughest pair, see <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/present-perfect-vs-past-simple-exam-traps/">present perfect vs past simple exam traps</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-tested').scrollIntoView({behavior:'smooth'})">How tenses are tested in exams</li>
+<li onclick="document.getElementById('section-routine').scrollIntoView({behavior:'smooth'})">The LOOK, LABEL, LOCK routine</li>
+<li onclick="document.getElementById('section-signals').scrollIntoView({behavior:'smooth'})">Time-signal word chart</li>
+<li onclick="document.getElementById('section-tricks').scrollIntoView({behavior:'smooth'})">10 tense shortcuts with examples</li>
+<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">Three trap sentences examiners reuse</li>
+<li onclick="document.getElementById('section-cheat').scrollIntoView({behavior:'smooth'})">Quick-fix cheat sheet</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 5-step error spotting method</li>
+<li onclick="document.getElementById('section-time').scrollIntoView({behavior:'smooth'})">A 12-second time plan</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day practice plan</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-tested">How tenses are tested in exams</h2>
+<p>Tense questions don’t announce themselves. They hide inside three familiar formats, and knowing them tells you where to look.</p>
+<div class="zp-box">
+<p><b>1. Error spotting.</b> A sentence is split into parts (A), (B), (C), and (D) is “No error.” The time word sits in one part and the faulty verb in another.</p>
+<p><b>2. Fill in the blanks.</b> You choose between forms such as did, has done and had done. The time word in the sentence decides.</p>
+<p><b>3. Sentence improvement.</b> A part is underlined, and the four options differ only in the tense of the verb.</p>
+</div>
+<p>A note on the examples in this post: every sentence is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper, and I haven’t attached any year to them. The patterns are what repeat, and the patterns are what you should learn.</p>
+<h2 id="section-routine">The LOOK, LABEL, LOCK routine</h2>
+<p>You can’t recall twelve tense formulas with the clock running. You need one routine that works on every sentence.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“LOOK, LABEL, LOCK.”</b></p>
+<p style="margin:0">
+<b>LOOK</b> for the time word: yesterday, already, by the time, since, every day<br>
+<b>LABEL</b> the time: past, present, future, or up to now<br>
+<b>LOCK</b> the tense that fits that label, then check the verb against it</p>
+</div>
+<p>Say the three words silently on every sentence. It takes about five seconds, and it stops you from judging the verb by how it sounds.</p>
+<h2 id="section-signals">Time-signal word chart</h2>
+<p>This chart is the heart of the post. Copy it into your notebook, because every tense has words that call it.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Tense</th><th>Signal words</th><th>Example</th></tr>
+<tr><td>Simple present</td><td>always, usually, every day, often, never</td><td>She walks to school every day.</td></tr>
+<tr><td>Present continuous</td><td>now, at the moment, currently, look!</td><td>He is working now.</td></tr>
+<tr><td>Simple past</td><td>yesterday, last week, ago, in 2010, when did</td><td>I met him yesterday.</td></tr>
+<tr><td>Past continuous</td><td>while, when (an interrupted action)</td><td>She was reading when the phone rang.</td></tr>
+<tr><td>Present perfect</td><td>already, yet, just, ever, so far, recently</td><td>I have just finished.</td></tr>
+<tr><td>Present perfect continuous</td><td>since, for (an action still going on)</td><td>She has been working since nine.</td></tr>
+<tr><td>Past perfect</td><td>by the time, before, after, hardly, no sooner</td><td>The film had started by the time we reached.</td></tr>
+<tr><td>Simple future</td><td>tomorrow, next week, soon, will</td><td>I will call you tomorrow.</td></tr>
+</table></div>
+<h2 id="section-tricks">10 tense shortcuts with examples</h2>
+<h3>Trick 1: Facts Don’t Age</h3>
+<div class="zp-ex"><span class="zp-no">✗ The teacher said that water boiled at 100 degrees Celsius.</span><br><span class="zp-yes">✓ The teacher said that water boils at 100 degrees Celsius.</span></div>
+<p>A universal truth or a habit stays in the simple present, even in reported speech. <b>Memory trick:</b> “Facts don’t age.” For the other backshift rules, see the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-changes-in-direct-and-indirect-speech-chart/">tense changes in direct and indirect speech chart</a>.</p>
+<h3>Trick 2: Every Day, No -ing</h3>
+<div class="zp-ex"><span class="zp-no">✗ She is going to school every day.</span><br><span class="zp-yes">✓ She goes to school every day.</span></div>
+<p>Words like always, usually, often and every day call the simple present, not the continuous. <b>Memory trick:</b> “Every day, no -ing.”</p>
+<h3>Trick 3: Mind Verbs Don’t March</h3>
+<div class="zp-ex"><span class="zp-no">✗ I am knowing the answer.</span><br><span class="zp-yes">✓ I know the answer.</span></div>
+<p>Verbs of thinking, feeling and owning (know, like, love, want, believe, understand, belong) are rarely used in the continuous form. <b>Memory trick:</b> “Mind verbs don’t march.”</p>
+<h3>Trick 4: Already Is a Yes, Yet Is a No</h3>
+<div class="zp-ex"><span class="zp-no">✗ She has finished her work yet.</span><br><span class="zp-yes">✓ She has already finished her work.</span></div>
+<p>Already goes with something that has happened. Yet goes with something that hasn’t happened, or with a question, as in “She hasn’t finished her work yet.” <b>Memory trick:</b> “Already is a yes. Yet is a no.”</p>
+<h3>Trick 5: When Wants Did</h3>
+<div class="zp-ex"><span class="zp-no">✗ When have you come to Pune?</span><br><span class="zp-yes">✓ When did you come to Pune?</span></div>
+<p>A question that begins with when or what time asks about a finished moment, so it takes the simple past. <b>Memory trick:</b> “When wants did.”</p>
+<h3>Trick 6: Long Was, Short Did</h3>
+<div class="zp-ex"><span class="zp-no">✗ She was reading when the phone was ringing.</span><br><span class="zp-yes">✓ She was reading when the phone rang.</span></div>
+<p>The long background action takes the past continuous. The short action that interrupts it takes the simple past. <b>Memory trick:</b> “Long was, short did.”</p>
+<h3>Trick 7: Hardly Had, No Sooner Had</h3>
+<div class="zp-ex"><span class="zp-no">✗ No sooner he reached home than it started raining.</span><br><span class="zp-yes">✓ No sooner had he reached home than it started raining.</span></div>
+<p>Hardly and no sooner open the sentence and always bring had and an inverted subject. Hardly pairs with when, and no sooner pairs with than. <b>Memory trick:</b> “Hardly and Sooner always bring Had.”</p>
+<h3>Trick 8: By the Time Brings Had</h3>
+<div class="zp-ex"><span class="zp-no">✗ By the time we reached, the film started.</span><br><span class="zp-yes">✓ By the time we reached, the film had started.</span></div>
+<p>When by the time points to a past moment, the earlier action takes the past perfect. <b>Memory trick:</b> “By the time = had done.”</p>
+<h3>Trick 9: Wish Walks Backwards</h3>
+<div class="zp-ex"><span class="zp-no">✗ I wish I have a bigger house.</span><br><span class="zp-yes">✓ I wish I had a bigger house.</span></div>
+<p>After wish, as if, would rather and it is time, an unreal present takes the past form. The same pattern appears in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/conditionals-third-vs-mixed-exam-rules/">third and mixed conditionals</a>. <b>Memory trick:</b> “Wish, as if, it’s time: step back.”</p>
+<h3>Trick 10: First Time, Have</h3>
+<div class="zp-ex"><span class="zp-no">✗ This is the first time I visited Pune.</span><br><span class="zp-yes">✓ This is the first time I have visited Pune.</span></div>
+<p>After “this is the first time,” use the present perfect. In the past, “it was the first time I had visited” takes the past perfect. <b>Memory trick:</b> “First time, have.”</p>
+<h2 id="section-traps">Three trap sentences examiners reuse</h2>
+<p>Once you know the ten shortcuts, these three disguises are easy to spot.</p>
+<div class="zp-box">
+<p><b>Trap 1: The hidden finished time.</b> “I have visited Agra last year.” Last year kills the present perfect, so use “I visited Agra last year.”</p>
+<p><b>Trap 2: The unbacked reported verb.</b> “She told me that she will join the next day.” The reporting verb is past, so use “would join.”</p>
+<p><b>Trap 3: The ear test.</b> “The sun rose in the east” may sound fine, but a fact needs the simple present, so use “rises.”</p>
+</div>
+<p>Notice the pattern. In each trap, the verb sounds fine on its own. It only fails when you check it against the time word, which is why LOOK always comes first.</p>
+<h2 id="section-cheat">Quick-fix cheat sheet (screenshot this)</h2>
+<div style="overflow-x:auto"><table>
+<tr><th>Pattern</th><th>Quick fix</th></tr>
+<tr><td>1. Facts and habits</td><td>Facts don’t age.</td></tr>
+<tr><td>2. Every day</td><td>Every day, no -ing.</td></tr>
+<tr><td>3. Mind verbs</td><td>Mind verbs don’t march.</td></tr>
+<tr><td>4. Already, yet</td><td>Already is a yes. Yet is a no.</td></tr>
+<tr><td>5. When did</td><td>When wants did.</td></tr>
+<tr><td>6. Interrupted action</td><td>Long was, short did.</td></tr>
+<tr><td>7. Hardly, no sooner</td><td>Hardly and Sooner always bring Had.</td></tr>
+<tr><td>8. By the time</td><td>By the time = had done.</td></tr>
+<tr><td>9. Wish, as if</td><td>Wish, as if, it’s time: step back.</td></tr>
+<tr><td>10. First time</td><td>First time, have.</td></tr>
+</table></div>
+<p>For 100 triggers like these across grammar topics, see <i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> on Amazon.</p>
+<h2 id="section-method">The 5-step error spotting method</h2>
+<p>LOOK, LABEL, LOCK tells you what to do. This routine tells you how to run it from start to finish.</p>
+<div class="zp-box">
+<p><b>Step 1: Read the sentence once.</b> Underline the verb.</p>
+<p><b>Step 2: LOOK.</b> Circle every time word, including small ones like when, by the time and yet.</p>
+<p><b>Step 3: LABEL.</b> Decide whether the time is past, present, future or up to now.</p>
+<p><b>Step 4: LOCK.</b> Choose the tense that fits the label and test your fix by reading the corrected sentence.</p>
+<p><b>Step 5: Only then choose “No error.”</b> It’s a conclusion, never a default.</p>
+</div>
+<h2 id="section-time">A 12-second time plan</h2>
+<p>Here’s a plan that works for most students. Adjust the seconds to suit your pace.</p>
+<div class="zp-box">
+<p><b>0 to 3 seconds:</b> read once and underline the verb.</p>
+<p><b>3 to 7 seconds:</b> LOOK for the time word and LABEL it.</p>
+<p><b>7 to 11 seconds:</b> LOCK the tense and compare it with the verb.</p>
+<p><b>11 to 12 seconds:</b> mark the answer and move on. If you’re stuck, skip it and return.</p>
+</div>
+<h2>A pattern I see in almost every batch</h2>
+<p>Here’s something that repeats year after year in my classes. A student can list all twelve tenses with their formulas, then picks “No error” on “I have visited Agra last year.” The formulas are there. The signal isn’t.</p>
+<p>The fix is a habit, not more theory. Take ten sentences from any newspaper, circle every time word and write its tense label beside it. Ten sentences a day for two weeks trains your eyes to land on the time word before the verb, and that’s the whole skill.</p>
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Read the time word before the verb.</b> The time word is the question, and the verb is only the answer.</p>
+<p><b>Trust the signal over your ear.</b> “It sounds fine” is why most tense errors survive.</p>
+<p><b>Check small words.</b> When, by the time, yet and already are short, so eyes skip them.</p>
+<p><b>Keep an error log.</b> Write down every shortcut you miss and revise that list for a week.</p>
+</div>
+<h2 id="section-plan">A 5-day practice plan</h2>
+<p>You don’t need a big block of time. Fifteen minutes a day is enough if you do the same thing each time: read the shortcuts, say the memory tricks aloud, then solve ten mixed sentences and note every mistake.</p>
+<div class="zp-box">
+<p><b>Day 1:</b> Shortcuts 1 and 2</p>
+<p><b>Day 2:</b> Shortcuts 3 and 4</p>
+<p><b>Day 3:</b> Shortcuts 5 and 6</p>
+<p><b>Day 4:</b> Shortcuts 7 and 8</p>
+<p><b>Day 5:</b> Shortcuts 9 and 10, then retake the practice set below</p>
+</div>
+<h3>Three mistakes to avoid</h3>
+<div class="zp-box">
+<p><b>Learning the trick without the rule.</b> A hook only reminds you. Know why the rule works.</p>
+<p><b>Using the wrong trick.</b> Each shortcut has a trigger. Check that the trigger is really in the sentence.</p>
+<p><b>Learning all ten in one evening.</b> It feels productive and fades by morning. Two a day holds far better.</p>
+</div>
+<h2 id="section-practice">Practice set: 9 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<ol>
+<li>The teacher said that (A) / the sun rose (B) / in the east. (C) / No error (D)</li>
+<li>I am knowing (A) / the answer (B) / to this question. (C) / No error (D)</li>
+<li>Have you (A) / finished your work (B) / yet? (C) / No error (D)</li>
+<li>When have (A) / you come (B) / to Pune? (C) / No error (D)</li>
+<li>She was reading (A) / when the phone (B) / was ringing. (C) / No error (D)</li>
+<li>No sooner (A) / he reached home (B) / than it started raining. (C) / No error (D)</li>
+<li>I wish (A) / I have (B) / a bigger house. (C) / No error (D)</li>
+<li>This is the first time (A) / I visited (B) / Pune. (C) / No error (D)</li>
+<li>By the time we reached, (A) / the film (B) / had started. (C) / No error (D)</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. (B): a fact stays in the simple present, so use “rises.” (Trick 1)</p>
+<p>2. (A): know is a mind verb, so use “I know.” (Trick 3)</p>
+<p>3. (D): no error. Yet is correct in a question. (Trick 4)</p>
+<p>4. (A): when wants did, so use “When did.” (Trick 5)</p>
+<p>5. (C): the short interrupting action takes the simple past, so use “rang.” (Trick 6)</p>
+<p>6. (B): no sooner brings had, so use “had he reached.” (Trick 7)</p>
+<p>7. (B): wish walks backwards, so use “I had.” (Trick 9)</p>
+<p>8. (B): first time brings have, so use “I have visited.” (Trick 10)</p>
+<p>9. (D): no error. By the time brings had, and it’s already there. (Trick 8)</p>
+</div>
+<p>If you scored 8 or 9, you’re ready for harder questions. If you scored 5 to 7, revise the shortcuts you missed. If you scored below 5, go back to LOOK, LABEL, LOCK and the chart, and retake the set after two days.</p>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>How do I choose the right tense in error spotting questions?</h3>
+<p>Look for the time word, label the time as past, present, future or up to now, and lock the tense that fits. The time word decides the tense more often than the verb does.</p>
+<h3>What is the difference between already and yet?</h3>
+<p>Already goes with something that has happened. Yet goes with something that hasn’t happened or with a question. “She has already left” and “Has she left yet?” are both correct.</p>
+<h3>Can I use the present perfect with yesterday or last year?</h3>
+<p>No. Words that point to a finished time need the simple past. Say “I visited Agra last year,” not “I have visited Agra last year.”</p>
+<h3>Which tenses are tested most often?</h3>
+<p>The present perfect, the past perfect and the simple tenses appear often in practice papers. Check the latest official notification for your exam pattern.</p>
+<h3>Why does wish take the past form?</h3>
+<p>Because wish talks about an unreal present. “I wish I had a bigger house” means I don’t have one now, so the verb steps back to show it isn’t real.</p>
+<h2>Your next step</h2>
+<p>Tense errors survive because the time word is small and the verb sounds fine. Change how you read. Run LOOK, LABEL, LOCK on every sentence, name the shortcut and only then choose “No error.”</p>
+<p>When you’re ready for the full set, grab <b>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</b> on Amazon: <a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://link.amazon/B03rEYi9F</a></p>
+<p>If agreement is the topic that trips you up, read my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/">10 subject-verb agreement tricks</a>. Which of today’s ten shortcuts caught you out? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/present-perfect-vs-past-simple-exam-traps/">Present Perfect vs Past Simple: Exam Traps</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 English Grammar Shortcuts for SSC CGL Error Spotting</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/">Subject-Verb Agreement Tricks: 10 Shortcut Rules</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-changes-in-direct-and-indirect-speech-chart/">Tense Changes in Direct and Indirect Speech: Chart</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Tense Shortcuts for Competitive Exams: Easy Memory Tricks to Pick the Right Tense", "description": "Learn 10 tense shortcuts with memory tricks, a time-signal word chart and a practice set. Pick the right tense in about 12 seconds.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/tense-shortcuts-competitive-exams-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-shortcuts-competitive-exams-memory-tricks/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I choose the right tense in error spotting questions?", "acceptedAnswer": {"@type": "Answer", "text": "Look for the time word, label the time as past, present, future or up to now, and lock the tense that fits. The time word decides the tense more often than the verb does."}}, {"@type": "Question", "name": "What is the difference between already and yet?", "acceptedAnswer": {"@type": "Answer", "text": "Already goes with something that has happened. Yet goes with something that hasn’t happened or with a question. “She has already left” and “Has she left yet?” are both correct."}}, {"@type": "Question", "name": "Can I use the present perfect with yesterday or last year?", "acceptedAnswer": {"@type": "Answer", "text": "No. Words that point to a finished time need the simple past. Say “I visited Agra last year,” not “I have visited Agra last year.”"}}, {"@type": "Question", "name": "Which tenses are tested most often?", "acceptedAnswer": {"@type": "Answer", "text": "The present perfect, the past perfect and the simple tenses appear often in practice papers. Check the latest official notification for your exam pattern."}}, {"@type": "Question", "name": "Why does wish take the past form?", "acceptedAnswer": {"@type": "Answer", "text": "Because wish talks about an unreal present. “I wish I had a bigger house” means I don’t have one now, so the verb steps back to show it isn’t real."}}]}
+</script>
+`
+    }
 
   
   ];
