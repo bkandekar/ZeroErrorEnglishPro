@@ -15,6 +15,12 @@
  *
  * It also regenerates sitemap.xml at the repo root with the real
  * blog URLs (plus the homepage and #blog/#books hash entries).
+ *
+ * UPDATE (Oct 2026):
+ *  - Injects the GA4 tag into every static page (ID is read
+ *    automatically from index.html, so nothing to edit here).
+ *  - Replaces the old Advanced Punctuation Amazon link inside post
+ *    bodies with the single correct link (see LINK_FIXES below).
  * ----------------------------------------------------------------
  */
 const fs = require("fs");
@@ -22,6 +28,37 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const SITE_URL = "https://bkandekar.github.io/ZeroErrorEnglishPro";
+
+// ---- Amazon link fixes applied to every post body at build time ----
+// Format: [old link, new link]. Add more pairs here if needed.
+const LINK_FIXES = [
+  ["https://amzn.to/4irsiSu", "https://amzn.to/4yXLKMo"],
+];
+
+// ---- GA4: read the Measurement ID from index.html ----
+let GA_ID = "";
+try {
+  const indexSrc = fs.readFileSync(path.join(ROOT, "index.html"), "utf8");
+  const m = indexSrc.match(/googletagmanager\.com\/gtag\/js\?id=(G-[A-Z0-9]+)/);
+  if (m) GA_ID = m[1];
+} catch (e) {
+  /* handled below */
+}
+if (GA_ID) {
+  console.log("GA4 ID found in index.html:", GA_ID);
+} else {
+  console.warn("WARNING: GA4 ID not found in index.html. Static pages will have NO analytics tag.");
+}
+
+const GA_SNIPPET = GA_ID
+  ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${GA_ID}');
+    </script>`
+  : "";
 
 // ---- 1. Load ARTICLES + BOOKS out of script.js ----
 const scriptSrc = fs.readFileSync(path.join(ROOT, "script.js"), "utf8");
@@ -56,9 +93,18 @@ function escapeAttr(str) {
   return String(str).replace(/"/g, "&quot;");
 }
 
+function applyLinkFixes(html) {
+  let out = html;
+  for (const [oldLink, newLink] of LINK_FIXES) {
+    out = out.split(oldLink).join(newLink);
+  }
+  return out;
+}
+
 function renderPage(article) {
   const companionBook = BOOKS.find((b) => b.id === article.bookId);
   const canonical = `${SITE_URL}/blog/${article.slug}/`;
+  const bodyHtml = applyLinkFixes(article.body);
 
   const companionHtml = companionBook
     ? `
@@ -67,7 +113,7 @@ function renderPage(article) {
           <h3 style="font-size: 20px; color: #FFFFFF; margin-bottom: 8px;">${companionBook.title}</h3>
           <p style="font-size: 13px; color: #CBD5E1; margin-bottom: 16px; line-height: 1.6;">${companionBook.transformation || ""}</p>
           <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-            <a href="${companionBook.amazonUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-accent">Buy on Amazon KDP</a>
+            <a href="${applyLinkFixes(companionBook.amazonUrl)}" target="_blank" rel="noopener noreferrer" class="btn btn-accent">Buy on Amazon KDP</a>
             <a href="${SITE_URL}/#book/${companionBook.slug}" class="btn btn-secondary" style="background: rgba(255,255,255,0.1); color: #FFFFFF; border-color: rgba(255,255,255,0.2);">Explore Book Overview</a>
           </div>
         </div>`
@@ -89,6 +135,8 @@ function renderPage(article) {
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="${escapeAttr(article.title)}" />
     <meta name="twitter:description" content="${escapeAttr(article.description)}" />
+
+    ${GA_SNIPPET}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -132,7 +180,7 @@ function renderPage(article) {
       </div>
 
       <div style="font-size: 15px; line-height: 1.75; color: var(--text-primary); margin-bottom: 48px;">
-        ${article.body}
+        ${bodyHtml}
       </div>
 
       ${companionHtml}
