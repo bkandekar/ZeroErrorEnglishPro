@@ -11,7 +11,7 @@
  * be indexed and ranked on its own.
  *
  * Run this EVERY TIME you add or edit an article in script.js:
- *   node scripts/build-static-blog.js
+ *   node scripts/build-static-blog.cjs
  *
  * It also regenerates sitemap.xml at the repo root with the real
  * blog URLs (plus the homepage and #blog/#books hash entries).
@@ -63,22 +63,87 @@ const GA_SNIPPET = GA_ID
 // ---- 1. Load ARTICLES + BOOKS out of script.js ----
 const scriptSrc = fs.readFileSync(path.join(ROOT, "script.js"), "utf8");
 
+// ---- String-aware scanner: finds the end of the array while ignoring
+//      brackets that sit inside strings, template literals or comments ----
+function skipString(src, i) {
+  const q = src[i];
+  i++;
+  while (i < src.length) {
+    if (src[i] === "\\") { i += 2; continue; }
+    if (src[i] === q) return i + 1;
+    i++;
+  }
+  return i;
+}
+
+function skipTemplate(src, i) {
+  i++; // past opening backtick
+  while (i < src.length) {
+    const c = src[i];
+    if (c === "\\") { i += 2; continue; }
+    if (c === "`") return i + 1;
+    if (c === "$" && src[i + 1] === "{") { i = skipExpr(src, i + 2); continue; }
+    i++;
+  }
+  return i;
+}
+
+function skipExpr(src, i) {
+  let depth = 1;
+  while (i < src.length) {
+    const c = src[i];
+    if (c === "'" || c === '"') { i = skipString(src, i); continue; }
+    if (c === "`") { i = skipTemplate(src, i); continue; }
+    if (c === "{") depth++;
+    else if (c === "}") { depth--; if (depth === 0) return i + 1; }
+    i++;
+  }
+  return i;
+}
+
+function findArrayEnd(src, start) {
+  let depth = 0;
+  let i = start;
+  while (i < src.length) {
+    const c = src[i];
+    const n = src[i + 1];
+    if (c === "/" && n === "/") { const j = src.indexOf("\n", i); i = j === -1 ? src.length : j; continue; }
+    if (c === "/" && n === "*") { const j = src.indexOf("*/", i + 2); i = j === -1 ? src.length : j + 2; continue; }
+    if (c === "'" || c === '"') { i = skipString(src, i); continue; }
+    if (c === "`") { i = skipTemplate(src, i); continue; }
+    if (c === "[") depth++;
+    else if (c === "]") { depth--; if (depth === 0) return i + 1; }
+    i++;
+  }
+  return -1;
+}
+
 function extractArray(varName, src) {
   const startMarker = `const ${varName} = [`;
   const startIdx = src.indexOf(startMarker);
   if (startIdx === -1) throw new Error(`Could not find ${varName} in script.js`);
   const arrStart = startIdx + startMarker.length - 1; // position of "["
-  let depth = 0;
-  let i = arrStart;
-  for (; i < src.length; i++) {
-    if (src[i] === "[") depth++;
-    else if (src[i] === "]") {
-      depth--;
-      if (depth === 0) { i++; break; }
+  const arrEnd = findArrayEnd(src, arrStart);
+  if (arrEnd === -1) throw new Error(`Could not find the end of ${varName} in script.js (unclosed bracket, quote or backtick?)`);
+  const arrText = src.slice(arrStart, arrEnd);
+  const startLine = src.slice(0, arrStart).split("\n").length - 1;
+  try {
+    const vm = require("vm");
+    const script = new vm.Script("(" + arrText + ")", { filename: "script.js", lineOffset: startLine });
+    return script.runInNewContext({});
+  } catch (err) {
+    const m = /script\.js:(\d+)/.exec(String(err.stack || ""));
+    console.error(`\nERROR while reading ${varName} from script.js: ${err.message}`);
+    if (m) {
+      const bad = parseInt(m[1], 10);
+      const lines = src.split("\n");
+      console.error(`Problem is near script.js line ${bad}. Lines around it:`);
+      for (let k = Math.max(1, bad - 3); k <= Math.min(lines.length, bad + 3); k++) {
+        console.error(`${k === bad ? ">>" : "  "} ${k}: ${lines[k - 1].slice(0, 200)}`);
+      }
     }
+    throw err;
   }
-  const arrText = src.slice(arrStart, i);
-  return new Function(`return ${arrText};`)();
 }
 
 const ARTICLES = extractArray("ARTICLES", scriptSrc);
