@@ -15352,8 +15352,246 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the difference between a compound and a complex sentence?", "acceptedAnswer": {"@type": "Answer", "text": "A compound sentence joins two equal independent clauses, such as “I was tired, so I went to bed.” A complex sentence has one independent clause and one dependent clause that leans on it, such as “Because I was tired, I went to bed.”"}}, {"@type": "Question", "name": "Can a simple sentence be long?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A simple sentence has only one independent clause and no dependent clause, but it can include long phrases, several subjects and several verbs."}}, {"@type": "Question", "name": "What is a compound-complex sentence?", "acceptedAnswer": {"@type": "Answer", "text": "It’s a sentence with at least two independent clauses and at least one dependent clause, such as “Although it was late, I kept working, and my friend kept me company.”"}}, {"@type": "Question", "name": "Do I always need a comma in a complex sentence?", "acceptedAnswer": {"@type": "Answer", "text": "No. Use a comma when the dependent clause comes first, as in “When it rained, we left.” You usually don’t need one when it comes second, as in “We left when it rained.”"}}, {"@type": "Question", "name": "How do I remember the four sentence types?", "acceptedAnswer": {"@type": "Answer", "text": "Use Solo, Couple, Clinger. A simple sentence is a solo, a compound sentence is a couple of equals, a complex sentence has a clinger that leans on another clause, and a compound-complex sentence has a couple plus a clinger."}}, {"@type": "Question", "name": "Are sentence types tested in exams?", "acceptedAnswer": {"@type": "Answer", "text": "Sentence transformation and sentence improvement questions often ask you to change one type into another. Check the latest official notification for your exam pattern."}}]}
 </script>
 `
-    }
+    },
+  
+ 
+  {
+    slug: "articles-a-an-the-shortcut-rules-ssc-railway-bank-exams",
+    title: "Articles (A, An, The) Shortcut Rules for SSC, Railway and Bank Exams",
+    category: "Articles",
+    readingTime: "14 min read",
+    difficulty: "Intermediate",
+    bookId: 12,
+    publishDate: "2026-10-30",
+    description: "Learn 10 article shortcuts for a, an and the with memory hooks, exam-style examples and a practice set. Built for SSC, railway and bank exams.",
+    formula: "Say the next sound -> Sort the noun -> See if it is specific",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-a-an-the-shortcut-rules-hero.webp" alt="Articles a, an and the shortcut rules with memory hooks for SSC railway and bank exams" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
 
+<p>Try this in ten seconds: (A) He cleared / (B) a SSC exam / (C) last year. / (D) No error.</p>
+<p>Most students read it, see a consonant letter and pick (D). But the rule for a and an follows sound, not spelling. The letter S is pronounced “ess,” which starts with a vowel sound, so the sentence needs “an SSC exam.” The very name of your exam hides a trap, and examiners know it.</p>
+<p>That’s the nature of article questions. They look like the smallest things in the sentence, and that’s exactly why eyes skip them. A, an and the can’t be reasoned out from meaning alone. They follow short patterns, and once you carry those patterns in your head, the whole section becomes free marks.</p>
+<p>This guide gives you 10 article shortcuts, each with a memory hook, a wrong sentence and its correction. You’ll also get a three-word routine called SAY, SORT, SEE, a 10-second time plan and a nine-question practice set with answers. After 22 years of teaching, I can tell you that article errors are the most avoidable marks in the English paper. I covered the basics in my post on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 grammar shortcuts for error spotting</a>, so these ten go further. For the complete rulebook, read my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/a-an-the-rules-ssc-cgl/">A, An, The rules</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-tested').scrollIntoView({behavior:'smooth'})">How articles are tested in exams</li>
+<li onclick="document.getElementById('section-routine').scrollIntoView({behavior:'smooth'})">The SAY, SORT, SEE routine</li>
+<li onclick="document.getElementById('section-tricks').scrollIntoView({behavior:'smooth'})">10 article shortcuts with examples</li>
+<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">Three trap sentences examiners reuse</li>
+<li onclick="document.getElementById('section-cheat').scrollIntoView({behavior:'smooth'})">Quick-fix cheat sheet</li>
+<li onclick="document.getElementById('section-abbr').scrollIntoView({behavior:'smooth'})">Exam abbreviations: a or an?</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 5-step error spotting method</li>
+<li onclick="document.getElementById('section-time').scrollIntoView({behavior:'smooth'})">A 10-second time plan</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day practice plan</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-tested">How articles are tested in exams</h2>
+<p>Articles appear in SSC, railway and bank papers in several disguises. Knowing the formats tells you where to look.</p>
+<div class="zp-box">
+<p><b>1. Error spotting.</b> A sentence is split into parts (A), (B), (C), and (D) is “No error.” The article sits at the start of a part, so it’s easy to read past.</p>
+<p><b>2. Fill in the blanks.</b> The options are a, an, the and no article. Only one forms the right pattern with the noun.</p>
+<p><b>3. Cloze passages.</b> A paragraph with several blanks, where articles are mixed with prepositions and verbs.</p>
+</div>
+<p>A note on the examples in this post: every sentence is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper, and I haven’t attached any year to them. The patterns are what repeat, and the patterns are what you should learn.</p>
+<h2 id="section-routine">The SAY, SORT, SEE routine</h2>
+<p>You can’t recall a long rulebook with the clock running. You need one routine that works on every article question.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“SAY, SORT, SEE.”</b></p>
+<p style="margin:0">
+<b>SAY</b> the first sound of the word after the article: vowel sound or consonant sound?<br>
+<b>SORT</b> the noun: countable, uncountable, or the name of a place or thing?<br>
+<b>SEE</b> whether the noun is specific or already mentioned: then the, otherwise a, an or no article</p>
+</div>
+<p>Say the three words silently on every sentence. It takes about five seconds, and it stops you from choosing an article by how it sounds.</p>
+<h2 id="section-tricks">10 article shortcuts with examples</h2>
+<h3>Trick 1: Say the Letter</h3>
+<div class="zp-ex"><span class="zp-no">✗ He cleared a SSC exam last year.</span><br><span class="zp-yes">✓ He cleared an SSC exam last year.</span></div>
+<p>For abbreviations, say the letter name and listen to its first sound. Letters like S, M, R, N, L, F and H start with a vowel sound, so they take an. <b>Memory trick:</b> “Say the letter, hear the sound.” So it is an RRB, an NDA, an MPSC and an LLB, but a UPSC, a CBSE and a PO.</p>
+<h3>Trick 2: Flowing, Wide or in a Row: The</h3>
+<div class="zp-ex"><span class="zp-no">✗ We crossed Ganga by boat.</span><br><span class="zp-yes">✓ We crossed the Ganga by boat.</span></div>
+<p>Rivers, oceans, seas and mountain ranges take the. Single mountains, lakes and continents don’t, as in Mount Everest and Lake Victoria. <b>Memory trick:</b> “Flowing, wide or in a row: The. Single and still: bare.” The Himalayas, the Pacific Ocean and the Nile all take the.</p>
+<h3>Trick 3: Plural or Union: The</h3>
+<div class="zp-ex"><span class="zp-no">✗ He lives in Netherlands now.</span><br><span class="zp-yes">✓ He lives in the Netherlands now.</span></div>
+<p>Names of countries that are plural or unions take the: the Netherlands, the Philippines, the USA, the UK, the UAE. Single-name countries like India and Nepal don’t. <b>Memory trick:</b> “Plural or union: The.”</p>
+<h3>Trick 4: A Group Needs The</h3>
+<div class="zp-ex"><span class="zp-no">✗ Rich should help poor.</span><br><span class="zp-yes">✓ The rich should help the poor.</span></div>
+<p>Use the before an adjective to name a whole group of people: the rich, the poor, the young, the elderly. The same goes for nationalities such as the French. <b>Memory trick:</b> “A group needs The.”</p>
+<h3>Trick 5: Such, What, Many, Quite: A Follows</h3>
+<div class="zp-ex"><span class="zp-no">✗ He is a such good boy.</span><br><span class="zp-yes">✓ He is such a good boy.</span></div>
+<p>After such, what, many and quite, the article comes after the word. Likewise half an hour, not a half hour. <b>Memory trick:</b> “Such, What, Many, Quite: A comes after.” So you say “What a day!” and “Many a student has failed.”</p>
+<h3>Trick 6: Uncountables Hate A and An</h3>
+<div class="zp-ex"><span class="zp-no">✗ She gave me an advice yesterday.</span><br><span class="zp-yes">✓ She gave me a piece of advice yesterday.</span></div>
+<p>Advice, information, furniture, luggage, knowledge, news and bread are uncountable, so they never take a or an. Say some advice or a piece of advice. <b>Memory trick:</b> “If you can’t count it, a can’t join it.” You’ll see this in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/zero-article-rules-ssc-cgl/">zero article rules</a>.</p>
+<h3>Trick 7: Same, Following, Former, Latter: The Leads</h3>
+<div class="zp-ex"><span class="zp-no">✗ We study in same class.</span><br><span class="zp-yes">✓ We study in the same class.</span></div>
+<p>The goes before same, following, former and latter, and before next or last when they point to a specific one. <b>Memory trick:</b> “Same and following always follow The.”</p>
+<h3>Trick 8: First A, Then The</h3>
+<div class="zp-ex"><span class="zp-no">✗ I bought a book. A book was interesting.</span><br><span class="zp-yes">✓ I bought a book. The book was interesting.</span></div>
+<p>A noun mentioned for the first time takes a or an. When you mention it again, it becomes specific, so it takes the. <b>Memory trick:</b> “First a, then the.”</p>
+<h3>Trick 9: Games Are Bare, Instruments Wear The</h3>
+<div class="zp-ex"><span class="zp-no">✗ She plays guitar very well.</span><br><span class="zp-yes">✓ She plays the guitar very well.</span></div>
+<p>Musical instruments take the, while games and sports take no article (plays cricket, plays chess). <b>Memory trick:</b> “Games are bare. Instruments wear The.”</p>
+<h3>Trick 10: Purpose Is Bare, Building Is The</h3>
+<div class="zp-ex"><span class="zp-no">✗ The child goes to the school every day.</span><br><span class="zp-yes">✓ The child goes to school every day.</span></div>
+<p>When you go to school, college, hospital, church or bed for their usual purpose, use no article. When you mean the building itself, use the. <b>Memory trick:</b> “Purpose is bare. Building is The.” So “He went to the school to meet the principal” is correct, because the visit is to the building.</p>
+<h2 id="section-traps">Three trap sentences examiners reuse</h2>
+<p>Once you know the ten shortcuts, these three disguises are easy to spot.</p>
+<div class="zp-box">
+<p><b>Trap 1: The abbreviation.</b> “He is a MBA from Pune.” M is pronounced “em,” so use “an MBA.”</p>
+<p><b>Trap 2: The single peak.</b> “She climbed the Mount Everest.” A single mountain takes no article, so use “Mount Everest.”</p>
+<p><b>Trap 3: The uncountable noun.</b> “I need an information about the exam.” Information is uncountable, so use “some information.”</p>
+</div>
+<p>Notice the pattern. Each sentence sounds smooth, and the error is a single small word. That’s why SAY comes first. Pronounce the next word before you trust the article. More patterns live in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">articles error spotting</a>.</p>
+<h2 id="section-cheat">Quick-fix cheat sheet (screenshot this)</h2>
+<div style="overflow-x:auto"><table>
+<tr><th>Pattern</th><th>Quick fix</th></tr>
+<tr><td>1. Abbreviations</td><td>Say the letter, hear the sound.</td></tr>
+<tr><td>2. Rivers, oceans, ranges</td><td>Flowing, wide or in a row: The.</td></tr>
+<tr><td>3. Plural or union countries</td><td>Plural or union: The.</td></tr>
+<tr><td>4. The poor, the rich</td><td>A group needs The.</td></tr>
+<tr><td>5. Such, what, many, quite</td><td>A follows.</td></tr>
+<tr><td>6. Advice, information</td><td>If you can’t count it, a can’t join it.</td></tr>
+<tr><td>7. Same, following</td><td>Same and following always follow The.</td></tr>
+<tr><td>8. Second mention</td><td>First a, then the.</td></tr>
+<tr><td>9. Instruments and games</td><td>Games are bare. Instruments wear The.</td></tr>
+<tr><td>10. School, hospital, bed</td><td>Purpose is bare. Building is The.</td></tr>
+</table></div>
+<p>For 100 triggers like these across grammar topics, see <i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> on Amazon.</p>
+<h2 id="section-abbr">Exam abbreviations: a or an?</h2>
+<p>Because exam names are abbreviations, they make perfect trap material. Say the letter name of the first letter, and the answer follows.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Abbreviation</th><th>Article</th><th>Why</th></tr>
+<tr><td>SSC CGL</td><td>an</td><td>S = “ess”</td></tr>
+<tr><td>RRB NTPC</td><td>an</td><td>R = “ar”</td></tr>
+<tr><td>NDA</td><td>an</td><td>N = “en”</td></tr>
+<tr><td>MPSC</td><td>an</td><td>M = “em”</td></tr>
+<tr><td>IBPS PO</td><td>an</td><td>I = “eye”</td></tr>
+<tr><td>UPSC</td><td>a</td><td>U = “you”</td></tr>
+<tr><td>CBSE</td><td>a</td><td>C = “see”</td></tr>
+<tr><td>CDS</td><td>a</td><td>C = “see”</td></tr>
+</table></div>
+<p>Say each one in a full sentence: “an SSC officer,” “a UPSC aspirant.” Your ear will start to catch the wrong one.</p>
+<h2 id="section-method">The 5-step error spotting method</h2>
+<p>SAY, SORT, SEE tells you what to do. This routine tells you how to run it from start to finish.</p>
+<div class="zp-box">
+<p><b>Step 1: Read the sentence once.</b> Circle every article.</p>
+<p><b>Step 2: SAY.</b> Pronounce the word after each article and listen for a vowel or consonant sound.</p>
+<p><b>Step 3: SORT.</b> Decide if the noun is countable, uncountable or a name.</p>
+<p><b>Step 4: SEE.</b> Check if it’s specific or already mentioned, and test your fix by reading the corrected sentence.</p>
+<p><b>Step 5: Only then choose “No error.”</b> It’s a conclusion, never a default.</p>
+</div>
+<h2 id="section-time">A 10-second time plan</h2>
+<p>Here’s a plan that works for most students. Adjust the seconds to suit your pace.</p>
+<div class="zp-box">
+<p><b>0 to 2 seconds:</b> read once and circle the articles.</p>
+<p><b>2 to 5 seconds:</b> SAY the next word and SORT the noun.</p>
+<p><b>5 to 8 seconds:</b> SEE if it’s specific, and CHECK the article.</p>
+<p><b>8 to 10 seconds:</b> mark the answer and move on. If you’re stuck, skip it and return.</p>
+</div>
+<h2>A pattern I see in almost every batch</h2>
+<p>Here’s something that repeats year after year in my classes. A student can recite “use an before a vowel sound” perfectly, then picks “No error” on “a SSC exam.” The rule is there. The sound isn’t.</p>
+<p>The fix is a habit, not more theory. Take ten sentences from any newspaper, circle every article and say the next word aloud. Ten sentences a day for two weeks trains your ear to catch the sound before your eye trusts the spelling, and that’s the whole skill. For more practice, try the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/">articles practice questions</a>.</p>
+<h2>Expert tips for exam day</h2>
+<div class="zp-box">
+<p><b>Say it, don’t read it.</b> Mouth the word after the article, and the sound will tell you.</p>
+<p><b>Trust the pattern over your ear.</b> “It sounds fine” is why most article errors survive.</p>
+<p><b>Check the noun, not just the article.</b> Many errors are really countable and uncountable errors.</p>
+<p><b>Keep an error log.</b> Write down every pattern you miss and revise that list for a week.</p>
+</div>
+<h2 id="section-plan">A 5-day practice plan</h2>
+<p>You don’t need a big block of time. Fifteen minutes a day is enough if you do the same thing each time: read the shortcuts, say the memory hooks aloud, then solve ten mixed sentences and note every mistake.</p>
+<div class="zp-box">
+<p><b>Day 1:</b> Shortcuts 1 and 2</p>
+<p><b>Day 2:</b> Shortcuts 3 and 4</p>
+<p><b>Day 3:</b> Shortcuts 5 and 6</p>
+<p><b>Day 4:</b> Shortcuts 7 and 8</p>
+<p><b>Day 5:</b> Shortcuts 9 and 10, then retake the practice set below</p>
+</div>
+<h3>Three mistakes to avoid</h3>
+<div class="zp-box">
+<p><b>Judging by spelling.</b> The sound decides a or an. Letters don’t.</p>
+<p><b>Using the wrong trick.</b> Each shortcut has a trigger. Check that the trigger is really in the sentence.</p>
+<p><b>Learning all ten in one evening.</b> It feels productive and fades by morning. Two a day holds far better.</p>
+</div>
+<h2 id="section-practice">Practice set: 9 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<ol>
+<li>He cleared (A) / a SSC exam (B) / last year. (C) / No error (D)</li>
+<li>We crossed (A) / Ganga (B) / by boat. (C) / No error (D)</li>
+<li>He lives (A) / in Netherlands (B) / now. (C) / No error (D)</li>
+<li>Rich should (A) / help the poor (B) / always. (C) / No error (D)</li>
+<li>He is (A) / a such (B) / good boy. (C) / No error (D)</li>
+<li>She gave me (A) / an advice (B) / yesterday. (C) / No error (D)</li>
+<li>She plays (A) / guitar (B) / very well. (C) / No error (D)</li>
+<li>The child goes (A) / to the school (B) / every day. (C) / No error (D)</li>
+<li>I bought a book. (A) / The book (B) / was interesting. (C) / No error (D)</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. (B): S is pronounced “ess,” so use “an SSC exam.” (Shortcut 1)</p>
+<p>2. (B): a river takes the, so use “the Ganga.” (Shortcut 2)</p>
+<p>3. (B): the Netherlands is plural, so use “in the Netherlands.” (Shortcut 3)</p>
+<p>4. (A): a group needs the, so use “The rich should.” (Shortcut 4)</p>
+<p>5. (B): the article follows such, so use “such a.” (Shortcut 5)</p>
+<p>6. (B): advice is uncountable, so use “some advice” or “a piece of advice.” (Shortcut 6)</p>
+<p>7. (B): an instrument takes the, so use “the guitar.” (Shortcut 9)</p>
+<p>8. (B): purpose is bare, so use “to school.” (Shortcut 10)</p>
+<p>9. (D): no error. The first mention takes a, and the second takes the. (Shortcut 8)</p>
+</div>
+<p>If you scored 8 or 9, you’re ready for harder questions. If you scored 5 to 7, revise the shortcuts you missed. If you scored below 5, go back to SAY, SORT, SEE and the cheat sheet, and retake the set after two days. For one more rule set, see <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/definite-article-the-rules/">the rules for the definite article</a>.</p>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>How do I decide between a and an?</h3>
+<p>Listen to the first sound of the next word, not its spelling. Use an before a vowel sound, as in an hour and an SSC exam, and a before a consonant sound, as in a university and a UPSC aspirant.</p>
+<h3>Which countries take the?</h3>
+<p>Plural names and unions take the, such as the Netherlands, the Philippines, the USA, the UK and the UAE. Single-name countries like India and Nepal don’t.</p>
+<h3>Do rivers and mountains take the?</h3>
+<p>Rivers, oceans, seas and mountain ranges take the, as in the Ganga and the Himalayas. A single mountain such as Mount Everest takes no article.</p>
+<h3>Why can’t I say an advice?</h3>
+<p>Advice is an uncountable noun, so it can’t take a or an. Say some advice or a piece of advice.</p>
+<h3>How many article questions come in SSC, railway and bank exams?</h3>
+<p>There’s no fixed number, because articles appear in error spotting, fill in the blanks and cloze questions. Check the latest official notification for your exam pattern.</p>
+<h2>Your next step</h2>
+<p>Article errors survive because the word is tiny and the sentence sounds smooth. Change how you read. Run SAY, SORT, SEE on every sentence, name the shortcut and only then choose “No error.”</p>
+<p>When you’re ready for the full set, grab <b>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</b> on Amazon: <a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://link.amazon/B03rEYi9F</a></p>
+<p>If prepositions are your weak spot, read my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-fixed-prepositions/">10 preposition tricks</a> next. Which of today’s ten shortcuts caught you out? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-error-spotting-ssc-cgl/">Articles Error Spotting for SSC CGL</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/definite-article-the-rules/">The Definite Article: Rules for The</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/zero-article-rules-ssc-cgl/">Zero Article Rules for SSC CGL</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-questions-ssc-cgl-practice/">Articles Questions for SSC CGL: Practice</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Articles (A, An, The) Shortcut Rules for SSC, Railway and Bank Exams", "description": "Learn 10 article shortcuts for a, an and the with memory hooks, exam-style examples and a practice set. Built for SSC, railway and bank exams.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/articles-a-an-the-shortcut-rules-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-a-an-the-shortcut-rules-ssc-railway-bank-exams/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I decide between a and an?", "acceptedAnswer": {"@type": "Answer", "text": "Listen to the first sound of the next word, not its spelling. Use an before a vowel sound, as in an hour and an SSC exam, and a before a consonant sound, as in a university and a UPSC aspirant."}}, {"@type": "Question", "name": "Which countries take the?", "acceptedAnswer": {"@type": "Answer", "text": "Plural names and unions take the, such as the Netherlands, the Philippines, the USA, the UK and the UAE. Single-name countries like India and Nepal don’t."}}, {"@type": "Question", "name": "Do rivers and mountains take the?", "acceptedAnswer": {"@type": "Answer", "text": "Rivers, oceans, seas and mountain ranges take the, as in the Ganga and the Himalayas. A single mountain such as Mount Everest takes no article."}}, {"@type": "Question", "name": "Why can’t I say an advice?", "acceptedAnswer": {"@type": "Answer", "text": "Advice is an uncountable noun, so it can’t take a or an. Say some advice or a piece of advice."}}, {"@type": "Question", "name": "How many article questions come in SSC, railway and bank exams?", "acceptedAnswer": {"@type": "Answer", "text": "There’s no fixed number, because articles appear in error spotting, fill in the blanks and cloze questions. Check the latest official notification for your exam pattern."}}]}
+</script>
+`
+  }
 
   ];
 /**
