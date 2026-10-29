@@ -14866,20 +14866,19 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 </script>
 `
     },
-  
-
+  // Paste into script.js: inside const ARTICLES = [ ... ], right after the closing } of the most recent article (make sure that one ends with a comma), before the closing ];
   {
-    slug: "preposition-tricks-ssc-bank-exams-easy-formulas-fixed-prepositions",
+    slug: "preposition-tricks-ssc-bank-exams-fixed-prepositions",
     title: "Preposition Tricks for SSC and Bank Exams: Easy Formulas to Remember Fixed Prepositions",
     category: "Prepositions",
     readingTime: "14 min read",
     difficulty: "Intermediate",
-    bookId: 0, // KEEP your existing bookId for the preposition book
-    publishDate: "2026-10-29",
-    description: "Master fixed prepositions for SSC and Bank exams with easy formulas, memory tricks, high-frequency lists and a full practice set with answers.",
-    formula: "Fix the key word -> Group it (ON/OF/IN/TO/FOR/WITH) -> Lock the preposition",
+    bookId: 12,
+    publishDate: "2026-10-26",
+    description: "Learn 10 preposition tricks with memory hooks and a practice set. Remember fixed prepositions for SSC and bank exams in about 10 seconds.",
+    formula: "Find the head word -> Recall its partner preposition -> Check it against the sentence",
     body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-tricks-ssc-bank-hero.webp" alt="Preposition tricks for SSC and Bank exams with easy formulas and fixed prepositions" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-tricks-ssc-bank-exams-hero.webp" alt="Preposition tricks for SSC and bank exams with memory hooks for fixed prepositions" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
 <style>
 .zp-post{line-height:1.8;color:#1f2937}
 .zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
@@ -14898,234 +14897,213 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 </style>
 <div class="zp-post">
 
-<p>Which of these is correct? (A) She is good in English. (B) She is good at English. (C) She is good on English.</p>
-<p>If you picked (B), you already know the secret: many prepositions are not free. They are fixed to particular words. In SSC and Bank exams these fixed combinations appear in error spotting, fill-in-the-blanks and sentence improvement almost every year. Once you learn the groups and a few memory formulas, the questions become mechanical.</p>
-<p>This guide gives you the exact formulas, high-frequency lists, memory tricks and a complete practice set that I have used with thousands of aspirants for 22 years. If you need the basic difference between free and fixed prepositions first, read my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">in, on, at rules</a>.</p>
+<p>Try this in ten seconds: (A) He is afraid / (B) from snakes / (C) since childhood. / (D) No error.</p>
+<p>Most students read it, find nothing alarming and pick (D). “Afraid from” sounds almost right, because we say “scared from” in everyday talk, and the rhythm of the sentence hides the slip. The correct form is “afraid of.” One small word decided the answer, and that’s what preposition questions do to you.</p>
+<p>The honest truth is that prepositions can’t be reasoned out. There’s no logic behind “good at” and “weak in.” You either remember the pair or you don’t. So the smart move isn’t to memorise a thousand pairs. It’s to learn short formulas that group many pairs at once, which is exactly what this guide does.</p>
+<p>You’ll get 10 preposition tricks, each with a memory hook, a wrong sentence and its correction. You’ll also get a three-word routine called WORD, PAIR, CHECK, a 10-second time plan and a nine-question practice set with answers. After 22 years of teaching, I’ve found that students who learn groups beat students who learn lists. I covered in, on, at and a few other tricks in my post on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 grammar shortcuts for error spotting</a>, so these ten are new. For long lists afterwards, keep my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/fixed-prepositions-25-high-frequency-verbs-exam-guide/">guide to fixed prepositions after verbs</a> handy.</p>
 <div class="zp-toc"><b>In this guide</b>
 <ul>
-<li onclick="document.getElementById('section-blocks').scrollIntoView({behavior:'smooth'})">The two building blocks: free vs fixed</li>
-<li onclick="document.getElementById('section-count').scrollIntoView({behavior:'smooth'})">The Fix-and-Group formula</li>
-<li onclick="document.getElementById('section-types').scrollIntoView({behavior:'smooth'})">The four main groups with examples</li>
-<li onclick="document.getElementById('section-compare').scrollIntoView({behavior:'smooth'})">High-frequency table for exams</li>
-<li onclick="document.getElementById('section-connectors').scrollIntoView({behavior:'smooth'})">Connector cheat sheet by preposition</li>
-<li onclick="document.getElementById('section-use').scrollIntoView({behavior:'smooth'})">When each group appears in papers</li>
-<li onclick="document.getElementById('section-steps').scrollIntoView({behavior:'smooth'})">How to solve any fixed-preposition question in 4 steps</li>
-<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">Three traps that fool aspirants</li>
-<li onclick="document.getElementById('section-makeover').scrollIntoView({behavior:'smooth'})">A short paragraph makeover</li>
-<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
-<li onclick="document.getElementById('section-write').scrollIntoView({behavior:'smooth'})">Writing practice: change the preposition</li>
-<li onclick="document.getElementById('section-transform').scrollIntoView({behavior:'smooth'})">Error-spotting transformations</li>
+<li onclick="document.getElementById('section-tested').scrollIntoView({behavior:'smooth'})">How prepositions are tested in exams</li>
+<li onclick="document.getElementById('section-routine').scrollIntoView({behavior:'smooth'})">The WORD, PAIR, CHECK routine</li>
+<li onclick="document.getElementById('section-tricks').scrollIntoView({behavior:'smooth'})">10 preposition tricks with examples</li>
+<li onclick="document.getElementById('section-traps').scrollIntoView({behavior:'smooth'})">Three trap sentences examiners reuse</li>
+<li onclick="document.getElementById('section-cheat').scrollIntoView({behavior:'smooth'})">Quick-fix cheat sheet</li>
+<li onclick="document.getElementById('section-pairs').scrollIntoView({behavior:'smooth'})">Fixed pairs you should know cold</li>
+<li onclick="document.getElementById('section-method').scrollIntoView({behavior:'smooth'})">The 5-step error spotting method</li>
+<li onclick="document.getElementById('section-time').scrollIntoView({behavior:'smooth'})">A 10-second time plan</li>
 <li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day practice plan</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
 <li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
 <li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
 </ul></div>
-<h2 id="section-blocks">The two building blocks: free vs fixed</h2>
-<p>Every preposition question is built from one of two types, so start there.</p>
+<h2 id="section-tested">How prepositions are tested in exams</h2>
+<p>In SSC and bank exams, prepositions appear in more places than students expect. Knowing the formats tells you where to look.</p>
 <div class="zp-box">
-<p><b>Free preposition.</b> It can change according to meaning. “The book is on the table / in the bag / under the chair.” The choice depends on location or direction.</p>
-<p><b>Fixed preposition.</b> It is locked to a particular verb, adjective or noun. You cannot replace it without creating an error. “She depends on her brother” is correct; “depends in” or “depends at” is wrong.</p>
+<p><b>1. Error spotting.</b> A sentence is split into parts (A), (B), (C), and (D) is “No error.” The wrong preposition sits at the start of one part.</p>
+<p><b>2. Fill in the blanks.</b> Four options, all prepositions. Only one forms the right pair with the word before the blank.</p>
+<p><b>3. Cloze passages.</b> A paragraph with several blanks, where each blank tests a fixed pair.</p>
 </div>
-<p>SSC and Bank papers test fixed prepositions far more than free ones. If you want the full list of high-frequency verb + preposition combinations, see the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/fixed-prepositions-25-high-frequency-verbs-exam-guide/">25 high-frequency verbs guide</a>.</p>
-<h2 id="section-count">The Fix-and-Group formula</h2>
-<p>You do not need to memorise hundreds of random combinations. You need one routine.</p>
+<p>A note on the examples in this post: every sentence is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper, and I haven’t attached any year to them. The patterns are what repeat, and the patterns are what you should learn.</p>
+<h2 id="section-routine">The WORD, PAIR, CHECK routine</h2>
+<p>You can’t scan a list of two hundred pairs with the clock running. You need one routine that works on every sentence.</p>
 <div class="zp-trick">
-<p style="margin:0 0 8px"><b>“Fix and Group.”</b></p>
+<p style="margin:0 0 8px"><b>“WORD, PAIR, CHECK.”</b></p>
 <p style="margin:0">
-<b>FIX</b> identify the verb, adjective or noun that usually takes a fixed preposition.<br>
-<b>GROUP</b> put it into its family: the ON-group, the OF-group, the IN-group, the FOR-group, the TO-group or the WITH-group.<br>
-<b>Name it:</b> once the group is clear, the preposition is automatic.</p>
+<b>WORD</b>: spot the head word before the preposition (a verb, adjective or noun)<br>
+<b>PAIR</b>: recall its partner preposition from your trick groups<br>
+<b>CHECK</b>: compare the partner with the preposition in the sentence</p>
 </div>
-<p>A memory hook for the six biggest families: <b>ON – OF – IN – FOR – TO – WITH</b>. Learn one family a day and the confusion disappears.</p>
-<h2 id="section-types">The four main groups with examples</h2>
-<h3>1. Verb + Fixed Preposition (the biggest exam group)</h3>
-<p>These are the combinations that appear most often in error spotting.</p>
-<div class="zp-ex"><span class="zp-yes">✓ Depend on / Rely on / Insist on / Concentrate on</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Accuse of / Approve of / Consist of / Die of</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Believe in / Succeed in / Specialize in / Result in</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Prefer to / Object to / Belong to / Refer to</span></div>
-<p><b>Memory trick:</b> “ON for pressure and focus, OF for content and blame, IN for field and belief, TO for direction and preference.”</p>
-<h3>2. Adjective + Fixed Preposition</h3>
-<p>These are short but deadly in fill-in-the-blanks.</p>
-<div class="zp-ex"><span class="zp-yes">✓ Good at / Bad at / Expert at</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Interested in / Involved in / Engaged in</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Afraid of / Proud of / Fond of / Tired of</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Similar to / Equal to / Married to</span></div>
-<p><b>Memory trick:</b> “AT for skill, IN for activity, OF for feeling, TO for comparison or relation.”</p>
-<h3>3. Noun + Fixed Preposition</h3>
-<p>Less frequent but still tested every year.</p>
-<div class="zp-ex"><span class="zp-yes">✓ Solution to / Answer to / Key to / Reply to</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Reason for / Demand for / Need for / Respect for</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Increase in / Decrease in / Rise in / Fall in</span></div>
-<p><b>Memory trick:</b> “TO for solution-type nouns, FOR for requirement-type nouns, IN for change-type nouns.”</p>
-<h3>4. Phrasal combinations that look free but are fixed</h3>
-<p>These trip even strong students.</p>
-<div class="zp-ex"><span class="zp-yes">✓ Look after (care for) vs Look for (search)</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Put up with (tolerate) vs Put on (wear)</span></div>
-<div class="zp-ex"><span class="zp-yes">✓ Take after (resemble) vs Take over (assume control)</span></div>
-<p><b>Memory trick:</b> “Learn them as complete units, not as separate words.”</p>
-<h2 id="section-compare">High-frequency table for exams</h2>
+<p>Say the three words silently on every sentence. It takes about five seconds, and it stops you from judging the preposition by how it sounds.</p>
+<h2 id="section-tricks">10 preposition tricks with examples</h2>
+<h3>Trick 1: Fear, Pride and Fondness Take OF</h3>
+<div class="zp-ex"><span class="zp-no">✗ He is afraid from snakes.</span><br><span class="zp-yes">✓ He is afraid of snakes.</span></div>
+<p>Adjectives of fear, pride, dislike and ability take of: afraid of, proud of, fond of, jealous of, capable of, aware of, guilty of, ashamed of. <b>Memory trick:</b> “Fear, pride and fondness are all OF.”</p>
+<h3>Trick 2: Skills Are AT, Subjects Are IN</h3>
+<div class="zp-ex"><span class="zp-no">✗ He is good in dancing but weak at mathematics.</span><br><span class="zp-yes">✓ He is good at dancing but weak in mathematics.</span></div>
+<p>Use at for a skill or an activity (good at, bad at, clever at). Use in for a school subject or a field (weak in, expert in, interested in). <b>Memory trick:</b> “Skills sit AT. Subjects sit IN.”</p>
+<h3>Trick 3: Different Comes FROM</h3>
+<div class="zp-ex"><span class="zp-no">✗ This pen is different than that one.</span><br><span class="zp-yes">✓ This pen is different from that one.</span></div>
+<p>Different always takes from in exam answers. Similar takes to, and same takes as. <b>Memory trick:</b> “Different comes from a different place.” For more fixed adjective pairs, see the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/appropriate-prepositions-list-verb-adjective-noun/">list of appropriate prepositions with verbs, adjectives and nouns</a>.</p>
+<h3>Trick 4: The Lean-On Verbs</h3>
+<div class="zp-ex"><span class="zp-no">✗ He depends of his parents for money.</span><br><span class="zp-yes">✓ He depends on his parents for money.</span></div>
+<p>Verbs of support and attention take on: depend on, rely on, insist on, focus on, concentrate on, count on, congratulate on. <b>Memory trick:</b> “Dependable, reliable, insistent: lean ON.”</p>
+<h3>Trick 5: The DERMA Verbs Need No Coat</h3>
+<div class="zp-ex"><span class="zp-no">✗ We discussed about the plan yesterday.</span><br><span class="zp-yes">✓ We discussed the plan yesterday.</span></div>
+<p>Some verbs take their object directly and need no preposition. Remember DERMA: Discuss, Enter, Reach, Marry, Attend. <b>Memory trick:</b> “DERMA is skin only. No coat, no preposition.” So “enter the room,” “reach Pune,” “marry her” and “attend the meeting.”</p>
+<h3>Trick 6: BY Is a Deadline, UNTIL Is a Duration</h3>
+<div class="zp-ex"><span class="zp-no">✗ Submit the form until Friday.</span><br><span class="zp-yes">✓ Submit the form by Friday.</span></div>
+<p>By means not later than a time. Until means continuing up to a time. <b>Memory trick:</b> “BY is a deadline. UNTIL is a duration.” Compare “Wait here until I return,” which describes how long you wait.</p>
+<h3>Trick 7: DURING Names the Event, FOR Counts the Time</h3>
+<div class="zp-ex"><span class="zp-no">✗ I stayed in Pune during two weeks.</span><br><span class="zp-yes">✓ I stayed in Pune for two weeks.</span></div>
+<p>Use for with a length of time (two weeks, three hours). Use during with a named event or period (the festival, the summer). <b>Memory trick:</b> “During names it. For counts it.” Learn more confusing pairs in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/confusing-prepositions-between-among-since-for-beside-besides/">confusing prepositions</a>.</p>
+<h3>Trick 8: By Is the Method, In Is a Box, On Is a Ride</h3>
+<div class="zp-ex"><span class="zp-no">✗ He goes to office with bus.</span><br><span class="zp-yes">✓ He goes to office by bus.</span></div>
+<p>Use by for the method of travel, with no article (by bus, by train, by road). For a position, use in for small enclosed vehicles (in a car) and on for large ones (on a bus, on a train). <b>Memory trick:</b> “By is the method. In is a box. On is a ride you can stand in.” The in, on, at basics are in my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">in, on, at rules</a>.</p>
+<h3>Trick 9: ARKS Go TO</h3>
+<div class="zp-ex"><span class="zp-no">✗ He found a solution of the problem.</span><br><span class="zp-yes">✓ He found a solution to the problem.</span></div>
+<p>Answer, Reply, Key and Solution all take to. Other nouns have their own partners, such as reason for and cause of. <b>Memory trick:</b> “ARKS go To.”</p>
+<h3>Trick 10: Sometimes TO Is a Preposition</h3>
+<div class="zp-ex"><span class="zp-no">✗ I look forward to meet you.</span><br><span class="zp-yes">✓ I look forward to meeting you.</span></div>
+<p>In look forward to, object to, be used to and in addition to, the word to is a preposition, so the -ing form follows. <b>Memory trick:</b> “Can you say ‘to it’? Then add -ing.”</p>
+<h2 id="section-traps">Three trap sentences examiners reuse</h2>
+<p>Once you know the ten tricks, these three disguises are easy to spot.</p>
+<div class="zp-box">
+<p><b>Trap 1: The naked verb.</b> “We reached to Pune at night.” Reach is a DERMA verb, so use “reached Pune.”</p>
+<p><b>Trap 2: The wrong marriage partner.</b> “She is married with a doctor.” The correct pair is “married to,” so use “married to a doctor.”</p>
+<p><b>Trap 3: The hidden -ing.</b> “I am looking forward to hear from you.” Here to is a preposition, so use “hearing.”</p>
+</div>
+<p>Notice the pattern. Each sentence reads smoothly, and the error is a single small word. That’s why WORD comes first. Find the head word, and the right partner is easy to recall.</p>
+<h2 id="section-cheat">Quick-fix cheat sheet (screenshot this)</h2>
 <div style="overflow-x:auto"><table>
-<tr><th>Group</th><th>Key words</th><th>Fixed preposition</th><th>Exam example</th></tr>
-<tr><td>Verb</td><td>depend, rely, insist</td><td>on</td><td>She depends on her parents.</td></tr>
-<tr><td>Verb</td><td>accuse, consist, die</td><td>of</td><td>He was accused of theft.</td></tr>
-<tr><td>Verb</td><td>believe, succeed, result</td><td>in</td><td>Hard work results in success.</td></tr>
-<tr><td>Adjective</td><td>good, bad, expert</td><td>at</td><td>She is good at mathematics.</td></tr>
-<tr><td>Adjective</td><td>interested, involved</td><td>in</td><td>I am interested in history.</td></tr>
-<tr><td>Noun</td><td>solution, answer, key</td><td>to</td><td>There is no solution to this problem.</td></tr>
+<tr><th>Pattern</th><th>Partner</th></tr>
+<tr><td>1. Fear, pride, fondness</td><td>OF</td></tr>
+<tr><td>2. Skill / subject</td><td>AT / IN</td></tr>
+<tr><td>3. Different</td><td>FROM</td></tr>
+<tr><td>4. Support and attention verbs</td><td>ON</td></tr>
+<tr><td>5. DERMA verbs</td><td>No preposition</td></tr>
+<tr><td>6. Deadline / duration</td><td>BY / UNTIL</td></tr>
+<tr><td>7. Event / length of time</td><td>DURING / FOR</td></tr>
+<tr><td>8. Transport</td><td>BY (method), IN / ON (position)</td></tr>
+<tr><td>9. ARKS nouns</td><td>TO</td></tr>
+<tr><td>10. Look forward to, object to</td><td>TO + -ing</td></tr>
 </table></div>
-<p>Keep this table in your notebook. It covers more than 70 % of the fixed-preposition questions asked in the last five years.</p>
-<h2 id="section-connectors">Connector cheat sheet by preposition</h2>
-<p>The preposition itself often tells you the group.</p>
+<p>For 100 triggers like these across grammar topics, see <i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> on Amazon.</p>
+<h2 id="section-pairs">Fixed pairs you should know cold</h2>
+<p>Tricks cover groups, but some single pairs deserve their own place in your notebook. Here are twelve that appear again and again.</p>
 <div style="overflow-x:auto"><table>
-<tr><th>Preposition</th><th>Typical partners</th><th>Memory cue</th></tr>
-<tr><td>on</td><td>depend, rely, insist, concentrate, comment</td><td>pressure / focus</td></tr>
-<tr><td>of</td><td>accuse, approve, consist, die, proud, afraid</td><td>content / feeling</td></tr>
-<tr><td>in</td><td>believe, succeed, specialize, interested, result</td><td>field / belief</td></tr>
-<tr><td>to</td><td>prefer, object, belong, similar, married, solution</td><td>direction / relation</td></tr>
-<tr><td>for</td><td>reason, demand, need, respect, wait, apply</td><td>purpose / requirement</td></tr>
-<tr><td>with</td><td>agree, deal, quarrel, satisfied, busy</td><td>company / association</td></tr>
+<tr><th>Word</th><th>Partner</th><th>Word</th><th>Partner</th></tr>
+<tr><td>accuse</td><td>of</td><td>result</td><td>in / from</td></tr>
+<tr><td>blame</td><td>for</td><td>sympathy</td><td>with / for</td></tr>
+<tr><td>congratulate</td><td>on</td><td>capable</td><td>of</td></tr>
+<tr><td>died</td><td>of / from</td><td>fond</td><td>of</td></tr>
+<tr><td>prevent</td><td>from</td><td>insist</td><td>on</td></tr>
+<tr><td>provide</td><td>with / for</td><td>responsible</td><td>for</td></tr>
 </table></div>
-<p>One memory hook: “ON for pressure, OF for content, IN for field, TO for direction, FOR for purpose, WITH for company.”</p>
-<h2 id="section-use">When each group appears in papers</h2>
-<p>Knowing the lists is only half the skill. The other half is recognising the pattern the examiner loves.</p>
+<p>Say each pair aloud in a full sentence, not alone. “She was accused of theft” sticks far better than “accuse of.” For more practice, work through the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-fill-in-the-blanks-tricks/">fill-in-the-blanks tricks</a>.</p>
+<h2 id="section-method">The 5-step error spotting method</h2>
+<p>WORD, PAIR, CHECK tells you what to do. This routine tells you how to run it from start to finish.</p>
 <div class="zp-box">
-<p><b>Error spotting</b> almost always uses Verb + Fixed Preposition. The wrong option replaces “on” with “in” or “of” with “for”.</p>
-<p><b>Fill-in-the-blanks</b> prefers Adjective + Fixed Preposition because the blank is short and the options look similar.</p>
-<p><b>Sentence improvement</b> mixes both and sometimes adds a phrasal verb that looks free but is fixed.</p>
-<p><b>Cloze tests</b> in Bank exams love the OF-group and the TO-group because they fit naturally into formal passages.</p>
+<p><b>Step 1: Read the sentence once.</b> Underline every preposition.</p>
+<p><b>Step 2: WORD.</b> Find the head word before each preposition.</p>
+<p><b>Step 3: PAIR.</b> Recall the partner using your trick groups.</p>
+<p><b>Step 4: CHECK.</b> Compare the partner with the sentence and test your fix by reading the corrected version.</p>
+<p><b>Step 5: Only then choose “No error.”</b> It’s a conclusion, never a default.</p>
 </div>
-<p>A good aspirant does not wait for the question. He already knows which group is being tested the moment he sees the key word.</p>
-<h2 id="section-steps">How to solve any fixed-preposition question in 4 steps</h2>
+<h2 id="section-time">A 10-second time plan</h2>
+<p>Here’s a plan that works for most students. Adjust the seconds to suit your pace.</p>
 <div class="zp-box">
-<p><b>Step 1: Spot the key word.</b> Find the verb, adjective or noun that usually takes a fixed preposition.</p>
-<p><b>Step 2: Recall its group.</b> Is it an ON-word, OF-word, IN-word, TO-word, FOR-word or WITH-word?</p>
-<p><b>Step 3: Test the options.</b> Only one option will match the group.</p>
-<p><b>Step 4: Check meaning.</b> Make sure the sentence still makes sense. If two options look possible, the group decides.</p>
+<p><b>0 to 2 seconds:</b> read once and underline the prepositions.</p>
+<p><b>2 to 5 seconds:</b> find the WORD before each one.</p>
+<p><b>5 to 8 seconds:</b> recall the PAIR and CHECK it.</p>
+<p><b>8 to 10 seconds:</b> mark the answer and move on. If you’re stuck, skip it and return.</p>
 </div>
-<p>Try it on “She is interested ___ classical music.” Key word = interested → IN-group → answer is “in”.</p>
-<h2 id="section-traps">Three traps that fool aspirants</h2>
+<h2>A pattern I see in almost every batch</h2>
+<p>Here’s something that repeats year after year in my classes. A student can recite the whole DERMA list, then picks “No error” on “We discussed about the plan.” The knowledge is there. The checking isn’t.</p>
+<p>The fix is a habit, not more theory. Take ten sentences from any newspaper, circle every preposition and write its head word beside it. Ten sentences a day for two weeks trains your eyes to travel from the preposition back to its head word, and that’s the whole skill. For more error-spotting practice, see <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">preposition error spotting for SSC CGL and bank exams</a>.</p>
+<h2>Expert tips for exam day</h2>
 <div class="zp-box">
-<p><b>Trap 1: Treating a fixed preposition as free.</b> “She is good in English” looks natural to many Hindi or Marathi speakers, but the fixed combination is “good at”.</p>
-<p><b>Trap 2: Confusing similar pairs.</b> “Insist on” vs “Consist of”, “Look after” vs “Look for”, “Prefer to” vs “Prefer over” (the last is wrong).</p>
-<p><b>Trap 3: Adding an unnecessary preposition.</b> “Discuss about the matter” is wrong; “discuss” already contains the idea. “Enter into the room” is wrong in most contexts; “enter the room” is enough.</p>
+<p><b>Learn pairs in sentences.</b> A pair inside a sentence is easier to recall than a pair on a list.</p>
+<p><b>Trust the pair over your ear.</b> “It sounds fine” is why most preposition errors survive.</p>
+<p><b>Look at the word before the preposition.</b> The error is usually a bad partner, not a bad preposition.</p>
+<p><b>Keep an error log.</b> Write down every pair you miss and revise that list for a week.</p>
 </div>
-<p>Commas and articles never decide the preposition. Always go back to the Fix-and-Group formula. For more error-spotting patterns, see <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">preposition error spotting for SSC and Bank</a>.</p>
-<h2 id="section-makeover">A short paragraph makeover</h2>
-<p>Why does any of this matter? Because the wrong preposition makes even a correct idea look weak. Here’s a paragraph full of common fixed-preposition mistakes.</p>
+<h2 id="section-plan">A 5-day practice plan</h2>
+<p>You don’t need a big block of time. Fifteen minutes a day is enough if you do the same thing each time: read the tricks, say the memory hooks aloud, then solve ten mixed sentences and note every mistake.</p>
 <div class="zp-box">
-<p><b>Before:</b> She is good in mathematics. She depends in her teacher. She is interested on science. She prefers coffee than tea.</p>
+<p><b>Day 1:</b> Tricks 1 and 2</p>
+<p><b>Day 2:</b> Tricks 3 and 4</p>
+<p><b>Day 3:</b> Tricks 5 and 6</p>
+<p><b>Day 4:</b> Tricks 7 and 8</p>
+<p><b>Day 5:</b> Tricks 9 and 10, then retake the practice set below</p>
 </div>
-<p>Every sentence contains a fixed-preposition error. Now the corrected version:</p>
+<h3>Three mistakes to avoid</h3>
 <div class="zp-box">
-<p><b>After:</b> She is good at mathematics. She depends on her teacher. She is interested in science. She prefers coffee to tea.</p>
+<p><b>Learning a long list in one sitting.</b> Groups stick. Lists fade by morning.</p>
+<p><b>Using the wrong trick.</b> Each trick has a trigger. Check that the trigger is really in the sentence.</p>
+<p><b>Skipping the practice.</b> Reading a trick isn’t learning it. Solve ten sentences the same day.</p>
 </div>
-<p>Four small changes, four correct groups. The paragraph now sounds confident and exam-ready.</p>
-<h2 id="section-practice">Practice set: choose the correct fixed preposition</h2>
-<p>Write the correct preposition for each sentence. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<h2 id="section-practice">Practice set: 9 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. These are original practice sentences written for this guide. Try them before you read the answers.</p>
 <ol>
-<li>She is very good ___ dancing.</li>
-<li>He was accused ___ stealing the money.</li>
-<li>I prefer tea ___ coffee.</li>
-<li>The success of the project depends ___ hard work.</li>
-<li>She is interested ___ learning French.</li>
-<li>There is no easy solution ___ this problem.</li>
-<li>He died ___ a heart attack.</li>
-<li>We must concentrate ___ our studies.</li>
-<li>She is married ___ a doctor.</li>
-<li>The committee consists ___ ten members.</li>
+<li>He is afraid (A) / from snakes (B) / since childhood. (C) / No error (D)</li>
+<li>She is good (A) / in singing (B) / and dancing. (C) / No error (D)</li>
+<li>This pen is (A) / different than (B) / that one. (C) / No error (D)</li>
+<li>He depends (A) / of his parents (B) / for money. (C) / No error (D)</li>
+<li>We discussed (A) / about the plan (B) / yesterday. (C) / No error (D)</li>
+<li>Submit the form (A) / until Friday (B) / without fail. (C) / No error (D)</li>
+<li>I stayed in Pune (A) / during two weeks (B) / last year. (C) / No error (D)</li>
+<li>He found (A) / a solution to (B) / the problem. (C) / No error (D)</li>
+<li>I look forward (A) / to meeting (B) / you soon. (C) / No error (D)</li>
 </ol>
 <div class="zp-box">
 <p><b>Answers</b></p>
-<p>1. at <i>(good at = skill)</i></p>
-<p>2. of <i>(accuse of)</i></p>
-<p>3. to <i>(prefer to)</i></p>
-<p>4. on <i>(depend on)</i></p>
-<p>5. in <i>(interested in)</i></p>
-<p>6. to <i>(solution to)</i></p>
-<p>7. of <i>(die of)</i></p>
-<p>8. on <i>(concentrate on)</i></p>
-<p>9. to <i>(married to)</i></p>
-<p>10. of <i>(consist of)</i></p>
+<p>1. (B): fear takes of, so use “of snakes.” (Trick 1)</p>
+<p>2. (B): a skill takes at, so use “at singing.” (Trick 2)</p>
+<p>3. (B): different takes from, so use “different from.” (Trick 3)</p>
+<p>4. (B): depend is a lean-on verb, so use “on his parents.” (Trick 4)</p>
+<p>5. (B): discuss needs no preposition, so use “the plan.” (Trick 5)</p>
+<p>6. (B): a deadline takes by, so use “by Friday.” (Trick 6)</p>
+<p>7. (B): a length of time takes for, so use “for two weeks.” (Trick 7)</p>
+<p>8. (D): no error. Solution takes to. (Trick 9)</p>
+<p>9. (D): no error. Look forward to takes -ing. (Trick 10)</p>
 </div>
-<p>If you scored 9 or 10, you have internalised the groups. If you scored 6 to 8, revise the traps. If you scored below 6, go back to Fix-and-Group and retake the set after two days.</p>
-<h2 id="section-write">Writing practice: change the preposition</h2>
-<p>Reading about groups helps, but writing them cements the skill. Start from a wrong sentence and correct it.</p>
-<div class="zp-box">
-<p><b>Start:</b> She is good in English. She depends in her brother.</p>
-<p><b>Task A:</b> Correct both sentences.</p>
-<p><b>Task B:</b> Make two new sentences using “interested in” and “prefer to”.</p>
-<p><b>Task C:</b> Write one sentence each for the OF-group and the ON-group.</p>
-</div>
-<div class="zp-box">
-<p><b>Answers</b></p>
-<p>A. She is good at English. She depends on her brother.</p>
-<p>B. I am interested in classical music. I prefer tea to coffee.</p>
-<p>C. He was accused of cheating. We must insist on punctuality.</p>
-</div>
-<p>Your answers may differ, and that is fine if the fixed preposition is correct.</p>
-<h2 id="section-transform">Error-spotting transformations</h2>
-<p>Examiners love to change one correct fixed preposition into a wrong one. The idea is simple: replace the fixed preposition with a free-looking one that sounds natural to Indian learners.</p>
-<div class="zp-box">
-<p><b>Correct → Wrong:</b> “She is good at mathematics” becomes “She is good in mathematics.”</p>
-<p><b>Correct → Wrong:</b> “He depends on his parents” becomes “He depends upon his parents” (upon is sometimes accepted, but “on” is safer) or “depends in”.</p>
-<p><b>Correct → Wrong:</b> “I prefer tea to coffee” becomes “I prefer tea than coffee.”</p>
-</div>
-<p>Memory trick: “If it sounds too much like Hindi or Marathi word-for-word translation, check the fixed group again.”</p>
-<h2 id="section-plan">A 5-day practice plan</h2>
-<p>Fifteen minutes a day is enough if you keep the routine the same.</p>
-<div class="zp-box">
-<p><b>Day 1:</b> Learn the ON-group and OF-group. Write five sentences for each.</p>
-<p><b>Day 2:</b> Learn the IN-group and TO-group. Write five sentences for each.</p>
-<p><b>Day 3:</b> Learn the FOR-group and WITH-group. Write five sentences for each.</p>
-<p><b>Day 4:</b> Solve 20 previous-year error-spotting questions focusing only on prepositions.</p>
-<p><b>Day 5:</b> Retake the practice set above without looking at the answers and write five original sentences using mixed groups.</p>
-</div>
-<h2>A pattern I see in almost every batch</h2>
-<p>Aspirants can usually list twenty fixed combinations. The slip happens when two similar words appear together. Show them “insist” and “consist”, and half will put the same preposition for both. The fix is a contrast question, not a longer list: “What does the word actually mean?” Insist = put pressure → on. Consist = made up of content → of. Ask that question every time, and the confusion disappears.</p>
-<h2>Mistakes to avoid</h2>
-<div class="zp-box">
-<p><b>Translating from mother tongue.</b> “Good in English” is a classic translation error.</p>
-<p><b>Treating every preposition as free.</b> Fixed combinations do not change with meaning.</p>
-<p><b>Ignoring the noun group.</b> “Solution of” is wrong; it is “solution to”.</p>
-<p><b>Over-learning rare combinations.</b> Master the high-frequency table first; rare ones can wait.</p>
-</div>
+<p>If you scored 8 or 9, you’re ready for harder questions. If you scored 5 to 7, revise the tricks you missed. If you scored below 5, go back to WORD, PAIR, CHECK and the cheat sheet, and retake the set after two days. For a bigger bank of questions, use the <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-practice-questions-with-answers-mixed-mcqs/">mixed preposition MCQs with answers</a>.</p>
 <h2 id="section-faq">Frequently asked questions</h2>
-<h3>What are fixed prepositions?</h3>
-<p>Fixed prepositions are prepositions that are permanently linked to certain verbs, adjectives or nouns. You cannot change them without changing the meaning or making the sentence wrong. Examples: depend on, interested in, accused of.</p>
-<h3>How can I remember fixed prepositions easily?</h3>
-<p>Use the Fix-and-Group formula. Group words that take the same preposition (the ON-group, the OF-group, the IN-group) and learn one group at a time with short memory sentences.</p>
-<h3>Are fixed prepositions asked in SSC and Bank exams?</h3>
-<p>Yes. Error spotting, fill-in-the-blanks and sentence improvement questions regularly test fixed prepositions. High-frequency combinations appear every year.</p>
-<h3>What is the difference between a fixed preposition and a free preposition?</h3>
-<p>A free preposition can change according to meaning (in the room / on the table). A fixed preposition is locked to the word (rely on, not rely in or rely at).</p>
-<h3>How do I stop confusing similar prepositions?</h3>
-<p>Learn them in contrast pairs: insist on vs consist of, good at vs good for, look after vs look for. Write two example sentences for each pair every day for five days.</p>
-<h3>Is there a short formula for exam day?</h3>
-<p>Yes. Ask three questions: 1. Is this verb/adjective/noun known for a fixed preposition? 2. Which group does it belong to? 3. Does the sentence still make sense with that preposition? If yes, lock it.</p>
+<h3>What is the fastest way to learn fixed prepositions?</h3>
+<p>Learn them in groups, not lists. Groups like fear takes of, support verbs take on and ARKS take to cover dozens of pairs at once, and a short daily practice makes them stick.</p>
+<h3>Is it different from or different than?</h3>
+<p>In exam answers, use different from. Different than appears in casual American English, but exams treat different from as the standard form.</p>
+<h3>Which verbs take no preposition?</h3>
+<p>Common ones are discuss, enter, reach, marry, attend, resemble and approach. Remember DERMA for the first five.</p>
+<h3>What is the difference between by and until?</h3>
+<p>By marks a deadline, meaning not later than that time. Until marks how long something continues. So you submit a form by Friday and wait until Friday.</p>
+<h3>How many preposition questions come in SSC CGL and bank exams?</h3>
+<p>There’s no fixed number, because prepositions appear in error spotting, fill in the blanks and cloze questions. Check the latest official notification for your exam pattern.</p>
 <h2>Your next step</h2>
-<p>Pick ten sentences from any previous-year paper and run Fix-and-Group on each one. Name the group, then change one correct preposition into a wrong one and ask a friend to spot the error. That small exercise will teach you more than another page of lists.</p>
-<p>When you want a fast, repeatable way to master every high-frequency fixed preposition, my ebook <b>Preposition Mastery for SSC & Bank Exams</b> is on Amazon: <a href="https://amzn.to/4yXLKMo" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4yXLKMo</a></p>
-<p>Which fixed-preposition group do you find hardest to remember? Tell me in the comments, and I’ll explain it in more detail.</p>
+<p>Preposition errors survive because the small word sounds right. Change how you read. Run WORD, PAIR, CHECK on every sentence, name the trick and only then choose “No error.”</p>
+<p>When you’re ready for the full set, grab <b>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</b> on Amazon: <a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://link.amazon/B03rEYi9F</a></p>
+<p>If tenses are the topic that trips you up, read my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-shortcuts-competitive-exams-memory-tricks/">10 tense shortcuts</a> next. Which of today’s ten tricks caught you out? Tell me in the comments, and I’ll explain it in more detail.</p>
 <h2 id="section-related">Related Articles</h2>
 <div class="zp-box">
 <ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">Preposition Error Spotting for SSC CGL and Bank Exams</a></li>
 <li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/fixed-prepositions-25-high-frequency-verbs-exam-guide/">Fixed Prepositions: 25 High-Frequency Verbs Exam Guide</a></li>
-<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">In, On, At Prepositions Rules</a></li>
-<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-error-spotting-ssc-cgl-bank-exams/">Preposition Error Spotting for SSC CGL & Bank Exams</a></li>
-<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/appropriate-prepositions-list-verb-adjective-noun/">Appropriate Prepositions List: Verb, Adjective, Noun</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/in-on-at-prepositions-rules/">In, On, At: Preposition Rules</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-fill-in-the-blanks-tricks/">Preposition Fill in the Blanks: Tricks</a></li>
 </ul>
 </div>
 
 </div>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "Article", "headline": "Preposition Tricks for SSC and Bank Exams: Easy Formulas to Remember Fixed Prepositions", "description": "Master fixed prepositions for SSC and Bank exams with easy formulas, memory tricks, high-frequency lists and a full practice set with answers.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-tricks-ssc-bank-hero.webp", "datePublished": "2026-10-29", "dateModified": "2026-10-29", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-easy-formulas-fixed-prepositions/"}
+{"@context": "https://schema.org", "@type": "Article", "headline": "Preposition Tricks for SSC and Bank Exams: Easy Formulas to Remember Fixed Prepositions", "description": "Learn 10 preposition tricks with memory hooks and a practice set. Remember fixed prepositions for SSC and bank exams in about 10 seconds.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/preposition-tricks-ssc-bank-exams-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-fixed-prepositions/"}
 </script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What are fixed prepositions?", "acceptedAnswer": {"@type": "Answer", "text": "Fixed prepositions are prepositions that are permanently linked to certain verbs, adjectives or nouns. You cannot change them without changing the meaning or making the sentence wrong. Examples: depend on, interested in, accused of."}}, {"@type": "Question", "name": "How can I remember fixed prepositions easily?", "acceptedAnswer": {"@type": "Answer", "text": "Use the Fix-and-Group formula. Group words that take the same preposition (the ON-group, the OF-group, the IN-group) and learn one group at a time with short memory sentences."}}, {"@type": "Question", "name": "Are fixed prepositions asked in SSC and Bank exams?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Error spotting, fill-in-the-blanks and sentence improvement questions regularly test fixed prepositions. High-frequency combinations appear every year."}}, {"@type": "Question", "name": "What is the difference between a fixed preposition and a free preposition?", "acceptedAnswer": {"@type": "Answer", "text": "A free preposition can change according to meaning (in the room / on the table). A fixed preposition is locked to the word (rely on, not rely in or rely at)."}}, {"@type": "Question", "name": "How do I stop confusing similar prepositions?", "acceptedAnswer": {"@type": "Answer", "text": "Learn them in contrast pairs: insist on vs consist of, good at vs good for, look after vs look for. Write two example sentences for each pair every day for five days."}}, {"@type": "Question", "name": "Is there a short formula for exam day?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Ask three questions: 1. Is this verb/adjective/noun known for a fixed preposition? 2. Which group does it belong to? 3. Does the sentence still make sense with that preposition? If yes, lock it."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is the fastest way to learn fixed prepositions?", "acceptedAnswer": {"@type": "Answer", "text": "Learn them in groups, not lists. Groups like fear takes of, support verbs take on and ARKS take to cover dozens of pairs at once, and a short daily practice makes them stick."}}, {"@type": "Question", "name": "Is it different from or different than?", "acceptedAnswer": {"@type": "Answer", "text": "In exam answers, use different from. Different than appears in casual American English, but exams treat different from as the standard form."}}, {"@type": "Question", "name": "Which verbs take no preposition?", "acceptedAnswer": {"@type": "Answer", "text": "Common ones are discuss, enter, reach, marry, attend, resemble and approach. Remember DERMA for the first five."}}, {"@type": "Question", "name": "What is the difference between by and until?", "acceptedAnswer": {"@type": "Answer", "text": "By marks a deadline, meaning not later than that time. Until marks how long something continues. So you submit a form by Friday and wait until Friday."}}, {"@type": "Question", "name": "How many preposition questions come in SSC CGL and bank exams?", "acceptedAnswer": {"@type": "Answer", "text": "There’s no fixed number, because prepositions appear in error spotting, fill in the blanks and cloze questions. Check the latest official notification for your exam pattern."}}]}
 </script>
 `
   }
-  
+
+
   ];
 /**
  * A post is live once its publishDate has arrived (or has no publishDate at
