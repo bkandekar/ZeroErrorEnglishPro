@@ -15591,6 +15591,276 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I decide between a and an?", "acceptedAnswer": {"@type": "Answer", "text": "Listen to the first sound of the next word, not its spelling. Use an before a vowel sound, as in an hour and an SSC exam, and a before a consonant sound, as in a university and a UPSC aspirant."}}, {"@type": "Question", "name": "Which countries take the?", "acceptedAnswer": {"@type": "Answer", "text": "Plural names and unions take the, such as the Netherlands, the Philippines, the USA, the UK and the UAE. Single-name countries like India and Nepal don’t."}}, {"@type": "Question", "name": "Do rivers and mountains take the?", "acceptedAnswer": {"@type": "Answer", "text": "Rivers, oceans, seas and mountain ranges take the, as in the Ganga and the Himalayas. A single mountain such as Mount Everest takes no article."}}, {"@type": "Question", "name": "Why can’t I say an advice?", "acceptedAnswer": {"@type": "Answer", "text": "Advice is an uncountable noun, so it can’t take a or an. Say some advice or a piece of advice."}}, {"@type": "Question", "name": "How many article questions come in SSC, railway and bank exams?", "acceptedAnswer": {"@type": "Answer", "text": "There’s no fixed number, because articles appear in error spotting, fill in the blanks and cloze questions. Check the latest official notification for your exam pattern."}}]}
 </script>
 `
+  },
+
+  {
+    slug: "join-sentences-using-participles-ing-ed",
+    title: "How to Join Sentences Using -ing and -ed Participles",
+    category: "Sentence Improvement",
+    readingTime: "14 min read",
+    difficulty: "Intermediate",
+    bookId: 0, // KEEP your existing bookId for Clauses & Phrases Demystified
+    publishDate: "2026-10-30",
+    description: "Learn how to join sentences with -ing and -ed participles. Easy rules, dangling participle fixes, examples and a practice set with answers.",
+    formula: "Check the doer -> Decide the time -> Choose the participle form",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/join-sentences-using-participles-hero.webp" alt="How to join sentences using -ing and -ed participles with examples" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Read this sentence: “Walking to school, the rain started.” It sounds natural, and you’ve probably seen sentences like it. But think about it for a moment. Who was walking to school? According to the grammar, the rain was. That’s a dangling participle, and it’s one of the most common slips in English writing.</p>
+<p>Participles are also one of the best tools you have for joining sentences smoothly. “She opened the box. She smiled.” becomes “Opening the box, she smiled.” Two short sentences turn into one clean one, and the writing instantly sounds more mature.</p>
+<p>This guide teaches you how to join sentences with -ing and -ed participles, how to avoid the dangling trap, and how to choose the right form. You’ll get five patterns, a three-word routine, a paragraph makeover and a practice set with answers. I’ve taught English grammar for 22 years, and participle phrases are where my students’ writing improves fastest. If you’re new to joining sentences, start with my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/">how to combine two sentences into one</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-what').scrollIntoView({behavior:'smooth'})">What is a participle phrase?</li>
+<li onclick="document.getElementById('section-routine').scrollIntoView({behavior:'smooth'})">The DOER, TIME, FORM routine</li>
+<li onclick="document.getElementById('section-patterns').scrollIntoView({behavior:'smooth'})">5 patterns for joining sentences</li>
+<li onclick="document.getElementById('section-comma').scrollIntoView({behavior:'smooth'})">Where does the comma go?</li>
+<li onclick="document.getElementById('section-dangling').scrollIntoView({behavior:'smooth'})">The dangling participle trap</li>
+<li onclick="document.getElementById('section-gerund').scrollIntoView({behavior:'smooth'})">Participle or gerund?</li>
+<li onclick="document.getElementById('section-notuse').scrollIntoView({behavior:'smooth'})">When not to use a participle</li>
+<li onclick="document.getElementById('section-cheat').scrollIntoView({behavior:'smooth'})">Quick-fix cheat sheet</li>
+<li onclick="document.getElementById('section-makeover').scrollIntoView({behavior:'smooth'})">A short paragraph makeover</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set: join the sentences</li>
+<li onclick="document.getElementById('section-fix').scrollIntoView({behavior:'smooth'})">Practice set: fix the dangling participle</li>
+<li onclick="document.getElementById('section-best').scrollIntoView({behavior:'smooth'})">Pick the best version</li>
+<li onclick="document.getElementById('section-real').scrollIntoView({behavior:'smooth'})">Participles in real writing</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day practice plan</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">Mistakes to avoid</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-what">What is a participle phrase?</h2>
+<p>A participle is a verb form that works like an adjective. A participle phrase is a participle plus the words that go with it. It describes a noun, usually the subject of the sentence, and it saves you a whole clause.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Form</th><th>Pattern</th><th>Example</th></tr>
+<tr><td>Present participle</td><td>verb + -ing</td><td>Smiling, she walked in.</td></tr>
+<tr><td>Past participle</td><td>verb + -ed, or the third form</td><td>Surprised by the noise, she turned.</td></tr>
+<tr><td>Perfect participle</td><td>having + past participle</td><td>Having finished, she left.</td></tr>
+</table></div>
+<p>You’ll find participle phrases listed with other phrase types in my guide to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/types-of-phrases-noun-adjective-adverb-prepositional-ssc-bank/">types of phrases</a>, and the difference between a phrase and a clause is in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/phrase-vs-clause-difference-exam-guide/">phrase vs clause</a>.</p>
+<h2 id="section-routine">The DOER, TIME, FORM routine</h2>
+<p>Joining sentences with a participle isn’t hard if you ask three questions in the right order.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“DOER, TIME, FORM.”</b></p>
+<p style="margin:0">
+<b>DOER</b>: do both sentences have the same doer? If not, stop. Use a clause instead.<br>
+<b>TIME</b>: did the actions happen at the same time, or did one happen earlier?<br>
+<b>FORM</b>: choose -ing for the same time, having plus past participle for earlier, and the past participle for passive meaning</p>
+</div>
+<p>The golden rule is “Same doer, or don’t use it.” The participle phrase must describe the subject of the main sentence, and the first question protects you from the dangling trap.</p>
+<h2 id="section-patterns">5 patterns for joining sentences</h2>
+<h3>Pattern 1: -ing for actions at the same time</h3>
+<p><b>Before:</b> She opened the box. She smiled.</p>
+<div class="zp-ex"><span class="zp-yes">✓ Opening the box, she smiled.</span></div>
+<p>Use the -ing form when both actions happen together or one flows straight into the other. <b>Memory trick:</b> “Same time, -ing.”</p>
+<h3>Pattern 2: Having plus a past participle for an earlier action</h3>
+<p><b>Before:</b> He finished his homework. He went out to play.</p>
+<div class="zp-ex"><span class="zp-yes">✓ Having finished his homework, he went out to play.</span></div>
+<p>Use having plus a past participle when the first action is completed before the second begins. <b>Memory trick:</b> “Earlier action, having.”</p>
+<h3>Pattern 3: The past participle for a passive meaning</h3>
+<p><b>Before:</b> The girl was surprised by the noise. She turned around.</p>
+<div class="zp-ex"><span class="zp-yes">✓ Surprised by the noise, the girl turned around.</span></div>
+<p>When the doer receives the action (was surprised by), drop was and keep the past participle. You can also begin with a short description: “Tired, he fell asleep.” <b>Memory trick:</b> “Received the action? Drop the was.”</p>
+<h3>Pattern 4: Not plus a participle for a negative</h3>
+<p><b>Before:</b> He didn’t know the answer. He guessed.</p>
+<div class="zp-ex"><span class="zp-yes">✓ Not knowing the answer, he guessed.</span></div>
+<p>Put not before the participle to make it negative. Don’t put it after. <b>Memory trick:</b> “Not goes first.”</p>
+<h3>Pattern 5: A participle after the noun</h3>
+<p><b>Before:</b> The boy is standing near the gate. He is my cousin.</p>
+<div class="zp-ex"><span class="zp-yes">✓ The boy standing near the gate is my cousin.</span></div>
+<p>A participle phrase can also sit right after a noun to describe it. It replaces who is or which was. <b>Memory trick:</b> “Who is, which was: drop them.” The same idea is behind <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/relative-clauses-who-which-that-rules/">relative clauses</a>.</p>
+<h2 id="section-comma">Where does the comma go?</h2>
+<div class="zp-box">
+<p><b>Phrase first, comma after.</b> “Opening the box, she smiled.” Always put a comma after an opening participle phrase.</p>
+<p><b>Phrase after a noun, usually no comma.</b> “The boy standing near the gate is my cousin.” The phrase tells you which boy.</p>
+<p><b>Extra information, commas around it.</b> “My cousin, standing near the gate, waved at me.” If you could remove the phrase and keep the meaning, use commas.</p>
+</div>
+<p>For the broader comma rules, see <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">comma rules in English grammar</a>.</p>
+<h2 id="section-dangling">The dangling participle trap</h2>
+<p>A dangling participle happens when the phrase doesn’t describe the subject that follows it. The sentence says something silly, or at least unclear.</p>
+<div class="zp-ex"><span class="zp-no">✗ Walking to school, the rain started.</span><br><span class="zp-yes">✓ Walking to school, I got caught in the rain.</span></div>
+<p>Here’s how to fix any dangling participle, using three methods.</p>
+<div class="zp-box">
+<p><b>Fix 1: Change the subject.</b> Make the doer the subject of the main clause: “Walking to school, I got caught in the rain.”</p>
+<p><b>Fix 2: Turn the phrase into a clause.</b> “While I was walking to school, the rain started.”</p>
+<p><b>Fix 3: Rewrite the sentence.</b> “The rain started as I walked to school.”</p>
+</div>
+<p>Memory trick: “Who is doing it? Put that person right after the comma.” Always ask who is walking, reading or looking, and make sure the answer is the next noun. It’s a close cousin of the joining mistakes in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/">run-on sentences and comma splices</a>.</p>
+<h2 id="section-gerund">Participle or gerund?</h2>
+<p>Both end in -ing, which causes confusion. The difference is the job. A participle describes a noun, like an adjective. A gerund is a noun itself.</p>
+<div class="zp-box">
+<p><b>Gerund (a noun):</b> “Swimming is good exercise.” Swimming is the subject.</p>
+<p><b>Participle (a describer):</b> “Swimming across the lake, he lost his hat.” Swimming describes he.</p>
+</div>
+<p>Memory trick: “If it names the activity, it’s a gerund. If it describes who is doing it, it’s a participle.” Only participle phrases can dangle.</p>
+<h2 id="section-notuse">When not to use a participle</h2>
+<p>Participles are neat, but they aren’t always the best choice. Step back to a clause in these cases.</p>
+<div class="zp-box">
+<p><b>When the doers differ.</b> “The rain started, and I got wet” can’t become a participle sentence without a new doer.</p>
+<p><b>When the reason matters.</b> “Because he was tired, he fell asleep” states the cause clearly. “Tired, he fell asleep” only hints at it.</p>
+<p><b>When the sentence gets heavy.</b> If you have three participle phrases in one sentence, split it.</p>
+</div>
+<h2 id="section-cheat">Quick-fix cheat sheet (screenshot this)</h2>
+<div style="overflow-x:auto"><table>
+<tr><th>Situation</th><th>Form</th><th>Example</th></tr>
+<tr><td>Same time</td><td>-ing</td><td>Opening the box, she smiled.</td></tr>
+<tr><td>Earlier action</td><td>having + past participle</td><td>Having finished, she left.</td></tr>
+<tr><td>Passive meaning</td><td>past participle</td><td>Surprised by the noise, she turned.</td></tr>
+<tr><td>Negative</td><td>not + participle</td><td>Not knowing, she guessed.</td></tr>
+<tr><td>After a noun</td><td>participle phrase</td><td>The boy standing there is my cousin.</td></tr>
+</table></div>
+<p>Keep this table next to your notebook. Run DOER, TIME, FORM, then pick the matching row.</p>
+<h2 id="section-makeover">A short paragraph makeover</h2>
+<p>Here’s a paragraph made of short sentences. Read it aloud and notice how choppy it feels.</p>
+<div class="zp-box">
+<p><b>Before:</b> Maya left the office. She was exhausted. She took the bus home. She read a book on the way. She felt calmer.</p>
+</div>
+<p>Maya is the doer in every sentence, so participles are safe. The second sentence is a state, so a short description works. The third and fourth flow together.</p>
+<div class="zp-box">
+<p><b>After:</b> Exhausted, Maya left the office and took the bus home. Reading a book on the way, she felt calmer.</p>
+</div>
+<p>Five sentences became two, and nothing was lost. For more drills like this, try my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">sentence combining exercises</a>, and see how participle sentences fit among the four types in <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/simple-compound-complex-sentences-easy-examples/">simple, compound and complex sentences</a>.</p>
+<h2 id="section-practice">Practice set: join the sentences</h2>
+<p>Join each pair using a participle phrase. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<ol>
+<li>She opened the box. She smiled.</li>
+<li>He finished his homework. He went out to play.</li>
+<li>The man was tired. He fell asleep at once.</li>
+<li>The girl was surprised by the noise. She turned around.</li>
+<li>He didn’t know the answer. He guessed.</li>
+<li>The boy is standing near the gate. He is my cousin.</li>
+<li>The letter was written yesterday. It arrived this morning.</li>
+<li>She saw the accident. She called the police.</li>
+<li>The train was delayed by fog. It reached the station late.</li>
+<li>He was walking down the road. He found a wallet.</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. Opening the box, she smiled. (same time, -ing)</p>
+<p>2. Having finished his homework, he went out to play. (earlier action, having)</p>
+<p>3. Tired, the man fell asleep at once. (or Being tired, the man fell asleep at once.)</p>
+<p>4. Surprised by the noise, the girl turned around. (passive meaning, drop was)</p>
+<p>5. Not knowing the answer, he guessed. (not goes first)</p>
+<p>6. The boy standing near the gate is my cousin. (participle after the noun, no comma)</p>
+<p>7. The letter written yesterday arrived this morning. (which was dropped)</p>
+<p>8. Seeing the accident, she called the police. (same doer, -ing)</p>
+<p>9. Delayed by fog, the train reached the station late. (passive meaning)</p>
+<p>10. Walking down the road, he found a wallet. (same time, -ing)</p>
+</div>
+<h2 id="section-fix">Practice set: fix the dangling participle</h2>
+<p>Each sentence below has a dangling participle. Fix it using any of the three methods.</p>
+<ol>
+<li>Walking to school, the rain started.</li>
+<li>Having finished the exam, the bell rang.</li>
+<li>Looking out of the window, a bird was seen.</li>
+<li>Tired after the trip, the bed looked inviting.</li>
+<li>Reading the newspaper, my tea went cold.</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. Walking to school, I got caught in the rain. (or While I was walking to school, the rain started.)</p>
+<p>2. Having finished the exam, we heard the bell ring. (or When we had finished the exam, the bell rang.)</p>
+<p>3. Looking out of the window, I saw a bird.</p>
+<p>4. Tired after the trip, she found the bed inviting.</p>
+<p>5. While I was reading the newspaper, my tea went cold.</p>
+</div>
+<p>Your fixes may differ from mine, and that’s fine as long as the phrase now describes the subject that follows it. If you got 12 or more of the 15 right, you’re ready to use participles in your own writing.</p>
+<h2 id="section-best">Pick the best version</h2>
+<p>Sentence correction questions often give you four versions and ask for the best one. Try these three, applying DOER first.</p>
+<div class="zp-box">
+<p><b>1.</b> A: Walking along the beach, a shell caught my eye. B: Walking along the beach, I noticed a shell. C: A shell was noticed walking along the beach.</p>
+<p><b>2.</b> A: Having finished the report, the manager signed it. B: Finishing the report, the manager signed it. C: Having finished the report, signed it the manager.</p>
+<p><b>3.</b> A: Not knowing the way, a map was bought. B: Not knowing the way, we bought a map. C: We bought a map, not knowing the way it was.</p>
+</div>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. B: “I” is the doer who was walking.</p>
+<p>2. A: the manager finished the report first, so having plus a past participle is correct.</p>
+<p>3. B: “we” didn’t know the way, so it comes straight after the comma.</p>
+</div>
+<h2 id="section-real">Participles in real writing</h2>
+<p>Participles aren’t only for grammar exercises. They give your everyday writing a calmer, more professional rhythm.</p>
+<div class="zp-box">
+<p><b>Emails.</b> “Having reviewed your proposal, I’d like to suggest two changes” sounds more polished than “I reviewed your proposal. I’d like to suggest two changes.”</p>
+<p><b>Essays.</b> “Faced with rising costs, many families cut spending” puts the cause and the result in one smooth sentence.</p>
+<p><b>Stories.</b> “Hearing footsteps, she froze” moves the action along faster than two separate sentences.</p>
+</div>
+<p>Use them in moderation, because one good participle sentence per paragraph is plenty. Overuse makes writing feel mechanical.</p>
+<h2 id="section-plan">A 5-day practice plan</h2>
+<p>Fifteen minutes a day is enough if you keep the routine the same.</p>
+<div class="zp-box">
+<p><b>Day 1:</b> Learn the three forms and write one sentence with each</p>
+<p><b>Day 2:</b> Practise patterns 1 and 2</p>
+<p><b>Day 3:</b> Practise patterns 3 and 4</p>
+<p><b>Day 4:</b> Practise pattern 5 and the comma rules</p>
+<p><b>Day 5:</b> Hunt for dangling participles in your own writing and fix them</p>
+</div>
+<h2 id="section-mistakes">Mistakes to avoid</h2>
+<div class="zp-box">
+<p><b>Ignoring the doer.</b> If the doers differ, the participle dangles.</p>
+<p><b>Using -ing for an earlier action.</b> If the first action finished earlier, use having plus a past participle.</p>
+<p><b>Placing not after the participle.</b> Say not knowing, not knowing not.</p>
+<p><b>Overusing participles.</b> Three in a row make the paragraph heavy. Mix them with other sentence types.</p>
+</div>
+<h2>A pattern I see in almost every batch</h2>
+<p>Learners can usually form the phrase correctly. Where they slip is the doer. They write “Reading the report, the numbers looked wrong,” and the sentence says the numbers were reading. The fix is a single question: who is doing that action? Say the answer aloud, and then put that person straight after the comma.</p>
+<h2>Expert tips for practice</h2>
+<div class="zp-box">
+<p><b>Check the doer first.</b> It takes two seconds and saves you from the biggest mistake.</p>
+<p><b>Read it aloud.</b> If the first noun after the comma can’t do the action, it dangles.</p>
+<p><b>Learn the three forms together.</b> Smiling, smiled and having smiled solve three situations.</p>
+<p><b>Keep a dangling log.</b> Save two of your own each week and fix them in three ways.</p>
+</div>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What is a participle phrase?</h3>
+<p>It’s a verb form ending in -ing, -ed or the third form, together with the words that go with it, and it describes a noun. For example, “Opening the box, she smiled.”</p>
+<h3>What is a dangling participle?</h3>
+<p>It’s a participle phrase that doesn’t describe the subject that follows it, as in “Walking to school, the rain started.” The rain wasn’t walking, so the sentence is unclear.</p>
+<h3>When do I use having plus a past participle?</h3>
+<p>Use it when the action in the phrase finished before the action in the main sentence, as in “Having finished his homework, he went out to play.”</p>
+<h3>Do I always need a comma after a participle phrase?</h3>
+<p>Put a comma after a participle phrase that opens the sentence. A phrase that sits right after a noun and tells you which one usually needs no comma.</p>
+<h3>Are dangling participles tested in exams?</h3>
+<p>Sentence correction and sentence improvement questions often test them. Check the latest official notification for your exam pattern.</p>
+<h2>Your next step</h2>
+<p>Pick three pairs of short sentences from anything you read today. Ask who the doer is, decide the time, and join them with a participle. Then read the result aloud and check that the doer comes right after the comma.</p>
+<p>When you want a fast, repeatable way to handle clauses and phrases, my ebook <b>Clauses & Phrases Demystified: Fix Errors and Write Confidently</b> is on Amazon: <a href="https://amzn.to/4ibEcP9" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4ibEcP9</a></p>
+<p>Which pattern do you find hardest? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/types-of-phrases-noun-adjective-adverb-prepositional-ssc-bank/">Types of Phrases: Noun, Adjective, Adverb and Prepositional</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">Sentence Combining Practice: 20 Exercises With Answers</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/">How to Combine Two Sentences Into One Using Clauses</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/simple-compound-complex-sentences-easy-examples/">Simple, Compound and Complex Sentences: Easy Examples</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "How to Join Sentences Using -ing and -ed Participles", "description": "Learn how to join sentences with -ing and -ed participles. Easy rules, dangling participle fixes, examples and a practice set with answers.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/join-sentences-using-participles-hero.webp", "datePublished": "2026-10-26", "dateModified": "2026-10-26", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/join-sentences-using-participles-ing-ed/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a participle phrase?", "acceptedAnswer": {"@type": "Answer", "text": "It’s a verb form ending in -ing, -ed or the third form, together with the words that go with it, and it describes a noun. For example, “Opening the box, she smiled.”"}}, {"@type": "Question", "name": "What is a dangling participle?", "acceptedAnswer": {"@type": "Answer", "text": "It’s a participle phrase that doesn’t describe the subject that follows it, as in “Walking to school, the rain started.” The rain wasn’t walking, so the sentence is unclear."}}, {"@type": "Question", "name": "When do I use having plus a past participle?", "acceptedAnswer": {"@type": "Answer", "text": "Use it when the action in the phrase finished before the action in the main sentence, as in “Having finished his homework, he went out to play.”"}}, {"@type": "Question", "name": "Do I always need a comma after a participle phrase?", "acceptedAnswer": {"@type": "Answer", "text": "Put a comma after a participle phrase that opens the sentence. A phrase that sits right after a noun and tells you which one usually needs no comma."}}, {"@type": "Question", "name": "Are dangling participles tested in exams?", "acceptedAnswer": {"@type": "Answer", "text": "Sentence correction and sentence improvement questions often test them. Check the latest official notification for your exam pattern."}}]}
+</script>
+`
   }
 
   ];
