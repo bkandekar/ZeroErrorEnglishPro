@@ -291,17 +291,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/</loc>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -311,12 +306,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-fixed-prepositions/</loc>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/simple-compound-complex-sentences-easy-examples/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-fixed-prepositions/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
