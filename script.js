@@ -2530,6 +2530,62 @@ When a subordinate clause of reason or condition is placed too far from what it 
   <li><a href="javascript:void(0)" onclick="document.getElementById('section-8').scrollIntoView({behavior:'smooth'})">Final Takeaway</a></li>
   <li><a href="javascript:void(0)" onclick="document.getElementById('section-10').scrollIntoView({behavior:'smooth'})">Frequently Asked Questions</a></li>
 </ol>
+<!-- ==========================================================
+BLOCK A: paste BEFORE the first <h2 ...> of the article body
+(this is the "How to combine two sentences into one" section)
+========================================================== -->
+
+<h2 id="section-combine-two" style="color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3;">How to Combine Two Sentences Into One</h2>
+
+<div style="background:#f5f7fb;border:1px solid #dbe3f0;border-left:5px solid #D4A017;border-radius:8px;padding:14px 18px;margin:14px 0;">
+<p style="margin:0;"><b>Quick answer:</b> To combine two sentences into one, find the link between the two ideas and join them with the right word: <b>and</b> (addition), <b>but</b> (contrast), <b>so</b> (result), <b>because</b> (reason), or <b>who / which</b> (to describe a noun). Then delete any repeated words.</p>
+</div>
+
+<p>You don't need a long list of rules to start. Ask one question: <i>how are these two ideas related?</i> The answer tells you the joining word. Here are the five relationships you'll meet most often.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">1. Adding an idea: use "and"</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+She opened the book. She started reading.<br>
+<span style="color:#067647;font-weight:700;">✓ She opened the book and started reading.</span>
+</div>
+<p>Notice what happened. The second <i>She</i> disappeared, because the subject is the same. Always drop the repeated subject.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">2. Showing contrast: use "but" or "although"</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+He studied hard. He failed.<br>
+<span style="color:#067647;font-weight:700;">✓ He studied hard, but he failed.</span><br>
+<span style="color:#067647;font-weight:700;">✓ Although he studied hard, he failed.</span>
+</div>
+<p>Use only one of the two. <span style="color:#b42318;font-weight:700;">✗ Although he studied hard, but he failed</span> is a classic exam error.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">3. Showing a result: use "so"</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+It was raining. We stayed home.<br>
+<span style="color:#067647;font-weight:700;">✓ It was raining, so we stayed home.</span>
+</div>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">4. Giving a reason: use "because"</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+We stayed home. It was raining.<br>
+<span style="color:#067647;font-weight:700;">✓ We stayed home because it was raining.</span>
+</div>
+<p>Same two ideas as in point 3, with the order flipped. The cause comes after <i>because</i>, and the result comes after <i>so</i>.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">5. Describing a person or thing: use "who" or "which"</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+I have a friend. He teaches English.<br>
+<span style="color:#067647;font-weight:700;">✓ I have a friend who teaches English.</span><br><br>
+This is my phone. It was a gift.<br>
+<span style="color:#067647;font-weight:700;">✓ This is my phone, which was a gift.</span>
+</div>
+<p>Use <b>who</b> for people and <b>which</b> for things. This is the point where combining sentences turns into combining sentences <i>using clauses</i>, which is what the rest of this guide covers.</p>
+
+<div style="background:#0B2545;color:#ffffff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0;">
+<p style="margin:0 0 8px;"><b style="color:#F5C542;">3-step check before you finish any combined sentence:</b></p>
+<p style="margin:0;">1. Which word shows the link: and, but, so, because, who or which?<br>
+2. Did I use only one linking word for that link?<br>
+3. Did I delete the repeated subject or pronoun?</p>
+</div>
 
 <h2 id="section-2b">6 Easy Ways to Combine Two Sentences Into One</h2>
 <p>These patterns work in everyday writing and in exam questions. Pick the one that matches how your two ideas are related.</p>
@@ -2676,6 +2732,18 @@ When a subordinate clause of reason or condition is placed too far from what it 
   <h4>Q: How do you combine two sentences into one?</h4>
   <p>A: First decide how the two ideas are related: addition, reason, contrast, condition or description. Then join them with a matching word such as and, because, although, if or who.</p>
 </div>
+
+<!-- ==========================================================
+BLOCK B: add these two questions to the FAQ section of the same
+article (after the last existing FAQ answer)
+========================================================== -->
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">How do you combine two sentences into one?</h3>
+<p>Find how the two ideas are related, then join them with the matching word: and for addition, but for contrast, so for a result, because for a reason, and who or which to describe a noun. After joining, remove repeated words, such as the second subject when both sentences have the same one.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">What is the easiest way to combine sentences in English?</h3>
+<p>Start with the five basic linkers: and, but, so, because and who or which. Practise with ten short sentence pairs a day and name the link each time. Once these feel natural, move on to clauses such as although, if and that.</p>
+
 <h2 id="section-11">Related Articles</h2>
 <ul>
   <li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/noun-clause-vs-adjective-clause-vs-adverb-clause-easy-guide/" style="color:var(--color-primary);font-weight:600;text-decoration:underline;">Noun Clause vs Adjective Clause vs Adverb Clause: An Easy Guide</a></li>
