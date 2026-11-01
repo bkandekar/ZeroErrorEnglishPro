@@ -15870,7 +15870,7 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
     readingTime: "14 min read",
     difficulty: "Intermediate",
     bookId: 12,
-    publishDate: "2026-11-01",
+    publishDate: "2026-10-31",
     description: "Learn 15 quick tricks to spot errors in English fast, with a FAST routine, memory hooks and a practice set. Built for SSC, bank and railway exams.",
     formula: "Find the verb -> Ask the time word -> Check small words -> Tally the pairs",
     body: `
@@ -16123,7 +16123,7 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
     readingTime: "15 min read",
     difficulty: "Intermediate",
     bookId: 12,
-    publishDate: "2026-11-01",
+    publishDate: "2026-10-31",
     description: "Learn 25 pairs of commonly confused English words, with simple differences, examples, memory tricks and a practice set with answers.",
     formula: "Check the role -> Check the meaning -> Swap the word to test",
     body: `
@@ -16401,7 +16401,523 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What are commonly confused words?", "acceptedAnswer": {"@type": "Answer", "text": "They’re pairs of words that sound alike, look alike or have similar meanings, so writers swap them by mistake. Examples include affect and effect, their and there, and principal and principle."}}, {"@type": "Question", "name": "Why doesn’t spell-check catch them?", "acceptedAnswer": {"@type": "Answer", "text": "Spell-check only flags words that aren’t in its dictionary. A confused word, such as effect used where affect belongs, is spelled correctly, so the software doesn’t see a problem."}}, {"@type": "Question", "name": "What is the easiest way to remember the difference?", "acceptedAnswer": {"@type": "Answer", "text": "Attach one memory trick to each pair, such as “A for Action, E for End result,” and run the swap test whenever you hesitate. One short hook is easier to recall than a full definition."}}, {"@type": "Question", "name": "Is there a difference between who and whom?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Who is the subject, the one doing the action, and whom is the object, the one receiving it. If you can answer the question with him, use whom."}}, {"@type": "Question", "name": "How many pairs should I learn each day?", "acceptedAnswer": {"@type": "Answer", "text": "Five is plenty. A small daily set with one sentence per word holds far better than a long weekend session."}}]}
 </script>
 `
+  },
+
+
+  {
+    slug: "100-english-grammar-shortcuts-competitive-exams-complete-guide",
+    title: "100 English Grammar Shortcuts for Competitive Exams: The Complete Guide",
+    category: "Grammar Shortcuts",
+    readingTime: "15 min read",
+    difficulty: "Intermediate",
+    bookId: 12,
+    publishDate: "2026-11-01",
+    description: "A complete guide to English grammar shortcuts for competitive exams: 12 shortcuts to use today, a 30-day plan and what is inside the 100-shortcut ebook.",
+    formula: "Learn the trigger -> Attach the hook -> Apply the fix",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/100-english-grammar-shortcuts-complete-guide-hero.webp" alt="100 English grammar shortcuts for competitive exams complete guide with memory tricks" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Try this in ten seconds: (A) She gave me / (B) many advices / (C) before the exam. / (D) No error.</p>
+<p>If you spotted it in a flash, you used a shortcut, even if you didn’t call it one. “Advice” is uncountable, so it can’t take many and it has no plural. If you needed a few seconds and a second read, that’s exactly the gap this guide is about.</p>
+<p>Over the last six days, I’ve shown you how pattern-based shortcuts work in agreement, tenses, prepositions, articles and error spotting. This is the complete guide that ties them together. You’ll get the whole series on one page, twelve shortcuts you can start using today, an honest look at what’s inside my ebook of 100 shortcuts, and a 30-day way to use it. After 22 years of teaching, I’m convinced of one thing: exam grammar rewards recognition, not recitation.</p>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>Want all 100 shortcuts in one book?</b></p>
+<p style="margin:0 0 12px"><i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> is available on Amazon as a Kindle edition. You can read a free sample on the Amazon page before you decide.</p>
+<p style="margin:0"><a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="display:inline-block;background:#D4A017;color:#0B2545;font-weight:700;padding:10px 18px;border-radius:8px;text-decoration:none;">Get the book on Amazon</a></p>
+</div>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-what').scrollIntoView({behavior:'smooth'})">What is a grammar shortcut?</li>
+<li onclick="document.getElementById('section-series').scrollIntoView({behavior:'smooth'})">The 7-day series at a glance</li>
+<li onclick="document.getElementById('section-twelve').scrollIntoView({behavior:'smooth'})">12 shortcuts you can use today</li>
+<li onclick="document.getElementById('section-why').scrollIntoView({behavior:'smooth'})">Why shortcuts work under exam pressure</li>
+<li onclick="document.getElementById('section-inside').scrollIntoView({behavior:'smooth'})">What’s inside the 100-shortcut book</li>
+<li onclick="document.getElementById('section-fit').scrollIntoView({behavior:'smooth'})">Who the book is for</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 30-day plan</li>
+<li onclick="document.getElementById('section-exam').scrollIntoView({behavior:'smooth'})">How to use shortcuts in the exam hall</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-next').scrollIntoView({behavior:'smooth'})">Your next step</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-what">What is a grammar shortcut?</h2>
+<p>A grammar shortcut is a short trigger that points you to a rule. It isn’t a replacement for the rule. It’s the thing that makes you remember the rule in two seconds instead of two minutes.</p>
+<div class="zp-box">
+<p><b>The rule:</b> “The words after of are rarely the subject, so the verb agrees with the noun before of.”</p>
+<p><b>The shortcut:</b> “Of is a fence. Cut it.”</p>
+<p><b>What happens in the exam:</b> You see “The list of documents are,” your mind says “fence,” and you cut the of-phrase and fix the verb.</p>
+</div>
+<p>Every shortcut has three parts: a trigger (what you notice in the sentence), a hook (the short memory line) and a fix (what to do). Learn them as a trio, and recall becomes automatic.</p>
+<p>A note on the examples in this post: every sentence is an original practice sentence on a <b>common exam pattern</b>. None of them is copied from a particular year’s paper, and I haven’t attached any year to them. The patterns are what repeat, and the patterns are what you should learn.</p>
+<h2 id="section-series">The 7-day series at a glance</h2>
+<p>Here’s the whole series in one table. Each post has its own routine, ten or more shortcuts and a practice set with answers.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Day</th><th>Topic</th><th>Routine</th><th>Link</th></tr>
+<tr><td>Day 1</td><td>25 error-spotting shortcuts</td><td>TRAPS: Tense, Right verb, Articles, Prepositions, Special patterns</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">Read it</a></td></tr>
+<tr><td>Day 2</td><td>Subject-verb agreement</td><td>CUT, FIND, MATCH</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/">Read it</a></td></tr>
+<tr><td>Day 3</td><td>Tenses</td><td>LOOK, LABEL, LOCK</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/tense-shortcuts-competitive-exams-memory-tricks/">Read it</a></td></tr>
+<tr><td>Day 4</td><td>Fixed prepositions</td><td>WORD, PAIR, CHECK</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/preposition-tricks-ssc-bank-exams-fixed-prepositions/">Read it</a></td></tr>
+<tr><td>Day 5</td><td>Articles</td><td>SAY, SORT, SEE</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-a-an-the-shortcut-rules-ssc-railway-bank-exams/">Read it</a></td></tr>
+<tr><td>Day 6</td><td>Spotting errors fast</td><td>FAST: Find, Ask, Small words, Tally</td><td><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/how-to-spot-errors-in-english-fast-15-quick-tricks/">Read it</a></td></tr>
+</table></div>
+<p>Read them in order if you’re new to shortcuts. If you already know one topic well, skip to the one that’s costing you marks.</p>
+<h2 id="section-twelve">12 shortcuts you can use today</h2>
+<p>You don’t have to buy or read anything to start. Here are twelve shortcuts from the series, one for each common error type. Learn three a day for four days.</p>
+<h3>Shortcut 1: Cut the OF-phrase</h3>
+<div class="zp-ex"><span class="zp-no">✗ The list of required documents are available.</span><br><span class="zp-yes">✓ The list of required documents is available.</span></div>
+<p><b>Memory trick:</b> “Of is a fence. Cut it.”</p>
+<h3>Shortcut 2: The near-neighbour rule</h3>
+<div class="zp-ex"><span class="zp-no">✗ Either the captain or his teammates has to submit the form.</span><br><span class="zp-yes">✓ Either the captain or his teammates have to submit the form.</span></div>
+<p><b>Memory trick:</b> “The nearest neighbour hears the verb.”</p>
+<h3>Shortcut 3: Finished time kills has and have</h3>
+<div class="zp-ex"><span class="zp-no">✗ I have seen him yesterday.</span><br><span class="zp-yes">✓ I saw him yesterday.</span></div>
+<p><b>Memory trick:</b> “Yesterday and ago push has and have out of the room.”</p>
+<h3>Shortcut 4: Will stays home in the when-clause</h3>
+<div class="zp-ex"><span class="zp-no">✗ I will call you when he will arrive.</span><br><span class="zp-yes">✓ I will call you when he arrives.</span></div>
+<p><b>Memory trick:</b> “Will stays home in the when-clause.”</p>
+<h3>Shortcut 5: Fear, pride and fondness take OF</h3>
+<div class="zp-ex"><span class="zp-no">✗ He is afraid from snakes.</span><br><span class="zp-yes">✓ He is afraid of snakes.</span></div>
+<p><b>Memory trick:</b> “Fear, pride and fondness are all OF.”</p>
+<h3>Shortcut 6: DERMA verbs need no coat</h3>
+<div class="zp-ex"><span class="zp-no">✗ We discussed about the plan.</span><br><span class="zp-yes">✓ We discussed the plan.</span></div>
+<p><b>Memory trick:</b> “DERMA is skin only. No coat, no preposition.” (Discuss, Enter, Reach, Marry, Attend)</p>
+<h3>Shortcut 7: Ears decide a or an</h3>
+<div class="zp-ex"><span class="zp-no">✗ He cleared a SSC exam.</span><br><span class="zp-yes">✓ He cleared an SSC exam.</span></div>
+<p><b>Memory trick:</b> “Say the letter, hear the sound.”</p>
+<h3>Shortcut 8: First a, then the</h3>
+<div class="zp-ex"><span class="zp-no">✗ I bought a book. A book was interesting.</span><br><span class="zp-yes">✓ I bought a book. The book was interesting.</span></div>
+<p><b>Memory trick:</b> “First a, then the.”</p>
+<h3>Shortcut 9: One needs one’s</h3>
+<div class="zp-ex"><span class="zp-no">✗ One should do his duty without fear.</span><br><span class="zp-yes">✓ One should do one’s duty without fear.</span></div>
+<p><b>Memory trick:</b> “One needs one’s.”</p>
+<h3>Shortcut 10: Match the coaches</h3>
+<div class="zp-ex"><span class="zp-no">✗ She likes swimming and to dance.</span><br><span class="zp-yes">✓ She likes swimming and dancing.</span></div>
+<p><b>Memory trick:</b> “In a train, the coaches must match.”</p>
+<h3>Shortcut 11: Return has back inside it</h3>
+<div class="zp-ex"><span class="zp-no">✗ Please return back the book.</span><br><span class="zp-yes">✓ Please return the book.</span></div>
+<p><b>Memory trick:</b> “Return has back inside it.”</p>
+<h3>Shortcut 12: Although and but never share</h3>
+<div class="zp-ex"><span class="zp-no">✗ Although he was tired, but he kept working.</span><br><span class="zp-yes">✓ Although he was tired, he kept working.</span></div>
+<p><b>Memory trick:</b> “Although and but never share a sentence.”</p>
+<p>Notice that none of these needed a long explanation. The hook carries the rule. That’s the whole idea behind the book of 100.</p>
+<h2 id="section-why">Why shortcuts work under exam pressure</h2>
+<p>Competitive exams give you seconds per question, not minutes. Under that clock, three things happen to your brain, and shortcuts are built to deal with each one.</p>
+<div class="zp-box">
+<p><b>Recall slows down.</b> Long rules take time to retrieve. A short hook is faster to find.</p>
+<p><b>Attention narrows.</b> You stop checking small words. A routine like FAST tells your eyes where to go.</p>
+<p><b>Confidence drops.</b> When you can name the trick, you trust your answer, and you waste less time rereading.</p>
+</div>
+<p>There’s an honest limit, though. A shortcut is a trigger, not a replacement for understanding. If a hook fails on an odd sentence, go back to the rule. The best students learn the rule once and attach the hook to it, so they have both.</p>
+<h2 id="section-inside">What’s inside the 100-shortcut book</h2>
+<p>Here’s what the Amazon listing for <i>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</i> says the Kindle edition contains. I’m sharing it as the listing describes it, so you can judge whether it suits your preparation.</p>
+<div class="zp-box">
+<p><b>100 pattern-based shortcuts</b> for the grammar areas that competitive exams test, with the focus on recognising patterns instead of memorising long rules.</p>
+<p><b>The VPAC Error Scanning System,</b> a method for scanning a sentence for errors.</p>
+<p><b>Exam-specific strategies</b> for SSC CGL, CHSL, IBPS PO, Clerk, RRB NTPC and UPSC CSAT.</p>
+<p><b>200+ practice questions</b> with solutions tagged by shortcut, so you can see which shortcut each answer uses.</p>
+<p><b>Memory tricks and mnemonics</b> and time management templates.</p>
+<p><b>Bonus material:</b> quick revision charts, an error pattern checklist, a time-allocation strategy for the English section and a section on common mistakes.</p>
+</div>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>See it for yourself before you decide.</b></p>
+<p style="margin:0 0 12px">Open the book’s page on Amazon and tap Read sample. If the style suits you, you can have all 100 shortcuts on your phone or tablet through the Kindle app.</p>
+<p style="margin:0"><a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="display:inline-block;background:#D4A017;color:#0B2545;font-weight:700;padding:10px 18px;border-radius:8px;text-decoration:none;">Read the free sample on Amazon</a></p>
+</div>
+<h2 id="section-fit">Who the book is for</h2>
+<p>No book suits everyone, and I’d rather you buy it for the right reasons.</p>
+<div class="zp-box">
+<p><b>It’s for you if</b> you’re preparing for SSC, banking, railway, UPSC CSAT or similar exams, you understand basic grammar but lose marks to small errors, and you want short triggers and plenty of practice.</p>
+<p><b>It’s not for you if</b> you’re starting English from zero and need basic grammar taught slowly, or if you only want long theory chapters. In that case, build the basics first and come back to shortcuts.</p>
+</div>
+<p>I can’t promise a particular score, because results depend on your effort, your starting level and your exam. What I can say is that learning triggers beats re-reading rule lists, and the free posts in this series are the proof of method. If they help, the book will help more, because it gives you the full set in one place.</p>
+<h2 id="section-plan">A 30-day plan</h2>
+<p>This is my suggested plan for using the book, not a schedule printed in it. Adjust it to your exam date.</p>
+<div class="zp-box">
+<p><b>Week 1: Agreement and tenses.</b> Learn five shortcuts a day, say each hook aloud and solve ten mixed sentences.</p>
+<p><b>Week 2: Prepositions and articles.</b> Same routine. Keep an error log of every shortcut you miss.</p>
+<p><b>Week 3: The rest of the grammar areas.</b> Add one topic every two days, and revise last week’s error log before each session.</p>
+<p><b>Week 4: Mixed practice and timing.</b> Solve full sets against the clock, review every mistake by shortcut, and use the revision charts in the last three days.</p>
+</div>
+<p>The plan works because it repeats. Every session starts with the previous day’s error log, so mistakes don’t get a chance to settle.</p>
+<h2 id="section-exam">How to use shortcuts in the exam hall</h2>
+<div class="zp-box">
+<p><b>Run a routine, not a list.</b> Use one scan, such as FAST, on every sentence instead of trying to recall rules one by one.</p>
+<p><b>Name the shortcut.</b> If you can say “That’s the near-neighbour rule,” you’re probably right.</p>
+<p><b>Skip and return.</b> If no shortcut fires in about twenty seconds, mark it and move on. A wrong guess costs time and marks.</p>
+</div>
+<h2 id="section-practice">Practice set: 8 error spotting questions</h2>
+<p>Find the part with the error, or choose (D) if there’s none. Try them before you read the answers.</p>
+<ol>
+<li>The list of documents (A) / are on (B) / the table. (C) / No error (D)</li>
+<li>I have seen (A) / him yesterday (B) / at the station. (C) / No error (D)</li>
+<li>We discussed (A) / about the plan (B) / yesterday. (C) / No error (D)</li>
+<li>He cleared (A) / a SSC exam (B) / last year. (C) / No error (D)</li>
+<li>I bought a book. (A) / A book (B) / was interesting. (C) / No error (D)</li>
+<li>One should do (A) / his duty (B) / without fear. (C) / No error (D)</li>
+<li>Although he was tired, (A) / but he (B) / kept working. (C) / No error (D)</li>
+<li>She gave me (A) / some advice (B) / before the exam. (C) / No error (D)</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. (A): the real subject is “list,” so use “is on.” (Shortcut 1)</p>
+<p>2. (A): yesterday needs the simple past, so use “I saw.” (Shortcut 3)</p>
+<p>3. (B): discuss needs no preposition, so use “the plan.” (Shortcut 6)</p>
+<p>4. (B): S is pronounced “ess,” so use “an SSC exam.” (Shortcut 7)</p>
+<p>5. (B): the second mention takes the, so use “The book.” (Shortcut 8)</p>
+<p>6. (B): after one, keep using one’s, so use “one’s duty.” (Shortcut 9)</p>
+<p>7. (B): although and but never share, so delete “but.” (Shortcut 12)</p>
+<p>8. (D): no error. Advice is uncountable, and “some advice” is correct.</p>
+</div>
+<p>If you scored 7 or 8, you’re ready to move on to full sets. If you scored 4 to 6, revisit the shortcuts you missed. If you scored below 4, read the Day 2 to Day 5 posts first, and retake the set after two days.</p>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>Is the book available on Kindle?</h3>
+<p>Yes. The listing shows the Kindle edition, and you can read it on the Kindle app on your phone, tablet or computer. You can also read a free sample on the Amazon page.</p>
+<h3>Which exams does the book cover?</h3>
+<p>The listing names SSC CGL, CHSL, MTS and other SSC exams, banking exams such as IBPS PO, Clerk and SBI PO, railway exams such as RRB NTPC and Group D, UPSC CSAT and several others. Check your own exam’s latest notification for its pattern.</p>
+<h3>Do shortcuts replace learning grammar rules?</h3>
+<p>No. A shortcut is a trigger that helps you recall a rule quickly. Learn the rule once, attach the hook to it and use the hook under time pressure.</p>
+<h3>How long will it take to finish the book?</h3>
+<p>It depends on your pace. A suggested plan is five shortcuts a day with ten practice sentences, which finishes in about a month, but you can go faster or slower.</p>
+<h3>Can I start with the free posts first?</h3>
+<p>Yes. The Day 1 to Day 6 posts in this series teach the same method on a smaller scale, with practice sets and answers. Many readers try them before deciding on the book.</p>
+<h3>Will the book guarantee a particular score?</h3>
+<p>No honest book can. Your result depends on your effort, your starting level and the exam. A good book gives you a method, and your practice does the rest.</p>
+<h2 id="section-next">Your next step</h2>
+<p>You now have the whole picture: the method, twelve shortcuts to use today and a plan for the next 30 days. The only thing left is to start, and the best time to start is today, before this page fades from your memory.</p>
+<div class="zp-box">
+<p><b>Step 1 (2 minutes):</b> Open the Amazon page and read the free sample.</p>
+<p><b>Step 2 (today):</b> Get your copy if the style suits you, so all 100 shortcuts are on your phone.</p>
+<p><b>Step 3 (tonight):</b> Learn the first five shortcuts and solve ten sentences.</p>
+<p><b>Step 4 (tomorrow):</b> Start your error log, and repeat.</p>
+</div>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>Start your 30-day plan today.</b></p>
+<p style="margin:0 0 12px">Get <b>100 English Grammar Shortcuts: Master Key Exam Grammar Shortcuts</b> on Amazon and put every shortcut in your pocket.</p>
+<p style="margin:0"><a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="display:inline-block;background:#D4A017;color:#0B2545;font-weight:700;padding:10px 18px;border-radius:8px;text-decoration:none;">Get the book on Amazon</a></p>
+</div>
+<p>The link, in case you want to copy it: <a href="https://link.amazon/B03rEYi9F" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://link.amazon/B03rEYi9F</a></p>
+<p>Which shortcut helped you most this week? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/english-grammar-shortcuts-ssc-cgl-error-spotting/">25 English Grammar Shortcuts for SSC CGL Error Spotting</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/subject-verb-agreement-tricks-shortcut-rules-10-seconds/">Subject-Verb Agreement Tricks: 10 Shortcut Rules</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/how-to-spot-errors-in-english-fast-15-quick-tricks/">How to Spot Errors in English Fast: 15 Quick Tricks</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/articles-a-an-the-shortcut-rules-ssc-railway-bank-exams/">Articles (A, An, The) Shortcut Rules</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "100 English Grammar Shortcuts for Competitive Exams: The Complete Guide", "description": "A complete guide to English grammar shortcuts for competitive exams: 12 shortcuts to use today, a 30-day plan and what is inside the 100-shortcut ebook.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/100-english-grammar-shortcuts-complete-guide-hero.webp", "datePublished": "2026-10-31", "dateModified": "2026-10-31", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/100-english-grammar-shortcuts-competitive-exams-complete-guide/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is the book available on Kindle?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The listing shows the Kindle edition, and you can read it on the Kindle app on your phone, tablet or computer. You can also read a free sample on the Amazon page."}}, {"@type": "Question", "name": "Which exams does the book cover?", "acceptedAnswer": {"@type": "Answer", "text": "The listing names SSC CGL, CHSL, MTS and other SSC exams, banking exams such as IBPS PO, Clerk and SBI PO, railway exams such as RRB NTPC and Group D, UPSC CSAT and several others. Check your own exam’s latest notification for its pattern."}}, {"@type": "Question", "name": "Do shortcuts replace learning grammar rules?", "acceptedAnswer": {"@type": "Answer", "text": "No. A shortcut is a trigger that helps you recall a rule quickly. Learn the rule once, attach the hook to it and use the hook under time pressure."}}, {"@type": "Question", "name": "How long will it take to finish the book?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on your pace. A suggested plan is five shortcuts a day with ten practice sentences, which finishes in about a month, but you can go faster or slower."}}, {"@type": "Question", "name": "Can I start with the free posts first?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The Day 1 to Day 6 posts in this series teach the same method on a smaller scale, with practice sets and answers. Many readers try them before deciding on the book."}}, {"@type": "Question", "name": "Will the book guarantee a particular score?", "acceptedAnswer": {"@type": "Answer", "text": "No honest book can. Your result depends on your effort, your starting level and the exam. A good book gives you a method, and your practice does the rest."}}]}
+</script>
+`
+  },
+  
+  {
+    slug: "transition-words-and-phrases-list-with-examples",
+    title: "Transition Words and Phrases: 60 Linking Words With Examples",
+    category: "Writing",
+    readingTime: "15 min read",
+    difficulty: "Intermediate",
+    bookId: 0, // KEEP your existing bookId for Advanced Punctuation Mastery
+    publishDate: "2026-11-01",
+    description: "Learn 60 transition words and phrases in nine groups, with example sentences, punctuation rules, memory tricks and a practice set with answers.",
+    formula: "Ask how the ideas relate -> Pick a word from that group -> Punctuate it correctly",
+    body: `
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/transition-words-and-phrases-hero.webp" alt="Transition words and phrases list with 60 linking words and examples" style="width:100%;height:auto;border-radius:12px;margin-bottom:18px">
+<style>
+.zp-post{line-height:1.8;color:#1f2937}
+.zp-post h2{color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3}
+.zp-post h3{color:#0B2545;margin:22px 0 8px}
+.zp-toc{background:#f5f7fb;border:1px solid #dbe3f0;border-radius:10px;padding:14px 20px;margin:20px 0}
+.zp-toc li{cursor:pointer;color:#0B2545;margin:6px 0;text-decoration:underline}
+.zp-trick{background:#0B2545;color:#fff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0}
+.zp-trick b,.zp-trick strong{color:#F5C542}
+.zp-ex{background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0}
+.zp-no{color:#b42318;font-weight:700}
+.zp-yes{color:#067647;font-weight:700}
+.zp-box{background:#f8fafc;border:1px solid #dbe3f0;border-radius:10px;padding:14px 18px;margin:18px 0}
+.zp-post table{border-collapse:collapse;width:100%;margin:14px 0}
+.zp-post th{background:#0B2545;color:#fff;padding:8px;text-align:left}
+.zp-post td{border:1px solid #dbe3f0;padding:8px}
+</style>
+<div class="zp-post">
+
+<p>Read these two versions of the same idea. First: “It rained all day. We stayed home. We played cards.” Now: “It rained all day, so we stayed home and played cards.” Same facts, but the second one has a small word, “so,” that tells the reader how the ideas connect.</p>
+<p>Words like that are called transition words, and they’re the glue of good writing. Without them, your sentences sit side by side like strangers. With them, your reader moves smoothly from one idea to the next, and your essays, emails and exam answers sound clear and confident.</p>
+<p>This guide gives you 60 transition words and phrases in nine groups, each with an example sentence. You’ll also get a three-word routine, three punctuation rules, common mistakes and a twelve-question practice set with answers. I’ve taught English grammar for 22 years, and I can tell you that transitions are the fastest upgrade a writer can make. If you want to practise joining sentences next, try my <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">sentence combining exercises</a>.</p>
+<div class="zp-toc"><b>In this guide</b>
+<ul>
+<li onclick="document.getElementById('section-why').scrollIntoView({behavior:'smooth'})">Why transition words matter</li>
+<li onclick="document.getElementById('section-routine').scrollIntoView({behavior:'smooth'})">The ASK, PICK, PUNCTUATE routine</li>
+<li onclick="document.getElementById('section-add').scrollIntoView({behavior:'smooth'})">Addition</li>
+<li onclick="document.getElementById('section-contrast').scrollIntoView({behavior:'smooth'})">Contrast</li>
+<li onclick="document.getElementById('section-cause').scrollIntoView({behavior:'smooth'})">Cause and reason</li>
+<li onclick="document.getElementById('section-result').scrollIntoView({behavior:'smooth'})">Result</li>
+<li onclick="document.getElementById('section-time').scrollIntoView({behavior:'smooth'})">Time and sequence</li>
+<li onclick="document.getElementById('section-example').scrollIntoView({behavior:'smooth'})">Example</li>
+<li onclick="document.getElementById('section-emphasis').scrollIntoView({behavior:'smooth'})">Emphasis</li>
+<li onclick="document.getElementById('section-conclusion').scrollIntoView({behavior:'smooth'})">Conclusion</li>
+<li onclick="document.getElementById('section-condition').scrollIntoView({behavior:'smooth'})">Condition and comparison</li>
+<li onclick="document.getElementById('section-punct').scrollIntoView({behavior:'smooth'})">Three punctuation rules</li>
+<li onclick="document.getElementById('section-mistakes').scrollIntoView({behavior:'smooth'})">Mistakes to avoid</li>
+<li onclick="document.getElementById('section-makeover').scrollIntoView({behavior:'smooth'})">A short paragraph makeover</li>
+<li onclick="document.getElementById('section-practice').scrollIntoView({behavior:'smooth'})">Practice set with answers</li>
+<li onclick="document.getElementById('section-plan').scrollIntoView({behavior:'smooth'})">A 5-day plan</li>
+<li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
+<li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
+</ul></div>
+<h2 id="section-why">Why transition words matter</h2>
+<div class="zp-box">
+<p><b>They show relationships.</b> A transition tells the reader whether the next idea adds, contrasts, explains or concludes.</p>
+<p><b>They improve flow.</b> Readers feel the writing is organised even when the ideas are complex.</p>
+<p><b>They help in exams.</b> Essay, letter and paragraph-writing tasks reward clear links between ideas.</p>
+</div>
+<p>There’s one catch. A transition word only works if it matches the real relationship. “However” in front of an idea that adds to the previous one confuses readers more than no transition at all. So your first job is to name the relationship, then pick the word.</p>
+<h2 id="section-routine">The ASK, PICK, PUNCTUATE routine</h2>
+<div class="zp-trick">
+<p style="margin:0 0 8px"><b>“ASK. PICK. PUNCTUATE.”</b></p>
+<p style="margin:0">
+<b>ASK</b> how the new idea relates to the last one: add, contrast, cause, result, time, example, emphasis, conclusion or condition<br>
+<b>PICK</b> a word from that group<br>
+<b>PUNCTUATE</b> correctly: comma after an opening transition, semicolon before however-type words that join two sentences</p>
+</div>
+<p>Say the three words whenever you write a sentence that follows another. It takes a few seconds, and it keeps your writing honest.</p>
+<h2 id="section-add">Group 1: Addition (8 words)</h2>
+<p>Use these when the new idea adds to the last one.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>and</td><td>She sings, and she plays the guitar.</td></tr>
+<tr><td>also</td><td>He is also a skilled painter.</td></tr>
+<tr><td>in addition</td><td>In addition, the hotel offers free breakfast.</td></tr>
+<tr><td>moreover</td><td>The plan is cheap; moreover, it is quick.</td></tr>
+<tr><td>furthermore</td><td>The book is clear. Furthermore, it is short.</td></tr>
+<tr><td>besides</td><td>I don’t want to go. Besides, it’s late.</td></tr>
+<tr><td>as well as</td><td>She teaches maths as well as science.</td></tr>
+<tr><td>what is more</td><td>It’s cheap, and what is more, it’s durable.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Add means plus.”</p>
+<h2 id="section-contrast">Group 2: Contrast (8 words)</h2>
+<p>Use these when the new idea goes against the last one.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>but</td><td>I tried, but I failed.</td></tr>
+<tr><td>however</td><td>It was late; however, we kept working.</td></tr>
+<tr><td>although</td><td>Although it rained, we played.</td></tr>
+<tr><td>though</td><td>He is rich, though he lives simply.</td></tr>
+<tr><td>yet</td><td>She was tired, yet she smiled.</td></tr>
+<tr><td>nevertheless</td><td>The road was closed; nevertheless, we arrived on time.</td></tr>
+<tr><td>on the other hand</td><td>Tea is cheap. On the other hand, coffee is richer.</td></tr>
+<tr><td>in contrast</td><td>Rahul loves cricket. In contrast, his brother prefers chess.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Contrast means but.” Never use although and but together in one sentence.</p>
+<h2 id="section-cause">Group 3: Cause and reason (6 words)</h2>
+<p>Use these to explain why something happened.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>because</td><td>We stayed in because it was raining.</td></tr>
+<tr><td>since</td><td>Since you’re here, let’s begin.</td></tr>
+<tr><td>as</td><td>As it was late, we left.</td></tr>
+<tr><td>because of</td><td>The match was delayed because of fog.</td></tr>
+<tr><td>due to</td><td>The delay was due to fog.</td></tr>
+<tr><td>owing to</td><td>Owing to heavy traffic, he was late.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Because of, due to and owing to are followed by a noun. Because, since and as are followed by a clause.”</p>
+<h2 id="section-result">Group 4: Result (7 words)</h2>
+<p>Use these to show what happened because of something.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>so</td><td>It was cold, so I wore a jacket.</td></tr>
+<tr><td>therefore</td><td>He worked hard; therefore, he passed.</td></tr>
+<tr><td>thus</td><td>The data was incomplete; thus, the result was unclear.</td></tr>
+<tr><td>as a result</td><td>It rained all day. As a result, the match was cancelled.</td></tr>
+<tr><td>consequently</td><td>She missed the bus; consequently, she was late.</td></tr>
+<tr><td>hence</td><td>The tickets are cheap; hence, they sell fast.</td></tr>
+<tr><td>accordingly</td><td>We received the new rules and acted accordingly.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Result means so.” Use so, therefore or as a result when one thing causes another.</p>
+<h2 id="section-time">Group 5: Time and sequence (9 words)</h2>
+<p>Use these to put events in order.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>first</td><td>First, wash the rice.</td></tr>
+<tr><td>next</td><td>Next, add the water.</td></tr>
+<tr><td>then</td><td>Then, cover the pot.</td></tr>
+<tr><td>after that</td><td>After that, wait ten minutes.</td></tr>
+<tr><td>meanwhile</td><td>Meanwhile, prepare the sauce.</td></tr>
+<tr><td>finally</td><td>Finally, serve it hot.</td></tr>
+<tr><td>before</td><td>Check your answers before you submit.</td></tr>
+<tr><td>after</td><td>She called after she reached home.</td></tr>
+<tr><td>eventually</td><td>Eventually, the rain stopped.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “First, next, then, finally: count on your fingers.”</p>
+<h2 id="section-example">Group 6: Example (5 words)</h2>
+<p>Use these to give a case that supports your point.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>for example</td><td>Many fruits, for example, mangoes, are seasonal.</td></tr>
+<tr><td>for instance</td><td>Some habits, for instance, reading, take time.</td></tr>
+<tr><td>such as</td><td>I like fruits such as mangoes and guavas.</td></tr>
+<tr><td>namely</td><td>Two cities were hit, namely Pune and Nashik.</td></tr>
+<tr><td>in particular</td><td>I enjoy sports, in particular, cricket.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Such as sits inside the sentence. For example needs commas.”</p>
+<h2 id="section-emphasis">Group 7: Emphasis (5 words)</h2>
+<p>Use these to stress an important point.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>indeed</td><td>It was indeed a difficult exam.</td></tr>
+<tr><td>in fact</td><td>He isn’t lazy. In fact, he works harder than anyone.</td></tr>
+<tr><td>above all</td><td>Above all, stay calm.</td></tr>
+<tr><td>especially</td><td>I love fruits, especially mangoes.</td></tr>
+<tr><td>clearly</td><td>Clearly, the plan needs changes.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Emphasis turns up the volume.” Use it once or twice per page.</p>
+<h2 id="section-conclusion">Group 8: Conclusion (6 words)</h2>
+<p>Use these to close an argument or a paragraph.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>in conclusion</td><td>In conclusion, practice is the key.</td></tr>
+<tr><td>to sum up</td><td>To sum up, plan, practise and revise.</td></tr>
+<tr><td>overall</td><td>Overall, the course was useful.</td></tr>
+<tr><td>in short</td><td>In short, we need more time.</td></tr>
+<tr><td>all in all</td><td>All in all, it was a good trip.</td></tr>
+<tr><td>in summary</td><td>In summary, the results were positive.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Conclusion comes last. Don’t introduce new ideas after it.”</p>
+<h2 id="section-condition">Group 9: Condition and comparison (6 words)</h2>
+<p>Use these to set a condition or show similarity.</p>
+<div style="overflow-x:auto"><table>
+<tr><th>Word or phrase</th><th>Example</th></tr>
+<tr><td>if</td><td>If you study, you will pass.</td></tr>
+<tr><td>unless</td><td>Unless you hurry, you will miss the train.</td></tr>
+<tr><td>similarly</td><td>Rahul works hard. Similarly, his sister studies late.</td></tr>
+<tr><td>likewise</td><td>She helped me; likewise, I helped her.</td></tr>
+<tr><td>in the same way</td><td>Plants need water. In the same way, people need rest.</td></tr>
+<tr><td>otherwise</td><td>Leave now; otherwise, you will be late.</td></tr>
+</table></div>
+<p><b>Memory trick:</b> “Unless already means if not, so don’t add another not.”</p>
+<h2 id="section-punct">Three punctuation rules</h2>
+<div class="zp-box">
+<p><b>Rule 1: Comma after an opening transition.</b> “However, we kept working.” “For example, mangoes are seasonal.”</p>
+<p><b>Rule 2: Semicolon before a however-type word that joins two sentences.</b> “It was late; however, we kept working.” A comma alone would create a splice.</p>
+<p><b>Rule 3: Comma before and, but, so and yet when each side is a full sentence.</b> “I tried, but I failed.”</p>
+</div>
+<p>Memory trick: “However needs a semicolon in front and a comma behind.” For more, read my guides on <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/">run-on sentences and comma splices</a>, <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-vs-colon-rules-with-examples/">semicolon vs colon</a> and <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">comma rules</a>.</p>
+<h2 id="section-mistakes">Mistakes to avoid</h2>
+<div class="zp-box">
+<p><b>Using two connectors for one relationship.</b> “Although it rained, but we played” is wrong. Keep one: “Although it rained, we played.”</p>
+<p><b>Joining sentences with however and a comma.</b> “He was tired, however he kept working” is a comma splice. Use a semicolon before however.</p>
+<p><b>Picking the wrong relationship.</b> Moreover adds, and however contrasts. Mixing them confuses the reader.</p>
+<p><b>Overusing transitions.</b> One or two per paragraph is plenty. Too many make writing feel mechanical.</p>
+</div>
+<h2 id="section-makeover">A short paragraph makeover</h2>
+<p>Here’s a paragraph with no transitions. Read it aloud and notice how it jerks along.</p>
+<div class="zp-box">
+<p><b>Before:</b> Online classes are convenient. Students attend from home. Some students find it hard to focus. Teachers record the lessons. Students can watch again. Online classes are useful.</p>
+</div>
+<p>Now ask, pick, punctuate. The first two sentences add, the third contrasts, the fourth and fifth add and give a result, and the last concludes.</p>
+<div class="zp-box">
+<p><b>After:</b> Online classes are convenient because students attend from home. However, some students find it hard to focus. Fortunately, teachers record the lessons, so students can watch them again. Overall, online classes are useful.</p>
+</div>
+<p>Four transitions did the work, and nothing was lost. Notice that I also joined two sentences into one with because and so, which ties back to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/">combining sentences using clauses</a>.</p>
+<h2 id="section-practice">Practice set: choose the best transition</h2>
+<p>Choose the best word in each sentence. These are original practice sentences written for this guide. Try them before you read the answers.</p>
+<ol>
+<li>It was raining. ____, we played football. (However / Therefore)</li>
+<li>She studied hard; ____, she passed. (therefore / however)</li>
+<li>I like fruits ____ mangoes. (such as / for instance,)</li>
+<li>____ you hurry, you will miss the train. (Unless / Because)</li>
+<li>He was tired. ____, he kept working. (Nevertheless / Moreover)</li>
+<li>First, mix the flour. ____, add the eggs. (Next / Although)</li>
+<li>The match was cancelled ____ rain. (because of / because)</li>
+<li>The room is cheap. ____, it is clean. (Moreover / However)</li>
+<li>____ the bus was late, we walked. (Since / Although)</li>
+<li>Study daily; ____, you will forget. (otherwise / therefore)</li>
+<li>He is a good player. ____, he is a great captain. (In addition / In contrast)</li>
+<li>____, practice is the key. (In conclusion / Meanwhile)</li>
+</ol>
+<div class="zp-box">
+<p><b>Answers</b></p>
+<p>1. However (contrast: rain, but they played)</p>
+<p>2. therefore (result of studying hard)</p>
+<p>3. such as (inside the sentence, no comma)</p>
+<p>4. Unless (condition: if you don’t hurry)</p>
+<p>5. Nevertheless (contrast: tired, but kept working)</p>
+<p>6. Next (sequence)</p>
+<p>7. because of (followed by a noun: rain)</p>
+<p>8. Moreover (adds a second good point)</p>
+<p>9. Since (reason: the bus was late)</p>
+<p>10. otherwise (condition: if you don’t study daily)</p>
+<p>11. In addition (adds to the previous point)</p>
+<p>12. In conclusion (closing the idea)</p>
+</div>
+<p>If you got 11 or 12 right, you’re ready to use transitions in your own writing. If you got 7 to 10, revisit the groups you missed. If you got fewer than 7, go back to the routine and retake the set after two days.</p>
+<h2 id="section-plan">A 5-day plan</h2>
+<p>Fifteen minutes a day is enough if you keep the routine the same: read two groups, say the words in sentences aloud, then write one new sentence for each word.</p>
+<div class="zp-box">
+<p><b>Day 1:</b> Addition and contrast</p>
+<p><b>Day 2:</b> Cause and result</p>
+<p><b>Day 3:</b> Time and example</p>
+<p><b>Day 4:</b> Emphasis, conclusion, condition</p>
+<p><b>Day 5:</b> Write a 100-word paragraph using six different transitions, then retake the practice set</p>
+</div>
+<h2 id="section-faq">Frequently asked questions</h2>
+<h3>What are transition words?</h3>
+<p>Transition words are words and phrases that connect ideas, such as however, therefore and for example. They show the reader how one sentence or paragraph relates to the next.</p>
+<h3>What is the difference between however and but?</h3>
+<p>But is a conjunction that joins two clauses in one sentence, as in “I tried, but I failed.” However is an adverb. It can start a sentence, or follow a semicolon, as in “I tried; however, I failed.”</p>
+<h3>Do I need a comma after a transition word?</h3>
+<p>Yes, when the transition opens a sentence or joins two sentences after a semicolon, as in “However, we kept working.” Short words like so and then often need no comma.</p>
+<h3>How many transition words should I use?</h3>
+<p>One or two per paragraph is usually plenty. Too many make writing feel mechanical, so use them only when the relationship needs to be made clear.</p>
+<h3>Are transition words useful in exams?</h3>
+<p>Yes. Essay, letter and paragraph-writing tasks reward clear links between ideas, and sentence-joining questions test them directly. Check the latest official notification for your exam pattern.</p>
+<h2>Your next step</h2>
+<p>Pick a paragraph you wrote this week and underline every place where one sentence follows another. Ask how they relate, pick a transition from the right group and punctuate it correctly. That small exercise will teach you more than another page of lists.</p>
+<p>When you want every punctuation mark covered with rules, exam-style questions and answer keys in one place, see my ebook <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> on Amazon: <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4irsiSu</a></p>
+<p>Which group of transition words do you use least? Tell me in the comments, and I’ll explain it in more detail.</p>
+<h2 id="section-related">Related Articles</h2>
+<div class="zp-box">
+<ul>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/sentence-combining-practice-exercises-with-answers/">Sentence Combining Practice: 20 Exercises With Answers</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/run-on-sentences-comma-splices-how-to-fix-them/">Run-On Sentences and Comma Splices: How to Fix Them</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/comma-rules-in-english-grammar-with-examples/">Comma Rules in English Grammar With Examples</a></li>
+<li><a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/semicolon-vs-colon-rules-with-examples/">Semicolon vs Colon: Rules With Examples</a></li>
+</ul>
+</div>
+
+</div>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Article", "headline": "Transition Words and Phrases: 60 Linking Words With Examples", "description": "Learn 60 transition words and phrases in nine groups, with example sentences, punctuation rules, memory tricks and a practice set with answers.", "image": "https://bkandekar.github.io/ZeroErrorEnglishPro/images/transition-words-and-phrases-hero.webp", "datePublished": "2026-10-31", "dateModified": "2026-10-31", "author": {"@type": "Person", "name": "Balu Kandekar"}, "publisher": {"@type": "Organization", "name": "ZeroErrorEnglishPro"}, "mainEntityOfPage": "https://bkandekar.github.io/ZeroErrorEnglishPro/blog/transition-words-and-phrases-list-with-examples/"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What are transition words?", "acceptedAnswer": {"@type": "Answer", "text": "Transition words are words and phrases that connect ideas, such as however, therefore and for example. They show the reader how one sentence or paragraph relates to the next."}}, {"@type": "Question", "name": "What is the difference between however and but?", "acceptedAnswer": {"@type": "Answer", "text": "But is a conjunction that joins two clauses in one sentence, as in “I tried, but I failed.” However is an adverb. It can start a sentence, or follow a semicolon, as in “I tried; however, I failed.”"}}, {"@type": "Question", "name": "Do I need a comma after a transition word?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, when the transition opens a sentence or joins two sentences after a semicolon, as in “However, we kept working.” Short words like so and then often need no comma."}}, {"@type": "Question", "name": "How many transition words should I use?", "acceptedAnswer": {"@type": "Answer", "text": "One or two per paragraph is usually plenty. Too many make writing feel mechanical, so use them only when the relationship needs to be made clear."}}, {"@type": "Question", "name": "Are transition words useful in exams?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Essay, letter and paragraph-writing tasks reward clear links between ideas, and sentence-joining questions test them directly. Check the latest official notification for your exam pattern."}}]}
+</script>
+`
   }
+
 
   ];
 /**
