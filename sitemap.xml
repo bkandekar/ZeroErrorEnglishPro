@@ -350,4 +350,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/modal-verbs-rules-examples-memory-tricks/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
