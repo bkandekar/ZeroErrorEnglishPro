@@ -17086,7 +17086,7 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
   description: "Learn the difference between can, could, may and might with simple rules, examples, seven exam traps and four memory tricks for SSC and Bank exams.",
   formula: "CAMP: Can I? Allowed? Maybe? Polite?",
   body: `
-<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/can-could-may-might-hero.jpg"
+<img src="https://bkandekar.github.io/ZeroErrorEnglishPro/images/can-could-may-might-difference-rules-hero.webp"
      alt="Difference between can, could, may and might with rules and memory tricks"
      style="width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-md);margin-bottom:24px;" />
 
