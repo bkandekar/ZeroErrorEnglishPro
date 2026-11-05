@@ -17175,11 +17175,7 @@ function cp(){var t=document.getElementById("t").textContent;var a=document.crea
 &lt;h3 class="mv12"&gt;What is the difference between maybe and may be?&lt;/h3&gt;&lt;p class="mv1"&gt;Maybe is one word and means perhaps: Maybe he's late. May be is two words, a modal plus a verb, and it means 'could be': He may be late. A quick test: if you can replace it with perhaps, write maybe.&lt;/p&gt;
 &lt;h3 class="mv12"&gt;Is could the past tense of can?&lt;/h3&gt;&lt;p class="mv1"&gt;Only partly. Could is the past form of can for general ability (I could swim as a child) and in reported speech. But could is also used for polite requests and present possibility, which have nothing to do with the past.&lt;/p&gt;
 &lt;div style="background:#0B1F3A;color:#fff;border-radius:10px;padding:20px;margin:34px 0 10px;"&gt;&lt;div style="font-family:Georgia,serif;color:#C9A227;font-size:22px;margin-bottom:8px;"&gt;Stop losing marks on can, could, may and might&lt;/div&gt;&lt;div style="font-size:16.5px;line-height:1.7;margin-bottom:14px;"&gt;These four small words decide marks in error spotting, fill in the blanks and reported speech every year. &lt;b&gt;Modal Auxiliaries Mastery: Zero Errors&lt;/b&gt; brings the rules, the memory tricks and the exam-style practice together in one place.&lt;/div&gt;&lt;a href="https://amzn.to/4BiSHcM" target="_blank" rel="noopener" style="display:inline-block;background:#C9A227;color:#0B1F3A;font-weight:700;padding:12px 22px;border-radius:6px;text-decoration:none;"&gt;Get the Book on Amazon&lt;/a&gt;&lt;/div&gt;`
-  }</pre>
-<script>
-function cp(){var t=document.getElementById("t").textContent;var a=document.createElement("textarea");a.value=t;document.body.appendChild(a);a.select();try{document.execCommand("copy");}catch(e){}document.body.removeChild(a);document.querySelector("button").textContent="Copied";}
-</script>
-</body></html>
+  }
 
   
   ];
