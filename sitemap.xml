@@ -360,4 +360,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://bkandekar.github.io/ZeroErrorEnglishPro/blog/fixed-prepositions-in-english-grammar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
