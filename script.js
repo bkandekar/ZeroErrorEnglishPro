@@ -15264,6 +15264,62 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 <li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
 <li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
 </ul></div>
+<!-- ==========================================================
+BLOCK A: paste BEFORE the first <h2 ...> of the article body
+(section: "How to Simplify Complex Sentences")
+========================================================== -->
+
+<h2 id="section-simplify-complex" style="color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3;">How to Simplify Complex Sentences</h2>
+
+<div style="background:#f5f7fb;border:1px solid #dbe3f0;border-left:5px solid #D4A017;border-radius:8px;padding:14px 18px;margin:14px 0;">
+<p style="margin:0;"><b>Quick answer:</b> To simplify a complex sentence, find the dependent clause and either (1) give it its own short sentence, or (2) shrink it into a phrase so the sentence keeps only one subject and one verb. Then check that the meaning has not changed.</p>
+</div>
+
+<p>"Simplify" can mean two things, and both appear in exams and in everyday writing. You may want to make a long sentence <i>easier to read</i>, or you may be asked to <i>transform</i> a complex sentence into a simple one. Here are three methods that cover both.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">Method 1: Split it into shorter sentences</h3>
+<p>Use this when a sentence feels too heavy. Find each clause and give it its own sentence.</p>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+<span style="color:#b42318;font-weight:700;">Heavy:</span> Because the report, which had been prepared by the team that worked late, contained several errors, the manager, who was already annoyed, asked for a revision.<br><br>
+<span style="color:#067647;font-weight:700;">Simpler:</span> The team worked late on the report. It still had several errors. The manager was already annoyed, so he asked for a revision.
+</div>
+<p>Tip: look for the words <i>who, which, that, because, although</i> and <i>when</i>. Each one starts a clause, and each clause is a place where you can cut.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">Method 2: Turn the clause into a phrase</h3>
+<p>This is the method for "convert into a simple sentence" questions. A simple sentence has only one subject and one finite verb, so the dependent clause must become a phrase.</p>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+<b>Reason clause to "because of":</b><br>
+He stayed home because it was raining.<br>
+<span style="color:#067647;font-weight:700;">✓ He stayed home because of the rain.</span><br><br>
+<b>Contrast clause to "despite":</b><br>
+Although he was tired, he kept working.<br>
+<span style="color:#067647;font-weight:700;">✓ Despite being tired, he kept working.</span><br><br>
+<b>Time clause to "on" + verb-ing:</b><br>
+As soon as he reached home, he called me.<br>
+<span style="color:#067647;font-weight:700;">✓ On reaching home, he called me.</span><br><br>
+<b>Relative clause to a participle phrase:</b><br>
+The boy who is standing there is my brother.<br>
+<span style="color:#067647;font-weight:700;">✓ The boy standing there is my brother.</span>
+</div>
+<p>Notice that the second subject-and-verb pair disappears each time. That is how you know the sentence is now simple.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">Method 3: Cut the extra words</h3>
+<p>Keep the subject and its verb close together, and remove words that repeat an idea. Short, direct sentences are easier to read, and they leave fewer places for a grammar error.</p>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+<span style="color:#b42318;font-weight:700;">Long:</span> It is a fact that he was late because of the reason that the bus was delayed.<br>
+<span style="color:#067647;font-weight:700;">Short:</span> He was late because the bus was delayed.
+</div>
+
+<div style="background:#0B2545;color:#ffffff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:24px 0;">
+<p style="margin:0 0 8px;"><b style="color:#F5C542;">3-step check before you finish:</b></p>
+<p style="margin:0;">1. Did I keep the same meaning?<br>
+2. For a simple sentence, is there only one subject and one finite verb left?<br>
+3. Did I remove the old linking word (because, although, when, who, which)?</p>
+</div>
+
+<p>Want to go the other way and join two short sentences into a complex one? Read <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/" style="color:#0B2545;font-weight:700;">how to combine sentences using clauses</a>. And for the linking words that hold clauses together, see our <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/transition-words-and-phrases-list-with-examples/" style="color:#0B2545;font-weight:700;">transition words and phrases list with examples</a>.</p>
+
+
 <h2 id="section-blocks">The two building blocks: clauses</h2>
 <p>Every sentence type is built from clauses, so start there. A clause is a group of words with its own subject and verb. There are only two kinds.</p>
 <div class="zp-box">
@@ -15441,6 +15497,19 @@ If both say yes, the join needs a <b>rope</b>: a full stop, a semicolon or a con
 <h3>Are sentence types tested in exams?</h3>
 <p>Sentence transformation and sentence improvement questions often ask you to change one type into another. Check the latest official notification for your exam pattern.</p>
 <h2>Your next step</h2>
+
+
+<!-- ==========================================================
+BLOCK B: add these two questions to the FAQ section of the same
+article (if the article has no FAQ, paste them at the very end of the body)
+========================================================== -->
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">How do you simplify complex sentences?</h3>
+<p>Find the dependent clause, then either give it its own short sentence or shrink it into a phrase. Splitting makes a long sentence easier to read. Shrinking the clause into a phrase turns a complex sentence into a simple one. In both cases, check that the meaning stays the same.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">How do you convert a complex sentence into a simple sentence?</h3>
+<p>Replace the dependent clause with a phrase so that only one subject and one finite verb remain. For example, "He stayed home because it was raining" becomes "He stayed home because of the rain", and "Although he was tired, he kept working" becomes "Despite being tired, he kept working."</p>
+
 <p>Pick five sentences from anything you read today and run Count and Lean on each one. Name the type, then change one sentence into a different type. That small exercise will teach you more than another page of rules.</p>
 <p>When you want a fast, repeatable way to handle clauses and phrases, my ebook <b>Clauses & Phrases Demystified: Fix Errors and Write Confidently</b> is on Amazon: <a href="https://amzn.to/4ibEcP9" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4ibEcP9</a></p>
 <p>Which sentence type do you find hardest to spot? Tell me in the comments, and I’ll explain it in more detail.</p>
