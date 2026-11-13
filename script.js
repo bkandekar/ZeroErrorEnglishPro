@@ -16867,6 +16867,86 @@ article (if the article has no FAQ, paste them at the very end of the body)
 <li onclick="document.getElementById('section-faq').scrollIntoView({behavior:'smooth'})">FAQ</li>
 <li onclick="document.getElementById('section-related').scrollIntoView({behavior:'smooth'})">Related articles</li>
 </ul></div>
+<!-- ==========================================================
+BLOCK A: paste BEFORE the first <h2 ...> of the article body
+(section: "Transition Words With Example Sentences")
+========================================================== -->
+
+<h2 id="section-transition-examples" style="color:#0B2545;border-left:5px solid #D4A017;padding-left:12px;margin:36px 0 12px;line-height:1.3;">Transition Words With Example Sentences</h2>
+
+<div style="background:#f5f7fb;border:1px solid #dbe3f0;border-left:5px solid #D4A017;border-radius:8px;padding:14px 18px;margin:14px 0;">
+<p style="margin:0;"><b>Quick answer:</b> Transition words (and transitional phrases) connect one idea to the next. Pick the word that matches the relationship between the two ideas: <b>addition</b> (moreover), <b>contrast</b> (however), <b>cause and result</b> (therefore), <b>time or order</b> (then), <b>example</b> (for instance) or <b>conclusion</b> (in short).</p>
+</div>
+
+<p>Here is a quick reference you can scan in a minute. Every row has an example sentence, so you can see the word working.</p>
+
+<div style="overflow-x:auto;margin:20px 0;">
+<table style="border-collapse:collapse;width:100%;">
+<tr>
+<th style="background:#0B2545;color:#ffffff;padding:10px 12px;text-align:left;font-size:14px;">Purpose and words</th>
+<th style="background:#0B2545;color:#ffffff;padding:10px 12px;text-align:left;font-size:14px;">Example sentence</th>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Addition</b><br><span style="color:#666666;font-size:13px;">also, moreover, in addition, furthermore</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>She is intelligent. Moreover, she works hard.</i></td>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Contrast</b><br><span style="color:#666666;font-size:13px;">however, on the other hand, nevertheless, yet</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>The test was hard. However, most students passed.</i></td>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Cause and result</b><br><span style="color:#666666;font-size:13px;">therefore, as a result, consequently, thus</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>It rained all day. Therefore, the match was cancelled.</i></td>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Time and order</b><br><span style="color:#666666;font-size:13px;">first, then, later, meanwhile, finally</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>First, read the question. Then, check the options.</i></td>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Example</b><br><span style="color:#666666;font-size:13px;">for example, for instance, such as</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>Some words confuse students. For instance, affect and effect.</i></td>
+</tr>
+<tr>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><b style="color:#0B2545;">Conclusion</b><br><span style="color:#666666;font-size:13px;">in conclusion, to sum up, in short</span></td>
+<td style="border:1px solid #dbe3f0;padding:10px 12px;vertical-align:top;"><i>In short, regular practice beats last-minute study.</i></td>
+</tr>
+</table>
+</div>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">How to choose the best transition in 3 steps</h3>
+<div style="background:#0B2545;color:#ffffff;border:2px solid #D4A017;border-radius:12px;padding:18px 20px;margin:14px 0 24px;">
+<p style="margin:0;">1. Read both ideas, one after the other.<br>
+2. Ask: how is the second idea related to the first? Is it an addition, a contrast, a result, a time order or an example?<br>
+3. Pick the word for that relationship, and put a comma after it.</p>
+</div>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">Punctuation: where does the comma go?</h3>
+<div style="background:#fffbea;border-left:4px solid #D4A017;border-radius:6px;padding:10px 14px;margin:12px 0;">
+At the start of a sentence, use a capital letter and then a comma:<br>
+<span style="color:#067647;font-weight:700;">✓ Rahul was tired. However, he kept studying.</span><br><br>
+Between two sentences joined by a semicolon, put the semicolon before the transition and a comma after it:<br>
+<span style="color:#067647;font-weight:700;">✓ Rahul was tired; however, he kept studying.</span>
+</div>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">Try it: choose the best transition</h3>
+<div style="background:#f0fff5;border-left:5px solid #27ae60;border-radius:0 10px 10px 0;padding:18px 22px;margin:14px 0;">
+<ol style="margin:0 0 10px;padding-left:22px;">
+<li style="margin-bottom:8px;">Rohan studied hard. ______, he failed the test.<br><span style="color:#666666;font-size:14px;">(A) Therefore &nbsp;(B) However &nbsp;(C) Moreover</span></li>
+<li style="margin-bottom:8px;">The road was blocked. ______, we took a longer route.<br><span style="color:#666666;font-size:14px;">(A) However &nbsp;(B) For instance &nbsp;(C) As a result</span></li>
+<li style="margin-bottom:0;">She loves painting. ______, she plays the violin.<br><span style="color:#666666;font-size:14px;">(A) However &nbsp;(B) In addition &nbsp;(C) Finally</span></li>
+</ol>
+<details>
+<summary style="color:#0B2545;cursor:pointer;font-weight:700;">👉 Tap to see the answers</summary>
+<ol style="margin:12px 0 0;padding-left:22px;">
+<li style="margin-bottom:8px;"><b>(B) However.</b> Studying hard and failing are opposite results, so you need a contrast word.</li>
+<li style="margin-bottom:8px;"><b>(C) As a result.</b> The blocked road caused the longer route.</li>
+<li style="margin-bottom:0;"><b>(B) In addition.</b> The second sentence adds another fact about her.</li>
+</ol>
+</details>
+</div>
+
+<p>Transition words work best when your sentences are clear first. To practise that, see how to <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/combine-sentences-using-clauses-sentence-improvement/" style="color:#0B2545;font-weight:700;">combine sentences using clauses</a> and how to turn complex sentences into <a href="https://bkandekar.github.io/ZeroErrorEnglishPro/blog/simple-compound-complex-sentences-easy-examples/" style="color:#0B2545;font-weight:700;">simple, compound and complex sentences</a>.</p>
+
 <h2 id="section-why">Why transition words matter</h2>
 <div class="zp-box">
 <p><b>They show relationships.</b> A transition tells the reader whether the next idea adds, contrasts, explains or concludes.</p>
@@ -17077,6 +17157,21 @@ article (if the article has no FAQ, paste them at the very end of the body)
 <p>Pick a paragraph you wrote this week and underline every place where one sentence follows another. Ask how they relate, pick a transition from the right group and punctuate it correctly. That small exercise will teach you more than another page of lists.</p>
 <p>When you want every punctuation mark covered with rules, exam-style questions and answer keys in one place, see my ebook <b>Advanced Punctuation Mastery: A Complete Guide to Error-Free English for Competitive Aspirants</b> on Amazon: <a href="https://amzn.to/4irsiSu" target="_blank" rel="noopener sponsored" style="color:#0B2545;font-weight:700">https://amzn.to/4irsiSu</a></p>
 <p>Which group of transition words do you use least? Tell me in the comments, and I’ll explain it in more detail.</p>
+
+<!-- ==========================================================
+BLOCK B: add these three questions to the FAQ section of the same
+article (if the article has no FAQ, paste them at the very end of the body)
+========================================================== -->
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">What are transition words?</h3>
+<p>Transition words are words that connect one idea or sentence to the next and show how the two are related. Examples are however (contrast), therefore (result), moreover (addition) and finally (order).</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">What is the difference between transition words and transitional phrases?</h3>
+<p>Transition words are single words, such as however or therefore. Transitional phrases are groups of words doing the same job, such as on the other hand, as a result or for example. Both are used in the same way and take a comma after them at the start of a sentence.</p>
+
+<h3 style="color:#0B2545;margin:22px 0 8px;">How do you use transition words in a sentence?</h3>
+<p>First decide how the second idea relates to the first: addition, contrast, result, time order or example. Then choose the matching word and place it at the start of the second sentence, followed by a comma: "The test was hard. However, most students passed."</p>
+
 <h2 id="section-related">Related Articles</h2>
 <div class="zp-box">
 <ul>
